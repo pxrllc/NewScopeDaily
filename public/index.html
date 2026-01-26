@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewsScope Daily</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Noto+Sans+JP:wght@300;400;500;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+    <!-- App CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="dark-theme">
+
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>NewsScope Daily</h1>
+                    <span class="subtitle">世界を日々俯瞰するニュースダイジェスト</span>
+                </div>
+                <div class="header-controls">
+                    <span id="current-date" class="date-display">2026.01.26</span>
+                    <a href="about.html" class="about-link">About / License</a>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content Grid -->
+        <main class="main-grid">
+
+            <!-- Top Section: Map & Summary Split -->
+            <section class="top-section">
+                <!-- Left: Map -->
+                <div class="map-panel">
+                    <div id="world-map"></div>
+                    <div class="map-overlay">
+                        <div class="stat-item">
+                            <span class="stat-value" id="total-articles">--</span>
+                            <span class="stat-label">記事数</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="total-sources">15</span>
+                            <span class="stat-label">ソース</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right: Summary Panel -->
+                <div class="summary-panel">
+                    <div class="tabs">
+                        <button class="tab-btn active" data-tab="world" onclick="switchTab('world')">
+                            🌍 世界のトップニュース
+                        </button>
+                        <button class="tab-btn" data-tab="regional" onclick="switchTab('regional')">
+                            📍 地域フォーカス
+                        </button>
+                    </div>
+                    <div id="summary-container" class="markdown-body scrollable-summary">
+                        <!-- Content will be loaded here via JS -->
+                        <div class="loading">Loading digest...</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Resizer Handle -->
+            <div class="resizer" id="drag-handle"></div>
+
+            <!-- Bottom Section: News Grid -->
+            <section class="content-section" id="bottom-panel">
+                <div class="feed-header">
+                    <h3>最新ニュース一覧</h3>
+                </div>
+                <div class="scroll-container">
+                    <ul id="feed-list" class="feed-list">
+                        <!-- Items loaded here -->
+                    </ul>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- App JS -->
+    <script src="js/map-renderer.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

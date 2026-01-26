@@ -1,0 +1,42 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # Run at 19:00 UTC (4:00 AM JST) every day
+    - cron: '0 19 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Batch Process
+        env:
+          GEMINI_API_KEY: ${{ secrets.Gemini }}
+        run: |
+          # Run the batch script to fetch RSS and generate content
+          npm run batch
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          keep_files: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Update news feed [skip ci]'

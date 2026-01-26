@@ -1,0 +1,27 @@
+{
+  "name": "global_news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "verify_rss.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "batch": "ts-node src/backend/batch-runner.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@types/jsdom": "^27.0.0",
+    "@types/node": "^25.0.10",
+    "dotenv": "^17.2.3",
+    "jsdom": "^27.4.0",
+    "marked": "^17.0.1",
+    "rss-parser": "^3.13.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Global Perspectives – Working RSS Set</title>
+    <dateCreated>2026-01-26</dateCreated>
+  </head>
+
+  <body>
+
+    <!-- 世界全般（主要国・国際） -->
+    <outline text="International & World">
+
+      <!-- BBC World News (安定RSS) -->
+      <outline text="BBC – World News"
+        type="rss"
+        xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"
+        htmlUrl="https://www.bbc.com/news/world"/>
+
+      <!-- DW (Deutsche Welle) -->
+      <outline text="DW – Top Stories"
+        type="rss"
+        xmlUrl="https://rss.dw.com/rdf/rss-en-top"
+        htmlUrl="https://www.dw.com/en/top-stories/s-9097/"/>
+
+      <!-- The Guardian – World -->
+      <outline text="The Guardian – World"
+        type="rss"
+        xmlUrl="https://www.theguardian.com/world/rss"
+        htmlUrl="https://www.theguardian.com/world"/>
+
+      <!-- Euronews World (欧州・世界) -->
+      <outline text="Euronews – World"
+        type="rss"
+        xmlUrl="https://www.euronews.com/rss?level=theme&name=world"
+        htmlUrl="https://www.euronews.com/"/>
+
+    </outline>
+
+    <!-- 中東 -->
+    <outline text="Middle East">
+
+      <!-- Al Jazeera – All News (安定フィード) -->
+      <outline text="Al Jazeera – All"
+        type="rss"
+        xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"
+        htmlUrl="https://www.aljazeera.com/"/>
+
+      <!-- BBC Middle East -->
+      <outline text="BBC – Middle East"
+        type="rss"
+        xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
+        htmlUrl="https://www.bbc.com/news/world/middle_east"/>
+
+    </outline>
+
+    <!-- アフリカ -->
+    <outline text="Africa">
+
+      <!-- BBC Africa -->
+      <outline text="BBC – Africa"
+        type="rss"
+        xmlUrl="https://feeds.bbci.co.uk/news/world/africa/rss.xml"
+        htmlUrl="https://www.bbc.com/news/world/africa"/>
+
+      <!-- Global Voices – Africa（現地視点） -->
+      <outline text="Global Voices – Africa (Sub-Saharan)"
+        type="rss"
+        xmlUrl="https://globalvoices.org/-/world/sub-saharan-africa/feed/"
+        htmlUrl="https://globalvoices.org/-/world/sub-saharan-africa/"/>
+
+    </outline>
+
+    <!-- 欧州 -->
+    <outline text="Europe">
+
+      <!-- BBC Europe -->
+      <outline text="BBC – Europe"
+        type="rss"
+        xmlUrl="https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+        htmlUrl="https://www.bbc.com/news/world/europe"/>
+
+      <!-- Global Voices – Europe -->
+      <outline text="Global Voices – Europe"
+        type="rss"
+        xmlUrl="https://globalvoices.org/-/world/europe/feed/"
+        htmlUrl="https://globalvoices.org/-/world/europe/"/>
+
+    </outline>
+
+    <!-- 南米 -->
+    <outline text="Latin America">
+
+      <!-- BBC Latin America & Caribbean -->
+      <outline text="BBC – Latin America & Caribbean"
+        type="rss"
+        xmlUrl="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml"
+        htmlUrl="https://www.bbc.com/news/world/latin_america"/>
+
+      <!-- Global Voices – Americas -->
+      <outline text="Global Voices – Americas"
+        type="rss"
+        xmlUrl="https://globalvoices.org/-/world/americas/feed/"
+        htmlUrl="https://globalvoices.org/-/world/americas/"/>
+
+    </outline>
+
+    <!-- アジア -->
+    <outline text="Asia">
+
+      <!-- BBC Asia -->
+      <outline text="BBC – Asia"
+        type="rss"
+        xmlUrl="https://feeds.bbci.co.uk/news/world/asia/rss.xml"
+        htmlUrl="https://www.bbc.com/news/world/asia"/>
+
+      <!-- Global Voices – Asia -->
+      <outline text="Global Voices – Asia"
+        type="rss"
+        xmlUrl="https://globalvoices.org/-/world/asia/feed/"
+        htmlUrl="https://globalvoices.org/-/world/asia/"/>
+
+    </outline>
+
+    <!-- 国際機関 -->
+    <outline text="International Organizations">
+
+      <!-- WTO News（国際政策/経済） -->
+      <outline text="WTO – Latest News"
+        type="rss"
+        xmlUrl="http://www.wto.org/library/rss/latest_news_e.xml"
+        htmlUrl="https://www.wto.org/"/>
+
+    </outline>
+
+  </body>
+</opml>
