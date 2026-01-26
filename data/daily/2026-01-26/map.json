@@ -1,0 +1,461 @@
+{
+  "US": {
+    "count": 3,
+    "topArticle": {
+      "id": "ee75fb675a99ffd96053379dc568095c",
+      "title": "Winter storm causes deaths, power outages and flight cancellations in US",
+      "link": "https://www.aljazeera.com/news/2026/1/26/winter-storm-causes-deaths-power-outages-and-flight-cancellations-in-us?traffic_source=rss",
+      "pubDate": "Mon, 26 Jan 2026 14:58:55 +0000",
+      "snippet": "At least 819,000 homes and businesses are without power, and travel is disrupted nationwide.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Disaster",
+      "importanceScore": 85,
+      "titleJa": "冬の嵐が米国の死者、停電、フライトキャンセルを引き起こす"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "topArticle": {
+      "id": "1b3fcdaf4b30ba47c3a7394b5afc4faf",
+      "title": "Captain of suspected Russian shadow tanker in French custody",
+      "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 25 Jan 2026 15:25:52 GMT",
+      "snippet": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Conflict",
+      "importanceScore": 70,
+      "titleJa": "フランス当局がロシアの影のタンカーの船長を拘束"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "topArticle": {
+      "id": "760ad246cebb407bf0fd0b9b54dcc257",
+      "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
+      "link": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 26 Jan 2026 11:29:26 GMT",
+      "snippet": "The incident happened in Salamanca, a city particularly subject to gang-related violence.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "銃を持った男たちがメキシコのサッカー場を襲撃し、少なくとも11人死亡"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "topArticle": {
+      "id": "e52f04082d563e826210cc3f1195e039",
+      "title": "UK: Suella Braverman defects from Conservatives to Reform",
+      "link": "https://www.dw.com/en/uk-suella-braverman-defects-from-conservatives-to-reform/a-75664224?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-01-26T15:58:24.227Z",
+      "snippet": "The former UK Cabinet member is the latest high-ranking Conservative politician to defect to Reform UK, led by Nigel Farage. Another senior Tory, Robert Jenrick, was pushed before he could leave earlier this month.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "importanceScore": 75,
+      "titleJa": "英国：スエラ・ブレイバーマンが保守党から改革党へ転向"
+    }
+  },
+  "AU": {
+    "count": 1,
+    "topArticle": {
+      "id": "56c269bae7c2c3c6c9c38d51350f1c66",
+      "title": "Cricket: Don Bradman's India cap fetches $318,000",
+      "link": "https://www.dw.com/en/cricket-don-bradman-s-india-cap-fetches-318-000/a-75664187?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-01-26T15:58:24.227Z",
+      "snippet": "A cap that was worn by the Australian cricket legend Don Bradman against India has raised a tidy sum, having been sold to an anonymous bidder. Bradman, the star of the series, had gifted the cap to an Indian player.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Sports",
+      "importanceScore": 40,
+      "titleJa": "クリケット：ドン・ブラッドマンのインド代表キャップが31万8000ドルで落札"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "topArticle": {
+      "id": "f11e07ffe1f0721c4c1bc7e508231f51",
+      "title": "Terror in the trees: Why extremists take cover in Nigeria's forests",
+      "link": "https://www.dw.com/en/terror-in-the-trees-why-extremists-take-cover-in-nigeria-s-forests/a-75661454?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-01-26T15:58:24.227Z",
+      "snippet": "Armed groups use Nigeria's forest reserves as bases, illicit trade hubs and to terrorize communities. A new government strategy hopes to claw back control over the conservation areas.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Conflict",
+      "importanceScore": 80,
+      "titleJa": "木々の中のテロ：過激派がナイジェリアの森に潜む理由"
+    }
+  },
+  "VN": {
+    "count": 1,
+    "topArticle": {
+      "id": "c92099b0f6b8f1d56137066eb29a477b",
+      "title": "Vietnam bets big on To Lam's power and growth strategy",
+      "link": "https://www.dw.com/en/vietnam-bets-big-on-to-lam-s-power-and-growth-strategy/a-75664156?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-01-26T15:58:24.227Z",
+      "snippet": "Vietnam's Communist Party has handed To Lam another five-year term and endorsed a reform agenda aimed at transforming the economy by 2030.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "VN",
+      "category": "Politics",
+      "importanceScore": 65,
+      "titleJa": "ベトナム、トー・ラムの権力と成長戦略に大きく賭ける"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "topArticle": {
+      "id": "efc2ad6d8627c6e3054d0ea3c017d50e",
+      "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+      "link": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+      "pubDate": "Fri, 23 Jan 2026 17:09:46 GMT",
+      "snippet": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns\nUS health officials insisted it was still on. African health leaders said it was cancelled. At the heart of the controversy is the west African nation of Guinea-Bissau – one of the poorest countries in the world and the proposed site of a hotly debated US-funded study on vaccines.\nThe study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule and prompted questions about how research is conducted ethically in other countries.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GW",
+      "category": "Science",
+      "importanceScore": 65,
+      "titleJa": "「国の主権」：ギニアビサウ、米国のワクチン研究を一時停止と発表"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "topArticle": {
+      "id": "ad53fd70bc0a9a2a732c5839b19f6b45",
+      "title": "Peace talks on Russia-Ukraine war end as fighting rages ",
+      "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 24 Jan 2026 23:37:38 GMT",
+      "snippet": "No breakthrough is reported at the first three-way talks but reports suggest they will resume next month.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "ロシア・ウクライナ戦争の和平交渉は戦闘が激化し終了"
+    }
+  },
+  "BR": {
+    "count": 1,
+    "topArticle": {
+      "id": "873d7cbb28b2f4c327f5a06427c0a5b1",
+      "title": "Video shows moment lighting strikes Bolsonaro supporters in Brazil",
+      "link": "http://www.euronews.com/video/2026/01/26/video-shows-moment-lighting-strikes-bolsonaro-supporters-in-brazil",
+      "pubDate": "Mon, 26 Jan 2026 16:21:08 +0100",
+      "snippet": "Thousands gathered in the rain in the Brazilian capital on Sunday to support Bolsonaro.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "BR",
+      "category": "Disaster",
+      "importanceScore": 60,
+      "titleJa": "雷がブラジルでボルソナロ支持者を襲う瞬間を捉えたビデオ"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "topArticle": {
+      "id": "81234d69a084443293ceb08139ea1dd1",
+      "title": "This Middle Eastern city has just been named a tourism capital for 2026",
+      "link": "http://www.euronews.com/travel/2026/01/26/this-middle-eastern-city-has-just-been-named-a-tourism-capital-for-2026",
+      "pubDate": "Mon, 26 Jan 2026 16:06:15 +0100",
+      "snippet": "The capital of Qatar has taken over the title of GCC Tourism Capital from Al Ain in the United Arab Emirates.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "QA",
+      "category": "Society",
+      "importanceScore": 50,
+      "titleJa": "この中東の都市が2026年の観光首都に決定"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "topArticle": {
+      "id": "b7206d47f1ed400909df4bdf5a7cba1d",
+      "title": "Biscuit factory explosion in Greece kills at least four",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/1/26/biscuit-factory-explosion-in-greece-kills-at-least-four?traffic_source=rss",
+      "pubDate": "Mon, 26 Jan 2026 15:29:38 +0000",
+      "snippet": "An overnight explosion at a biscuit factory in Trikala, Greece, has killed at least four workers.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "GR",
+      "category": "Disaster",
+      "importanceScore": 80,
+      "titleJa": "ギリシャのビスケット工場爆発で少なくとも4人死亡"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "topArticle": {
+      "id": "457d54a8d3519fa5693eefbd9773a113",
+      "title": "Gustavo Petro: Colombia’s former rebel fighter turned president",
+      "link": "https://www.aljazeera.com/features/2026/1/26/gustavo-petro-colombias-former-rebel-fighter-turned-president-2?traffic_source=rss",
+      "pubDate": "Mon, 26 Jan 2026 14:41:12 +0000",
+      "snippet": "From urban rebel to senator facing death threats, what drives Petro, 65, the country’s first progressive president?",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CO",
+      "category": "Politics",
+      "importanceScore": 60,
+      "titleJa": "グスタボ・ペトロ：コロンビアの元ゲリラ戦士が大統領に"
+    }
+  },
+  "IL": {
+    "count": 2,
+    "topArticle": {
+      "id": "e46d4cc51c84e62dec78a36533cd27c2",
+      "title": "Israel court hears appeal over ban on independent media access to Gaza",
+      "link": "https://www.bbc.com/news/articles/cly3jwlz98do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 26 Jan 2026 15:22:28 GMT",
+      "snippet": "The Israeli government has stopped foreign journalists from entering the strip since the start of the war, citing security concerns.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "importanceScore": 75,
+      "titleJa": "イスラエル、ガザへの独立メディアのアクセス禁止に関する控訴審理"
+    }
+  },
+  "YE": {
+    "count": 1,
+    "topArticle": {
+      "id": "c89081b54766e50152caff05e8b898e7",
+      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+      "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 23 Jan 2026 14:43:48 GMT",
+      "snippet": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "importanceScore": 65,
+      "titleJa": "「7ヶ月間息子からの連絡がなかった」：イエメンのUAEが運営する秘密刑務所の内部"
+    }
+  },
+  "IR": {
+    "count": 1,
+    "topArticle": {
+      "id": "8385ab7e8bfe4c7aba91522236d1c79e",
+      "title": "'I saw people getting shot': Eyewitness tells of Iran protest crackdown",
+      "link": "https://www.bbc.com/news/articles/c9dvvzzpwylo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 23 Jan 2026 15:33:01 GMT",
+      "snippet": "An Iranian who got out of the country describes scenes of chaos as security forces opened fire in her home town.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "importanceScore": 60,
+      "titleJa": "「人々が撃たれるのを見た」：目撃者がイランの抗議デモ弾圧を語る"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "topArticle": {
+      "id": "acc9bcb83a0db31836da3cbfe88357b9",
+      "title": "South Sudan army threat to 'spare no-one' condemned",
+      "link": "https://www.bbc.com/news/articles/c79rjjr481zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 26 Jan 2026 13:28:31 GMT",
+      "snippet": "The UN mission says it is gravely concerned by \"inflammatory rhetoric calling for violence against civilians\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Conflict",
+      "importanceScore": 60,
+      "titleJa": "南スーダン軍、「誰も許さない」という脅威を非難"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "topArticle": {
+      "id": "de9958a7f1e7742de41baa855a699210",
+      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+      "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 25 Jan 2026 18:48:27 GMT",
+      "snippet": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Disaster",
+      "importanceScore": 80,
+      "titleJa": "「世代で最悪の洪水」がモザンビークを襲い、人々が木のてっぺんにしがみつく"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "topArticle": {
+      "id": "a9721d05399abd314c6b926a53db676e",
+      "title": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle",
+      "link": "https://www.bbc.com/news/articles/cp822g353y6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 23 Jan 2026 12:16:21 GMT",
+      "snippet": "The authorities tried to stop their export arguing they were part of the country's heritage.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "importanceScore": 40,
+      "titleJa": "マンデラの刑務所の鍵、サングラス、シャツが、娘の法廷闘争勝利後、販売可能に"
+    }
+  },
+  "ML": {
+    "count": 1,
+    "topArticle": {
+      "id": "10b7395bc421e9557a85af7fd1223452",
+      "title": "Combating the climate crisis to promote peace in Mali",
+      "link": "https://globalvoices.org/2026/01/22/combating-the-climate-crisis-to-promote-peace-in-mali/",
+      "pubDate": "Thu, 22 Jan 2026 18:00:56 +0000",
+      "snippet": "Between 1970 and 2020, the country experienced at least 40 major climate shocks, with drought affecting around 400,000 people each year and reducing crop revenues by US$9.5 million annually, according to the World Bank.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Environment",
+      "importanceScore": 45,
+      "titleJa": "マリ共和国の平和を促進するための気候変動対策"
+    }
+  },
+  "CG": {
+    "count": 1,
+    "topArticle": {
+      "id": "bbecde5b7343152b2f76ca7b88cf920c",
+      "title": "Is the Chinese presence in Congo Brazzaville a threat to ‘first occupants’ or a relief to them?",
+      "link": "https://globalvoices.org/2026/01/05/is-the-chinese-presence-in-congo-brazzaville-a-threat-to-first-occupants-or-a-relief-to-them/",
+      "pubDate": "Mon, 05 Jan 2026 06:00:20 +0000",
+      "snippet": "The decline of the forest, following extractive work, deforestation, tree cutting, agricultural expansion, illegal logging, and other works in the forest areas of Congo, is shrinking the habitat of Indigenous peoples.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CG",
+      "category": "Society",
+      "importanceScore": 55,
+      "titleJa": "コンゴ・ブラザビルにおける中国の存在は「最初の居住者」への脅威か、それとも彼らへの救済か？"
+    }
+  },
+  "GL": {
+    "count": 1,
+    "topArticle": {
+      "id": "6841af20607e0cd4395f1d7da6ecacd8",
+      "title": "Danish PM in Greenland for 'show of support' after Trump threats",
+      "link": "https://www.bbc.com/news/articles/c78ejd0xmp0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 24 Jan 2026 03:52:40 GMT",
+      "snippet": "Mette Frederiksen visits the territory after weeks of tension over the US president's warnings that he could take control of it.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GL",
+      "category": "Politics",
+      "importanceScore": 60,
+      "titleJa": "デンマーク首相がトランプの脅迫後、グリーンランドで「支持を示す」"
+    }
+  },
+  "VE": {
+    "count": 6,
+    "topArticle": {
+      "id": "df88eeefb88d7656df21c333e71f867e",
+      "title": "Venezuela frees dozens of political prisoners, human rights group says",
+      "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 25 Jan 2026 18:29:57 GMT",
+      "snippet": "It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "importanceScore": 75,
+      "titleJa": "ベネズエラが数十人の政治犯を釈放、人権団体が発表"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "topArticle": {
+      "id": "fca56570821fc4e701764c77c8802ea5",
+      "title": "Spanish prosecutors dismiss Julio Iglesias sex assault allegations",
+      "link": "https://www.bbc.com/news/articles/c9vx0p3gl71o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 23 Jan 2026 17:53:53 GMT",
+      "snippet": "They say Spanish courts do not have the competence to investigate complaints committed overseas by non-residents.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "ES",
+      "category": "Society",
+      "importanceScore": 50,
+      "titleJa": "スペイン検察官がフリオ・イグレシアスの性的暴行疑惑を却下"
+    }
+  },
+  "MM": {
+    "count": 1,
+    "topArticle": {
+      "id": "c2a7315e0486e3dfeb0609a39f3256b8",
+      "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
+      "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 25 Jan 2026 13:05:23 GMT",
+      "snippet": "Many parties were banned and there was no voting in about half the country which is gripped by fear and civil war.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "MM",
+      "category": "Politics",
+      "importanceScore": 80,
+      "titleJa": "将軍が支援する政党が地滑り的勝利へ、ミャンマーの「偽」選挙が終了"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "topArticle": {
+      "id": "9256ada44e9c5008199665cd361c5b90",
+      "title": "China places highest-ranking general under investigation",
+      "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 24 Jan 2026 14:14:44 GMT",
+      "snippet": "President Xi has been accused of using investigations to purge political rivals.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "importanceScore": 70,
+      "titleJa": "中国、最高位の将軍を調査対象に"
+    }
+  },
+  "NZ": {
+    "count": 1,
+    "topArticle": {
+      "id": "976f6b3f9ac6fe95c9923cae536a37ef",
+      "title": "New Zealand calls off rescue efforts for six missing after landslide",
+      "link": "https://www.bbc.com/news/articles/c050vnl7p10o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 24 Jan 2026 06:34:24 GMT",
+      "snippet": "Police say they are not expecting to find any more survivors from the landslide, with six people still unaccounted for.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NZ",
+      "category": "Disaster",
+      "importanceScore": 60,
+      "titleJa": "ニュージーランド、土砂崩れ後に行方不明の6人に対する救助活動を中止"
+    }
+  }
+}
