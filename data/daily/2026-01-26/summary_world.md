@@ -2,66 +2,70 @@
 
 ## Top Topics
 
-### 1. 地中海での移民の遭難とアフリカでの洪水
-**概要:** 地中海で嵐の中、数百人もの移民が遭難したと見られ、一方、アフリカ南部では洪水により100人以上が死亡し、数十万人が避難を余儀なくされています。
+### 1. 地中海での移民遭難とアフリカでの洪水
+**概要:** 地中海で移民船が遭難し多数の死者が出た問題と、アフリカ南部で発生している大規模な洪水について。死者数が数百人に上る可能性があり、人道的な危機が深まっています。
 
 **各国の視点:**
-- **[The Guardian]**: "[Hundreds feared dead in attempt to cross Mediterranean during cyclone](https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry)" - ヨーロッパでは、地中海を渡ろうとした人々がサイクロンの影響で遭難し、多数の死者が出ています。イタリアの沿岸警備隊が発表。
-- **[The Guardian]**: "[Crocodile warnings as floods devastate southern Africa](https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa)" - アフリカ南部では、洪水により100人以上が死亡し、クロコダイルの襲撃も報告されています。
-
-### 2. メキシコとアメリカ合衆国での暴力と事件
-**概要:** メキシコではサッカー場での銃乱射事件で多数が死亡し、アメリカ合衆国では冬の嵐により死者が出て、政治的な動きも見られています。
-
-**各国の視点:**
-- **[BBC]**: "[Gunmen storm Mexico football pitch and kill at least 11 people](https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss)" - メキシコではサッカー場で銃乱射事件が発生し、ギャング関連の暴力が深刻化しています。
-- **[Euronews]**: "[At least 11 killed and 12 wounded in shooting at Mexico football field, officials say](http://www.euronews.com/2026/01/26/at-least-11-killed-and-12-wounded-in-shooting-at-mexico-football-field-officials-say)" - メキシコ政府は、2025年の殺人発生率が2016年以来最低だったと発表しています。
-- **[Al Jazeera]**: "[Winter storm causes deaths, power outages and flight cancellations in US](https://www.aljazeera.com/news/2026/1/26/winter-storm-causes-deaths-power-outages-and-flight-cancellations-in-us?traffic_source=rss)" - アメリカ合衆国では、冬の嵐により多数の死者、停電、フライトのキャンセルが発生しています。
-- **[Al Jazeera]**: "[Trump says US Justice Department ‘looking at’ Ilhan Omar’s wealth](https://www.aljazeera.com/news/2026/1/26/trump-says-justice-department-looking-at-ilhan-omars-wealth?traffic_source=rss)" - トランプ氏は、イラン出身の下院議員イルハン・オマールの資産について、司法省が調査していると述べています。
-
-### 3. フランス、ベトナム、ミャンマーの政治動向
-**概要:** フランスでは未成年者のソーシャルメディア利用禁止が議論され、ベトナムでは新指導者が任命され、ミャンマーでは軍事政権に近い政党が圧勝しています。
-
-**各国の視点:**
-- **[BBC]**: "[France debates under-15s social media ban endorsed by Macron](https://www.bbc.com/news/articles/c07x003vz0yo?at_medium=RSS&at_campaign=rss)" - フランスでは、15歳未満のソーシャルメディア利用禁止について議論が行われています。
-- **[DW]**: "[Vietnam bets big on To Lam's power and growth strategy](https://www.dw.com/en/vietnam-bets-big-on-to-lam-s-power-and-growth-strategy/a-75664156?maca=en-rss-en-top-1022-rdf)" - ベトナムでは、新指導者が経済改革を進めることが期待されています。
-- **[BBC]**: "[Party backed by generals set for landslide as 'sham' Myanmar election ends](https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss)" - ミャンマーでは軍事政権に近い政党が選挙で圧勝し、人権団体から批判が出ています。
-
-### 4. イギリスとその他の国際関係
-**概要:** イギリスでは政治家の離脱があり、インドとEUは貿易交渉を進めています。
-
-**各国の視点:**
-- **[DW]**: "[UK: Suella Braverman defects from Conservatives to Reform](https://www.dw.com/en/uk-suella-braverman-defects-from-conservatives-to-reform/a-75664224?maca=en-rss-en-top-1022-rdf)" - イギリスでは、元内閣メンバーが保守党から改革党へ移籍しました。
-- **[BBC]**: "[India and EU set for 'mother of all deals' as Trump's tariff uncertainty looms](https://www.bbc.com/news/articles/ckgyz1ejw9no?at_medium=RSS&at_campaign=rss)" - インドとEUは、貿易交渉で合意に近づいています。
+- **[The Guardian]**: "[Hundreds feared dead in attempt to cross Mediterranean during cyclone](https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry)" - ヨーロッパに渡ろうとした移民の船が嵐に見舞われ、数百人が死亡したと推測。イタリアやマルタの当局は救助活動を行っています。
+- **[The Guardian]**: "[Crocodile warnings as floods devastate southern Africa](https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa)" - 南アフリカ、モザンビーク、ジンバブエで、洪水により100人以上が死亡し、数十万人が避難。避難民に対する食糧、コレラ、ワニによる攻撃への懸念が強まっています。
+- **[BBC Africa]**: "[People cling to treetops as 'worst floods in a generation' sweep Mozambique](https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss)" - モザンビークでは「世代最悪の洪水」が発生し、人々が木にしがみついて避難しています。ブラジル、南アフリカ、イギリスのチームが救助活動を行っています。
 
 ---
 
+### 2. ウクライナ情勢と国際的な動き
+**概要:** ウクライナをめぐる紛争の現状と、それに対する国際社会の対応について。ロシア、ウクライナ、米国の三者協議が継続する一方、ドイツやラトビアはロシアへの更なる対策を求めています。
+
+**各国の視点:**
+- **[DW]**: "[Ukraine updates: Kremlin says Abu Dhabi talks 'constructive'](https://www.dw.com/en/ukraine-updates-kremlin-says-abu-dhabi-talks-constructive/live-75667003?maca=en-rss-en-top-1022-rdf)" - モスクワは、米国、ウクライナとの三者協議が来週も継続すると発表。主要な問題は未解決のままです。ドイツとラトビアは、ロシアによるハイブリッド攻撃と影の艦隊に対して、更なる行動を呼びかけました。
+- **[BBC Europe]**: "[Peace talks on Russia-Ukraine war end as fighting rages](https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss)" - ロシアとウクライナ間の和平協議は進展なく終了し、戦闘は続いています。次回の協議は来月開催される予定です。
+
+---
+
+### 3. フランスとソーシャルメディア規制
+**概要:** フランス政府が15歳未満の子供のソーシャルメディア利用禁止を検討している問題について。マクロン大統領がこの法案を支持しており、9月までに可決を目指しています。
+
+**各国の視点:**
+- **[BBC]**: "[France debates under-15s social media ban endorsed by Macron](https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss)" - フランス政府は、15歳未満の子供のソーシャルメディア利用を禁止する法案を検討しており、マクロン大統領が支持しています。セバスチャン・ルコルヌ首相は、9月までに法案を可決させるため、迅速な手続きを行うと述べています。
+
+---
+
+### 4. アメリカ国内の政治問題と国際関係
+**概要:** トランプ前大統領のNATOに関する発言や、アメリカ国内の様々な問題に関するニュース。ミネソタ州での警察による銃撃事件や、EUとメルコスールの通商協定など多岐にわたります。
+
+**各国の視点:**
+- **[DW]**: "[Germany, France, others rebuke Trump's NATO troop disrespect](https://www.dw.com/en/germany-france-others-rebuke-trump-s-nato-troop-disrespect/a-75666924?maca=en-rss-en-top-1022-rdf)" - ドイツ国防相は、トランプ前大統領に対し、NATO軍に対する発言について謝罪することが「礼儀」を示すことになると発言。
+- **[DW]**: "[Minnesota: Trump sends border czar amid political blame game](https://www.dw.com/en/minnesota-trump-sends-border-czar-amid-political-blame-game/live-75666369?maca=en-rss-en-top-1022-rdf)" - トランプ前大統領は、ミネソタ州に国境問題担当者を派遣。連邦政府と州当局は、警察による銃撃事件に関する説明で対立しています。
+- **[Al Jazeera]**: "[Is the Trump administration’s immigration crackdown working?](https://www.aljazeera.com/video/inside-story/2026/1/26/is-the-trump-administrations-immigration-crackdown-working?traffic_source=rss)" - ミネソタ州で、今月2件目の銃撃事件が発生。
+- **[DW]**: "[Latin America waiting: What’s next for the EU-Mercosur deal?](https://www.dw.com/en/latin-america-waiting-what-s-next-for-the-eu-mercosur-deal/a-75666418?maca=en-rss-en-top-1022-rdf)" - 欧州委員会は、欧州議会の承認なしに、EU史上最大の通商協定を推進することを目指しています。
+
+---
 **Global Headlines**
-- イスラエルがガザ地区の人質遺体の一部を回収。 [BBC – World News]
-- ミネアポリスで2件目の銃撃事件が発生。 [BBC – World News]
-- ドン・ブラッドマンのクリケットの帽子が競売で高値に。 [DW – Top Stories]
-- ナイジェリアの森林地帯における過激派の活動。 [DW – Top Stories]
-- カタールが2026年の観光首都に選定。 [Euronews – World]
-- ギリシャのビスケット工場で爆発、死者4人。 [Al Jazeera – All]
-- コロンビアの元ゲリラ戦士が政治家へ。 [Al Jazeera – All]
-- イスラエルがガザ地区へのメディアアクセスを制限。 [BBC – Middle East]
-- イエメンのUAEが運営する秘密刑務所の実態。 [BBC – Middle East]
-- イランでの抗議デモの弾圧に関する証言。 [BBC – Middle East]
-- 南スーダン軍の脅迫が非難される。 [BBC – Africa]
-- マンデラ氏の遺品が競売に出品。 [BBC – Africa]
-- アフリカのファッションに関する見方の変化。 [Global Voices – Africa (Sub-Saharan)]
-- マリにおける気候変動対策と平和構築。 [Global Voices – Africa (Sub-Saharan)]
-- アフリカとEUのパートナーシップの課題。 [Global Voices – Africa (Sub-Saharan)]
-- コンゴ共和国における中国の影響。 [Global Voices – Africa (Sub-Saharan)]
-- フランスがロシアのタンカーを拘束。 [BBC – Europe]
-- ロシアとウクライナの和平交渉が停滞。 [BBC – Europe]
-- ウクライナのインフラ攻撃。 [BBC – Europe]
-- デンマーク首相がグリーンランドを訪問。 [BBC – Europe]
-- ベネズエラが政治犯を釈放。 [BBC – Latin America & Caribbean]
-- 国際的な薬物密売組織の容疑者が逮捕。 [BBC – Latin America & Caribbean]
-- スペインの検察がフリオ・イグレシアスの性的暴行疑惑を却下。 [BBC – Latin America & Caribbean]
-- ベネズエラの野党候補者の親族が釈放。 [BBC – Latin America & Caribbean]
-- ベネズエラ、政治犯の釈放数を水増し発表。 [Global Voices – Americas]
-- ベネズエラ、政治犯の釈放を求める声。 [Global Voices – Americas]
-- マドゥロ政権後のベネズエラ。 [Global Voices – Americas]
-- カラカスへの攻撃。 [Global Voices – Americas]
-- ニュージーランドの地滑り、捜索打ち切り。 [BBC – Asia]
+
+-   イスラエル、ガザの最後の人質遺体収容（BBC）
+-   メキシコで銃乱射、少なくとも11人死亡（BBC）
+-   インドネシア地滑り、死者17人、数十人不明（Al Jazeera）
+-   EU、深層偽造AIツールを調査（Al Jazeera）
+-   イエメンの秘密刑務所について（BBC）
+-   イランのデモ弾圧の目撃者の証言（BBC）
+-   ドイツ、ハマスメンバーを逮捕（BBC）
+-   ナイジェリア軍幹部がクーデター計画の疑いで裁判へ（BBC）
+-   ケニアのカルト指導者、さらに52人の死亡で起訴（BBC）
+-   南スーダンの軍による暴力の脅威（BBC）
+-   モロッコ、アフリカネイションズカップの論争（Global Voices）
+-   アフリカファッションツアー（Global Voices）
+-   マリの気候変動対策と平和構築（Global Voices）
+-   アフリカとEUのパートナーシップの意味（Global Voices）
+-   フランスがロシアタンカーを拘束（BBC）
+-   デンマーク首相、グリーンランド訪問（BBC）
+-   ベネズエラ、政治犯を解放（BBC）
+-   元オリンピック選手、麻薬密売容疑で逮捕（BBC）
+-   スペイン検察、フリオ・イグレシアスの性的暴行疑惑を却下（BBC）
+-   ベネズエラの野党候補の義理の息子が釈放（BBC）
+-   ベネズエラでの政治犯解放に関する情報（Global Voices）
+-   ベネズエラでの政治犯釈放を求める活動（Global Voices）
+-   マドゥロ政権後のベネズエラ（Global Voices）
+-   ベネズエラでの攻撃に関する証言（Global Voices）
+-   ミャンマーの選挙（BBC）
+-   インドとEUの通商交渉（BBC）
+-   中国、高官を調査（BBC）
+-   ニュージーランド、地滑りの救助活動を中止（BBC）

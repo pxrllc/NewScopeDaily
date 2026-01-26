@@ -1,50 +1,75 @@
-# 2024-01-26 World News / Regional Focus
+# 2024-01-26 World News / Asia Focus
 
 ## Top Topics
 
-### 1. アジアにおける政治と紛争
-**概要:** ミャンマーの選挙は、軍事政権が支援する政党の圧勝となり、多くの地域で投票が行われず、内戦が続いている。中国では、最高位の将軍が調査対象となり、習近平国家主席が政敵を排除するために調査を利用しているとの指摘も。
+### 1. インドネシアでの地滑り
+**概要:** インドネシア西ジャワで発生した地滑りにより、少なくとも17人が死亡し、数十人が行方不明となっています。行方不明者のうち19人はエリート海兵隊員で、大規模な捜索活動が続いています。
 
 **各国の視点:**
-- **[BBC – Asia]**: "[Party backed by generals set for landslide as 'sham' Myanmar election ends](https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss)" - 軍事政権が主導したミャンマーの選挙結果と、その背景にある内戦や不安について報じています。
-- **[BBC – Asia]**: "[China places highest-ranking general under investigation](https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss)" - 中国における高官の調査について、権力闘争の側面を指摘しています。
+- **[Al Jazeera]**: "[Death toll from Indonesia landslide rises to 17 as dozens remain missing](https://www.aljazeera.com/news/2026/1/26/death-toll-from-indonesia-landslide-rises-to-17-as-dozens-remain-missing?traffic_source=rss)" - 死者の増加と、行方不明者の詳細を伝えています。
+- **[Al Jazeera]**: "[Massive search underway for dozens missing in deadly Indonesia landslide](https://www.aljazeera.com/video/newsfeed/2026/1/26/massive-search-underway-for-dozens-missing-in-deadly-indonesia-landslide?traffic_source=rss)" - 捜索活動の様子を映像で伝えています。
 
-### 2. ベトナムの経済改革とアジアの通商
-**概要:** ベトナム共産党は、To Lam氏に更なる5年間の任期を与え、2030年までに経済を改革するための計画を承認しました。また、インドとEUは、トランプ大統領の関税に関する不確実性の中、大規模な貿易協定に向けて交渉を進めています。
+---
 
-**各国の視点:**
-- **[DW – Top Stories]**: "[Vietnam bets big on To Lam's power and growth strategy](https://www.dw.com/en/vietnam-bets-big-on-to-lam-s-power-and-growth-strategy/a-75664156?maca=en-rss-en-top-1022-rdf)" - ベトナムの経済成長戦略と、To Lam氏の役割について焦点を当てています。
-- **[BBC – Asia]**: "[India and EU set for 'mother of all deals' as Trump's tariff uncertainty looms](https://www.bbc.com/news/articles/ckgyz1ejw9no?at_medium=RSS&at_campaign=rss)" - インドとEU間の貿易交渉について、トランプ大統領の関税問題の影響も含めて伝えています。
-
-### 3. 中東情勢とガザ地区
-**概要:** イスラエルは、最後のガザ人質遺体回収を発表し、ガザ地区への独立メディアのアクセス制限に関する法廷審理が行われています。また、イエメンでは、UAEが運営する秘密刑務所に関する報告が出ています。
+### 2. ミャンマーでの選挙
+**概要:** ミャンマーでは軍部が支援する政党が圧勝する見込みですが、多くの政党が禁止され、内戦が続く中、国土の約半分では投票が行われませんでした。
 
 **各国の視点:**
-- **[BBC – World News]**: "[Israel says it has retrieved remains of final Gaza hostage](https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss)" - ガザ地区における人質関連の展開について伝えています。
-- **[BBC – Middle East]**: "[Israel court hears appeal over ban on independent media access to Gaza](https://www.bbc.com/news/articles/cly3jwlz98do?at_medium=RSS&at_campaign=rss)" - ガザ地区へのメディアアクセス制限に関する法廷審理について報道しています。
-- **[BBC – Middle East]**: "['I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons](https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss)" - イエメンのUAE運営の秘密刑務所における人権問題を取り上げています。
+- **[BBC – Asia]**: "[Party backed by generals set for landslide as 'sham' Myanmar election ends](https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss)" - 軍部が支援する政党の圧勝と、選挙の不公正さを伝えています。
 
-### 4. アフリカの自然災害と影響
-**概要:** 南部アフリカでは、記録的な洪水により100人以上が死亡し、数十万人が避難を余儀なくされています。モザンビークでは、人々が洪水の被害から逃れるために木にしがみついています。
+---
+
+### 3. 中国における高官の調査
+**概要:** 中国では、習近平国家主席が政治的ライバルを排除するために調査を利用していると非難される中、最高位の将軍が調査を受けています。
 
 **各国の視点:**
-- **[The Guardian – World]**: "[Crocodile warnings as floods devastate southern Africa](https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa)" - 南部アフリカにおける洪水の被害と、クロコダイルの危険性について報道しています。
-- **[BBC – Africa]**: "[People cling to treetops as 'worst floods in a generation' sweep Mozambique](https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss)" - モザンビークでの洪水被害の深刻さを伝えています。
+- **[BBC – Asia]**: "[China places highest-ranking general under investigation](https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss)" - 政治的な駆け引きと、汚職疑惑の調査について報じています。
+
+---
+
+### 4. インドとEUの貿易交渉
+**概要:** インドとEUは、20年近くに及ぶ交渉を経て、貿易協定締結が近づいています。トランプ前大統領の関税に関する不確実性が、この協定に影響を与える可能性があります。
+
+**各国の視点:**
+- **[BBC – Asia]**: "[India and EU set for 'mother of all deals' as Trump's tariff uncertainty looms](https://www.bbc.com/news/articles/ckgyz1ejw9no?at_medium=RSS&at_campaign=rss)" - 貿易交渉の進展と、トランプ前大統領の関税政策の影響について分析しています。
 
 ---
 **Global Headlines**
-- イギリスの元閣僚が、改革UKに合流。
-- オーストラリアのクリケット選手、ドン・ブラッドマンのインドキャップがオークションで高値。
-- ナイジェリアの森林地帯における過激派の活動。
-- フランスで15歳未満のSNS利用禁止を巡る議論。
-- メキシコでフットボール場が襲撃され、死者多数。
-- 地中海での遭難事故で数百人が死亡したと推測。
-- アメリカのミネアポリスで銃撃事件、住民が怒り。
-- ギリシャのビスケット工場爆発で4人死亡。
-- アメリカで冬の嵐による被害。
-- カタールがGCC観光首都に。
-- ギニアビサウにおけるワクチンの研究中止について。
-- アクションエイドが子どものスポンサーシップを再考。
-- ブラジルでボルソナロ支持者が雷に打たれる。
-- ベネズエラで政治犯が釈放される。
-- ニュージーランドで土砂崩れによる捜索活動中止。
+- イスラエルがガザの最後の人質遺体回収
+- 米国での2件の銃乱射事件
+- フランス、15歳未満のソーシャルメディア禁止を検討
+- メキシコでギャング関連の暴力による銃乱射事件
+- ウクライナ情勢：アブダビでのロシア、米国、ウクライナの協議
+- ドイツ、フランスなどがトランプ氏のNATO軽視発言を批判
+- 米国がミネソタ州に国境警備責任者を派遣
+- EUとメルコスールの貿易協定の今後
+- 地中海での嵐の中での難民船の沈没
+- アフリカ南部での洪水被害、死者100人超
+- ギニアビサウでの米国ワクチンの研究中止
+- ActionAidが児童後援のあり方を見直し
+- EUがAIディープフェイクを調査
+- イスラエル裁判所がガザへのメディアアクセス制限に関する上訴審理
+- イエメンのUAEが運営する秘密刑務所
+- イランの抗議デモに対する弾圧
+- ドイツがハマスメンバーを逮捕
+- ナイジェリア軍将校がクーデター未遂容疑で裁判へ
+- ケニアの宗教指導者がさらなる死亡で起訴
+- 南スーダンの軍が報復を示唆し非難
+- モザンビークで記録的な洪水
+- モロッコにおけるアフリカネイションズカップとその論争
+- アフリカファッションツアーがアフリカのクリエイティビティの認識を変える
+- マリにおける気候変動対策と平和構築
+- アフリカとEUの「パートナーシップ」の意味
+- フランスがロシアのタンカーを拘束
+- ロシア・ウクライナ戦争の和平協議、合意に至らず
+- ソ連時代の都市計画がロシアによるウクライナのインフラ攻撃に利用
+- デンマーク首相がグリーンランド訪問
+- ベネズエラが政治犯を釈放
+- 元オリンピック選手が薬物密売容疑で逮捕
+- スペイン検察がフリオ・イグレシアスの性的暴行疑惑を却下
+- ベネズエラの野党候補者の親族が釈放
+- ベネズエラ、政治犯釈放の発表に疑問の声
+- ベネズエラの政治犯解放を求める人々
+- マドゥロ後のベネズエラ情勢
+- ベネズエラ、カラカス襲撃の体験
+- ニュージーランド、地滑りの捜索打ち切り
