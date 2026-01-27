@@ -1,18 +1,14 @@
 
-// App Configuration
-const APP_CONFIG = {
-    dataPath: 'data/daily/2026-01-26', // Dynamic date in prod, hardcoded for demo
-    defaultTab: 'world'
-};
-
 // State
 let appState = {
-    currentTab: APP_CONFIG.defaultTab,
+    currentTab: 'world',
     feedData: [],
     summaries: {
         world: '',
         regional: ''
-    }
+    },
+    availableDates: [],
+    currentIndex: -1
 };
 
 // Utils
@@ -21,42 +17,63 @@ function formatDate(dateStr) {
     return `${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
 }
 
-async function loadData() {
+// Data Loading
+async function loadData(dateStr) {
+    const dataPath = `data/daily/${dateStr}`;
+
+    // Update Loading State (Optional, but good for UX)
+    document.getElementById('current-date').style.opacity = '0.5';
+
     try {
         // Load Feed
-        const feedRes = await fetch(`${APP_CONFIG.dataPath}/feed.json`);
+        const feedRes = await fetch(`${dataPath}/feed.json`);
+        if (!feedRes.ok) throw new Error("Feed not found");
         const feedJson = await feedRes.json();
         appState.feedData = feedJson.articles;
 
-        // Update header date if available
-        if (feedJson.date) {
-            document.getElementById('current-date').textContent = formatDate(feedJson.date);
-        }
+        // Update Date Display
+        // Prioritize Date in feed, fallback to folder name
+        const displayDate = feedJson.date || dateStr;
+        document.getElementById('current-date').textContent = formatDate(displayDate).replace(/\//g, '.');
 
         // Load Summaries
-        const worldRes = await fetch(`${APP_CONFIG.dataPath}/summary_world.md`);
-        appState.summaries.world = await worldRes.text();
+        try {
+            const worldRes = await fetch(`${dataPath}/summary_world.md`);
+            appState.summaries.world = worldRes.ok ? await worldRes.text() : "# No Summary";
 
-        const regionalRes = await fetch(`${APP_CONFIG.dataPath}/summary_regional.md`);
-        appState.summaries.regional = await regionalRes.text();
+            const regionalRes = await fetch(`${dataPath}/summary_regional.md`);
+            appState.summaries.regional = regionalRes.ok ? await regionalRes.text() : "# No Summary";
+        } catch (e) {
+            console.warn("Summary load partial fail", e);
+        }
 
         renderSummary();
         renderFeedList();
 
-        // Stats
+        // Update Stats
         document.getElementById('total-articles').textContent = appState.feedData.length;
+
+        // Update Map
+        if (window.initMap) {
+            window.initMap(dataPath);
+        }
 
     } catch (e) {
         console.error("Failed to load data", e);
-        document.getElementById('summary-container').innerHTML = `<p class="error">Failed to load data. Please check console.</p>`;
+        document.getElementById('summary-container').innerHTML = `<p class="error">Data not available for ${dateStr}</p>`;
+        appState.feedData = [];
+        renderFeedList();
+        if (window.initMap) window.initMap(dataPath); // Clears map or try empty
+    } finally {
+        document.getElementById('current-date').style.opacity = '1';
+        updateNavControls();
     }
 }
 
+// Rendering
 function renderSummary() {
     const container = document.getElementById('summary-container');
     const content = appState.currentTab === 'world' ? appState.summaries.world : appState.summaries.regional;
-
-    // Use marked to parse markdown
     container.innerHTML = marked.parse(content);
 }
 
@@ -71,13 +88,12 @@ function renderFeedList() {
         const li = document.createElement('li');
         li.className = 'feed-item';
 
-        // Format date: "1/26 14:00"
         const dateObj = new Date(item.pubDate);
         const dateStr = dateObj.toLocaleDateString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' });
 
         const titleHtml = item.titleJa
             ? `<div class="title-ja">${item.titleJa}</div><div class="title-sub">${item.title}</div>`
-            : `<div class="title-ja">${item.title}</div>`; // Fallback to raw title if no translation
+            : `<div class="title-ja">${item.title}</div>`;
 
         li.innerHTML = `
             <div class="meta">
@@ -90,7 +106,6 @@ function renderFeedList() {
             </a>
         `;
 
-        // Interaction: Hover to highlight map
         if (item.country && item.country !== 'XX') {
             li.addEventListener('mouseenter', () => {
                 if (window.highlightCountry) window.highlightCountry(item.country);
@@ -104,45 +119,62 @@ function renderFeedList() {
     });
 }
 
-function switchTab(tab) {
-    appState.currentTab = tab;
+// Navigation Logic
+function updateNavControls() {
+    const prevBtn = document.getElementById('nav-prev');
+    const nextBtn = document.getElementById('nav-next');
 
-    // Update buttons
+    // If no index context, disable all
+    if (appState.currentIndex === -1 || appState.availableDates.length === 0) {
+        prevBtn.disabled = true;
+        nextBtn.disabled = true;
+        return;
+    }
+
+    prevBtn.disabled = appState.currentIndex <= 0;
+    nextBtn.disabled = appState.currentIndex >= appState.availableDates.length - 1;
+}
+
+function changeDate(offset) {
+    const newIndex = appState.currentIndex + offset;
+    if (newIndex >= 0 && newIndex < appState.availableDates.length) {
+        appState.currentIndex = newIndex;
+        loadData(appState.availableDates[newIndex]);
+    }
+}
+
+// Global Tab Switcher (called by HTML onclick)
+window.switchTab = function (tab) {
+    appState.currentTab = tab;
     document.querySelectorAll('.tab-btn').forEach(btn => {
         if (btn.dataset.tab === tab) btn.classList.add('active');
         else btn.classList.remove('active');
     });
-
     renderSummary();
-}
+};
 
 // Resizer Logic
 function initResizer() {
     const resizer = document.getElementById('drag-handle');
     const topSection = document.querySelector('.top-section');
-    const bottomSection = document.getElementById('bottom-panel');
     let isDragging = false;
+
+    if (!resizer) return;
 
     resizer.addEventListener('mousedown', (e) => {
         isDragging = true;
         resizer.classList.add('dragging');
         document.body.style.cursor = 'ns-resize';
-        e.preventDefault(); // Prevent text selection
+        e.preventDefault();
     });
 
     document.addEventListener('mousemove', (e) => {
         if (!isDragging) return;
-
-        // Calculate new height for top section
-        // Constrain between 20vh and 80vh
         const containerHeight = window.innerHeight;
         const newHeight = e.clientY;
-
         if (newHeight > 100 && newHeight < containerHeight - 100) {
             topSection.style.height = `${newHeight}px`;
-
-            // Invalidate map size on drag (throttle this if performance issues occur)
-            if (window.initMap && map) map.invalidateSize();
+            if (map) map.invalidateSize();
         }
     });
 
@@ -151,18 +183,35 @@ function initResizer() {
             isDragging = false;
             resizer.classList.remove('dragging');
             document.body.style.cursor = '';
-            // Final resize check
             if (map) map.invalidateSize();
         }
     });
 }
 
-// Init
-document.addEventListener('DOMContentLoaded', () => {
-    loadData();
-    // Initialize Map (from map-renderer.js)
-    if (window.initMap) window.initMap(APP_CONFIG.dataPath);
-
-    // Initialize Resizer
+// Initialize
+document.addEventListener('DOMContentLoaded', async () => {
     initResizer();
+
+    // Setup Nav Listeners
+    document.getElementById('nav-prev').addEventListener('click', () => changeDate(-1));
+    document.getElementById('nav-next').addEventListener('click', () => changeDate(1));
+
+    try {
+        const res = await fetch('data/daily/available-dates.json');
+        if (res.ok) {
+            appState.availableDates = await res.json();
+            if (appState.availableDates.length > 0) {
+                appState.currentIndex = appState.availableDates.length - 1;
+                loadData(appState.availableDates[appState.currentIndex]);
+            } else {
+                loadData(new Date().toISOString().split('T')[0]);
+            }
+        } else {
+            console.warn("Date index not found, defaulting to hardcoded date.");
+            loadData('2026-01-26');
+        }
+    } catch (e) {
+        console.error("Init failed", e);
+        loadData('2026-01-26');
+    }
 });

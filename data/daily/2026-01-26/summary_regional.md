@@ -1,75 +1,51 @@
-# 2024-01-26 World News / Asia Focus
+# 2024-02-29 World News / Regional Focus
 
 ## Top Topics
 
-### 1. インドネシアでの地滑り
-**概要:** インドネシア西ジャワで発生した地滑りにより、少なくとも17人が死亡し、数十人が行方不明となっています。行方不明者のうち19人はエリート海兵隊員で、大規模な捜索活動が続いています。
+### 1. 日本における自衛隊セクハラ事件の解決
+**概要:** 元自衛官の女性が自衛隊内での性被害を訴えていた事件で、和解が成立しました。
 
 **各国の視点:**
-- **[Al Jazeera]**: "[Death toll from Indonesia landslide rises to 17 as dozens remain missing](https://www.aljazeera.com/news/2026/1/26/death-toll-from-indonesia-landslide-rises-to-17-as-dozens-remain-missing?traffic_source=rss)" - 死者の増加と、行方不明者の詳細を伝えています。
-- **[Al Jazeera]**: "[Massive search underway for dozens missing in deadly Indonesia landslide](https://www.aljazeera.com/video/newsfeed/2026/1/26/massive-search-underway-for-dozens-missing-in-deadly-indonesia-landslide?traffic_source=rss)" - 捜索活動の様子を映像で伝えています。
+- **BBC – Asia**: "Japanese ex-soldier reaches settlements in landmark sex abuse case" - 日本の自衛隊内での性被害に関する歴史的な事件が解決しました。
 
 ---
 
-### 2. ミャンマーでの選挙
-**概要:** ミャンマーでは軍部が支援する政党が圧勝する見込みですが、多くの政党が禁止され、内戦が続く中、国土の約半分では投票が行われませんでした。
+### 2. 中国の軍部における汚職調査
+**概要:** 中国の習近平国家主席は、政治的な対立者排除のため、軍部高官に対する汚職調査を進めているようです。
 
 **各国の視点:**
-- **[BBC – Asia]**: "[Party backed by generals set for landslide as 'sham' Myanmar election ends](https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss)" - 軍部が支援する政党の圧勝と、選挙の不公正さを伝えています。
+- **BBC – Asia**: "China places highest-ranking general under investigation" - 中国では、習近平国家主席が政治的なライバルを排除するために調査を利用していると伝えられています。
 
 ---
 
-### 3. 中国における高官の調査
-**概要:** 中国では、習近平国家主席が政治的ライバルを排除するために調査を利用していると非難される中、最高位の将軍が調査を受けています。
+### 3. インドとEUの貿易交渉
+**概要:** インドと欧州連合（EU）は、長期にわたる交渉を経て、貿易協定の締結に近づいています。
 
 **各国の視点:**
-- **[BBC – Asia]**: "[China places highest-ranking general under investigation](https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss)" - 政治的な駆け引きと、汚職疑惑の調査について報じています。
+- **BBC – Asia**: "India and EU set for 'mother of all deals' as Trump's tariff uncertainty looms" - インドとEUは、貿易交渉で最終段階に近づいており、米国の関税に関する不確実性も影響しています。
 
 ---
 
-### 4. インドとEUの貿易交渉
-**概要:** インドとEUは、20年近くに及ぶ交渉を経て、貿易協定締結が近づいています。トランプ前大統領の関税に関する不確実性が、この協定に影響を与える可能性があります。
+### 4. ベネズエラの政治的混乱と囚人釈放
+**概要:** ベネズエラでは、政権交代に関する不透明感が漂う中、政治囚の釈放が進められています。
 
 **各国の視点:**
-- **[BBC – Asia]**: "[India and EU set for 'mother of all deals' as Trump's tariff uncertainty looms](https://www.bbc.com/news/articles/ckgyz1ejw9no?at_medium=RSS&at_campaign=rss)" - 貿易交渉の進展と、トランプ前大統領の関税政策の影響について分析しています。
+- **BBC – Latin America & Caribbean**: "Son-in-law of Venezuelan opposition candidate freed from jail, wife says" - 野党候補者の親族が釈放され、その妻がそれを発表しました。
+- **Global Voices – Americas**: "Venezuela inflates release figures as political prisoners remain in limbo" - ベネズエラ政府は政治囚の釈放をアピールしていますが、家族は未だ不安を抱えています。
 
 ---
+
 **Global Headlines**
-- イスラエルがガザの最後の人質遺体回収
-- 米国での2件の銃乱射事件
-- フランス、15歳未満のソーシャルメディア禁止を検討
-- メキシコでギャング関連の暴力による銃乱射事件
-- ウクライナ情勢：アブダビでのロシア、米国、ウクライナの協議
-- ドイツ、フランスなどがトランプ氏のNATO軽視発言を批判
-- 米国がミネソタ州に国境警備責任者を派遣
-- EUとメルコスールの貿易協定の今後
-- 地中海での嵐の中での難民船の沈没
-- アフリカ南部での洪水被害、死者100人超
-- ギニアビサウでの米国ワクチンの研究中止
-- ActionAidが児童後援のあり方を見直し
-- EUがAIディープフェイクを調査
-- イスラエル裁判所がガザへのメディアアクセス制限に関する上訴審理
-- イエメンのUAEが運営する秘密刑務所
-- イランの抗議デモに対する弾圧
-- ドイツがハマスメンバーを逮捕
-- ナイジェリア軍将校がクーデター未遂容疑で裁判へ
-- ケニアの宗教指導者がさらなる死亡で起訴
-- 南スーダンの軍が報復を示唆し非難
-- モザンビークで記録的な洪水
-- モロッコにおけるアフリカネイションズカップとその論争
-- アフリカファッションツアーがアフリカのクリエイティビティの認識を変える
-- マリにおける気候変動対策と平和構築
-- アフリカとEUの「パートナーシップ」の意味
-- フランスがロシアのタンカーを拘束
-- ロシア・ウクライナ戦争の和平協議、合意に至らず
-- ソ連時代の都市計画がロシアによるウクライナのインフラ攻撃に利用
-- デンマーク首相がグリーンランド訪問
-- ベネズエラが政治犯を釈放
-- 元オリンピック選手が薬物密売容疑で逮捕
-- スペイン検察がフリオ・イグレシアスの性的暴行疑惑を却下
-- ベネズエラの野党候補者の親族が釈放
-- ベネズエラ、政治犯釈放の発表に疑問の声
-- ベネズエラの政治犯解放を求める人々
-- マドゥロ後のベネズエラ情勢
-- ベネズエラ、カラカス襲撃の体験
-- ニュージーランド、地滑りの捜索打ち切り
+- US、ミネアポリスでの2件の銃撃事件、市民の反発
+- 米国、記録的な大雪に見舞われ、多数の州で非常事態宣言
+- 欧州、エネルギーサミット開催
+- メキシコ、サッカー場で11人が殺害される事件
+- ギニアビサウ、米国主導のワクチン研究が倫理的な問題から中断
+- ウクライナ、安全保障に関する合意が国会と米議会に送られる予定
+- イスラエル入植者、パレスチナのスクールバスを追跡
+- イランでのデモ弾圧に関する目撃者の証言
+- モザンビーク、記録的な洪水
+- ニュージーランド、地滑りによる行方不明者の捜索を打ち切り
+- 韓国、対北朝鮮政策発表
+- 南アフリカ、マンデラ氏の遺品輸出に関する法廷闘争
+- ソマリランド大統領、トランプ氏の息子と会談
