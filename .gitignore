@@ -8,6 +8,7 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.log
+!logs/execution.log
 
 # Build output (if any)
 dist/
