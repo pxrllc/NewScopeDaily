@@ -13,8 +13,18 @@ const isoMapping = {
     'MM': 'MMR', 'TH': 'THA', 'MY': 'MYS', 'SG': 'SGP', 'PK': 'PAK', 'BD': 'BGD', 'LK': 'LKA'
 };
 
+// Handle window resize globally
+window.addEventListener('resize', () => {
+    if (map) map.invalidateSize();
+});
+
 window.initMap = async (dataPath) => {
     // Basic setup
+    if (map) {
+        map.remove();
+        map = null;
+    }
+
     map = L.map('world-map', {
         center: [20, 0],
         zoom: 2,
@@ -36,11 +46,6 @@ window.initMap = async (dataPath) => {
     setTimeout(() => {
         map.invalidateSize();
     }, 100);
-
-    // Handle window resize
-    window.addEventListener('resize', () => {
-        if (map) map.invalidateSize();
-    });
 
     try {
         // Load Map Stats
