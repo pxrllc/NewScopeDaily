@@ -27,8 +27,12 @@ async function main() {
 
     appendLog(`${timestamp} START`);
 
-    const date = startTime.toISOString().split('T')[0]; // YYYY-MM-DD
-    console.log(`Starting Batch for ${date}...`);
+    // Calculate Date in JST (UTC+9)
+    // If running at 4AM JST (19:00 UTC previous day), we want the JST date.
+    // 19:00 UTC + 9h = 04:00 JST (Next Day).
+    const jstDate = new Date(startTime.getTime() + 9 * 60 * 60 * 1000);
+    const date = jstDate.toISOString().split('T')[0]; // YYYY-MM-DD (JST)
+    console.log(`Starting Batch for ${date} (JST)...`);
 
     try {
         // 1. Fetch
@@ -122,6 +126,22 @@ async function main() {
         generator.generateFeedJson(date, finalArticles);
         generator.generateMapJson(date, processedArticles);
         generator.saveSummaries(date, worldSummary, regionalSummary);
+
+
+        // 5. Generate Date Manifest for Frontend Navigation
+        const dailyDataDir = path.join(OUTPUT_DIR, 'daily');
+        if (fs.existsSync(dailyDataDir)) {
+            const availableDates = fs.readdirSync(dailyDataDir)
+                .filter(entry => {
+                    const fullPath = path.join(dailyDataDir, entry);
+                    return /^\d{4}-\d{2}-\d{2}$/.test(entry) && fs.statSync(fullPath).isDirectory();
+                })
+                .sort(); // ISO format sorts correctly lexicographically
+
+            const manifestPath = path.join(dailyDataDir, 'available-dates.json');
+            fs.writeFileSync(manifestPath, JSON.stringify(availableDates, null, 2));
+            appendLog(`- Manifest Updated: ${availableDates.length} dates available`);
+        }
 
         console.log("Batch Complete (Files Saved).");
         appendLog(`- JSON生成: OK`);
