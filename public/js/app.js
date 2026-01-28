@@ -218,11 +218,55 @@ window.switchTab = function (tab) {
     renderSummary();
 };
 
+// Mobile Accordion Logic
+window.toggleSection = function (sectionId) {
+    let content, header, icon;
+
+    if (sectionId === 'map') {
+        content = document.getElementById('map-content');
+        header = document.querySelector('#map-section .panel-header');
+        icon = header.querySelector('.toggle-icon');
+    } else if (sectionId === 'summary') {
+        content = document.getElementById('summary-content');
+        header = document.querySelector('#summary-section .panel-header');
+        icon = header.querySelector('.toggle-icon');
+    } else if (sectionId === 'filter') {
+        content = document.getElementById('filter-container');
+        icon = document.getElementById('filter-icon');
+    }
+
+    if (!content) return;
+
+    const isCollapsed = content.classList.contains('collapsed');
+
+    if (isCollapsed) {
+        // Expand
+        content.classList.remove('collapsed');
+        if (header) header.classList.remove('collapsed');
+        if (icon) icon.style.transform = 'rotate(0deg)';
+
+        // Specific logic for map resize
+        if (sectionId === 'map' && map) {
+            setTimeout(() => {
+                map.invalidateSize();
+            }, 350); // Wait for transition
+        }
+    } else {
+        // Collapse
+        content.classList.add('collapsed');
+        if (header) header.classList.add('collapsed');
+        if (icon) icon.style.transform = 'rotate(-90deg)';
+    }
+};
+
 // Resizer Logic
 function initResizer() {
     const resizer = document.getElementById('drag-handle');
     const topSection = document.querySelector('.top-section');
     let isDragging = false;
+
+    // Disable resizer logic on mobile if needed, or handle gracefully
+    if (window.innerWidth <= 768) return;
 
     if (!resizer) return;
 
