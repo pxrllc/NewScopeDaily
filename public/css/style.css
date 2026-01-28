@@ -634,13 +634,44 @@ body {
 
     /* Ensure content is always visible on desktop */
     .content-wrapper {
-        display: block !important;
+        display: flex !important;
+        flex-direction: column;
+        flex: 1;
         max-height: none !important;
         opacity: 1 !important;
         height: 100%;
+        overflow: hidden;
+    }
+
+    .content-wrapper.collapsed {
+        display: flex !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        padding: 0;
+        border: none;
     }
 
     #map-content {
         height: 100%;
+    }
+
+    /* Ensure map panel propagates height */
+    .map-panel {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        /* Important for height 100% child */
+    }
+
+    /* Fix Filter Bar layout on Desktop */
+    /* Override content-wrapper's column direction and height */
+    .filter-bar.content-wrapper {
+        display: flex !important;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: auto;
+        overflow: visible;
+        max-height: none !important;
+        opacity: 1 !important;
     }
 }
