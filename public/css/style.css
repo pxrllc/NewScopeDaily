@@ -353,16 +353,60 @@ body {
     overflow: hidden;
 }
 
+
 .feed-header {
     padding: 1rem 2rem;
+    background: var(--card-bg);
     border-bottom: 1px solid var(--border-color);
-    background: rgba(255, 255, 255, 0.02);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    /* Ensure z-index is higher than scroll content */
 }
 
 .feed-header h3 {
-    font-size: 1rem;
+    font-size: 1.1rem;
     color: var(--text-primary);
+    margin-bottom: 0.5rem;
     font-weight: 600;
+}
+
+.filter-bar {
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.filter-bar::-webkit-scrollbar {
+    display: none;
+    /* Chrome/Safari */
+}
+
+.filter-btn {
+    background: #2d3748;
+    color: var(--text-secondary);
+    border: 1px solid var(--border-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: var(--font-main);
+}
+
+.filter-btn:hover {
+    background: #4b5563;
+    color: #fff;
+}
+
+.filter-btn.active {
+    background: var(--accent-color);
+    color: #fff;
+    border-color: var(--accent-color);
 }
 
 .feed-list-container {
