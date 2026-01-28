@@ -72,10 +72,10 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, snippet: a.snipp
         return { country: 'XX', category: 'General', importanceScore: 0, titleJa: article.title };
     }
 
-    public async generateDailySummary(articles: Article[], type: 'world' | 'regional', focusRegion?: string): Promise<string> {
+    public async generateDailySummary(articles: Article[], type: 'world' | 'regional', date: string, focusRegion?: string): Promise<string> {
         const context = type === 'world'
-            ? "Summarize the top global news stories."
-            : `Summarize news with a specific focus on ${focusRegion}. Prioritize stories from this region.`;
+            ? `Summarize the top global news stories for ${date}.`
+            : `Summarize news with a specific focus on ${focusRegion} for ${date}. Prioritize stories from this region.`;
 
         const articlesText = articles.map(a =>
             `- [${a.source}] ${a.title} (${a.country}) Link: ${a.link} : ${a.snippet}`

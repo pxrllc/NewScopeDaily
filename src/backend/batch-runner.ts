@@ -99,7 +99,7 @@ async function main() {
 
         try {
             console.log("Generating World Summary...");
-            worldSummary = await gemini.generateDailySummary(processedArticles, 'world');
+            worldSummary = await gemini.generateDailySummary(processedArticles, 'world', date);
 
             // Determine Regional Focus
             const day = new Date().getDay();
@@ -107,7 +107,7 @@ async function main() {
             const focusRegion = regions[day];
 
             console.log(`Generating Regional Summary (${focusRegion})...`);
-            regionalSummary = await gemini.generateDailySummary(processedArticles, 'regional', focusRegion);
+            regionalSummary = await gemini.generateDailySummary(processedArticles, 'regional', date, focusRegion);
         } catch (e) {
             console.error("Summary generation failed due to API limits or error. proceeding with data save.", e);
         }

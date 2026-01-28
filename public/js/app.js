@@ -82,6 +82,18 @@ function renderSummary() {
     container.innerHTML = marked.parse(content);
 }
 
+const categoryMap = {
+    'Politics': '政治',
+    'Economy': '経済',
+    'Society': '社会',
+    'Conflict': '紛争',
+    'Science': '科学',
+    'Environment': '環境',
+    'Disaster': '災害',
+    'Sports': 'スポーツ',
+    'Entertainment': 'エンタメ'
+};
+
 function renderFilterBar() {
     const container = document.getElementById('filter-container');
     if (!container) return;
@@ -108,7 +120,11 @@ function renderFilterBar() {
     sortedCategories.forEach(cat => {
         const btn = document.createElement('button');
         btn.className = `filter-btn ${appState.currentFilter === cat ? 'active' : ''}`;
-        btn.textContent = cat;
+
+        // Translate category
+        const label = categoryMap[cat] || cat;
+
+        btn.textContent = label;
         btn.onclick = () => setFilter(cat);
         container.appendChild(btn);
     });
@@ -149,6 +165,7 @@ function renderFeedList() {
                 <span class="source">${item.source}</span>
                 <span class="date">${dateStr}</span>
                 <span class="country badge">${item.country || 'Global'}</span>
+                ${item.category ? `<span class="category badge">${categoryMap[item.category] || item.category}</span>` : ''}
             </div>
             <a href="${item.link}" target="_blank" class="title-link">
                 ${titleHtml}
