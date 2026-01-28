@@ -35,9 +35,14 @@ export class DataGenerator {
             if (country === 'XX') return;
 
             if (!stats[country]) {
-                stats[country] = { count: 0 };
+                stats[country] = { count: 0, hasCritical: false };
             }
             stats[country].count++;
+
+            // Flag critical news
+            if (article.category === 'Conflict' || article.category === 'Disaster') {
+                stats[country].hasCritical = true;
+            }
 
             // Keep the highest importance article as "topArticle" for the map tooltip
             if (!stats[country].topArticle || (article.importanceScore || 0) > (stats[country].topArticle?.importanceScore || 0)) {

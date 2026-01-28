@@ -25,5 +25,6 @@ export interface GeoStats {
     [countryCode: string]: {
         count: number;
         topArticle?: Article;
+        hasCritical?: boolean; // True if any article is Conflict/Disaster
     };
 }
