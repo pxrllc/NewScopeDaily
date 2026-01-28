@@ -84,3 +84,6 @@ npm run dev
 ご自身の興味のある地域のニュースに特化させたり、デザインを変更したり、学習用として利用したりと、自由にご活用ください。
 
 License詳細は [LICENSE](LICENSE) ファイルをご確認ください。
+
+### 利用している素材のライセンス
+*   **Favicon**: Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)
