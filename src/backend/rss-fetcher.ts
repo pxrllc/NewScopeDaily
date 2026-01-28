@@ -80,9 +80,18 @@ export class RssFetcher {
         }
 
         const seenIds = new Set();
+        const seenTitles = new Set();
+
         allArticles = allArticles.filter(item => {
+            // Dedupe by ID (Link Hash)
             if (seenIds.has(item.id)) return false;
             seenIds.add(item.id);
+
+            // Dedupe by Normalized Title (simple wire story check)
+            const normalizedTitle = item.title.trim().toLowerCase();
+            if (seenTitles.has(normalizedTitle)) return false;
+            seenTitles.add(normalizedTitle);
+
             return true;
         });
 
