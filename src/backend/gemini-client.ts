@@ -12,7 +12,8 @@ export class GeminiClient {
             throw new Error('GEMINI_API_KEY is not defined');
         }
         const genAI = new GoogleGenerativeAI(apiKey);
-        this.model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash-lite-preview-02-05' });
+        // Switching to stable model to avoid deprecation issues with preview dates
+        this.model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
     }
 
     // Rate Limiting helper: wait for ms (basic implementation)
