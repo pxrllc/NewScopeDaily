@@ -115,12 +115,15 @@ async function main() {
         const generator = new DataGenerator(OUTPUT_DIR);
 
         // Merge & Save Logic...
-        const processedIds = new Set(processedArticles.map(a => a.id));
+        // Merge & Save Logic...
+        // OLD: Merged raw items back in.
+        // NEW: Only save processed items to ensure high quality (Translated + Country).
         const finalArticles: any[] = [...processedArticles];
-        for (const a of articles) {
-            if (!processedIds.has(a.id)) {
-                finalArticles.push(a);
-            }
+
+        // Log dropped count
+        const droppedCount = articles.length - finalArticles.length;
+        if (droppedCount > 0) {
+            console.log(`Dropped ${droppedCount} raw articles to ensure quality.`);
         }
 
         generator.generateFeedJson(date, finalArticles);

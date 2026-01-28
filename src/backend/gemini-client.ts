@@ -26,10 +26,10 @@ export class GeminiClient {
 You are a news classifier and translator. Format your response ONLY as a JSON array.
 Input is a list of news articles. For EACH article, return an object with:
 1. "id": logic to match input (use the provided ID).
-2. "country": ISO 3166-1 alpha-2 code of the PRIMARY location. Use "XX" if global/unknown.
+2. "country": ISO 3166-1 alpha-2 code of the PRIMARY location. Use "XX" if global/unknown. INFER from content, do not just rely on source country.
 3. "category": One of [Politics, Conflict, Economy, Society, Science, Environment, Disaster, Sports, Entertainment].
 4. "importanceScore": Integer 0-100.
-5. "titleJa": Japanese translation of the title.
+5. "titleJa": Japanese translation of the title. MUST be in Japanese.
 
 Input JSON:
 ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, snippet: a.snippet, source: a.source })))}
