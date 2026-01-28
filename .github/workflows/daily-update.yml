@@ -26,7 +26,7 @@ jobs:
 
       - name: Run Batch Process
         env:
-          GEMINI_API_KEY: ${{ secrets.Gemini }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           # Run the batch script to fetch RSS and generate content
           npm run batch
