@@ -51,8 +51,9 @@ async function main() {
         const processedArticles = [];
 
         // Optimization: Filter Top N articles per source to limit API usage
-        // Target: 60 articles total. 15 sources -> ~4 per source.
-        const ITEMS_PER_SOURCE = 4;
+        // Target: ~150 articles total (15 sources * 10).
+        // Since we dropped raw articles, we process more to keep the feed full.
+        const ITEMS_PER_SOURCE = 10;
         const articlesToProcess: any[] = [];
         const sourceCounts: { [key: string]: number } = {};
 
