@@ -353,16 +353,60 @@ body {
     overflow: hidden;
 }
 
+
 .feed-header {
     padding: 1rem 2rem;
+    background: var(--card-bg);
     border-bottom: 1px solid var(--border-color);
-    background: rgba(255, 255, 255, 0.02);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    /* Ensure z-index is higher than scroll content */
 }
 
 .feed-header h3 {
-    font-size: 1rem;
+    font-size: 1.1rem;
     color: var(--text-primary);
+    margin-bottom: 0.5rem;
     font-weight: 600;
+}
+
+.filter-bar {
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.filter-bar::-webkit-scrollbar {
+    display: none;
+    /* Chrome/Safari */
+}
+
+.filter-btn {
+    background: #2d3748;
+    color: var(--text-secondary);
+    border: 1px solid var(--border-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: var(--font-main);
+}
+
+.filter-btn:hover {
+    background: #4b5563;
+    color: #fff;
+}
+
+.filter-btn.active {
+    background: var(--accent-color);
+    color: #fff;
+    border-color: var(--accent-color);
 }
 
 .feed-list-container {
@@ -448,9 +492,186 @@ body {
     background: #121418 !important;
 }
 
-.leaflet-popup-content-wrapper,
-.leaflet-popup-tip {
-    background: var(--card-bg) !important;
-    color: var(--text-primary) !important;
-    border: 1px solid var(--border-color);
+/* Mobile Responsive */
+@media (max-width: 768px) {
+
+    /* Main Layout Stack */
+    .main-grid {
+        height: 100vh;
+        overflow-y: auto;
+        /* Allow whole body scroll */
+    }
+
+    /* Top Section Column */
+    .top-section {
+        flex-direction: column;
+        height: auto;
+        border-bottom: none;
+    }
+
+    /* ORDERING for Mobile: Summary -> Map -> Feed */
+    /* Summary Panel (Order 1) */
+    .summary-panel {
+        order: 1;
+        height: auto;
+        min-height: 0;
+        flex: none;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    /* Map Panel (Order 2) */
+    .map-panel {
+        order: 2;
+        height: auto;
+        flex: none;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    /* Hide Resizer */
+    .resizer {
+        display: none;
+    }
+
+    /* Bottom Section (Feed) (Order 3 implicitly) */
+    .content-section {
+        order: 3;
+        height: auto;
+        overflow: visible;
+        flex: none;
+    }
+
+    .scroll-container {
+        height: auto;
+        overflow: visible;
+    }
+
+    /* Panel Headers (Accordion) */
+    .mobile-only {
+        display: flex !important;
+    }
+
+    .panel-header {
+        padding: 0.75rem 1rem;
+        background: #1f2937;
+        color: var(--text-primary);
+        font-weight: 600;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .panel-header:hover {
+        background: #374151;
+    }
+
+    .toggle-icon {
+        font-size: 0.8rem;
+        transition: transform 0.3s;
+    }
+
+    /* Content Wrapper Logic */
+    .content-wrapper {
+        transition: max-height 0.3s ease-out, opacity 0.3s;
+        max-height: 2000px;
+        /* Arbitrary large max-height */
+        opacity: 1;
+        overflow: hidden;
+    }
+
+    /* Collapsed State */
+    .content-wrapper.collapsed {
+        max-height: 0;
+        opacity: 0;
+        padding: 0;
+        border: none;
+    }
+
+    .panel-header.collapsed .toggle-icon {
+        transform: rotate(-90deg);
+    }
+
+    /* Map specific: Fix height when expanded */
+    #map-content {
+        height: 40vh;
+        /* Fixed height when visible */
+    }
+
+    #map-content.collapsed {
+        height: 0;
+    }
+
+    /* Filter Toggle specific */
+    .header-top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.5rem;
+    }
+
+    .toggle-btn {
+        font-size: 0.85rem;
+        color: var(--accent-color);
+        cursor: pointer;
+    }
+
+    /* Summary content wrapper styling for smooth animation */
+    /* Map panel specific overrides */
+    .map-overlay {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+    }
+}
+
+/* Hide mobile-only elements on Desktop */
+@media (min-width: 769px) {
+    .mobile-only {
+        display: none !important;
+    }
+
+    /* Ensure content is always visible on desktop */
+    .content-wrapper {
+        display: flex !important;
+        flex-direction: column;
+        flex: 1;
+        max-height: none !important;
+        opacity: 1 !important;
+        height: 100%;
+        overflow: hidden;
+    }
+
+    .content-wrapper.collapsed {
+        display: flex !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        padding: 0;
+        border: none;
+    }
+
+    #map-content {
+        height: 100%;
+    }
+
+    /* Ensure map panel propagates height */
+    .map-panel {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        /* Important for height 100% child */
+    }
+
+    /* Fix Filter Bar layout on Desktop */
+    /* Override content-wrapper's column direction and height */
+    .filter-bar.content-wrapper {
+        display: flex !important;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: auto;
+        overflow: visible;
+        max-height: none !important;
+        opacity: 1 !important;
+    }
 }

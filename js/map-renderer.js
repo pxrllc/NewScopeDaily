@@ -67,12 +67,28 @@ window.initMap = async (dataPath) => {
             // We look for a key in `stats` (which uses ISO-2 like 'US') that maps to this feature's ISO-3 ID
             const iso2Key = Object.keys(stats).find(key => isoMapping[key] === featureId);
 
+            let isCritical = false;
+
             if (iso2Key && stats[iso2Key]) {
                 count = stats[iso2Key].count;
+                isCritical = stats[iso2Key].hasCritical;
             }
             // Fallback for direct match if backend starts sending ISO-3
             else if (stats[featureId]) {
                 count = stats[featureId].count;
+                isCritical = stats[featureId].hasCritical;
+            }
+
+            // Critical news (Conflict/Disaster) gets Red styling
+            if (isCritical) {
+                return {
+                    fillColor: '#ef4444', // Red-500
+                    weight: 1,
+                    opacity: 1,
+                    color: '#fee2e2', // Red-100 border
+                    dashArray: '',
+                    fillOpacity: 0.8
+                };
             }
 
             return {

@@ -8,7 +8,8 @@ let appState = {
         regional: ''
     },
     availableDates: [],
-    currentIndex: -1
+    currentIndex: -1,
+    currentFilter: 'all' // New: Filter state
 };
 
 // Utils
@@ -21,7 +22,7 @@ function formatDate(dateStr) {
 async function loadData(dateStr) {
     const dataPath = `data/daily/${dateStr}`;
 
-    // Update Loading State (Optional, but good for UX)
+    // Update Loading State
     document.getElementById('current-date').style.opacity = '0.5';
 
     try {
@@ -31,8 +32,10 @@ async function loadData(dateStr) {
         const feedJson = await feedRes.json();
         appState.feedData = feedJson.articles;
 
+        // Reset Filter on new day load
+        appState.currentFilter = 'all';
+
         // Update Date Display
-        // Prioritize Date in feed, fallback to folder name
         const displayDate = feedJson.date || dateStr;
         document.getElementById('current-date').textContent = formatDate(displayDate).replace(/\//g, '.');
 
@@ -47,6 +50,7 @@ async function loadData(dateStr) {
             console.warn("Summary load partial fail", e);
         }
 
+        renderFilterBar(); // New: Generate filter buttons
         renderSummary();
         renderFeedList();
 
@@ -63,7 +67,8 @@ async function loadData(dateStr) {
         document.getElementById('summary-container').innerHTML = `<p class="error">Data not available for ${dateStr}</p>`;
         appState.feedData = [];
         renderFeedList();
-        if (window.initMap) window.initMap(dataPath); // Clears map or try empty
+        renderFilterBar();
+        if (window.initMap) window.initMap(dataPath);
     } finally {
         document.getElementById('current-date').style.opacity = '1';
         updateNavControls();
@@ -77,12 +82,72 @@ function renderSummary() {
     container.innerHTML = marked.parse(content);
 }
 
+const categoryMap = {
+    'Politics': '政治',
+    'Economy': '経済',
+    'Society': '社会',
+    'Conflict': '紛争',
+    'Science': '科学',
+    'Environment': '環境',
+    'Disaster': '災害',
+    'Sports': 'スポーツ',
+    'Entertainment': 'エンタメ'
+};
+
+function renderFilterBar() {
+    const container = document.getElementById('filter-container');
+    if (!container) return;
+
+    container.innerHTML = '';
+
+    // Extract unique categories
+    const categories = new Set();
+    appState.feedData.forEach(item => {
+        if (item.category) categories.add(item.category);
+    });
+
+    // Sort categories alphabetically
+    const sortedCategories = Array.from(categories).sort();
+
+    // Create "All" button
+    const allBtn = document.createElement('button');
+    allBtn.className = `filter-btn ${appState.currentFilter === 'all' ? 'active' : ''}`;
+    allBtn.textContent = 'すべて';
+    allBtn.onclick = () => setFilter('all');
+    container.appendChild(allBtn);
+
+    // Create Category buttons
+    sortedCategories.forEach(cat => {
+        const btn = document.createElement('button');
+        btn.className = `filter-btn ${appState.currentFilter === cat ? 'active' : ''}`;
+
+        // Translate category
+        const label = categoryMap[cat] || cat;
+
+        btn.textContent = label;
+        btn.onclick = () => setFilter(cat);
+        container.appendChild(btn);
+    });
+}
+
+function setFilter(category) {
+    appState.currentFilter = category;
+    renderFilterBar(); // Re-render to update active state
+    renderFeedList();
+}
+
 function renderFeedList() {
     const list = document.getElementById('feed-list');
     list.innerHTML = '';
 
+    // Filter Data
+    let filteredData = appState.feedData;
+    if (appState.currentFilter !== 'all') {
+        filteredData = filteredData.filter(item => item.category === appState.currentFilter);
+    }
+
     // Sort by Date (newest first)
-    const sorted = [...appState.feedData].sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    const sorted = [...filteredData].sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
     sorted.slice(0, 50).forEach(item => {
         const li = document.createElement('li');
@@ -100,6 +165,7 @@ function renderFeedList() {
                 <span class="source">${item.source}</span>
                 <span class="date">${dateStr}</span>
                 <span class="country badge">${item.country || 'Global'}</span>
+                ${item.category ? `<span class="category badge">${categoryMap[item.category] || item.category}</span>` : ''}
             </div>
             <a href="${item.link}" target="_blank" class="title-link">
                 ${titleHtml}
@@ -124,7 +190,6 @@ function updateNavControls() {
     const prevBtn = document.getElementById('nav-prev');
     const nextBtn = document.getElementById('nav-next');
 
-    // If no index context, disable all
     if (appState.currentIndex === -1 || appState.availableDates.length === 0) {
         prevBtn.disabled = true;
         nextBtn.disabled = true;
@@ -153,11 +218,55 @@ window.switchTab = function (tab) {
     renderSummary();
 };
 
+// Mobile Accordion Logic
+window.toggleSection = function (sectionId) {
+    let content, header, icon;
+
+    if (sectionId === 'map') {
+        content = document.getElementById('map-content');
+        header = document.querySelector('#map-section .panel-header');
+        icon = header.querySelector('.toggle-icon');
+    } else if (sectionId === 'summary') {
+        content = document.getElementById('summary-content');
+        header = document.querySelector('#summary-section .panel-header');
+        icon = header.querySelector('.toggle-icon');
+    } else if (sectionId === 'filter') {
+        content = document.getElementById('filter-container');
+        icon = document.getElementById('filter-icon');
+    }
+
+    if (!content) return;
+
+    const isCollapsed = content.classList.contains('collapsed');
+
+    if (isCollapsed) {
+        // Expand
+        content.classList.remove('collapsed');
+        if (header) header.classList.remove('collapsed');
+        if (icon) icon.style.transform = 'rotate(0deg)';
+
+        // Specific logic for map resize
+        if (sectionId === 'map' && map) {
+            setTimeout(() => {
+                map.invalidateSize();
+            }, 350); // Wait for transition
+        }
+    } else {
+        // Collapse
+        content.classList.add('collapsed');
+        if (header) header.classList.add('collapsed');
+        if (icon) icon.style.transform = 'rotate(-90deg)';
+    }
+};
+
 // Resizer Logic
 function initResizer() {
     const resizer = document.getElementById('drag-handle');
     const topSection = document.querySelector('.top-section');
     let isDragging = false;
+
+    // Disable resizer logic on mobile if needed, or handle gracefully
+    if (window.innerWidth <= 768) return;
 
     if (!resizer) return;
 
@@ -192,7 +301,6 @@ function initResizer() {
 document.addEventListener('DOMContentLoaded', async () => {
     initResizer();
 
-    // Setup Nav Listeners
     document.getElementById('nav-prev').addEventListener('click', () => changeDate(-1));
     document.getElementById('nav-next').addEventListener('click', () => changeDate(1));
 
@@ -215,3 +323,4 @@ document.addEventListener('DOMContentLoaded', async () => {
         loadData('2026-01-26');
     }
 });
+
