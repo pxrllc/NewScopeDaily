@@ -65,7 +65,7 @@ export class RssFetcher {
                         id: this.generateId(item.link || item.title || ''),
                         title: item.title || '',
                         link: item.link || '',
-                        pubDate: item.pubDate || new Date().toISOString(),
+                        pubDate: item.isoDate || item.pubDate || new Date().toISOString(),
                         snippet: item.contentSnippet || item.content || '',
                         source: feedInfo.title,
                         sourceUrl: feedInfo.url,
