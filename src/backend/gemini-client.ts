@@ -21,6 +21,18 @@ export class GeminiClient {
         return new Promise(resolve => setTimeout(resolve, ms));
     }
 
+    public async validateConnection(): Promise<boolean> {
+        try {
+            // Simple prompt to verify API access and Model existence
+            const model = this.model;
+            const result = await model.generateContent("ping");
+            return !!result.response.text();
+        } catch (error) {
+            console.error("Gemini Connection Validation Failed:", error);
+            return false;
+        }
+    }
+
     // Batch processing to reduce API calls (e.g., process 10 articles at once)
     public async enrichBatch(articles: Article[]): Promise<Article[]> {
         const prompt = `

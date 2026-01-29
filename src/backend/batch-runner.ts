@@ -48,6 +48,16 @@ async function main() {
 
         // 2. Filter & Process (Gemini)
         const gemini = new GeminiClient();
+
+        // Critical Check: Validate API Connection & Model before processing
+        const isConnected = await gemini.validateConnection();
+        if (!isConnected) {
+            console.error("CRITICAL: Gemini API Connection Failed. Check API Key and Model availability.");
+            appendLog("- Error: Gemini API Connection Failed at startup.");
+            process.exit(1);
+        }
+        console.log("Gemini Connection Verified.");
+
         const processedArticles = [];
 
         // Optimization: Filter Top N articles per source to limit API usage
