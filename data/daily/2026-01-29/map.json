@@ -1,1 +1,758 @@
-{}
+{
+  "IR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "534217bbbab4628647441dbc54ad0e46",
+      "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
+      "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-26T21:34:40.000Z",
+      "snippet": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "新たなイランの映像が病院に積み重ねられた遺体と屋上の狙撃兵を示す"
+    }
+  },
+  "US": {
+    "count": 11,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "590f9424785f93154d9eaed703c707aa",
+      "title": "Life at the U.S.–Mexico border under the Trump administration",
+      "link": "https://globalvoices.org/2025/12/16/life-at-the-u-s-mexico-border-under-the-trump-administration/",
+      "pubDate": "2025-12-16T01:00:17.000Z",
+      "snippet": "The Trump administration has reintroduced some of its most contentious border measures, leading to renewed targeting, detention, and deportation of migrant communities, leaving thousands seeking safety in increasingly perilous conditions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "US",
+      "category": "Politics",
+      "importanceScore": 85,
+      "titleJa": "トランプ政権下の米墨国境での生活"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7a39e8811dd13df472a3fb8b9dd0e63a",
+      "title": "Zelensky condemns Russian drone strike that killed five on passenger train",
+      "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T08:04:36.000Z",
+      "snippet": "Drones targeted a packed train in north-eastern Ukraine, officials say.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "ゼレンスキー、ロシアのドローン攻撃で旅客列車5人死亡を非難"
+    }
+  },
+  "CO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a89a822e9f85774195af3f43da5ff9bb",
+      "title": "Small plane crashes in Colombia, killing 15, including congressman",
+      "link": "http://www.euronews.com/2026/01/29/small-plane-crashes-in-colombia-killing-15-including-congressman",
+      "pubDate": "2026-01-29T04:15:40.000Z",
+      "snippet": "The plane was flying from the airport in Cúcuta to Ocaña, a municipality surrounded by mountains, but lost communication with traffic control shortly after takeoff.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "CO",
+      "category": "Disaster",
+      "importanceScore": 75,
+      "titleJa": "コロンビアで小型機が墜落し、国会議員を含む15人が死亡"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c28ee98c73392bd86c123195d4e361d2",
+      "title": "At least five killed after Storm Kristin hits Portugal",
+      "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T22:59:48.000Z",
+      "snippet": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PT",
+      "category": "Disaster",
+      "importanceScore": 65,
+      "titleJa": "嵐クリスティンがポルトガルを襲い、少なくとも5人が死亡"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "dfac611d491feb8027165ef0ecff5e4b",
+      "title": "Germany arrests suspected Hamas member over alleged attack plot",
+      "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-24T18:57:09.000Z",
+      "snippet": "The Lebanese man helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "DE",
+      "category": "Conflict",
+      "importanceScore": 80,
+      "titleJa": "ドイツ、ハマスの一員と疑われる人物を攻撃計画の疑いで逮捕"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7a975d293a6503a35bd48a53c9bf9692",
+      "title": "UK's Keir Starmer visits China as Beijing courts US allies",
+      "link": "https://www.dw.com/en/uk-s-keir-starmer-visits-china-as-beijing-courts-us-allies/a-75703333?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-01-29T04:35:00.000Z",
+      "snippet": "Keir Starmer is in China for the first trip by a British prime minister since 2018. He's the latest of a string of Western leaders to visit recently, with German Chancellor Friedrich Merz soon to follow.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "importanceScore": 85,
+      "titleJa": "英国のキア・スターマー首相が中国を訪問、北京は米国同盟国を誘致"
+    }
+  },
+  "HU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "98d89ffd665a1e3215c42a257429e10b",
+      "title": "Hungary: Cabinet member uses vulgar slur to insult Roma",
+      "link": "https://www.dw.com/en/hungary-cabinet-member-uses-vulgar-slur-to-insult-roma/a-75685467?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-01-28T16:00:00.000Z",
+      "snippet": "Transportation Minister Janos Lazar says Hungary doesn't need foreign workers and crudely joked that Roma should clean dirty toilets in their stead. Will his comments cost Viktor Orban's party in upcoming elections?",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Society",
+      "importanceScore": 70,
+      "titleJa": "ハンガリー：閣僚がロマ民族を侮辱する下品なスラングを使用"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b69be4114a0fbfd4688dda7e4570438c",
+      "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+      "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-27T19:13:55.000Z",
+      "snippet": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Politics",
+      "importanceScore": 75,
+      "titleJa": "米国、冬季五輪にICE捜査官派遣でイタリアが反発"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "18beb5c183603ecf09f825982a06094d",
+      "title": "Court faults Netherlands over Caribbean island climate risks",
+      "link": "https://www.dw.com/en/court-faults-netherlands-over-caribbean-island-climate-risks/a-75699359?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-01-28T16:12:00.000Z",
+      "snippet": "Judges have ruled that the Dutch government has been failing to adequately protect its citizens on the island of Bonaire from climate threats.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "NL",
+      "category": "Environment",
+      "importanceScore": 65,
+      "titleJa": "裁判所、カリブ海の島における気候リスクに関してオランダ政府に過失ありと判断"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f8fd54b675d33ec2c832c9f960d7b5c6",
+      "title": "Crocodile warnings as floods devastate southern Africa",
+      "link": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+      "pubDate": "2026-01-26T13:44:51.000Z",
+      "snippet": "More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and Zimbabwe\nDevastating floods have killed more than 100 people in southern Africa since the beginning of the year and displaced hundreds of thousands, as authorities and aid workers warn of hunger, cholera and attacks by crocodiles that have spread with the waters.\nMore than 70 people have died in Zimbabwe and 30 in South Africa, where hundreds of people were evacuated from Kruger national park earlier this month after a deluge of rain.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Disaster",
+      "importanceScore": 90,
+      "titleJa": "洪水が南部アフリカを壊滅させる中、ワニの警告"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "efc2ad6d8627c6e3054d0ea3c017d50e",
+      "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+      "link": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+      "pubDate": "2026-01-23T17:09:46.000Z",
+      "snippet": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns\nUS health officials insisted it was still on. African health leaders said it was cancelled. At the heart of the controversy is the west African nation of Guinea-Bissau – one of the poorest countries in the world and the proposed site of a hotly debated US-funded study on vaccines.\nThe study on hepatitis B vaccination, to be led by Danish researchers, became a flashpoint after major changes to the US vaccination schedule and prompted questions about how research is conducted ethically in other countries.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GW",
+      "category": "Society",
+      "importanceScore": 65,
+      "titleJa": "「これは国家の主権だ」：ギニアビサウ、米国ワクチン研究の中止を発表"
+    }
+  },
+  "VE": {
+    "count": 12,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bc14a0a14746f477c44813ba7f7a5c1d",
+      "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
+      "link": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-16T13:28:40.000Z",
+      "snippet": "The pair discussed economic opportunities and preventing Venezuela becoming a place for \"America's adversaries\", a US official said.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "importanceScore": 90,
+      "titleJa": "CIA長官、カラカスで新ベネズエラ指導者と2時間会談"
+    }
+  },
+  "MX": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "760ad246cebb407bf0fd0b9b54dcc257",
+      "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
+      "link": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-26T11:29:26.000Z",
+      "snippet": "The incident happened in Salamanca, a city particularly subject to gang-related violence.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "武装集団がメキシコのサッカー場を襲撃し、少なくとも11人を殺害"
+    }
+  },
+  "HN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1bd08f0ddfeb848f8b120f061fe8d1a5",
+      "title": "Five-year-old deported to Honduras despite being US citizen is latest child victim of Trump crackdown",
+      "link": "https://www.theguardian.com/us-news/2026/jan/27/five-year-old-girl-us-citizen-and-mother-deported-honduras",
+      "pubDate": "2026-01-27T14:34:28.000Z",
+      "snippet": "Mother whose visa application was pending says she will send girl back to US soon accompanied by another relative\nFive-year-old Génesis Ester Gutiérrez Castellanos misses her cousins, classmates and kindergarten teachers in Austin, Texas. Despite being a US citizen, she was deported on 11 January alongside her mother, Karen Guadalupe Gutiérrez Castellanos, to Honduras, a country Génesis had never known.\nImmigration and Customs Enforcement (ICE) agents were acting on an administrative deportation order against Gutiérrez, 26, issued in 2019, before Génesis was born.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "HN",
+      "category": "Society",
+      "importanceScore": 70,
+      "titleJa": "米国市民であるにもかかわらずホンジュラスに強制送還された5歳児、トランプ政権による取り締まりの最新の犠牲者に"
+    }
+  },
+  "IQ": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a5354327b793d6a0f85e94899ac97787",
+      "title": "Former Iraqi PM Maliki denounces Trump threats to end support if he returns to power",
+      "link": "https://www.bbc.com/news/articles/cn0kpk3drgjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T11:44:34.000Z",
+      "snippet": "The US president said Iraq would have \"zero\" chance of success without American support.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Politics",
+      "importanceScore": 85,
+      "titleJa": "イラクのマリキ元首相、復権阻止のトランプ大統領の脅迫を非難"
+    }
+  },
+  "HR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08974516dc0c60be2dbe85f250ea4a42",
+      "title": "Croatia will not join Trump's 'Board of Peace,' Prime Minister Andrej Plenković says",
+      "link": "http://www.euronews.com/2026/01/28/croatia-will-not-join-trumps-board-of-peace-prime-minister-andrej-plenkovic-says",
+      "pubDate": "2026-01-28T18:41:21.000Z",
+      "snippet": "Trump said last week he expects more than 50 countries to join, in what appears to challenge the United Nations Security Council's traditional role in international conflict resolution.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "HR",
+      "category": "Politics",
+      "importanceScore": 65,
+      "titleJa": "クロアチアはトランプ大統領の「平和評議会」には参加しない、アンドレイ・プレンコビッチ首相が表明"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "85738962a7e0a0ba23fc956de1f7266a",
+      "title": "Haiti faces sexual violence and abuse crisis as gang violence spreads, MSF says ",
+      "link": "http://www.euronews.com/2026/01/28/haiti-faces-sexual-violence-and-abuse-crisis-as-gang-violence-spreads-msf-says",
+      "pubDate": "2026-01-28T18:04:25.000Z",
+      "snippet": "Haiti has been plagued by worsening gang violence since the 2021 assassination of its then-President Jovenel Moïse with gangs controlling around 90% of the capital.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "HT",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "ギャングの暴力が蔓延し、ハイチは性的暴力と虐待の危機に直面しているとMSFが発表"
+    }
+  },
+  "DK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4e927766873d683379cc179f51d1d463",
+      "title": "Danish MEP Dahl backs Rutte's view on EU defence dependence on US",
+      "link": "http://www.euronews.com/my-europe/2026/01/28/danish-mep-dahl-backs-ruttes-view-on-eu-defence-dependence-on-us",
+      "pubDate": "2026-01-28T17:23:38.000Z",
+      "snippet": "The Danish EPP MEP said in an opinion article for Euronews that NATO secretary general is right to claim the EU remains dependent on the US for security, at least for now.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "DK",
+      "category": "Politics",
+      "importanceScore": 65,
+      "titleJa": "デンマークのMEPダール氏、EUの防衛における米国への依存に関するルッテ氏の見解を支持"
+    }
+  },
+  "IL": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7d7338108e3b63bc529361714f66d273",
+      "title": "Israel says it has retrieved remains of final Gaza hostage",
+      "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-26T18:37:05.000Z",
+      "snippet": "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\".",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "importanceScore": 75,
+      "titleJa": "イスラエル、最後のガザ人質遺体を回収と発表"
+    }
+  },
+  "YE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c89081b54766e50152caff05e8b898e7",
+      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+      "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-23T14:43:48.000Z",
+      "snippet": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Society",
+      "importanceScore": 85,
+      "titleJa": "「息子から7ヶ月音沙汰がない」：イエメンのUAE運営秘密刑務所の内部"
+    }
+  },
+  "SY": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "635fbe003a3e209cbdf167fb4d027684",
+      "title": "US to transfer Islamic State prisoners from Syria to Iraq",
+      "link": "https://www.bbc.com/news/articles/cx20pwqkgp9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-21T20:09:57.000Z",
+      "snippet": "The move comes as Syrian government forces take control of north-eastern areas where Kurdish-led forces have long controlled.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Conflict",
+      "importanceScore": 80,
+      "titleJa": "米国、イスラム国捕虜をシリアからイラクへ移送へ"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "29f1248ecccabc7e36cb9347d261cddf",
+      "title": "Israeli strike in Gaza kills three journalists, first responders say",
+      "link": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-21T20:44:23.000Z",
+      "snippet": "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "importanceScore": 95,
+      "titleJa": "イスラエルのガザ攻撃でジャーナリスト3人が死亡、初期対応者が発表"
+    }
+  },
+  "NG": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "150aad09c272155726f2e4f770e33224",
+      "title": "Ex-Nigerian minister in bribery trial went on spending sprees, court hears",
+      "link": "https://www.bbc.com/news/articles/ckgjprg5828o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T21:01:18.000Z",
+      "snippet": "Prosecutors allege Diezani Alison-Madueke was given \"a life of luxury\" in the UK by people interested in Nigerian government contracts.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "importanceScore": 80,
+      "titleJa": "贈賄裁判中のナイジェリア元大臣、浪費していたと法廷で証言"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "be885d0b628061c2c9d0633cf5369bbb",
+      "title": "The model who moved to Ghana and wrapped her prosthetic leg in its famous fabric",
+      "link": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T00:17:35.000Z",
+      "snippet": "Abena Christine Jon'el left the US and now aims to raise the profile of people with disabilities in Ghana.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "importanceScore": 40,
+      "titleJa": "ガーナに移住し、義足を現地の有名な布で包んだモデル"
+    }
+  },
+  "RW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7fbe6589c6118471f52a22f8a70df183",
+      "title": "Rwanda seeks £100m from UK over axed asylum deal",
+      "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T09:25:31.000Z",
+      "snippet": "The African nation argues it is owed payments but the Home Office says it will fight the case.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "RW",
+      "category": "Politics",
+      "importanceScore": 75,
+      "titleJa": "ルワンダ、破棄された亡命取引を巡り英国に1億ポンドを要求"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "de9958a7f1e7742de41baa855a699210",
+      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+      "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-25T18:48:27.000Z",
+      "snippet": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Disaster",
+      "importanceScore": 90,
+      "titleJa": "「ここ数世代で最悪の洪水」がモザンビークを襲い、人々は木の上にしがみつく"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e227c1abe3d926141bd60ded578d98ff",
+      "title": "Slashed incomes and gamers go cold turkey: the fallout from Uganda's internet shutdown",
+      "link": "https://www.bbc.com/news/articles/cx2p54rm4k4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-22T04:14:19.000Z",
+      "snippet": "The internet was shut during the general election, leaving many people without any income - or entertainment.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Economy",
+      "importanceScore": 70,
+      "titleJa": "ウガンダのインターネット遮断による影響：収入激減とゲーマーの禁断症状"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f8274cd0c0349f8dbbd66b6aebc3837e",
+      "title": "Morocco, AFCON, and the controversies that trailed Africa’s biggest football event",
+      "link": "https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event/",
+      "pubDate": "2026-01-26T18:00:06.000Z",
+      "snippet": "“This isn’t ‘passion,’ it’s medieval conduct wearing a modern jersey, enabled by CAF.”",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "importanceScore": 60,
+      "titleJa": "モロッコ、アフリカネイションズカップ、そしてその最大のサッカーイベントを巡る論争"
+    }
+  },
+  "ML": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "10b7395bc421e9557a85af7fd1223452",
+      "title": "Combating the climate crisis to promote peace in Mali",
+      "link": "https://globalvoices.org/2026/01/22/combating-the-climate-crisis-to-promote-peace-in-mali/",
+      "pubDate": "2026-01-22T18:00:56.000Z",
+      "snippet": "Between 1970 and 2020, the country experienced at least 40 major climate shocks, with drought affecting around 400,000 people each year and reducing crop revenues by US$9.5 million annually, according to the World Bank.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Environment",
+      "importanceScore": 80,
+      "titleJa": "マリの平和促進に向けた気候危機との闘い"
+    }
+  },
+  "CG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bbecde5b7343152b2f76ca7b88cf920c",
+      "title": "Is the Chinese presence in Congo Brazzaville a threat to ‘first occupants’ or a relief to them?",
+      "link": "https://globalvoices.org/2026/01/05/is-the-chinese-presence-in-congo-brazzaville-a-threat-to-first-occupants-or-a-relief-to-them/",
+      "pubDate": "2026-01-05T06:00:20.000Z",
+      "snippet": "The decline of the forest, following extractive work, deforestation, tree cutting, agricultural expansion, illegal logging, and other works in the forest areas of Congo, is shrinking the habitat of Indigenous peoples.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CG",
+      "category": "Environment",
+      "importanceScore": 75,
+      "titleJa": "コンゴ・ブラザビルにおける中国の存在は「先住民族」にとって脅威か、それとも恩恵か？"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "89c090bcc92e7939fb8459ba950fd5c9",
+      "title": "Cameroonians shift toward clean cooking solutions with eco-charcoal",
+      "link": "https://globalvoices.org/2025/12/31/cameroonians-shift-toward-clean-cooking-solutions-with-eco-charcoal/",
+      "pubDate": "2025-12-31T09:00:00.000Z",
+      "snippet": "Eco-charcoal, a product made using methods and materials that minimize environmental harm, is gradually replacing traditional charcoal in some households in Cameroon’s capital, Yaounde.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Environment",
+      "importanceScore": 65,
+      "titleJa": "カメルーンの人々がエコ炭を利用したクリーンな調理法へ移行"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "190c94601ff9bbc014159ad0a3f81bd7",
+      "title": "Senegal: Where women’s bodies belong to everyone but themselves",
+      "link": "https://globalvoices.org/2025/12/27/senegal-where-womens-bodies-belong-to-everyone-but-themselves/",
+      "pubDate": "2025-12-27T07:00:19.000Z",
+      "snippet": "In Senegal, women who are victims of rape can be condemned for trying to take control of their lives. Society decides what is best for women.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Society",
+      "importanceScore": 90,
+      "titleJa": "セネガル：女性の身体が自分自身以外のものである場所"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bed9e668beedb8b51e99879df983c32e",
+      "title": "Kenyan filmmaker Emily Nderitu shows the world how to talk about climate change in Africa",
+      "link": "https://globalvoices.org/2025/12/24/kenyan-filmmaker-emily-nderitu-shows-the-world-how-to-talk-about-climate-change-in-africa/",
+      "pubDate": "2025-12-24T08:00:53.000Z",
+      "snippet": "\"We’re not short of knowledge or courage in Africa. We’re short of recognition. Storytelling can fix that. It can close the gap between visibility and value.\"",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Environment",
+      "importanceScore": 70,
+      "titleJa": "ケニアの映画製作者エミリー・ンデリトゥが、アフリカでの気候変動の語り方を世界に示す"
+    }
+  },
+  "FR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8150416ba3aa305e5a47c9c5940682db",
+      "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
+      "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-27T01:12:19.000Z",
+      "snippet": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Society",
+      "importanceScore": 80,
+      "titleJa": "「大きな一歩」：フランス議会、15歳未満のSNS禁止法案を可決"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "455ebb768c6022a296a6de36d728039d",
+      "title": "Spain plans to give half a million undocumented migrants legal status",
+      "link": "https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-27T16:59:49.000Z",
+      "snippet": "The process will be available to foreign nationals without a criminal record who can prove they lived in Spain for five months prior to 31 December 2025.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Society",
+      "importanceScore": 80,
+      "titleJa": "スペイン、不法移民50万人に法的地位付与へ"
+    }
+  },
+  "SE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e5a4168afaae2ed33962d8c36a4f2dd9",
+      "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
+      "link": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-27T12:26:00.000Z",
+      "snippet": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "SE",
+      "category": "Society",
+      "importanceScore": 78,
+      "titleJa": "スウェーデン、ギャングによる子供の勧誘を受け、刑事責任年齢を13歳に引き下げへ"
+    }
+  },
+  "GL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5412db621c8dbe9e799339785bed945f",
+      "title": "Trump covets mineral-rich Greenland, but what natural resources does it actually have?",
+      "link": "https://www.bbc.com/news/articles/cly9230yw15o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-23T12:39:51.000Z",
+      "snippet": "Greenland's natural resources include large reserves of rare earth deposits.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GL",
+      "category": "Economy",
+      "importanceScore": 70,
+      "titleJa": "トランプ氏が狙う資源大国グリーンランド、その天然資源の実態は？"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3ba3ed064bc5766d5aa6bf53cb79f742",
+      "title": "Sly Dunbar, prolific legend of reggae, dies aged 73",
+      "link": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-26T22:35:45.000Z",
+      "snippet": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Entertainment",
+      "importanceScore": 60,
+      "titleJa": "レゲエ界の伝説、多作なスライ・ダンバー氏が73歳で死去"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1f70bddf01fb0ba8a0cc26b90e5aba0e",
+      "title": "‘Femicide does not start on the day of the crime’: A Brazilian researcher’s view on gender violence in her country",
+      "link": "https://globalvoices.org/2025/12/12/femicide-does-not-start-on-the-day-of-the-crime-a-brazilian-researchers-view-on-gender-violence-in-her-country/",
+      "pubDate": "2025-12-12T12:30:35.000Z",
+      "snippet": "[Femicide] starts when psychological violence is minimized, when a partner’s control is normalized as jealousy, when jokes or demeaning comments about women are seen as humor.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "importanceScore": 80,
+      "titleJa": "「女性殺しは犯罪の日から始まるのではない」：ブラジル人研究者が語る自国におけるジェンダー暴力"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "39f8f60211f55f9640ee88f44a59a537",
+      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
+      "link": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits/",
+      "pubDate": "2025-12-19T05:00:27.000Z",
+      "snippet": "Non-compliance with Technical Minimum Power, causing a greater injection of fossil-fuel-generated energy into the grid, violates Dominican legislation and hinders climate commitments, especially when renewable energy companies’ production remains restricted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "importanceScore": 70,
+      "titleJa": "ドミニカ共和国、再生可能エネルギーを無駄にし、化石燃料火力発電所が法的制限を超えて稼働"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "eb3fc5dc94997f06969be307b3523925",
+      "title": "Social networks fuel youth mobilization on Argentina’s streets",
+      "link": "https://globalvoices.org/2025/12/18/social-networks-fuel-youth-mobilization-on-argentinas-streets/",
+      "pubDate": "2025-12-18T12:00:20.000Z",
+      "snippet": "Unlike movements in earlier decades, Argentina’s latest youth-led protests are increasingly organized digitally through platforms like TikTok, Instagram, and Whatsapp, rather than through unions or political parties.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "importanceScore": 60,
+      "titleJa": "ソーシャルネットワークがアルゼンチンの若者の街頭動員を加速"
+    }
+  }
+}
