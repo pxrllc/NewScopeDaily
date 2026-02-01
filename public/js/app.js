@@ -262,7 +262,7 @@ window.toggleSection = function (sectionId) {
 // Resizer Logic
 function initResizer() {
     const resizer = document.getElementById('drag-handle');
-    const topSection = document.querySelector('.top-section');
+    const mapPanel = document.querySelector('.map-panel');
     let isDragging = false;
 
     // Disable resizer logic on mobile if needed, or handle gracefully
@@ -282,7 +282,7 @@ function initResizer() {
         const containerHeight = window.innerHeight;
         const newHeight = e.clientY;
         if (newHeight > 100 && newHeight < containerHeight - 100) {
-            topSection.style.height = `${newHeight}px`;
+            mapPanel.style.height = `${newHeight}px`;
             if (map) map.invalidateSize();
         }
     });

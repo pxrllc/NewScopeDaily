@@ -46,10 +46,9 @@
         <!-- Main Content Grid -->
         <main class="main-grid">
 
-            <!-- Top Section: Map & Summary Split -->
-            <section class="top-section">
-                <!-- Left: Map -->
-                <!-- Left: Map -->
+            <!-- Left Column: Map & Feed -->
+            <div class="left-column">
+                <!-- Map Section -->
                 <div class="map-panel" id="map-section">
                     <div class="panel-header mobile-only collapsed" onclick="toggleSection('map')">
                         <span>🗺️ 地図を表示</span>
@@ -70,51 +69,52 @@
                     </div>
                 </div>
 
-                <!-- Right: Summary Panel -->
-                <div class="summary-panel" id="summary-section">
-                    <div class="panel-header mobile-only" onclick="toggleSection('summary')">
-                        <span>📰 サマリー (要約)</span>
-                        <span class="toggle-icon">▼</span>
-                    </div>
-                    <div class="content-wrapper" id="summary-content">
-                        <div class="tabs">
-                            <button class="tab-btn active" data-tab="world" onclick="switchTab('world')">
-                                🌍 世界のトップニュース
-                            </button>
-                            <button class="tab-btn" data-tab="regional" onclick="switchTab('regional')">
-                                📍 地域フォーカス
-                            </button>
-                        </div>
-                        <div id="summary-container" class="markdown-body scrollable-summary">
-                            <!-- Content will be loaded here via JS -->
-                            <div class="loading">Loading digest...</div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                <!-- Resizer Handle -->
+                <div class="resizer" id="drag-handle"></div>
 
-            <!-- Resizer Handle -->
-            <div class="resizer" id="drag-handle"></div>
-
-            <!-- Bottom Section: News Grid -->
-            <section class="content-section" id="bottom-panel">
-                <div class="feed-header">
-                    <div class="header-top">
-                        <h3>最新ニュース一覧</h3>
-                        <div class="mobile-only toggle-btn" onclick="toggleSection('filter')">
-                            タグ表示 <span class="toggle-icon" id="filter-icon">▼</span>
+                <!-- Feed Section -->
+                <section class="content-section" id="bottom-panel">
+                    <div class="feed-header">
+                        <div class="header-top">
+                            <h3>最新ニュース一覧</h3>
+                            <div class="mobile-only toggle-btn" onclick="toggleSection('filter')">
+                                タグ表示 <span class="toggle-icon" id="filter-icon">▼</span>
+                            </div>
+                        </div>
+                        <div id="filter-container" class="filter-bar content-wrapper">
+                            <!-- Filters will be injected here -->
                         </div>
                     </div>
-                    <div id="filter-container" class="filter-bar content-wrapper">
-                        <!-- Filters will be injected here -->
+                    <div class="scroll-container">
+                        <ul id="feed-list" class="feed-list">
+                            <!-- Items loaded here -->
+                        </ul>
+                    </div>
+                </section>
+            </div>
+
+            <!-- Right Column: Summary Panel -->
+            <div class="summary-panel" id="summary-section">
+                <div class="panel-header mobile-only" onclick="toggleSection('summary')">
+                    <span>📰 サマリー (要約)</span>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="content-wrapper" id="summary-content">
+                    <div class="tabs">
+                        <button class="tab-btn active" data-tab="world" onclick="switchTab('world')">
+                            🌍 世界のトップニュース
+                        </button>
+                        <button class="tab-btn" data-tab="regional" onclick="switchTab('regional')">
+                            📍 地域フォーカス
+                        </button>
+                    </div>
+                    <div id="summary-container" class="markdown-body scrollable-summary">
+                        <!-- Content will be loaded here via JS -->
+                        <div class="loading">Loading digest...</div>
                     </div>
                 </div>
-                <div class="scroll-container">
-                    <ul id="feed-list" class="feed-list">
-                        <!-- Items loaded here -->
-                    </ul>
-                </div>
-            </section>
+            </div>
+
         </main>
     </div>
 
