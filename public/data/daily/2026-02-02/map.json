@@ -1,0 +1,812 @@
+{
+  "UA": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c0e053e4b9eb202ea929ca133fcfcb67",
+      "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
+      "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T18:01:53.000Z",
+      "snippet": "Seven others were reported injured in the strike near a bus carrying the workers on Sunday.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "ロシアのウクライナへの攻撃で鉱山労働者12人が死亡、エネルギー会社が発表"
+    }
+  },
+  "GB": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "babe957505352e349ff77271c8b2bcc1",
+      "title": "Epstein sent $75,000 to accounts linked to Mandelson, files suggest",
+      "link": "https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T14:53:08.000Z",
+      "snippet": "Lord Mandelson says he has no record or recollection of receiving the sums and does not know if the documents are authentic.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "importanceScore": 75,
+      "titleJa": "エプスタインがマンデルソン氏関連口座に7万5千ドルを送金、ファイルが示唆"
+    }
+  },
+  "IR": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0b6a66cb20f27ed9f1a441ee46112353",
+      "title": "Iran's supreme leader warns of regional war if US attacks",
+      "link": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T17:40:37.000Z",
+      "snippet": "Trump earlier said Iran - which is due to begin a live-fire naval exercise in a key shipping route - was in \"serious discussions\".",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Politics",
+      "importanceScore": 95,
+      "titleJa": "イラン最高指導者、米国が攻撃すれば地域戦争になると警告"
+    }
+  },
+  "US": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "590f9424785f93154d9eaed703c707aa",
+      "title": "Life at the U.S.–Mexico border under the Trump administration",
+      "link": "https://globalvoices.org/2025/12/16/life-at-the-u-s-mexico-border-under-the-trump-administration/",
+      "pubDate": "2025-12-16T01:00:17.000Z",
+      "snippet": "The Trump administration has reintroduced some of its most contentious border measures, leading to renewed targeting, detention, and deportation of migrant communities, leaving thousands seeking safety in increasingly perilous conditions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "US",
+      "category": "Politics",
+      "importanceScore": 85,
+      "titleJa": "トランプ政権下の米墨国境での生活"
+    }
+  },
+  "IL": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7d4ab9c6733cb9393fc0ff9a3d6d283f",
+      "title": "Israel to ban MSF from working in Gaza over refusal to provide staff list",
+      "link": "https://www.bbc.com/news/articles/cvg1ymmkpkro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T13:20:38.000Z",
+      "snippet": "Medical charity Medicine Sans Frontières said it would not share the list as it had not been able to ensure staff would remain safe.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Politics",
+      "importanceScore": 85,
+      "titleJa": "イスラエル、スタッフリスト提出拒否でMSFのガザでの活動を禁止へ"
+    }
+  },
+  "VE": {
+    "count": 12,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4812c0d87e274f26dc334b0299f2192a",
+      "title": "A new, terrifying sound: A Venezuelan account of the the attack on Caracas",
+      "link": "https://globalvoices.org/2026/01/05/a-new-terrifying-sound/",
+      "pubDate": "2026-01-05T21:01:15.000Z",
+      "snippet": "“I thought Venezuelans had already heard every sound the country’s violence had to offer. But this was something new — terrifying in its unfamiliarity.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "新たな恐ろしい音：カラカス攻撃に関するベネズエラの証言"
+    }
+  },
+  "CH": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6eaa183811620c4be328ee62cdab46d5",
+      "title": "Teenager dies from Swiss bar fire injuries, bringing death toll to 41",
+      "link": "https://www.bbc.com/news/articles/c0lxr1ne52ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T14:04:04.000Z",
+      "snippet": "The 18-year-old Swiss national died at a hospital in Zurich, the local prosecutor said.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CH",
+      "category": "Disaster",
+      "importanceScore": 90,
+      "titleJa": "スイスのバー火災による負傷で10代の若者が死亡、死者数41人に"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "04d0ba4de5dcbf4a44fff897249d012e",
+      "title": "Aspiring Nigerian singer dies after being bitten by a snake",
+      "link": "https://www.bbc.com/news/articles/c77k0nlvx3yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T16:10:34.000Z",
+      "snippet": "Ifunanya Nwangene, a former contestant in The Voice Nigeria, died after not getting the antivenom she needed.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Society",
+      "importanceScore": 60,
+      "titleJa": "毒蛇に噛まれ、ナイジェリア人歌手志望者が死亡"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cf90ba33c2da1b4cbab1b9d20d9973cb",
+      "title": "India sets record budget for infrastructure, defense",
+      "link": "https://www.dw.com/en/india-sets-record-budget-for-infrastructure-defense/a-75753459?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-02-01T18:21:00.000Z",
+      "snippet": "India's defense boost was expected following the four-day conflict with Pakistan last May. The budget also highlights plans for seven high-speed rail corridors and rare earth corridors.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Economy",
+      "importanceScore": 80,
+      "titleJa": "インド、インフラ・防衛に過去最高予算を設定"
+    }
+  },
+  "DE": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08da6f1a21ecd382735474b3f5263fd8",
+      "title": "Germany news: Energy cooperation with Saudi Arabia to expand",
+      "link": "https://www.dw.com/en/germany-news-energy-cooperation-with-saudi-arabia-to-expand/live-75738990?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-02-01T13:56:00.000Z",
+      "snippet": "During a visit to Riyadh, Germany's Economy Minister Katherina Reiche said companies from the two countries will work together to strengthen the ties between them. Follow DW for the latest.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "importanceScore": 70,
+      "titleJa": "ドイツのニュース：サウジアラビアとのエネルギー協力が拡大へ"
+    }
+  },
+  "PK": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5d5d6deb5e3d8981b5626d6c8890abdc",
+      "title": "Pakistan: 145 militants killed after suicide and gun attacks",
+      "link": "https://www.dw.com/en/pakistan-145-militants-killed-after-suicide-and-gun-attacks/a-75750607?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-02-01T14:32:00.000Z",
+      "snippet": "The series of coordinated attacks across Pakistan's southwestern Balochistan province also left at least 31 civilians and 17 security personnel dead.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PK",
+      "category": "Conflict",
+      "importanceScore": 85,
+      "titleJa": "パキスタン：自爆・銃撃事件後、武装勢力145人が殺害される"
+    }
+  },
+  "PS": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9b383863026b0d87db01b00c20691e4f",
+      "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+      "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T01:30:24.000Z",
+      "snippet": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "イスラエル軍の空爆でガザ地区のパレスチナ人少なくとも32人が死亡、救助当局発表"
+    }
+  },
+  "CD": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "093329b8316d99ae63afc06939cbe82e",
+      "title": "More than 200 killed in mine collapse in DR Congo",
+      "link": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T11:27:31.000Z",
+      "snippet": "The mine gave way after heavy rains on Wednesday, a local rebel spokesman says.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Disaster",
+      "importanceScore": 95,
+      "titleJa": "コンゴ民主共和国で鉱山崩落、200人以上が死亡"
+    }
+  },
+  "NE": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7c46a083add848ff31e2355112d3f8a3",
+      "title": "Islamic State claims attack on international airport and airbase in Niger",
+      "link": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
+      "pubDate": "2026-01-30T15:57:44.000Z",
+      "snippet": "Motorcycle-riding militants launch strikes using heavy weaponry and drones, damaging planes belonging to Ivorian carrier and Togolese airline\nIslamic State in the Sahel has claimed responsibility for an audacious assault at the international airport and adjacent air force base in Niamey, the capital of Niger, according to the SITE Intelligence Group, which tracks jihadist activity and communications worldwide.\nThe attack, which began shortly after midnight on Thursday, reportedly involved motorcycle-riding militants who launched a “surprise and coordinated” strike using heavy weaponry and drones, according to statements released via IS in the Sahel’s propaganda arm, Amaq news agency.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NE",
+      "category": "Conflict",
+      "importanceScore": 75,
+      "titleJa": "イスラム国、ニジェール国際空港と空軍基地への攻撃を主張"
+    }
+  },
+  "ZA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ca2f1e5c37504cdc637d031a46c80393",
+      "title": "South Africa and Israel expel each other's envoys in diplomatic row",
+      "link": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T16:10:24.000Z",
+      "snippet": "South Africa accuses the Israeli envoy of insulting President Ramaphosa. Israel says the expulsion is \"baseless\".",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "ZA",
+      "category": "Politics",
+      "importanceScore": 75,
+      "titleJa": "南アフリカとイスラエル、外交問題で互いの特使を追放"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9e0c9c5c5415c92ed01c26c8d209769f",
+      "title": "Mexico moves to combat pollution following Guardian investigations",
+      "link": "https://www.theguardian.com/us-news/2026/feb/01/mexico-moves-to-combat-pollution-following-guardian-investigations",
+      "pubDate": "2026-02-01T17:08:27.000Z",
+      "snippet": "After stories revealed high levels of contamination in neighborhood around factory processing US toxic waste, government announces sweeping array of tactics\nThe Mexican government has announced it will pursue a sweeping array of tactics to combat industrial pollution, from $4.8m in fines against a plant processing US hazardous waste to the rollout of a new industrial air-monitoring system, following investigations by the Guardian and Quinto Elemento Lab, a Mexican investigative unit.\nThose stories revealed high levels of heavy-metal contamination in the neighborhood around the factory, Zinc Nacional, in the Monterrey metropolitan area, and showed the broader extent of industrial pollution in the region, linked to Monterrey’s role in manufacturing and recycling goods for the US market.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Environment",
+      "importanceScore": 65,
+      "titleJa": "ガーディアン紙の調査を受け、メキシコが汚染対策に乗り出す"
+    }
+  },
+  "CU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "098cc150c231d05a10046929e7e1e171",
+      "title": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
+      "link": "https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis",
+      "pubDate": "2026-01-30T18:08:10.000Z",
+      "snippet": "Island country only has oil enough to last 15-20 days, and 12-hour blackouts have become commonplace\nMexico’s president, Claudia Sheinbaum, has warned that Donald Trump’s move to slap new tariffs on countries sending oil to Cuba could trigger a humanitarian crisis on the island, which is already suffering from chronic fuel shortages and regular blackouts.\nThe US president signed an executive order on Thursday declaring a national emergency and laying the groundwork for such tariffs, ratcheting up the pressure to topple the communist government in Havana.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Economy",
+      "importanceScore": 85,
+      "titleJa": "メキシコ大統領、トランプ氏のキューバ石油供給国への関税は人道危機を引き起こす可能性があると発言"
+    }
+  },
+  "CR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ced136892b0479db22bd3ed32a5db69e",
+      "title": "Costa Rica heads to polls amid fears of authoritarian turn",
+      "link": "https://www.theguardian.com/world/2026/feb/01/costa-rica-polls-fears-authoritarian-turn-laura-fernandez",
+      "pubDate": "2026-02-01T10:00:24.000Z",
+      "snippet": "Voters to choose president and 57 members of congress, with current president’s hardline pick Laura Fernández expected to win first round\nCosta Rica heads to the polls on Sunday in an election dominated by increasing insecurity and warnings of an authoritarian turn in a country long seen as a model of liberal democracy in the region.\nCrime is a big concern for many voters as criminal groups battle to control lucrative cocaine trafficking routes to Europe and the US, casting a shadow on the Central American country famous for its wildlife tourism.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CR",
+      "category": "Politics",
+      "importanceScore": 60,
+      "titleJa": "権威主義化の懸念が高まる中、コスタリカが投票へ"
+    }
+  },
+  "PA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c531d0d97ead99182c5743ae1f1c3344",
+      "title": "Panama supreme court cancels Hong Kong company’s canal contracts",
+      "link": "https://www.theguardian.com/world/2026/jan/30/court-ends-hong-kong-china-panama-canal-contracts",
+      "pubDate": "2026-01-30T13:47:07.000Z",
+      "snippet": "Panama’s president says strategic waterway will operate as normal after ruling that advances US policy aims\nPanama’s president said ports at each end of the Panama canal would operate as usual after the country’s supreme court ruled the concession held by a subsidiary of a Chinese company was unconstitutional.\nThe court’s decision on Thursday, which helps US attempts to block any Chinese influence over the strategic waterway, immediately drew a sharp rebuke from Beijing.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "PA",
+      "category": "Politics",
+      "importanceScore": 75,
+      "titleJa": "パナマ最高裁、香港企業の運河契約を解除"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9716ad4719a81523528f90987601e0bf",
+      "title": "Poles flock to frozen Baltic Sea beach as temperatures plunge",
+      "link": "http://www.euronews.com/video/2026/02/01/poles-flock-to-frozen-baltic-sea-beach-as-temperatures-plunge",
+      "pubDate": "2026-02-01T13:00:57.000Z",
+      "snippet": "Visitors gathered on a frozen beach along Poland’s Baltic Sea coast as extreme cold temperatures created rare winter scenes.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "PL",
+      "category": "Society",
+      "importanceScore": 40,
+      "titleJa": "気温が急降下し、ポーランド人が凍結したバルト海沿岸のビーチに殺到"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3c45c8cfe8363deb208c84b80bdb8a2c",
+      "title": "Qatar leads regional diplomatic push to de-escalate Iran tensions",
+      "link": "http://www.euronews.com/2026/02/01/qatar-leads-regional-diplomatic-push-to-de-escalate-iran-tensions",
+      "pubDate": "2026-02-01T12:52:01.000Z",
+      "snippet": "Qatar is intensifying diplomatic efforts to prevent a wider regional escalation as tensions rise between Iran and the West. Doha is coordinating closely with Egypt and Turkey to keep diplomatic channels open.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss?level=theme&name=world",
+      "region": "International & World",
+      "country": "QA",
+      "category": "Politics",
+      "importanceScore": 85,
+      "titleJa": "カタール、イランの緊張緩和に向けた地域外交を主導"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ec9d309516fcc0d0aacb138a98eb6a7a",
+      "title": "Mbappe’s late penalty gives edgy Real Madrid 2-1 win over Rayo Vallecano",
+      "link": "https://www.aljazeera.com/sports/2026/2/1/mbappes-late-penalty-gives-edgy-real-madrid-2-1-win-over-rayo-vallecano?traffic_source=rss",
+      "pubDate": "2026-02-01T15:37:23.000Z",
+      "snippet": "Real Madrid earn ⁠a hard-fought victory over their local ​rivals and move within one point of league leaders Barcelona.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ES",
+      "category": "Sports",
+      "importanceScore": 25,
+      "titleJa": "エムバペの終盤のPKでレアル・マドリードがラージョ・バジェカーノに2-1で辛勝"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4cd42194f454e65ee6aeb27ad28af0ab",
+      "title": "Khartoum airport receives first scheduled flight since start of Sudan war",
+      "link": "https://www.aljazeera.com/news/2026/2/1/khartoum-airport-receives-first-scheduled-flight-since-start-of-sudan-war?traffic_source=rss",
+      "pubDate": "2026-02-01T14:27:09.000Z",
+      "snippet": "Celebrations as flight carries dozens of passengers from Port Sudan to Sudanese capital.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SD",
+      "category": "Conflict",
+      "importanceScore": 70,
+      "titleJa": "スーダン戦争開戦以来初、ハルツーム空港に定期便が到着"
+    }
+  },
+  "SA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a7d66b4b17be057cae51d65a9fa9b6bb",
+      "title": "I mocked the Saudi leader on YouTube - then my phone was hacked and I was beaten up in London",
+      "link": "https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-31T00:50:39.000Z",
+      "snippet": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Society",
+      "importanceScore": 70,
+      "titleJa": "サウジアラビア指導者をYouTubeで揶揄したら、携帯をハッキングされロンドンで暴行を受けた"
+    }
+  },
+  "CV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "43f89f0618936ba01a46e06274b927b3",
+      "title": "Four Britons die after holiday sickness in Cape Verde, say lawyers",
+      "link": "https://www.bbc.com/news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T17:00:20.000Z",
+      "snippet": "A law firm says it is representing the families of six people who holidayed in Cape Verde.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CV",
+      "category": "Society",
+      "importanceScore": 55,
+      "titleJa": "カーボベルデでの休暇中の病気で英国人4人が死亡と弁護士が発表"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "eaa45d50b7717dc233e12e250ffd9fca",
+      "title": "This army chief threatened to castrate opposition leader and claimed descent from Jesus",
+      "link": "https://www.bbc.com/news/articles/cdjnp9m8wvgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-31T00:05:52.000Z",
+      "snippet": "The Ugandan president’s son, notorious for explosive remarks on X, has ambitions to  succeed his father.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "importanceScore": 80,
+      "titleJa": "この陸軍司令官は野党指導者を去勢すると脅し、イエスの子孫であると主張した"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5ba20d5330a95bd0d29d6bc8e73024d7",
+      "title": "Why Zimbabwe's Maswanhise is Scotland's hottest property",
+      "link": "https://www.bbc.com/sport/football/articles/c5y4667j2zgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-31T22:03:24.000Z",
+      "snippet": "BBC Scotland looks at the rise of Motherwell's Tawanda Maswanhise this season.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Sports",
+      "importanceScore": 45,
+      "titleJa": "ジンバブエ出身のマズワニセがスコットランドで最も注目される理由"
+    }
+  },
+  "ML": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "10b7395bc421e9557a85af7fd1223452",
+      "title": "Combating the climate crisis to promote peace in Mali",
+      "link": "https://globalvoices.org/2026/01/22/combating-the-climate-crisis-to-promote-peace-in-mali/",
+      "pubDate": "2026-01-22T18:00:56.000Z",
+      "snippet": "Between 1970 and 2020, the country experienced at least 40 major climate shocks, with drought affecting around 400,000 people each year and reducing crop revenues by US$9.5 million annually, according to the World Bank.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Environment",
+      "importanceScore": 80,
+      "titleJa": "マリにおける平和促進のための気候危機対策"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "be885d0b628061c2c9d0633cf5369bbb",
+      "title": "The model who moved to Ghana and wrapped her prosthetic leg in its famous fabric",
+      "link": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T00:17:35.000Z",
+      "snippet": "Abena Christine Jon'el left the US and now aims to raise the profile of people with disabilities in Ghana.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "importanceScore": 40,
+      "titleJa": "ガーナに移住し、義足を現地の有名な布で包んだモデル"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "de9958a7f1e7742de41baa855a699210",
+      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+      "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-25T18:48:27.000Z",
+      "snippet": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Disaster",
+      "importanceScore": 90,
+      "titleJa": "「過去最悪の洪水」がモザンビークを襲い、人々が木の上にしがみつく"
+    }
+  },
+  "CG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bbecde5b7343152b2f76ca7b88cf920c",
+      "title": "Is the Chinese presence in Congo Brazzaville a threat to ‘first occupants’ or a relief to them?",
+      "link": "https://globalvoices.org/2026/01/05/is-the-chinese-presence-in-congo-brazzaville-a-threat-to-first-occupants-or-a-relief-to-them/",
+      "pubDate": "2026-01-05T06:00:20.000Z",
+      "snippet": "The decline of the forest, following extractive work, deforestation, tree cutting, agricultural expansion, illegal logging, and other works in the forest areas of Congo, is shrinking the habitat of Indigenous peoples.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CG",
+      "category": "Environment",
+      "importanceScore": 75,
+      "titleJa": "コンゴ・ブラザビルにおける中国の存在は「先住民」にとって脅威か、それとも救済か？"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "89c090bcc92e7939fb8459ba950fd5c9",
+      "title": "Cameroonians shift toward clean cooking solutions with eco-charcoal",
+      "link": "https://globalvoices.org/2025/12/31/cameroonians-shift-toward-clean-cooking-solutions-with-eco-charcoal/",
+      "pubDate": "2025-12-31T09:00:00.000Z",
+      "snippet": "Eco-charcoal, a product made using methods and materials that minimize environmental harm, is gradually replacing traditional charcoal in some households in Cameroon’s capital, Yaounde.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Environment",
+      "importanceScore": 65,
+      "titleJa": "カメルーン人がエコ炭を使ったクリーンな調理ソリューションへ移行"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "190c94601ff9bbc014159ad0a3f81bd7",
+      "title": "Senegal: Where women’s bodies belong to everyone but themselves",
+      "link": "https://globalvoices.org/2025/12/27/senegal-where-womens-bodies-belong-to-everyone-but-themselves/",
+      "pubDate": "2025-12-27T07:00:19.000Z",
+      "snippet": "In Senegal, women who are victims of rape can be condemned for trying to take control of their lives. Society decides what is best for women.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Society",
+      "importanceScore": 90,
+      "titleJa": "セネガル：女性の身体が自分自身のものではなく、すべての人に属する場所"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bed9e668beedb8b51e99879df983c32e",
+      "title": "Kenyan filmmaker Emily Nderitu shows the world how to talk about climate change in Africa",
+      "link": "https://globalvoices.org/2025/12/24/kenyan-filmmaker-emily-nderitu-shows-the-world-how-to-talk-about-climate-change-in-africa/",
+      "pubDate": "2025-12-24T08:00:53.000Z",
+      "snippet": "\"We’re not short of knowledge or courage in Africa. We’re short of recognition. Storytelling can fix that. It can close the gap between visibility and value.\"",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Entertainment",
+      "importanceScore": 70,
+      "titleJa": "ケニアの映画監督エミリー・ンデリトゥが、アフリカにおける気候変動の語り方を世界に示す"
+    }
+  },
+  "NO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "547d69b58ed6dc7f99ea34400a4a57a6",
+      "title": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "link": "https://www.bbc.com/news/articles/cm2xj3ykpj4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-01T00:02:01.000Z",
+      "snippet": "Marius Borg Høiby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Society",
+      "importanceScore": 50,
+      "titleJa": "レイプ裁判によりノルウェー王室が世間の目にさらされる"
+    }
+  },
+  "FR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "afbc8e952d40284a2d066728d51688bc",
+      "title": "France moves to abolish concept of marital duty to have sex",
+      "link": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-29T16:00:41.000Z",
+      "snippet": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Society",
+      "importanceScore": 55,
+      "titleJa": "フランス、結婚における性的義務の概念を廃止へ"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8adacbeed4fbbe018bad16b1a5061556",
+      "title": "Plane crashes in Colombia, killing all 15 on board",
+      "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T22:48:52.000Z",
+      "snippet": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Disaster",
+      "importanceScore": 80,
+      "titleJa": "コロンビアで飛行機墜落、搭乗者15人全員死亡"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "894a94d67ee41896ff788cdd7853f95c",
+      "title": "Ecuador says ICE agent attempted to enter its Minneapolis consulate",
+      "link": "https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T11:43:04.000Z",
+      "snippet": "A complaint has been filed by Ecuador, whose consular staff prevented the agent from entering.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "importanceScore": 55,
+      "titleJa": "エクアドル、ICE捜査官がミネアポリス領事館への侵入を試みたと発表"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "39f8f60211f55f9640ee88f44a59a537",
+      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
+      "link": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits/",
+      "pubDate": "2025-12-19T05:00:27.000Z",
+      "snippet": "Non-compliance with Technical Minimum Power, causing a greater injection of fossil-fuel-generated energy into the grid, violates Dominican legislation and hinders climate commitments, especially when renewable energy companies’ production remains restricted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "importanceScore": 78,
+      "titleJa": "ドミニカ共和国、化石燃料火力発電所が法的制限を超えて稼働する一方で再生可能エネルギーを浪費"
+    }
+  },
+  "BR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e550fbd445bac70be15f4ed27504f012",
+      "title": "‘Clean up your culture’: a TV host’s comment makes Indigenous Brazilians speak up",
+      "link": "https://globalvoices.org/2025/12/20/clean-up-your-culture-a-tv-hosts-comment-makes-indigenous-brazilians-speak-up/",
+      "pubDate": "2025-12-20T06:00:52.000Z",
+      "snippet": "“Access to technology should be a guaranteed right to the all Brazilian citizens. To have a cell phone doesn't make (anyone) less Indigenous.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "importanceScore": 75,
+      "titleJa": "「文化を清めろ」：テレビ司会者の発言がブラジルの先住民に反論させる"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "eb3fc5dc94997f06969be307b3523925",
+      "title": "Social networks fuel youth mobilization on Argentina’s streets",
+      "link": "https://globalvoices.org/2025/12/18/social-networks-fuel-youth-mobilization-on-argentinas-streets/",
+      "pubDate": "2025-12-18T12:00:20.000Z",
+      "snippet": "Unlike movements in earlier decades, Argentina’s latest youth-led protests are increasingly organized digitally through platforms like TikTok, Instagram, and Whatsapp, rather than through unions or political parties.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "importanceScore": 68,
+      "titleJa": "ソーシャルネットワークがアルゼンチンの路上での若者の動員を加速"
+    }
+  },
+  "CN": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "db0a2e4024c3419426679951e5dd0e28",
+      "title": "Trump says 'very dangerous' for UK to do business with China as Starmer lands in Shanghai",
+      "link": "https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T09:14:25.000Z",
+      "snippet": "The US president's comments come as Sir Keir Starmer arrives in Shanghai on the third day of his visit to China.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "importanceScore": 80,
+      "titleJa": "スターマー上海到着時、トランプ氏「英国が中国とビジネスするのは非常に危険」と発言"
+    }
+  },
+  "MM": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "088fc03a6722960693824dd2b83079e9",
+      "title": "At least 170 killed in air strikes during Myanmar's widely criticised election, UN says",
+      "link": "https://www.bbc.com/news/articles/cg5gl8grv66o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T13:12:25.000Z",
+      "snippet": "The UN said \"credible sources\" had counted more than 400 strikes in the same period.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "MM",
+      "category": "Conflict",
+      "importanceScore": 90,
+      "titleJa": "ミャンマーで広く批判された選挙中に空爆で少なくとも170人死亡、国連発表"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f2156cf2de0e238ed62a7e77fe411230",
+      "title": "Indonesian couple caned 140 times for sex and alcohol offences",
+      "link": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T06:53:22.000Z",
+      "snippet": "Caning is a common but controversial punishment for violating Islamic law in Aceh province.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Society",
+      "importanceScore": 60,
+      "titleJa": "インドネシア人夫婦、性行為と飲酒の罪で140回のむち打ち刑"
+    }
+  },
+  "VN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "889feb901b2700f5dfcb8cecbd36a328",
+      "title": "Vietnam to sell tycoon's Hermès Birkin bags to offset fraud losses",
+      "link": "https://www.bbc.com/news/articles/c1evy17dlvzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T03:01:07.000Z",
+      "snippet": "Lan had tried to hold on the bags, saying she wanted to leave them as \"keepsakes\" for her children.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "VN",
+      "category": "Economy",
+      "importanceScore": 65,
+      "titleJa": "ベトナム、詐欺損失の穴埋めに大物実業家のエルメス・バーキンバッグを売却へ"
+    }
+  }
+}
