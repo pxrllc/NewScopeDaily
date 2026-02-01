@@ -84,6 +84,7 @@ body {
     font-size: 1.5rem;
     letter-spacing: -0.5px;
     background: linear-gradient(90deg, #fff, #94a3b8);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -109,6 +110,70 @@ body {
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
     border: 1px solid var(--border-color);
+}
+
+.archive-control {
+    position: relative;
+}
+
+.archive-trigger {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    background: transparent;
+    border: 1px solid var(--border-color);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.archive-trigger:hover {
+    background: #2d3748;
+    color: #fff;
+}
+
+.archive-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    /* Align right */
+    margin-top: 5px;
+    background: #1f2937;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 0.5rem;
+    width: 200px;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 200;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.archive-dropdown.hidden {
+    display: none;
+}
+
+.archive-link {
+    display: block;
+    padding: 0.5rem;
+    color: var(--text-secondary);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.2s;
+    font-size: 0.9rem;
+}
+
+.archive-link:hover {
+    background: #374151;
+    color: #fff;
+}
+
+.archive-link.active {
+    background: var(--accent-color);
+    color: #fff;
 }
 
 .nav-btn {
@@ -151,34 +216,66 @@ body {
     color: var(--text-primary);
 }
 
-/* Grid Layout - Vertical Stack */
+.share-controls {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.share-btn {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    font-family: var(--font-main);
+    font-size: 1rem;
+}
+
+.share-btn:hover {
+    background: #2d3748;
+    color: #fff;
+    border-color: var(--text-secondary);
+}
+
+/* Grid Layout - Horizontal Split */
 .main-grid {
     display: flex;
-    /* Changed from grid to flex column */
-    flex-direction: column;
+    flex-direction: row;
+    /* Desktop: Side by Side */
     height: 100vh;
-    /* Full viewport but will scroll if needed? No, internal scroll */
     overflow: hidden;
 }
 
-/* Layout: Top Split (Map + Summary) */
-.top-section {
+/* Left Column (Map + Feed) */
+.left-column {
     display: flex;
-    flex-direction: row;
-    height: 40vh;
-    /* Default height, adjustable via JS */
-    width: 100%;
-    border-bottom: 1px solid var(--border-color);
+    flex-direction: column;
+    flex: 1.5;
+    /* Takes ~60% */
+    min-width: 0;
+    border-right: 1px solid var(--border-color);
+    position: relative;
+    height: 100%;
 }
 
+/* Map Panel (Top of Left Column) */
 .map-panel {
-    flex: 1.2;
-    /* Map takes slightly more width */
+    height: 40vh;
+    /* Default height */
+    flex: none;
+    /* Height controlled by JS/CSS, not flex grow */
     position: relative;
-    border-right: 1px solid var(--border-color);
     background: #121418;
     min-width: 0;
-    /* Prevent flex overflow */
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
 }
 
 #world-map {
@@ -188,12 +285,15 @@ body {
     background: #121418;
 }
 
+/* Summary Panel (Right Column) */
 .summary-panel {
-    flex: 0.8;
+    flex: 1;
+    /* Takes remaining space ~40% */
     display: flex;
     flex-direction: column;
     background: var(--card-bg);
-    min-width: 0;
+    min-width: 320px;
+    height: 100%;
 }
 
 /* Tabs in Summary Panel */
@@ -497,34 +597,45 @@ body {
 
     /* Main Layout Stack */
     .main-grid {
+        flex-direction: column;
         height: 100vh;
         overflow-y: auto;
         /* Allow whole body scroll */
     }
 
-    /* Top Section Column */
-    .top-section {
+    /* Left Column Reset */
+    .left-column {
+        display: contents;
+        /* Ungroup visual box for ordering */
+        /* Note: display:contents removes the box, children participate in .main-grid flex */
+        /* If display:contents causes issues, use flex column with order. */
+        /* Let's try explicit Flex Column */
+        display: flex;
         flex-direction: column;
+        width: 100%;
         height: auto;
-        border-bottom: none;
+        flex: none;
+        order: 2;
+        /* Map+Feed after Summary */
+        border-right: none;
     }
 
     /* ORDERING for Mobile: Summary -> Map -> Feed */
     /* Summary Panel (Order 1) */
     .summary-panel {
         order: 1;
+        width: 100%;
         height: auto;
         min-height: 0;
         flex: none;
         border-bottom: 1px solid var(--border-color);
     }
 
-    /* Map Panel (Order 2) */
+    /* Map Panel (Order 1 in Left Col) */
     .map-panel {
-        order: 2;
+        /* order: 1; implicit */
         height: auto;
         flex: none;
-        border-right: none;
         border-bottom: 1px solid var(--border-color);
     }
 
@@ -533,9 +644,9 @@ body {
         display: none;
     }
 
-    /* Bottom Section (Feed) (Order 3 implicitly) */
+    /* Bottom Section (Feed) (Order 2 in Left Col) */
     .content-section {
-        order: 3;
+        /* order: 2; implicit */
         height: auto;
         overflow: visible;
         flex: none;
@@ -575,7 +686,8 @@ body {
     /* Content Wrapper Logic */
     .content-wrapper {
         transition: max-height 0.3s ease-out, opacity 0.3s;
-        max-height: 2000px;
+        max-height: 8000px;
+        /* Increased to prevent clipping of long content */
         /* Arbitrary large max-height */
         opacity: 1;
         overflow: hidden;
@@ -587,6 +699,7 @@ body {
         opacity: 0;
         padding: 0;
         border: none;
+        transition: max-height 0.3s ease-in, opacity 0.1s;
     }
 
     .panel-header.collapsed .toggle-icon {
@@ -595,7 +708,8 @@ body {
 
     /* Map specific: Fix height when expanded */
     #map-content {
-        height: 40vh;
+        height: 50vh;
+        /* Increased from 40vh for better visibility */
         /* Fixed height when visible */
     }
 
@@ -617,8 +731,6 @@ body {
         cursor: pointer;
     }
 
-    /* Summary content wrapper styling for smooth animation */
-    /* Map panel specific overrides */
     .map-overlay {
         position: absolute;
         bottom: 10px;
@@ -655,16 +767,13 @@ body {
         height: 100%;
     }
 
-    /* Ensure map panel propagates height */
     .map-panel {
         display: flex;
         flex-direction: column;
-        height: 100%;
-        /* Important for height 100% child */
+        /* height controlled by parent/style */
     }
 
     /* Fix Filter Bar layout on Desktop */
-    /* Override content-wrapper's column direction and height */
     .filter-bar.content-wrapper {
         display: flex !important;
         flex-direction: row;
