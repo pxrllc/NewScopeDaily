@@ -37,6 +37,20 @@
                         <button id="nav-prev" class="nav-btn" aria-label="Previous">&lt;</button>
                         <span id="current-date" class="date-display">--.--.--</span>
                         <button id="nav-next" class="nav-btn" aria-label="Next">&gt;</button>
+
+                        <div class="archive-control">
+                            <button id="archive-btn" class="nav-btn archive-trigger" onclick="toggleArchive()">
+                                📅
+                            </button>
+                            <div id="archive-dropdown" class="archive-dropdown hidden">
+                                <!-- Links injected here -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="share-controls">
+                        <button class="share-btn" onclick="sharePage('x')" aria-label="Share on X">𝕏</button>
+                        <button class="share-btn" onclick="sharePage('copy')" aria-label="Copy Link">📋</button>
                     </div>
                     <a href="about.html" class="about-link">About / License</a>
                 </div>

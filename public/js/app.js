@@ -1,5 +1,6 @@
 
 // State
+// State
 let appState = {
     currentTab: 'world',
     feedData: [],
@@ -9,7 +10,8 @@ let appState = {
     },
     availableDates: [],
     currentIndex: -1,
-    currentFilter: 'all' // New: Filter state
+    currentFilter: 'all',
+    currentDateStr: '' // Track current date string
 };
 
 // Utils
@@ -18,12 +20,46 @@ function formatDate(dateStr) {
     return `${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
 }
 
+// Share Logic
+window.sharePage = function (platform) {
+    const url = window.location.href;
+    const text = `NewsScope Daily - ${appState.currentDateStr}\n世界を俯瞰するニュースダイジェスト\n`;
+
+    if (platform === 'x') {
+        const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+        window.open(twitterUrl, '_blank');
+    } else if (platform === 'copy') {
+        navigator.clipboard.writeText(url).then(() => {
+            alert('リンクをコピーしました');
+        }).catch(err => {
+            console.error('Failed to copy', err);
+        });
+    }
+};
+
+// Update URL
+function updateUrl(dateStr) {
+    const url = new URL(window.location);
+    url.searchParams.set('date', dateStr);
+    window.history.pushState({ date: dateStr }, '', url);
+}
+
 // Data Loading
-async function loadData(dateStr) {
+async function loadData(dateStr, pushState = true) {
     const dataPath = `data/daily/${dateStr}`;
+    appState.currentDateStr = dateStr;
+
+    if (pushState) {
+        updateUrl(dateStr);
+    }
 
     // Update Loading State
     document.getElementById('current-date').style.opacity = '0.5';
+
+    // Highlight Active Archive Link
+    document.querySelectorAll('.archive-link').forEach(a => {
+        a.classList.toggle('active', dateStr === a.getAttribute('href').split('=')[1]);
+    });
 
     try {
         // Load Feed
@@ -74,6 +110,55 @@ async function loadData(dateStr) {
         updateNavControls();
     }
 }
+
+// Archive Logic
+function renderArchive() {
+    const list = document.getElementById('archive-dropdown');
+    if (!list) return;
+
+    list.innerHTML = '';
+
+    // Sort Newest First
+    const sortedDates = [...appState.availableDates].reverse();
+
+    sortedDates.forEach(date => {
+        const a = document.createElement('a');
+        a.href = `?date=${date}`;
+        a.className = `archive-link ${date === appState.currentDateStr ? 'active' : ''}`;
+        a.textContent = formatDate(date).replace(/\//g, '.');
+
+        // Optional: Hijack click for faster SPA-like nav, but allow default for permalink safety
+        // Default behavior (reload) ensures clean state, but we can preventDefault if we trust our state.
+        // Let's use SPA nav for better UX.
+        a.onclick = (e) => {
+            e.preventDefault();
+            const index = appState.availableDates.indexOf(date);
+            if (index !== -1) {
+                appState.currentIndex = index;
+                loadData(date); // loadData handles URL update
+                toggleArchive(); // Close dropdown
+            }
+        };
+
+        list.appendChild(a);
+    });
+}
+
+window.toggleArchive = function () {
+    const el = document.getElementById('archive-dropdown');
+    el.classList.toggle('hidden');
+
+    // Close on click outside
+    if (!el.classList.contains('hidden')) {
+        const closeHandler = (e) => {
+            if (!e.target.closest('.archive-control')) {
+                el.classList.add('hidden');
+                document.removeEventListener('click', closeHandler);
+            }
+        };
+        setTimeout(() => document.addEventListener('click', closeHandler), 0);
+    }
+};
 
 // Rendering
 function renderSummary() {
@@ -308,12 +393,28 @@ document.addEventListener('DOMContentLoaded', async () => {
         const res = await fetch('data/daily/available-dates.json');
         if (res.ok) {
             appState.availableDates = await res.json();
-            if (appState.availableDates.length > 0) {
-                appState.currentIndex = appState.availableDates.length - 1;
-                loadData(appState.availableDates[appState.currentIndex]);
+
+            // Check URL param
+            const urlParams = new URLSearchParams(window.location.search);
+            const dateParam = urlParams.get('date');
+
+            let targetDate;
+            let targetIndex = -1;
+
+            if (dateParam && appState.availableDates.includes(dateParam)) {
+                targetDate = dateParam;
+                targetIndex = appState.availableDates.indexOf(dateParam);
+            } else if (appState.availableDates.length > 0) {
+                targetIndex = appState.availableDates.length - 1;
+                targetDate = appState.availableDates[targetIndex];
             } else {
-                loadData(new Date().toISOString().split('T')[0]);
+                targetDate = new Date().toISOString().split('T')[0];
             }
+
+            appState.currentIndex = targetIndex;
+
+            renderArchive(); // Initial Render
+            loadData(targetDate, false); // Don't push state on initial load
         } else {
             console.warn("Date index not found, defaulting to hardcoded date.");
             loadData('2026-01-26');
@@ -322,5 +423,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         console.error("Init failed", e);
         loadData('2026-01-26');
     }
+
+    // Handle Browser Back/Forward
+    window.addEventListener('popstate', (event) => {
+        if (event.state && event.state.date) {
+            const index = appState.availableDates.indexOf(event.state.date);
+            if (index !== -1) {
+                appState.currentIndex = index;
+                loadData(event.state.date, false);
+            }
+        }
+    });
 });
 
