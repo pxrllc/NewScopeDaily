@@ -255,6 +255,13 @@ function renderFeedList() {
             <a href="${item.link}" target="_blank" class="title-link">
                 ${titleHtml}
             </a>
+            <details class="feed-description">
+                <summary>概要を表示</summary>
+                <div class="description-content">
+                    <p>${item.descriptionJa || '概要はありません。'}</p>
+                    <a href="${item.link}" target="_blank" class="read-more">もっと読む &rarr;</a>
+                </div>
+            </details>
         `;
 
         if (item.country && item.country !== 'XX') {
@@ -435,4 +442,36 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     });
 });
+
+// Share Logic
+window.sharePage = function (platform) {
+    const url = window.location.href;
+    let text = `NewsScope Daily - ${appState.currentDateStr}\n世界を俯瞰するニュースダイジェスト\n`;
+
+    // Add Summary extraction
+    if (appState.summaries && appState.summaries.world) {
+        // Simple strip markdown (remove #, *, etc)
+        let summaryText = appState.summaries.world
+            .replace(/[#*`]/g, '') // Remove markdown chars
+            .replace(/\n+/g, ' ')  // Collapse newlines
+            .trim();
+
+        // Truncate to avoid URL length issues (Twitter limit approx 280 chars total)
+        if (summaryText.length > 100) {
+            summaryText = summaryText.substring(0, 100) + '...';
+        }
+        text += `\n${summaryText}\n`;
+    }
+
+    if (platform === 'x') {
+        const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+        window.open(twitterUrl, '_blank');
+    } else if (platform === 'copy') {
+        navigator.clipboard.writeText(url).then(() => {
+            alert('リンクをコピーしました');
+        }).catch(err => {
+            console.error('Failed to copy', err);
+        });
+    }
+};
 

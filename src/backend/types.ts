@@ -13,6 +13,7 @@ export interface Article {
     category?: string; // "Politics", "Conflict", "Environment", etc.
     importanceScore?: number; // 0-100
     titleJa?: string;
+    descriptionJa?: string;
     summaryJa?: string;
 }
 

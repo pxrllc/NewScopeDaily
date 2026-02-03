@@ -43,6 +43,7 @@ Input is a list of news articles. For EACH article, return an object with:
 3. "category": One of [Politics, Conflict, Economy, Society, Science, Environment, Disaster, Sports, Entertainment].
 4. "importanceScore": Integer 0-100.
 5. "titleJa": Japanese translation of the title. MUST be in Japanese.
+6. "descriptionJa": Japanese summary of the snippet (~100 chars).
 
 Input JSON:
 ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, snippet: a.snippet, source: a.source })))}
@@ -67,7 +68,8 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, snippet: a.snipp
                         country: data.country,
                         category: data.category,
                         importanceScore: data.importanceScore,
-                        titleJa: data.titleJa
+                        titleJa: data.titleJa,
+                        descriptionJa: data.descriptionJa
                     };
                 }
                 return article;
