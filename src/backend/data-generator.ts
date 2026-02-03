@@ -10,24 +10,24 @@ export class DataGenerator {
         this.outputDir = outputDir;
     }
 
-    // Generate feed.json (New Structure: by-date/{date}.json)
+    // Generate feed.json (Reverted to daily/{date}/feed.json)
     public generateFeedJson(date: string, articles: Article[]) {
-        const byDateDir = path.join(this.outputDir, 'by-date');
-        if (!fs.existsSync(byDateDir)) {
-            fs.mkdirSync(byDateDir, { recursive: true });
+        const dailyDir = path.join(this.outputDir, 'daily', date);
+        if (!fs.existsSync(dailyDir)) {
+            fs.mkdirSync(dailyDir, { recursive: true });
         }
 
-        // Wrapper envelope with metadata
+        // Wrapper envelope with metadata (Keeping new Schema)
         const dataEnvelope = {
             generated_at: new Date().toISOString(),
             version: "1.0",
             articles: articles
         };
 
-        const filePath = path.join(byDateDir, `${date}.json`);
+        const filePath = path.join(dailyDir, 'feed.json');
         fs.writeFileSync(filePath, JSON.stringify(dataEnvelope, null, 2));
 
-        // Update latest.json
+        // Update latest.json (Optional, keeping as root/latest.json is useful)
         const latestPath = path.join(this.outputDir, 'latest.json');
         fs.writeFileSync(latestPath, JSON.stringify(dataEnvelope, null, 2));
     }

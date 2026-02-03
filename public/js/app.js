@@ -46,9 +46,9 @@ function updateUrl(dateStr) {
 
 // Data Loading
 async function loadData(dateStr, pushState = true) {
-    // New Data Path Structure: by-date/{date}.json
-    const dataPath = `data/by-date/${dateStr}.json`;
-    const legacyPath = `data/daily/${dateStr}`; // Fallback for old data if needed (or we just break it)
+    // Reverted to daily directory
+    const dataPath = `data/daily/${dateStr}`;
+    // const feedPath = `${dataPath}/feed.json`; // Implicit in logic below
 
     appState.currentDateStr = dateStr;
 
@@ -65,17 +65,17 @@ async function loadData(dateStr, pushState = true) {
     });
 
     try {
-        // Load Feed (New Envelope Structure)
-        const feedRes = await fetch(dataPath);
+        // Load Feed
+        const feedRes = await fetch(`${dataPath}/feed.json`);
         if (!feedRes.ok) throw new Error("Feed not found");
         const feedJson = await feedRes.json();
 
-        // Handle new wrapper: { generated_at, version, articles }
+        // Handle wrapper: { generated_at, version, articles }
         if (feedJson.articles) {
             appState.feedData = feedJson.articles;
         } else {
-            // Fallback for transition if users load old file format
-            appState.feedData = feedJson.articles || feedJson; // Old: { date, articles }
+            // Fallback for old format
+            appState.feedData = feedJson.articles || feedJson;
         }
 
         // Reset Filter on new day load
