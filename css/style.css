@@ -603,6 +603,30 @@ body {
         /* Allow whole body scroll */
     }
 
+    /* Mobile Header Fixes */
+    .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .header-controls {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        justify-content: space-between;
+    }
+
+    .date-nav {
+        flex-grow: 1;
+        justify-content: space-between;
+    }
+
+    .share-controls {
+        margin-left: auto;
+        /* Push to right */
+    }
+
     /* Left Column Reset */
     .left-column {
         display: contents;
@@ -783,4 +807,69 @@ body {
         max-height: none !important;
         opacity: 1 !important;
     }
+}
+
+/* Read More Link */
+.read-more {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--accent-color);
+    text-decoration: none;
+    display: inline-block;
+    transition: color 0.2s;
+}
+
+.read-more:hover {
+    color: #60a5fa;
+    text-decoration: underline;
+}
+
+/* Introduction/Description Accordion */
+.feed-description {
+    margin-top: 0.5rem;
+    color: var(--text-secondary);
+}
+
+.feed-description summary {
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    user-select: none;
+    outline: none;
+    transition: color 0.2s;
+    list-style: none;
+}
+
+.feed-description summary::-webkit-details-marker {
+    display: none;
+}
+
+.feed-description summary::after {
+    content: " ▼";
+    font-size: 0.7em;
+}
+
+.feed-description[open] summary::after {
+    content: " ▲";
+}
+
+.feed-description summary:hover {
+    color: var(--text-primary);
+}
+
+.description-content {
+    margin-top: 0.5rem;
+    padding-left: 0.5rem;
+    border-left: 2px solid var(--border-color);
+}
+
+.description-content p {
+    margin: 0 0 0.5rem 0;
+    line-height: 1.5;
+    font-size: 0.9rem;
+}
+
+.description-content .read-more {
+    margin-top: 0;
+    font-size: 0.85rem;
 }
