@@ -109,27 +109,28 @@ Requirements:
    - Provide a Japanese overview (概要).
    - List distinct perspectives from different media sources (各国の視点).
    - Use strict markdown format as shown below.
-3. Add a "Global Headlines" section at the bottom for other brief mentions.
-4. **IMPORTANT**: For "Perspective" links, you MUST use the provided Link URL. Format: **[Source Name]**: "[Title](URL)" - [Brief Japanese description...]
-
-Format:
-# [Title: YYYY-MM-DD World News / Regional Focus]
+112: 3. Add a "Global Headlines" section at the bottom for other brief mentions.
+113: 4. **IMPORTANT**: For "Perspective" links, you MUST use the provided Link URL. Format: **[Source Name]**: "[Title](URL)" - [Brief Japanese description...]
+114: 5. **IMAGES**: For each top topic, include a relevant image using this SAFE placeholder format: '![Topic](https://placehold.co/600x400?text=EnglishKeyword)'. Do NOT use real image URLs. Use a single English keyword relevant to the topic for the text param.
+            115:
+            116: Format:
+#[Title: YYYY - MM - DD World News / Regional Focus]
 
 ## Top Topics
 
-### 1. [Topic Heading in Japanese]
-**概要:**
-[Japanese summary]
+### 1.[Topic Heading in Japanese]
+** 概要:**
+        [Japanese summary]
 
-**各国の視点:**
-- **[Source Name]**: "[Title](URL)" - [Brief Japanese description of their angle]
+        ** 各国の視点:**
+- ** [Source Name] **: "[Title](URL)" - [Brief Japanese description of their angle]
 
 ...
 
----
-**Global Headlines**
-- [Bulleted list of minor stories]
-    `;
+            ---
+** Global Headlines **
+        -[Bulleted list of minor stories]
+            `;
 
         try {
             await this.delay(5000);

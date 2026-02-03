@@ -82,6 +82,23 @@ export class RssFetcher {
         return crypto.createHash('md5').update(link).digest('hex');
     }
 
+    private extractImage(item: any): string | undefined {
+        // 1. Check Enclosure
+        if (item.enclosure && item.enclosure.url && item.enclosure.type && item.enclosure.type.startsWith('image/')) {
+            return item.enclosure.url;
+        }
+        // 2. Check Media:Content
+        if (item['media:content'] && item['media:content'].$ && item['media:content'].$.url) {
+            return item['media:content'].$.url;
+        }
+        // 3. Regex in Content
+        const imgRegex = /<img[^>]+src="([^">]+)"/i;
+        const htmlContent = item.content || item['content:encoded'] || item.contentSnippet || '';
+        const match = htmlContent.match(imgRegex);
+        if (match) return match[1];
+        return undefined;
+    }
+
     public async fetchAll(): Promise<Article[]> {
         const feeds = this.parseOpml();
         console.log(`Found ${feeds.length} feeds in OPML.`);
@@ -96,6 +113,7 @@ export class RssFetcher {
                 const items = feed.items.slice(0, 20).map(item => {
                     const rawLink = item.link || item.title || '';
                     const normalizedUrl = this.normalizeUrl(rawLink);
+                    const imageUrl = this.extractImage(item);
 
                     return {
                         id: this.generateId(normalizedUrl),
@@ -103,6 +121,7 @@ export class RssFetcher {
                         url: normalizedUrl,
                         published_at: item.isoDate || item.pubDate || new Date().toISOString(),
                         description: item.contentSnippet || item.content || '',
+                        imageUrl: imageUrl,
                         source: feedInfo.title,
                         sourceUrl: feedInfo.url,
                         region: feedInfo.region

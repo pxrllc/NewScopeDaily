@@ -12,6 +12,7 @@ export interface Article {
 
     // Enriched fields
     summary?: string;    // AI Summary (replacing descriptionJa)
+    imageUrl?: string;   // Article Image URL (from RSS)
     country?: string;    // ISO Code
     category?: string;
     importanceScore?: number;
