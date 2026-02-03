@@ -15,6 +15,7 @@ export interface Article {
     imageUrl?: string;   // Article Image URL (from RSS)
     country?: string;    // ISO Code
     category?: string;
+    categoryJa?: string; // Japanese Category
     importanceScore?: number;
     titleJa?: string;    // Translated Title
 }

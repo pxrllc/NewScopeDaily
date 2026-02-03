@@ -60,13 +60,27 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, description: a.d
             const enrichedData = JSON.parse(jsonStr);
 
             // Merge enriched data back into articles
+            const CATEGORY_JA_MAP: { [key: string]: string } = {
+                "Politics": "政治",
+                "Conflict": "紛争",
+                "Economy": "経済",
+                "Society": "社会",
+                "Science": "科学",
+                "Environment": "環境",
+                "Disaster": "災害",
+                "Sports": "スポーツ",
+                "Entertainment": "エンタメ"
+            };
+
             return articles.map(article => {
                 const data = enrichedData.find((d: any) => d.id === article.id);
                 if (data) {
+                    const catJa = CATEGORY_JA_MAP[data.category] || data.category;
                     return {
                         ...article,
                         country: data.country,
                         category: data.category,
+                        categoryJa: catJa, // New Field
                         importanceScore: data.importanceScore,
                         titleJa: data.titleJa,
                         summary: data.summary || data.descriptionJa // Fallback if AI uses old key
