@@ -45,6 +45,39 @@ export class RssFetcher {
         return feeds;
     }
 
+    private normalizeUrl(url: string): string {
+        try {
+            const parsed = new URL(url);
+
+            // Remove tracking params
+            const paramsToRemove = [
+                /^utm_/, /^fbclid/, /^ref$/i, /^s$/i, /^_ga/, /^gclid/
+            ];
+
+            const params = new URLSearchParams(parsed.search);
+            const keys = Array.from(params.keys());
+
+            keys.forEach(key => {
+                if (paramsToRemove.some(regex => regex.test(key))) {
+                    params.delete(key);
+                }
+            });
+
+            parsed.search = params.toString();
+            parsed.hash = ''; // Remove fragment
+
+            // Remove trailing slash
+            let cleanUrl = parsed.toString();
+            if (cleanUrl.endsWith('/')) {
+                cleanUrl = cleanUrl.slice(0, -1);
+            }
+
+            return cleanUrl;
+        } catch (e) {
+            return url; // Return original if parse fails
+        }
+    }
+
     private generateId(link: string): string {
         return crypto.createHash('md5').update(link).digest('hex');
     }
@@ -61,12 +94,15 @@ export class RssFetcher {
                 const feed = await parser.parseURL(feedInfo.url);
 
                 const items = feed.items.slice(0, 20).map(item => {
+                    const rawLink = item.link || item.title || '';
+                    const normalizedUrl = this.normalizeUrl(rawLink);
+
                     return {
-                        id: this.generateId(item.link || item.title || ''),
+                        id: this.generateId(normalizedUrl),
                         title: item.title || '',
-                        link: item.link || '',
-                        pubDate: item.isoDate || item.pubDate || new Date().toISOString(),
-                        snippet: item.contentSnippet || item.content || '',
+                        url: normalizedUrl,
+                        published_at: item.isoDate || item.pubDate || new Date().toISOString(),
+                        description: item.contentSnippet || item.content || '',
                         source: feedInfo.title,
                         sourceUrl: feedInfo.url,
                         region: feedInfo.region

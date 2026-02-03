@@ -46,7 +46,10 @@ function updateUrl(dateStr) {
 
 // Data Loading
 async function loadData(dateStr, pushState = true) {
-    const dataPath = `data/daily/${dateStr}`;
+    // New Data Path Structure: by-date/{date}.json
+    const dataPath = `data/by-date/${dateStr}.json`;
+    const legacyPath = `data/daily/${dateStr}`; // Fallback for old data if needed (or we just break it)
+
     appState.currentDateStr = dateStr;
 
     if (pushState) {
@@ -62,25 +65,37 @@ async function loadData(dateStr, pushState = true) {
     });
 
     try {
-        // Load Feed
-        const feedRes = await fetch(`${dataPath}/feed.json`);
+        // Load Feed (New Envelope Structure)
+        const feedRes = await fetch(dataPath);
         if (!feedRes.ok) throw new Error("Feed not found");
         const feedJson = await feedRes.json();
-        appState.feedData = feedJson.articles;
+
+        // Handle new wrapper: { generated_at, version, articles }
+        if (feedJson.articles) {
+            appState.feedData = feedJson.articles;
+        } else {
+            // Fallback for transition if users load old file format
+            appState.feedData = feedJson.articles || feedJson; // Old: { date, articles }
+        }
 
         // Reset Filter on new day load
         appState.currentFilter = 'all';
 
         // Update Date Display
-        const displayDate = feedJson.date || dateStr;
+        // const displayDate = feedJson.date || dateStr; // New format doesn't have root date
+        const displayDate = dateStr;
         document.getElementById('current-date').textContent = formatDate(displayDate).replace(/\//g, '.');
 
-        // Load Summaries
+        // Load Summaries (Still separate MD files? No plan said we generate them, need to check data-generator)
+        // DataGenerator still saves MD files to daily/YYYY-MM-DD/summary_world.md.
+        // Wait, data-generator changed generateFeedJson path, but saveSummaries path uses `daily/date`.
+        // So summaries are at `data/daily/YYYY-MM-DD/summary_world.md`.
+        const summaryPath = `data/daily/${dateStr}`;
         try {
-            const worldRes = await fetch(`${dataPath}/summary_world.md`);
+            const worldRes = await fetch(`${summaryPath}/summary_world.md`);
             appState.summaries.world = worldRes.ok ? await worldRes.text() : "# No Summary";
 
-            const regionalRes = await fetch(`${dataPath}/summary_regional.md`);
+            const regionalRes = await fetch(`${summaryPath}/summary_regional.md`);
             appState.summaries.regional = regionalRes.ok ? await regionalRes.text() : "# No Summary";
         } catch (e) {
             console.warn("Summary load partial fail", e);
@@ -95,7 +110,7 @@ async function loadData(dateStr, pushState = true) {
 
         // Update Map
         if (window.initMap) {
-            window.initMap(dataPath);
+            window.initMap(`data/daily/${dateStr}`); // Map still uses daily folder for map.json?
         }
 
     } catch (e) {

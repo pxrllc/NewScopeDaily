@@ -140,6 +140,7 @@ async function main() {
         generator.generateFeedJson(date, finalArticles);
         generator.generateMapJson(date, processedArticles);
         generator.saveSummaries(date, worldSummary, regionalSummary);
+        generator.generateSourcesJson(finalArticles);
 
 
         // 5. Generate Date Manifest for Frontend Navigation

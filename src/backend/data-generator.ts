@@ -10,20 +10,26 @@ export class DataGenerator {
         this.outputDir = outputDir;
     }
 
-    // Generate feed.json
+    // Generate feed.json (New Structure: by-date/{date}.json)
     public generateFeedJson(date: string, articles: Article[]) {
-        const dailyDir = path.join(this.outputDir, 'daily', date);
-        if (!fs.existsSync(dailyDir)) {
-            fs.mkdirSync(dailyDir, { recursive: true });
+        const byDateDir = path.join(this.outputDir, 'by-date');
+        if (!fs.existsSync(byDateDir)) {
+            fs.mkdirSync(byDateDir, { recursive: true });
         }
 
-        const feedData: DayData = {
-            date,
-            articles
+        // Wrapper envelope with metadata
+        const dataEnvelope = {
+            generated_at: new Date().toISOString(),
+            version: "1.0",
+            articles: articles
         };
 
-        fs.writeFileSync(path.join(dailyDir, 'feed.json'), JSON.stringify(feedData, null, 2));
-        // Also update latest feed at root/data/latest.json (optional, or just use daily/latest)
+        const filePath = path.join(byDateDir, `${date}.json`);
+        fs.writeFileSync(filePath, JSON.stringify(dataEnvelope, null, 2));
+
+        // Update latest.json
+        const latestPath = path.join(this.outputDir, 'latest.json');
+        fs.writeFileSync(latestPath, JSON.stringify(dataEnvelope, null, 2));
     }
 
     // Generate map.json
@@ -64,9 +70,18 @@ export class DataGenerator {
 
         fs.writeFileSync(path.join(dailyDir, 'summary_world.md'), summaryWorld);
         fs.writeFileSync(path.join(dailyDir, 'summary_regional.md'), summaryRegional);
+    }
 
-        // Optional: Save as HTML fragment for easier frontend inclusion
-        // const htmlWorld = marked.parse(summaryWorld);
-        // fs.writeFileSync(path.join(dailyDir, 'summary_world.html'), htmlWorld);
+    public generateSourcesJson(articles: Article[]) {
+        const sources = Array.from(new Set(articles.map(a => a.source))).sort();
+        const sourcesPath = path.join(this.outputDir, 'sources.json');
+
+        const data = {
+            generated_at: new Date().toISOString(),
+            count: sources.length,
+            sources: sources
+        };
+
+        fs.writeFileSync(sourcesPath, JSON.stringify(data, null, 2));
     }
 }

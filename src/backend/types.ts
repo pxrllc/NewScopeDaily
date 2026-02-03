@@ -1,20 +1,21 @@
 export interface Article {
-    id: string; // Hash of link or title
+    id: string;          // Normalized Hash
     title: string;
-    link: string;
-    pubDate: string;
-    snippet: string;
-    source: string;
-    sourceUrl: string;
-    region?: string; // e.g., "Africa", "Middle East", "World"
+    url: string;         // Normalised URL (was link)
+    source: string;      // Feed Title
+    published_at: string;// ISO8601 (was pubDate)
+    description: string; // Plain text snippet
 
-    // Enriched fields (by Gemini)
-    country?: string; // ISO Code
-    category?: string; // "Politics", "Conflict", "Environment", etc.
-    importanceScore?: number; // 0-100
-    titleJa?: string;
-    descriptionJa?: string;
-    summaryJa?: string;
+    // Optional/Internal fields
+    sourceUrl?: string;
+    region?: string;
+
+    // Enriched fields
+    summary?: string;    // AI Summary (replacing descriptionJa)
+    country?: string;    // ISO Code
+    category?: string;
+    importanceScore?: number;
+    titleJa?: string;    // Translated Title
 }
 
 export interface DayData {

@@ -43,10 +43,10 @@ Input is a list of news articles. For EACH article, return an object with:
 3. "category": One of [Politics, Conflict, Economy, Society, Science, Environment, Disaster, Sports, Entertainment].
 4. "importanceScore": Integer 0-100.
 5. "titleJa": Japanese translation of the title. MUST be in Japanese.
-6. "descriptionJa": Japanese summary of the snippet (~100 chars).
+6. "summary": Japanese summary of the content (~100 chars). Use "summary" key.
 
 Input JSON:
-${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, snippet: a.snippet, source: a.source })))}
+${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, description: a.description, source: a.source })))}
       `;
 
         try {
@@ -69,7 +69,7 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, snippet: a.snipp
                         category: data.category,
                         importanceScore: data.importanceScore,
                         titleJa: data.titleJa,
-                        descriptionJa: data.descriptionJa
+                        summary: data.summary || data.descriptionJa // Fallback if AI uses old key
                     };
                 }
                 return article;
@@ -93,7 +93,7 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, snippet: a.snipp
             : `Summarize news with a specific focus on ${focusRegion} for ${date}. Prioritize stories from this region.`;
 
         const articlesText = articles.map(a =>
-            `- [${a.source}] ${a.title} (${a.country}) Link: ${a.link} : ${a.snippet}`
+            `- [${a.source}] ${a.title} (${a.country}) Link: ${a.url} : ${a.description}`
         ).join('\n');
 
         const prompt = `
