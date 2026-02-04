@@ -178,7 +178,11 @@ window.toggleArchive = function () {
 // Rendering
 function renderSummary() {
     const container = document.getElementById('summary-container');
-    const content = appState.currentTab === 'world' ? appState.summaries.world : appState.summaries.regional;
+    let content = appState.currentTab === 'world' ? appState.summaries.world : appState.summaries.regional;
+
+    // Remove images from markdown before parsing
+    content = content.replace(/!\[.*?\]\(.*?\)/g, '');
+
     container.innerHTML = marked.parse(content);
 }
 
@@ -467,6 +471,7 @@ window.sharePage = function (platform) {
     if (appState.summaries && appState.summaries.world) {
         // Simple strip markdown (remove #, *, etc)
         let summaryText = appState.summaries.world
+            .replace(/!\[.*?\]\(.*?\)/g, '') // Remove images
             .replace(/[#*`]/g, '') // Remove markdown chars
             .replace(/\n+/g, ' ')  // Collapse newlines
             .trim();

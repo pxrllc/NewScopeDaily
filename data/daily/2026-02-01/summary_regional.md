@@ -1,48 +1,60 @@
-# アフリカ情勢に焦点を当てた2026年2月1日の世界ニュース
+# 2026-02-01 世界のニュース速報 / 中東情勢に注目
 
-## Top Topics
+## トップトピック
 
-### 1. DRコンゴでの鉱山事故と紛争
-**概要:** 東部DRコンゴでは、豪雨後に発生したコルタン鉱山崩落事故により、200人以上の死者が出ました。この地域は反政府勢力M23の支配下にあり、世界的に需要の高いモバイル機器などに使用されるコルタン採掘を巡る緊張と暴力が常態化しています。特にゴマ市周辺では、住民が長年にわたる紛争によるトラウマに苦しんでいます。
-
-**各国の視点:**
-- **[BBC – World News]**: "More than 200 killed in mine collapse in DR Congo"(https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss) - 豪雨後の水曜日に鉱山が崩壊し、200人以上が死亡したと地元の反政府勢力報道官が報告。
-- **[The Guardian – World]**: "More than 200 killed in coltan mine collapse in eastern DRC, officials say"(https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say) - モバイルフォンなどに使われるコルタン鉱山での崩落を報じ、現場が2024年以降M23反政府勢力の支配下にあることに言及。
-- **[DW – Top Stories]**: "Goma under rebel control: Life in the shadow of violence"(https://www.dw.com/en/goma-under-rebel-control-life-in-the-shadow-of-violence/a-75743471?maca=en-rss-en-top-1022-rdf) - M23がゴマを掌握して1年、住民が暴力の影でトラウマに苦しみながらも対応策を模索する様子を詳述。
-- **[Global Voices – Africa (Sub-Saharan)]**: "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies"(https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies/) - 世界のコバルト埋蔵量の70%を占めるDRCの地域で、手掘り採掘者と工業企業間の緊張が高まっている現状を分析。
-
-### 2. ニジェールでのイスラム過激派攻撃と治安情勢
-**概要:** ニジェールの首都ニアメにある国際空港と隣接する空軍基地が、イスラム過激派による大規模な攻撃を受けました。オートバイに乗った武装勢力が重火器やドローンを駆使し、軍事施設や航空機に損害を与えました。軍事政権の指導者は、攻撃をフランス、ベナン、コートジボワールの関与によるものだと非難し、報復を誓っています。
+### 1. ガザ停戦の第二段階とラファ国境再開
+**概要:**
+イスラエルは、ガザ地区とのラファ国境検問所を一時的に再開し、停戦合意の第二段階としてパレスチナ人のエジプトへの越境を一部許可しました。これは「試験的」な措置とされていますが、国境を越えるパレスチナ人たちは「不可能な選択」を迫られていると報じられています。人道状況は依然として厳しく、国境再開の真の意図と影響が注視されています。
 
 **各国の視点:**
-- **[The Guardian – World]**: "Islamic State claims attack on international airport and airbase in Niger"(https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state) - SITEインテリジェンス・グループが追跡するISサヘル支部が、ニアメの国際空港と空軍基地への「奇襲的で連携の取れた」攻撃を主張。
-- **[The Guardian – World]**: "Niger’s military ruler vows retaliation after gunfire and explosions heard in capital"(https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports) - ニジェールの軍事指導者チアニ将軍が、攻撃の背後にはフランス、ベナン、コートジボワールがあるとして非難し、ロシア軍の防衛努力に感謝。
-- **[BBC – Africa]**: "Suspected jihadists attack airport near Niger's capital"(https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss) - ニジェール国防省が、この事件で軍人4人が負傷し、攻撃者20人が死亡したと報告。
+- **DW – Top Stories**: "[Gaza: Israel partially reopens Gaza crossing in second phase of ceasefire](https://www.dw.com/en/gaza-israel-partially-reopens-gaza-crossing-in-second-phase-of-ceasefire/a-75746551?maca=en-rss-en-top-1022-rdf)" - イスラエルが停戦の第二段階としてラファ国境の「パイロット」運用を開始し、月曜からより多くのパレスチナ人が越境できるよう計画していると伝えています。
+- **Al Jazeera – All**: "[As Rafah reopens, Palestinians are ‘given an impossible choice’](https://www.aljazeera.com/video/quotable/2026/2/1/as-rafah-reopens-palestinians-are-given-an-impossible?traffic_source=rss)" - ラファ国境の再開が、避難を余儀なくされるパレスチナ人にとって「不可能な選択」であり、その状況が「犯罪的」であるとの厳しい視点を示しています。
 
-### 3. 南アフリカとイスラエルの外交摩擦
-**概要:** 南アフリカとイスラエルは、外交官を互いに追放するという報復措置に発展する外交的な対立に見舞われています。南アフリカは、駐南アフリカ・イスラエル臨時代理大使がソーシャルメディアでラマポーザ大統領を「侮辱」したとしてペルソナ・ノン・グラータを宣言し、72時間以内の国外退去を命じました。イスラエルはこれを「根拠がない」と非難し、対抗措置を取りました。
-
-**各国の視点:**
-- **[The Guardian – World]**: "South Africa expels top Israeli diplomat over ‘insulting attacks’ on president"(https://www.theguardian.com/world/2026/jan/30/south-africa-expels-israel-diplomat-insults-president) - 南アフリカがイスラエル臨時代理大使アリエル・セイドマンを大統領への「侮辱的な攻撃」を理由に国外追放したと報道。
-- **[BBC – Middle East]**: "South Africa and Israel expel each other's envoys in diplomatic row"(https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss) - 南アフリカがイスラエル大使を大統領侮辱で追放し、イスラエルはこれを「根拠がない」として対抗措置を取ったと報道。
-
-### 4. アフリカ各地での複合的課題
-**概要:** アフリカの複数の国が、それぞれ異なる種類の危機や課題に直面しています。モザンビークでは「ここ数十年で最悪の洪水」に見舞われ、数百人が木の上に避難する事態となっています。ブルキナファソの軍事政権は、全ての政党の活動を禁止すると発表し、政治的自由への懸念が高まっています。また、エチオピアのティグレ州ではドローン攻撃が発生し、ナイジェリアでは教会からの集団誘拐が報じられるなど、地域紛争や治安問題も継続しています。ウガンダではインターネットの遮断が経済と生活に深刻な影響を与えています。
+### 2. イランと欧米の緊張激化
+**概要:**
+イランは、EU（欧州連合）がイラン革命防衛隊をテロ組織に指定したことへの報復として、EU軍をテロ組織と見なすと発表しました。これにより、イランと欧米諸国との間の緊張はさらに高まっています。イラン大統領は米国との外交的解決を呼びかける一方で、米国による攻撃があった場合には、これを昨夏の戦争の一部と見なし、これまでとは異なる劇的な対応を取る可能性も示唆しており、地域情勢の不安定化が懸念されます。
 
 **各国の視点:**
-- **[BBC – Africa]**: "People cling to treetops as 'worst floods in a generation' sweep Mozambique"(https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss) - モザンビークが「世代最悪の洪水」に見舞われ、ブラジル、南アフリカ、英国からのチームが救助を支援していると報道。
-- **[BBC – Africa]**: "Burkina Faso junta announces ban on all political parties"(https://www.bbc.com/news/articles/cevnlv9my1no?at_medium=RSS&at_campaign=rss) - ブルキナファソの軍事政権が、多党制が「市民間の分裂を助長している」として全ての政党の活動を禁止すると発表。
-- **[Al Jazeera – All]**: "Drone strikes in Ethiopia’s Tigray kill one amid fears of renewed conflict"(https://www.aljazeera.com/news/2026/1/31/drone-strikes-in-ethiopias-tigray-kill-one-amid-fears-of-renewed-conflict?traffic_source=rss) - エチオピアのティグレ州でのドローン攻撃により1人が死亡し、政府軍とティグレ軍の衝突を受けて紛争再燃の懸念が高まっていると報告。
-- **[BBC – Africa]**: "'Blood was all over' - victim of Nigeria church abduction describes escape"(https://www.bbc.com/news/articles/cn422q1py95o?at_medium=RSS&at_campaign=rss) - ナイジェリアの村で教会が襲撃され、約160人が行方不明とされる中、被害者が脱出時の状況を語る。
-- **[BBC – Africa]**: "Slashed incomes and gamers go cold turkey: the fallout from Uganda's internet shutdown"(https://www.bbc.com/news/articles/cx2p54rm4k4o?at_medium=RSS&at_campaign=rss) - 総選挙中のインターネット遮断が、ウガンダの多くの人々の収入と娯楽に深刻な影響を与えていると解説。
-- **[Global Voices – Africa (Sub-Saharan)]**: "Combating the climate crisis to promote peace in Mali"(https://globalvoices.org/2026/01/22/combating-the-climate-crisis-to-promote-peace-in-mali/) - マリが過去50年間で40以上の主要な気候変動ショックを経験し、気候危機対策が平和推進に不可欠であると考察。
+- **DW – Top Stories**: "[Iran updates: Iran classes EU armies as terrorist groups](https://www.dw.com/en/iran-updates-iran-classes-eu-armies-as-terrorist-groups/live-75746046?maca=en-rss-en-top-1022-rdf)" - イランが報復措置としてEU軍をテロ組織と分類したこと、そしてイラン大統領がワシントンとの緊張を外交的に解決するよう求めていることを報じています。
+- **BBC – Middle East**: "[Why Iran's response to a US attack could be different this time](https://www.bbc.com/news/articles/cn9z497g4vvo?at_medium=RSS&at_campaign=rss)" - 米国からの攻撃に対するイランの反応がこれまでよりも劇的になる可能性と、それを昨夏の戦争の一部と見なすというテヘランの脅威について分析しています。
+
+### 3. サウジアラビア人活動家への迫害と法的勝利
+**概要:**
+YouTubeでサウジアラビアの指導者を風刺していた活動家、ガネム・アルマサリル氏が、電話のハッキングとロンドンでの暴行被害を受けました。同氏はサウジアラビア政府に対して訴訟を起こし、300万ポンド（約5億6千万円）の損害賠償を勝ち取りましたが、サウジアラビアがこの賠償金を支払うかどうかは不透明な状況です。この事件は、体制批判者に対するサウジアラビア政府の国外での行動について改めて懸念を投げかけています。
+
+**各国の視点:**
+- **BBC – Middle East**: "[I mocked the Saudi leader on YouTube - then my phone was hacked and I was beaten up in London](https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss)" - サウジアラビアの指導者を風刺したユーチューバーが、電話のハッキングとロンドンでの暴行を受け、300万ポンドの損害賠償を勝ち取ったものの、サウジアラビアが支払うかは不明であると報じています。
+
+### 4. コンゴ民主共和国での大規模鉱山崩落事故
+**概要:**
+コンゴ民主共和国東部のルバヤ鉱山で大規模な崩落事故が発生し、200人以上が死亡したと当局が発表しました。この鉱山は世界のコルタン産出量の約15%を占め、スマートフォンやコンピューターなどに不可欠なタンタルを供給しています。現場は2024年以来、M23反乱軍の支配下にあり、地元住民が日給数ドルで手作業で採掘を行っていました。大雨が崩落の原因と見られています。
+
+**各国の視点:**
+- **The Guardian – World**: "[More than 200 killed in coltan mine collapse in eastern DRC, officials say](https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say)" - ルバヤ鉱山での200人以上が死亡した崩落事故の詳細と、世界のコルタン供給における同鉱山の重要性について伝えています。
+- **BBC – Africa**: "[More than 200 killed in mine collapse in DR Congo](https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss)" - 大雨により鉱山が崩壊したことを報じ、地元の反政府勢力報道官が犠牲者数を確認したと伝えています。
+
+### 5. 英国首相スターマー氏のアジア歴訪
+**概要:**
+英国のキア・スターマー首相が中国訪問に続き日本を訪れ、東京で高市早苗氏と会談し、日英両国間の関係強化について協議しました。中国訪問では、ビザ、サービス、医療、グリーンテクノロジー、金融に関する多岐にわたる合意が成立しており、英国の対中関係が「リセット」ではなく、新たな進路を模索していると評されています。今回の歴訪は、変化するグローバル秩序の中で英国がアジアとの関係を再構築しようとする姿勢を反映しています。
+
+**各国の視点:**
+- **Al Jazeera – All**: "[Starmer’s visit to China was not a reset, but a new way forward](https://www.aljazeera.com/opinions/2026/2/1/starmers-visit-to-china-was-not-a-reset-but-a-new-way-forward?traffic_source=rss)" - 英国首相の中国訪問は、伝統的な同盟関係が変化する新しい世界秩序における現実を反映した、新たな道筋を示すものだと論じています。
+- **BBC – Asia**: "[Starmer invites Japan PM to UK after Tokyo talks](https://www.bbc.com/news/articles/c78egr5v5gmo?at_medium=RSS&at_campaign=rss)" - スターマー首相が東京での高市早苗氏との会談後、英国への招待を申し入れ、両国関係強化の道筋について協議したことを報じています。
+- **BBC – Asia**: "[Healthcare, visas and whisky: What did UK and China get from Starmer's visit?](https://www.bbc.com/news/articles/cm2j04lk83zo?at_medium=RSS&at_campaign=rss)" - スターマー首相の中国訪問で、ビザ、サービス、医療、グリーンテクノロジー、金融分野で合意が形成されたことをまとめています。
 
 ---
 **Global Headlines**
--   **エプスタイン関連文書**: 新たに数百万件のエプスタイン関連文書が公開され、トランプ氏や他の著名人との関係が改めて注目を集めています。
--   **米国政治の動向**: 米国政府の一部閉鎖は、上院が資金調達法案を可決したことで一時的に回避されましたが、下院での投票待ちの状態です。また、トランプ大統領はキューバに石油を供給する国々への追加関税を示唆し、国際的な波紋を呼んでいます。
--   **中東情勢**: イスラエル軍はガザで空爆を継続し、停戦違反を互いに非難する中、イランでは爆発事件が発生。米国との緊張が高まる中、イスラエルはイランの体制転換を望んでいるとの分析もあり、EUはイラン革命防衛隊をテロ組織リストに追加しました。
--   **ウクライナと欧州**: ウクライナとモルドバで大規模停電が発生し、水道供給や首都キエフの地下鉄にも影響。気温が氷点下20度まで下がる中、住民は厳しい状況に直面しています。
--   **中南米の動き**: ベネズエラは石油部門の外国投資開放法案を承認し、政治囚の恩赦も発表。パナマ最高裁は中国系企業による運河港の契約を無効と判断しました。
--   **日本のニュース**: ポケモンが物議を醸した日本の神社でのイベントを中止しました。英国労働党のスターマー党首が訪日し、日本の首相と会談し、二国間関係強化について議論しました。
--   **その他**: ナイジェリアの音楽家フェラ・クティ氏がグラミー賞生涯功労賞をアフリカ人として初受賞。スペースXがAI推進のため100万基の衛星ネットワーク構築を申請。メキシコ大統領が韓国にBTSの追加公演を求めるなど、文化的な話題も報道されています。
+- **エプスタイン関連文書公開**: 新たに公開された数百万件のエプスタイン関連文書には、トランプ氏に関する数百の言及や、エプスタインと「公爵」と呼ばれる人物とのメールが含まれています。
+- **ノルウェー王室スキャンダル**: 王太子の継子であるマリウス・ボーグ・ホイビ氏が38件の容疑でレイプ裁判に直面し、ノルウェー王室が公衆の注目の的となっています。
+- **ニジェール空港攻撃**: イスラム国がニジェールの首都ニアメの国際空港と隣接する空軍基地への攻撃を主張しました。バイクに乗った武装勢力が重火器とドローンを使用し、航空機に損害を与えたとのことです。
+- **ポーランドの厳寒**: 気温が急落し、ポーランドのバルト海沿岸のビーチが凍結。珍しい冬景色を見ようと多くの人々が集まっています。
+- **金・銀価格の急落**: 金価格が過去最高値から急落し、銀価格も1980年3月以来最大の下げ幅を記録しました。
+- **南アフリカの反移民感情**: ズールー族の王が反移民感情を沈静化させようとスピーチを行いましたが、結果的に非常に差別的な言葉を使ってしまい、外国人の間で不安が広がっています。
+- **DRCのコバルト産業緊張**: 世界のコバルト埋蔵量の70%を占めるコンゴ民主共和国南東部のルアラバ州コルウェジでは、手掘り採掘者と産業鉱業企業との間で緊張が高まっています。
+- **アフリカの若者人口**: アフリカの爆発的な若年層人口を経済力に変えるための支援とプログラムの必要性が議論されています。
+- **ウクライナの極寒**: 停戦中にもかかわらず、ウクライナでは気温がマイナス20度まで下がる予報で、すでに電力不足に直面している住民は暖房の確保に苦慮しており、「大惨事になる」と懸念されています。
+- **ウクライナの地雷除去**: ウクライナの支配下にある黒海の一部で、ロシアが敷設した危険な水中地雷を撤去するダイバーチームの活動が報じられています。
+- **ベネズエラ石油部門の開放**: ベネズエラ議会が石油部門を民間企業に開放する法案を承認し、外国投資を呼び込む道を開く可能性があります。
+- **パナマ運河の契約無効**: パナマが香港企業の運河港湾契約を無効化。これはドナルド・トランプ氏が以前、米国がパナマ運河を中国から「取り戻す」と主張したことに関連している可能性があります。
+- **ドミニカ共和国の再生可能エネルギー浪費**: ドミニカ共和国は熱発電所を限界以上に稼働させ、貯蔵容量の不足した送電網を維持しているため、クリーンエネルギーの一部を浪費し、数百万ドルの損失を出しています。
+- **ベネズエラの政治囚問題**: ベネズエラ当局が政治囚の大量釈放を発表する一方で、多くの家族は釈放の保証もなく拘留所の外で待ち続けており、政府の和解の言説の裏で不安と恐怖が続いています。
