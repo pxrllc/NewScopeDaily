@@ -1,0 +1,60 @@
+#[Title: 2026 - 02 - 08 World News / Africa Focus]
+
+## Top Topics
+
+### 1. アフリカの紛争と治安悪化
+**概要:** 西アフリカのナイジェリアでは、ジハード主義者による村々の襲撃が激化し、数百人の死者が出ている。スーダンでは、準軍事組織RSFが援助隊をドローンで攻撃し多数の死者が出た。また、米国の政策転換により、民主主義回復よりも西アフリカの軍事政権との関与が優先されようとしているなど、アフリカ各地で紛争と治安悪化が懸念されている。
+
+**各国の視点:**
+- **The Guardian – World**: "‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror](https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters)" - ナイジェリアの村の首長が、ジハード主義者による虐殺で2人の息子を失い、妻と娘たちが拉致された夜の恐怖を語る。
+- **The Guardian – World**: "Gunmen kill more than 160 people in attacks on two west Nigeria villages](https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross)" - ナイジェリア西部で2つの村が武装集団に襲撃され、160人以上が殺害された、今年最悪の襲撃事件を報じる。
+- **BBC – Africa**: "'They sent a letter asking to preach. Then they massacred us' - Nigerians on jihadist attack](https://www.bbc.com/news/articles/c1dkd3llw1lo)" - イスラム教への改宗を拒否したコミュニティがジハード主義者の襲撃で壊滅し、住民がその惨劇を証言する。
+- **DW – Top Stories**: "Sudan: Suspected RSF drone attack on aid convoy kills dozens](https://www.dw.com/en/sudan-suspected-rsf-drone-attack-on-aid-convoy-kills-dozens/a-75855616?maca=en-rss-en-top-1022-rdf)" - スーダンで準軍事組織RSFによるものとみられるドローン攻撃により、避難民を乗せた援助隊が襲撃され、子ども8人を含む少なくとも24人が死亡したことを報じる。
+- **BBC – Africa**: "Three West African juntas have turned to Russia. Now the US wants to engage them](https://www.bbc.com/news/articles/ckglwnrx437o?at_medium=RSS&at_campaign=rss)" - ロシアに傾倒する西アフリカ3カ国の軍事政権に対し、米国が民主主義回復よりも関与を優先する方針に転換したと報じる。
+- **Global Voices – Africa (Sub-Saharan)**: "Combating the climate crisis to promote peace in Mali](https://globalvoices.org/2026/01/22/combating-the-climate-crisis-to-promote-peace-in-mali)" - マリが紛争に加えて気候変動による壊滅的な影響を受けており、気候危機への対策が平和促進に不可欠であると指摘する。
+
+### 2. アフリカ諸国の内政、社会正義、経済問題
+**概要:** アフリカ各国では、税制改革への大規模な抗議活動、政治的緊張の高まり、植民地時代の不正に対する歴史的な賠償判決、公衆衛生や資源管理に関する課題など、様々な内政・社会問題に直面している。
+
+**各国の視点:**
+- **The Guardian – World**: "Thousands of Malawi businesses close in protest over tax changes](https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system)" - マラウイで、新税制導入に反対するビジネスオーナーらが数千もの店舗を閉鎖して抗議活動を行い、政府に政策の延期を強いたことを報じる。
+- **The Guardian – World**: "Ugandan opposition leader still in hiding as feud with president’s son escalates](https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud)" - ウガンダで、野党指導者ボビ・ワイン氏が自宅への夜間襲撃を避け隠れている状況と、大統領の息子である軍司令官ムフージ・カイネルガバ氏との対立激化を報じる。
+- **BBC – Africa**: "This army chief threatened to castrate opposition leader and claimed descent from Jesus](https://www.bbc.com/news/articles/cdjnp9m8wvgo?at_medium=RSS&at_campaign=rss)" - ウガンダ大統領の息子で軍司令官が、野党指導者への過激な脅迫や自らをイエス・キリストの子孫と主張するなどの物議を醸す発言について詳述する。
+- **BBC – Africa**: "Nigerian court orders UK to pay £420m over 1949 killing of miners](https://www.bbc.com/news/articles/c4g3g51klyno?at_medium=RSS&at_campaign=rss)" - ナイジェリアの裁判所が、1949年のアバ鉱山での労働者殺害事件に関して、植民地時代の不当な行為として英国に4億2000万ポンドの賠償を命じたことを報じる。
+- **BBC – Africa**: "As US cash dries up South Africa's fight to stop Aids gets harder](https://www.bbc.com/news/articles/c5ydyr53np1o?at_medium=RSS&at_campaign=rss)" - 米国からの資金援助が減少する中で、南アフリカのエイズ対策が困難に直面しており、HIVのさらなる蔓延リスクが懸念されていると伝える。
+- **BBC – Africa**: "Why a beauty spot in South Africa could be about to run out of water](https://www.bbc.com/news/articles/cy8pleg24rvo?at_medium=RSS&at_campaign=rss)" - 南アフリカのある観光地で、配管からの漏水により飲用水の約55%が失われ、水不足の危機に瀕している現状を指摘する。
+- **BBC – Africa**: "Shanties in a Lagos lagoon: Bulldozed and burnt](https://www.bbc.com/news/articles/ce3epxznyzzo?at_medium=RSS&at_campaign=rss)" - ナイジェリア最大の都市ラゴスのラグーンに広がる不法居住区が取り壊され焼却されたことに対し、住民がウォーターフロントの再開発による立ち退きだと疑念を抱いていると報じる。
+- **Global Voices – Africa (Sub-Saharan)**: "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies](https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies)" - コバルトの世界埋蔵量の70%を占めるコンゴ民主共和国で、零細鉱夫と産業鉱業企業との間で土地利用や資源アクセスを巡る緊張が高まっている状況を報じる。
+
+### 3. アフリカの発展、社会課題、国際関係
+**概要:** アフリカでは、AI活用による医療格差の解消、若年層の人口増加を経済的力に変える取り組み、そして伝統文化の尊重など、持続可能な発展に向けた挑戦が進行している。同時に、HIVに関するスティグマ、中国の経済進出と先住民族への影響、そして欧州連合との「パートナーシップ」の真の意義を巡る議論も重要な課題となっている。
+
+**各国の視点:**
+- **Global Voices – Africa (Sub-Saharan)**: "Researchers in Africa are using AI to fill the global health care gap](https://globalvoices.org/2026/02/05/researchers-in-africa-are-using-ai-to-fill-the-global-health-care-gap)" - 世界の疾病負担の24%を抱えながら医療従事者の3%しかいないアフリカで、AIが医療格差を埋める可能性と研究者の取り組みを紹介する。
+- **Global Voices – Africa (Sub-Saharan)**: "How to turn Africa’s young demographic potential into a collective power](https://globalvoices.org/2026/01/28/how-to-turn-africas-young-demographic-potential-into-a-collective-power)" - アフリカの爆発的に増加する若年層が持つ潜在力を、経済的な力へと転換するための支援とプログラムの必要性を強調する。
+- **BBC – Africa**: "Zambian leader backs traditional Ghanaian outfit after online trolling](https://www.bbc.com/news/articles/cq5y5w2z344o?at_medium=RSS&at_campaign=rss)" - ザンビア大統領が着用したガーナの伝統衣装を「ブラウス」と揶揄したオンライン上のからかいに対し、ザンビアの指導者がその衣装を支持し、文化的な尊重を訴えた。
+- **Global Voices – Africa (Sub-Saharan)**: "Who deserves to know I am HIV positive?](https://globalvoices.org/2026/02/02/who-deserves-to-know-i-am-hiv-positive)" - HIV感染者が抱えるスティグマの問題に焦点を当て、家族にすら診断を伝えられないほどの社会的な偏見が根強い現状を明らかにする。
+- **Global Voices – Africa (Sub-Saharan)**: "Is the Chinese presence in Congo Brazzaville a threat to ‘first occupants’ or a relief to them?](https://globalvoices.org/2026/01/05/is-the-chinese-presence-in-congo-brazzaville-a-threat-to-first-occupants-or-a-relief-to-them)" - コンゴ・ブラザビルにおける中国企業の存在が、森林破壊を通じて先住民族の生息地を脅かす一方で、一部には経済的恩恵をもたらしているという複雑な状況を考察する。
+- **Global Voices – Africa (Sub-Saharan)**: "What does ‘partnership’ really mean for Africa and the European Union?](https://globalvoices.org/2026/01/15/what-does-partnership-really-mean-for-africa-and-european-union)" - アフリカ連合が2025年を賠償の年と定めたにもかかわらず、欧州との関与が認識に留まり具体的なコミットメントに欠ける点を指摘し、真のパートナーシップの課題を問う。
+
+### 4. 気候変動と自然災害
+**概要:** 北アフリカを含むイベリア半島で、大規模な嵐「レオナルド」が壊滅的な大雨と強風をもたらし、モロッコでは洪水により10万人以上が避難を余儀なくされるなど、深刻な影響が出ている。
+
+**各国の視点:**
+- **The Guardian – World**: "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa](https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa)" - 嵐レオナルドがヨーロッパと北アフリカを襲い、スペインとポルトガルで豪雨と強風、モロッコで洪水による10万人以上の避難が発生している状況を追跡する。
+- **Euronews – World**: "Storm Marta batters Portugal and Spain just days after deadly floods](http://www.euronews.com/2026/02/07/storm-marta-batters-portugal-and-spain-just-days-after-deadly-floods)" - 死者を出した洪水からわずか数日後、ポルトガルとスペインに新たな嵐マルタが襲来し、さらなる洪水や交通の混乱への警戒が呼びかけられていることを報じる。
+- **Al Jazeera – All**: "Spain, Portugal brace for new storm after floods kill 2, displace 11,000](https://www.aljazeera.com/news/2026/2/7/spain-portugal-brace-for-new-storm-after-floods-kill-2-displace-11000?traffic_source=rss)" - ポルトガルとスペインが新たな嵐の接近に備え、既に洪水で2人が死亡し1万1千人が避難している状況を伝える。
+- **BBC – Europe**: "Europe feels the impact of weeks of wet weather and freezing cold](https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&at_campaign=rss)" - イベリア半島での執拗な長雨を含め、ヨーロッパ全体が数週間にわたる悪天候と極寒の影響を受けている現状を解説する。
+
+---
+**Global Headlines**
+- **ウクライナ情勢**: ゼレンスキー大統領は、米国がロシアとウクライナに対し6月までに戦争を終結させるよう求めていると述べた一方、ロシアはウクライナのエネルギー施設への攻撃を続けている ([BBC – World News] "US wants Russia and Ukraine to end war by June, says Zelensky (UA)](https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss)"). また、モスクワではロシア軍幹部が銃撃され、両国間で捕虜交換も行われた ([BBC – World News] "General shot in Moscow conscious after surgery, Russian media say (RU)](https://www.bbc.com/news/articles/cpwnweypgvyo?at_medium=RSS&at_campaign=rss)"; [BBC – Europe] "Russia and Ukraine exchange prisoners as peace talks end without breakthrough (UA)](https://www.bbc.com/news/articles/c62np09q7l1o?at_medium=RSS&at_campaign=rss)").
+- **パキスタンでのテロ**: パキスタンのモスクでの自爆テロ事件で、30人以上が死亡し、首謀者とされる人物を含む4人が逮捕された。過激派組織イスラム国（IS）の関連団体が犯行声明を出している ([BBC – World News] "Alleged mastermind among four arrested after Pakistan mosque blast (PK)](https://www.bbc.com/news/articles/cd6w69pj14xo?at_medium=RSS&at_campaign=rss)"; [DW – Top Stories] "Pakistan: IS affiliate group claims Islamabad mosque bombing (PK)](https://www.dw.com/en/pakistan-is-affiliate-group-claims-islamabad-mosque-bombing/a-75853782?maca=en-rss-en-top-1022-rdf)").
+- **イタリアの冬季オリンピックと鉄道妨害**: ミラノ・コルティナ冬季オリンピックの開幕に際し、イタリアの鉄道施設が「深刻な破壊工作」に見舞われ、旅程に遅延が発生。また、環境的・経済的な影響に抗議するデモも行われた ([BBC – World News] "Italy says railways hit by 'serious sabotage' as Winter Olympics begin (IT)](https://www.bbc.com/news/articles/czr4rx04xjpo?at_medium=RSS&at_campaign=rss)"; [Euronews – World] "Milan protesters rally against environmentally and economically 'unsustainable' Winter Olympics (IT)](http://www.euronews.com/2026/02/07/milan-protesters-rally-against-environmentally-and-economically-unsustainable-winter-olymp)").
+- **日本の大雪と政治**: 日本では1月下旬からの大雪により少なくとも45人が死亡、500人以上が負傷した ([Euronews – World] "Heavy snowfall in Japan leaves at least 45 dead, more than 500 injured (JP)](http://www.euronews.com/video/2026/02/07/heavy-snowfall-in-japan-leaves-at-least-45-dead-more-than-500-injured)"). 一方、日本初の女性首相による解散総選挙が日曜日に迫り、インフレや中国との外交問題が有権者の懸念となっている ([BBC – World News] "Will Sunday's snap election gamble pay off for Japan's first female premier? (JP)](https://www.bbc.com/news/articles/ckgl53zll3jo?at_medium=RSS&at_campaign=rss)").
+- **米国の政治と外交**: トランプ米大統領は、オバマ夫妻をサルとして描写した人種差別的な動画の一部を「見ていない」と釈明し、謝罪を拒否した ([BBC – World News] "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes (undefined)](https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss)"). また、イランの貿易相手国への関税を承認し、イランとの対立姿勢を強めている ([DW – Top Stories] "Trump authorizes tariffs on Iran's trade partners (US)](https://www.dw.com/en/trump-authorizes-tariffs-on-iran-s-trade-partners/a-75852844?maca=en-rss-en-top-1022-rdf)")。
+- **中東情勢**: イスラエル軍はガザでの攻撃を継続し、ガザ病院は新生児へのケアに苦慮している ([BBC – Middle East] "Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire (PS)](https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss)"; [BBC – Middle East] "Watch: Inside Gaza hospital struggling to provide care to newborn babies (PS)](https://www.bbc.com/news/videos/c62wpd7wj3ro?at_medium=RSS&at_campaign=rss)"). 一方、イランは米国との対話を継続する意向を示し、ラファ検問所がエジプトとの間で再開された ([BBC – Middle East] "Talks with US set to continue after 'good beginning', Iran's foreign minister says (IR)](https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss)"; [BBC – Middle East] "Israel reopens Gaza's key Rafah border crossing with Egypt (PS)](https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss)").
+- **韓国の仮想通貨企業が誤って400億ドルを支払い**: 韓国の仮想通貨企業が顧客に誤って400億ドル相当のビットコインを支払ったが、すぐに過ちに気づき、ほぼ全てのトークンを回収した ([BBC – World News] "S Korean crypto firm accidentally pays out $40bn in bitcoin (KR)](https://www.bbc.com/news/articles/cz6y62nzjxxo?at_medium=RSS&at_campaign=rss)").
+- **バミューダカタツムリの復活**: かつて絶滅したと思われていたバミューダカタツムリが、10年間の努力を経て10万匹以上が繁殖・放流され、再び生息していることが確認された ([The Guardian – World] "Bermuda snail thought to be extinct now thrives after a decade’s effort (BM)](https://www.theguardian.com/environment/2026/feb/07/bermuda-snail-thought-to-be-extinct-now-thrives-after-a-decades-effort)").
+- **アフリカサッカー連盟（CAF）とAFCONの論争**: モロッコのアフリカネイションズカップ（AFCON）開催を巡り、一部のファンによる「中世的行為」が現代のジャージをまとっているようだと批判され、CAFの対応が問われている ([Global Voices – Africa (Sub-Saharan)] "Morocco, AFCON, and the controversies that trailed Africa’s biggest football event (MA)](https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event)").
+- **ウガンダの平和ジャーナリズム賞**: ウガンダで初の平和ジャーナリズム賞が開催され、メディアが扇情主義を超えて平和と開発志向の報道へと向かうきっかけを提供し、メディアの風景を再定義している ([Global Voices – Africa (Sub-Saharan)] "Uganda’s first peace journalism awards redefine the media landscape (UG)](https://globalvoices.org/2026/02/03/ugandas-first-peace-journalism-awards-redefine-the-media-landscape)").
