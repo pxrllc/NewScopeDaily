@@ -1,0 +1,882 @@
+{
+  "US": {
+    "count": 11,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b1d20436b0fb01c518344db9f0b8f455",
+      "title": "Life at the U.S.–Mexico border under the Trump administration",
+      "url": "https://globalvoices.org/2025/12/16/life-at-the-u-s-mexico-border-under-the-trump-administration",
+      "published_at": "2025-12-16T01:00:17.000Z",
+      "description": "The Trump administration has reintroduced some of its most contentious border measures, leading to renewed targeting, detention, and deportation of migrant communities, leaving thousands seeking safety in increasingly perilous conditions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 88,
+      "titleJa": "トランプ政権下の米墨国境での生活",
+      "summary": "トランプ政権下、米墨国境で厳しい措置が再導入され、移民コミュニティの拘束・送還が増加。数千人が危険な状況で安全を求めている。"
+    }
+  },
+  "FR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6f3ac092eb5cb0a56cfaedfa8bc73435",
+      "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
+      "url": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T06:00:11.000Z",
+      "description": "In an extensive interview with Newsnight, the woman at the heart of France's biggest rape trial speaks about betrayal, healing and choosing the right path.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ジゼル・ペリコ氏、BBCに語る：「恐怖に押しつぶされたが、怒りは感じない」",
+      "summary": "フランス史上最大のレイプ裁判の中心人物である女性が、裏切り、癒し、そして正しい道を選ぶことについて語る。"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a3f5672936820d3454a97f02c6452e3b",
+      "title": "Planned US-funded baby vaccine trial in Guinea-Bissau blasted by WHO",
+      "url": "https://www.bbc.com/news/articles/c78j5k2gk02o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T16:20:33.000Z",
+      "description": "Giving some newborns in Guinea-Bissau an established hepatitis B treatment but not others is \"unethical\", it says.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "GW",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 75,
+      "titleJa": "ギニアビサウで計画された米国資金の乳児ワクチン試験をWHOが非難",
+      "summary": "一部の新生児にB型肝炎治療を行う一方で、他に行わないことは「非倫理的」だとWHOは述べている。"
+    }
+  },
+  "RU": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1d9a4b847e8b515bf04ccfdb5ca96018",
+      "title": "Navalny was poisoned by Kremlin, say 5 European countries",
+      "url": "https://www.dw.com/en/navalny-was-poisoned-by-kremlin-say-5-european-countries/a-75970832?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-14T13:24:00.000Z",
+      "description": "The top diplomats of the UK, France, Sweden, Germany and the Netherlands say the analysis of samples from the late Russian opposition leader Alex Navalny conclusively proves a state-ordered killing.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "ナワリヌイ氏はクレムリンに毒殺された、と欧州5カ国が発表",
+      "summary": "英国、フランス、スウェーデン、ドイツ、オランダは、故ロシア野党指導者アレクセイ・ナワリヌイ氏のサンプル分析が国家による殺害を証明したと述べた。"
+    }
+  },
+  "CU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1850b831f843ec4d0f3224a2151ae0b7",
+      "title": "Cuban cigar festival called off as US blockade worsens energy crisis",
+      "url": "https://www.bbc.com/news/articles/c0q30k2xzk2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T18:04:51.000Z",
+      "description": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "米国の封鎖によるエネルギー危機悪化でキューバ葉巻フェスティバル中止",
+      "summary": "米国の禁輸措置による物資不足が国際旅行に影響を与え、毎年恒例の愛好家向けイベントが追って通知があるまで延期された。"
+    }
+  },
+  "PS": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2b775fc13dc3162c4459a122b18edb0c",
+      "title": "Palestinians say new Israeli measures in West Bank amount to de facto annexation",
+      "url": "https://www.bbc.com/news/articles/cvg5x2l3v0qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-10T10:04:30.000Z",
+      "description": "The measures aim to increase Israeli control over the occupied West Bank in terms of property law, planning, licensing and enforcement.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "パレスチナ人、イスラエルのヨルダン川西岸新措置は事実上の併合だと主張",
+      "summary": "パレスチナ人は、イスラエルがヨルダン川西岸で導入した新たな措置が、財産法や計画などにおける支配強化を目的とした事実上の併合だと主張する。"
+    }
+  },
+  "HU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7647a82cb3fd59ef815d9524139eed7a",
+      "title": "Orban says EU bigger threat to Hungary than Russia",
+      "url": "https://www.dw.com/en/orban-says-eu-bigger-threat-to-hungary-than-russia/a-75974022?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-14T18:35:00.000Z",
+      "description": "Hungarian PM Viktor Orban accused the EU of propping up Peter Magyar's Tisza opposition party. Hungary's longest-serving prime minister is facing his biggest electoral challenge in years.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "オルバン首相、EUはロシアよりもハンガリーにとって大きな脅威だと発言",
+      "summary": "ハンガリーのオルバン首相は、EUが野党ティサ党を支援していると非難。同国首相は近年最大の選挙課題に直面している。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "949e82d288f4a387593f6258ea4a4a4a",
+      "title": "Ukraine's Zelenskyy at MSC: Putin is a 'slave to war'",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-at-msc-putin-is-a-slave-to-war/a-75973922?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-14T17:54:00.000Z",
+      "description": "Almost four years after Russia launched its invasion of Ukraine, peace is nowhere in sight. At the Munich Security Conference, Ukrainian President Volodymyr Zelenskiyy said his country needed more weapons — fast.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ウクライナのゼレンスキー大統領、MSCで「プーチンは『戦争の奴隷』だ」と発言",
+      "summary": "ロシアによるウクライナ侵攻から約4年、平和は見えない。ゼレンスキー大統領はミュンヘン安全保障会議で、ウクライナには早急にさらなる武器が必要だと述べた。"
+    }
+  },
+  "VE": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f6a40340d6f0d651f092d9e61fa29f1a",
+      "title": "A new, terrifying sound: A Venezuelan account of the the attack on Caracas",
+      "url": "https://globalvoices.org/2026/01/05/a-new-terrifying-sound",
+      "published_at": "2026-01-05T21:01:15.000Z",
+      "description": "“I thought Venezuelans had already heard every sound the country’s violence had to offer. But this was something new — terrifying in its unfamiliarity.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "新たな、恐ろしい音：カラカス攻撃に関するベネズエラからの報告",
+      "summary": "カラカスへの攻撃はベネズエラの暴力に慣れた住民にとっても「新しい、恐ろしい」体験であり、その異様さが恐怖をもたらしたと語られる。"
+    }
+  },
+  "EG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "77b59dd262995719b8546d17ec8e50d5",
+      "title": "Why is Egypt bolstering ties with Somalia now?",
+      "url": "https://www.dw.com/en/why-is-egypt-bolstering-ties-with-somalia-now/a-75958140?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-14T13:29:00.000Z",
+      "description": "As Egypt deploys troops to Mogadishu, analysts say Cairo is focusing on strategic access to the Red Sea and Somalia is concentrating on internal stability. But both countries share concerns about Ethiopian expansionism.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エジプトが今、ソマリアとの関係を強化する理由とは？",
+      "summary": "エジプトはモガディシュに部隊を派遣。カイロは紅海への戦略的アクセスに、ソマリアは国内の安定に注力。両国はエチオピアの拡張主義を懸念する。"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0bf23ddb799814f16ee33275d1c1db2d",
+      "title": "Assailants kill at least 30 in northwest Nigeria villages, residents say",
+      "url": "https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say",
+      "published_at": "2026-02-14T18:02:58.000Z",
+      "description": "Residents who escaped violence tell of bandits riding in on motorbikes and shooting indiscriminately\nArmed assailants on motorbikes killed at least 30 people and burned houses and shops during raids on three villages in northwest Nigeria’s Niger State early on Saturday, residents who escaped the violence told Reuters.\nThe attacks on villages in the Borgu local government area, near the border with Benin Republic, are part of a surge in attacks blamed on “bandits,,” who have carried out deadly assaults, abductions for ransom and displaced communities across northern Nigeria.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ナイジェリア北西部で武装集団が少なくとも30人を殺害、住民が証言",
+      "summary": "ナイジェリア北西部の3つの村が武装集団の襲撃を受け、少なくとも30人が死亡し、家屋や店舗が焼かれた。国境付近で「匪賊」による攻撃が頻発している。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3cf69422d8748e0a116a863fb9b408fd",
+      "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
+      "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
+      "published_at": "2026-02-09T13:44:54.000Z",
+      "description": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history\nGhanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90.\nHis son Kweku Taylor announced the news on Sunday: “The world has lost a giant. A colossus of African music. Ebo Taylor passed away yesterday; a day after the launch of Ebo Taylor music festival and exactly a month after his 90th birthday, leaving behind an unmatched artistry legacy. Dad, your light will never fade.”\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GH",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "ガーナのハイライフ音楽の先駆者、ギタリストのエボ・テイラー氏が90歳で死去",
+      "summary": "ガーナのハイライフ音楽の確立に貢献した伝説的ギタリスト、エボ・テイラー氏が90歳で死去した。アフリカ音楽界の巨匠として称賛された。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fdc87f22653be466af0e5b4629aa7607",
+      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "published_at": "2026-02-09T11:00:20.000Z",
+      "description": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damage\nSpain and Portugal have endured another storm over the weekend, just days after the deadly flooding and major damage caused by Storm Kristin and Storm Leonardo last week. Storm Marta passed over the Iberian peninsula on Saturday, bringing fresh torrential rain and killing two people. Storm Kristin killed at least five people after it made landfall on 28 January with Storm Leonardo claiming another victim last Wednesday.\nThe outlook for this week is for more rain across Spain, Portugal and France, especially across north-west Portugal, where more than 100mm is possible during the first half of the week. Some of the heaviest of the rain will transfer to southern Italy and western parts of Greece and Turkey later in the week.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "天気追跡：スペインとポルトガル、2週間で3度目の死者が出る嵐に見舞われる",
+      "summary": "スペインとポルトガルが2週間で3度目となる嵐「マルタ」に見舞われ、激しい雨と洪水により2人が死亡した。さらに多くの雨が予測されている。"
+    }
+  },
+  "SD": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "22f28483689a008c73664da2f9f7ea46",
+      "title": "Sudanese city had 6,000 killed in three days, UN says",
+      "url": "https://www.bbc.com/news/articles/c043753z7w3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T18:01:05.000Z",
+      "description": "Paramilitary Rapid Support Forces (RSF) committed the atrocities in el-Fasher, says a UN report.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "スーダンの都市で3日間で6,000人死亡、国連が発表",
+      "summary": "国連報告によると、スーダンのエル＝ファーシル市で準軍事組織が3日間で6,000人を殺害する残虐行為を行った。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "313c192591d5d9ee501b14960bfbe5ad",
+      "title": "French coin found near Culloden may have been used to pay Jacobite",
+      "url": "https://www.bbc.com/news/articles/cvgvl6qn6r2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T06:32:44.000Z",
+      "description": "Ian Deveney made his find on land between Inverness and the 280-year-old battlefield.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GB",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "カロデンの近くでフランスの硬貨発見、ジャコバイトへの支払いか",
+      "summary": "インヴァネスと280年前の古戦場の間の土地でフランスの硬貨が発見された。これはジャコバイトへの支払いに使われた可能性があるという。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5a95e2277de5664b5f4dac1d72e1297c",
+      "title": "Bus carrying pilgrims overturns in Brazil killing 15 on board",
+      "url": "https://www.bbc.com/news/articles/cq6vn5j312lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-03T16:39:57.000Z",
+      "description": "Three children are among those who died in the accident, which happened on the return leg of their journey.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "ブラジルで巡礼者を乗せたバスが横転し、15人死亡",
+      "summary": "ブラジルで巡礼を終え帰路にあったバスが横転。子供3人を含む15人が死亡する事故が発生した。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7091788075042a66283021f143d6d9ef",
+      "title": "Mark Carney joins hands with Canada opposition leader as he pays tribute to school shooting victims",
+      "url": "https://www.theguardian.com/world/2026/feb/14/mark-carney-joins-hands-with-canada-opposition-leader-as-he-pays-tribute-to-school-shooting-victims",
+      "published_at": "2026-02-14T04:42:11.000Z",
+      "description": "The Canadian prime minister told residents of Tumbler Ridge that the country is ‘with you’\nCanadian prime minister Mark Carney has told residents of Tumbler Ridge that the country is “with you, and we will always be with you”, during a candlelight vigil for the eight victims of a mass shooting that has shattered the small mining town.\nThe prime minister, holding hands with opposition leader Pierre Poilievre while flanked by First Nations chiefs and local officials, paid tribute to the families enduring the loss of loved ones, after the shooting at a local school that has become one of the most deadly attacks in Canadian history.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "マーク・カーニー首相がカナダ野党指導者と共に学校銃乱射事件の犠牲者を追悼",
+      "summary": "カナダのマーク・カーニー首相が、タムブラー・リッジの学校銃乱射事件の犠牲者追悼式で野党指導者と手を取り、国民の結束を訴えた。同国史上最も悲劇的な事件の一つ。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "09ebf76174eca2aa534e1d463a622fc6",
+      "title": "India orders social media firms to remove unlawful content within three hours",
+      "url": "https://www.bbc.com/news/articles/c2lrn8q2q24o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-11T08:27:41.000Z",
+      "description": "Critics worry the rules would be a compliance challenge for tech platforms and could expand censorship.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "インド、ソーシャルメディア企業に違法コンテンツの3時間以内の削除を命令",
+      "summary": "インド政府は、ソーシャルメディア企業に対し、違法なコンテンツを3時間以内に削除するよう命じた。批評家たちは、これが検閲を拡大し、技術プラットフォームにとって対応が困難になると懸念している。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4a8975c6ab24f08fce3e566437488926",
+      "title": "World's rules-based order 'no longer exists', Germany's Merz warns",
+      "url": "https://www.bbc.com/news/articles/cy4wpv0wx43o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T18:52:25.000Z",
+      "description": "\"Our freedom is not guaranteed\" in an era of big powers, the German chancellor tells Munich's security summit.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "世界のルールに基づく秩序は「もはや存在しない」、ドイツのメルツ氏が警告",
+      "summary": "ドイツのメルツ首相はミュンヘン安全保障会議で、大国時代において「我々の自由は保証されていない」と述べ、世界のルールに基づく秩序が失われたと警告した。"
+    }
+  },
+  "CH": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c8fdf81f2c763656bb268a1b5c7f4859",
+      "title": "Deadly drone strikes cloud US-brokered Russia-Ukraine talks in Geneva",
+      "url": "https://www.aljazeera.com/news/2026/2/14/deadly-drone-strikes-cloud-us-brokered-russia-ukraine-talks-in-geneva?traffic_source=rss",
+      "published_at": "2026-02-14T14:35:32.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy and US Secretary of State Marco Rubio hint at difficulties in next week's talks.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CH",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ジュネーブでの米仲介による露ウ交渉、致命的なドローン攻撃が暗雲を投げかける",
+      "summary": "米国が仲介するロシアとウクライナのジュネーブ交渉を前に、致命的なドローン攻撃が発生し、次週の協議に困難が生じる可能性が示唆されている。"
+    }
+  },
+  "IR": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3e0ed2e28224c5f0a297d393c8318c32",
+      "title": "Iran fortifies underground complex near nuclear site, satellite images show",
+      "url": "https://www.bbc.com/news/articles/cwygxz81330o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T21:27:28.000Z",
+      "description": "The activity comes at a time of heightened tensions as talks between Iranian and US officials continue over Iran's nuclear programme.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "イラン、核施設近くの地下複合施設を強化、衛星画像が示す",
+      "summary": "衛星画像によると、イランが核施設近くの地下複合施設を強化している。イランと米国の核協議が続く中、緊張が高まっている。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "062f85b6c8c507753feda0bcc480b4d6",
+      "title": "Indonesia preparing to deploy up to 8,000 soldiers to Gaza",
+      "url": "https://www.bbc.com/news/articles/cvgjwpx9j2do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-10T11:38:56.000Z",
+      "description": "It would be the first country to do so as part of phase two of the ceasefire agreement brokered by the US last year.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "ID",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "インドネシア、ガザに最大8,000人の兵士派遣を準備",
+      "summary": "インドネシアが、昨年の米国仲介による停戦合意の第二段階として、ガザへ最大8,000人の兵士を派遣する準備を進めている。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "af1b32c3efd3f556a8f4e9c64d705075",
+      "title": "Fifteen killed in latest Lebanon building collapse, as warnings of neglect grow",
+      "url": "https://www.bbc.com/news/articles/c4gedxvqpz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-09T13:12:44.000Z",
+      "description": "Two blocks fall down in what is the fifth such disaster this winter, as warnings of neglect grow.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "レバノンで建物崩壊、15人死亡、放置への警告高まる",
+      "summary": "レバノンで建物が崩壊し15人が死亡。今冬5度目の災害であり、放置されている建築物への警告が高まっている。"
+    }
+  },
+  "AU": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "82e613dabea3063cd7b3273fac48acaf",
+      "title": "Australia's Liberal Party ousts first woman leader",
+      "url": "https://www.bbc.com/news/articles/cr5lmgdmy9mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T00:42:24.000Z",
+      "description": "Sussan Ley, plagued by poor polls, was deposed by Angus Taylor after just nine months in the job.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "オーストラリア自由党、初の女性党首を解任",
+      "summary": "支持率低迷に苦しんでいたスーザン・レイが、就任わずか9ヶ月でアンガス・テイラーによって党首の座を追われた。オーストラリア自由党内の権力変動を示す出来事である。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ac53351d28203e78803e347f4ee6b34c",
+      "title": "Kenya's border with Somalia set to re-open after almost 15 years",
+      "url": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T11:56:08.000Z",
+      "description": "Somali Islamist militant group al-Shabab has staged several attacks in Kenya, prompting the border to be closed.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ケニア、ソマリア国境を約15年ぶりに再開へ",
+      "summary": "ケニアは、アル・シャバブの攻撃により約15年間閉鎖していたソマリアとの国境を再開する予定。"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fa40960bf0b581434f27717060b53131",
+      "title": "South Africa to deploy troops to tackle crime gangs",
+      "url": "https://www.bbc.com/news/articles/c0q30d20lkqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T10:20:34.000Z",
+      "description": "President Cyril Ramaphosa says the army will work with the police to fight organised crime and illegal mining.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "南アフリカ、犯罪組織対策に部隊を派遣へ",
+      "summary": "南アフリカのラマポーザ大統領は、組織犯罪と違法採掘対策のため、軍が警察と協力して部隊を派遣すると発表。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "59d99417831f3f92a87fa136aac2cf61",
+      "title": "A simple guide to the crisis in South Sudan",
+      "url": "https://www.bbc.com/news/articles/c7933p4xe7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-11T12:34:52.000Z",
+      "description": "The political rift that could spiral into conflict again after the vice-president was accused of treason.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "南スーダン危機の簡単な手引き",
+      "summary": "副大統領が反逆罪で告発され、再び紛争に発展しかねない南スーダンの政治危機について解説。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "042e17759a02f303325bbd2475720073",
+      "title": "Burundi tea plantations hamper chimpanzee protection",
+      "url": "https://globalvoices.org/2026/02/14/burundi-tea-plantations-hamper-chimpanzee-protection",
+      "published_at": "2026-02-14T12:00:10.000Z",
+      "description": "In Burundi, tea production hampers the protection of endangered species, such as chimpanzees.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BI",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ブルンジの茶畑がチンパンジー保護を妨げる",
+      "summary": "ブルンジでは、茶の生産拡大がチンパンジーなどの絶滅危惧種の保護を阻害しており、環境保護と経済活動の間の課題が浮き彫りになっている。"
+    }
+  },
+  "ML": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aa996738d6548fd5c48cb4863126a927",
+      "title": "Women and young girls bear the brunt of Mali’s worsening security crisis",
+      "url": "https://globalvoices.org/2026/02/11/women-and-young-girls-bear-the-brunt-of-malis-worsening-security-crisis",
+      "published_at": "2026-02-11T04:57:56.000Z",
+      "description": "Since 2012, Mali has been in security turmoil with the emergence and expansion of several radical non-State armed groups. This situation disproportionately affects the civilian population, especially women and girls.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "マリの悪化する治安危機、女性と少女が最も苦しむ",
+      "summary": "2012年以来、マリでは武装勢力の台頭により治安が悪化。この状況は特に女性と少女といった市民に不均衡な影響を与えている。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "559da650aa3cb1ad0dd121230dc3a8f2",
+      "title": "Uganda’s first peace journalism awards redefine the media landscape",
+      "url": "https://globalvoices.org/2026/02/03/ugandas-first-peace-journalism-awards-redefine-the-media-landscape",
+      "published_at": "2026-02-03T05:45:39.000Z",
+      "description": "The PJF’s framework seeks to move the media beyond sensationalism toward peace and development-oriented reporting, emphasizing early identification of conflict triggers and the promotion of non-violent responses.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ウガンダ初の平和ジャーナリズム賞、メディアの展望を再定義",
+      "summary": "ウガンダで初の平和ジャーナリズム賞が設立。メディアが扇情主義から脱却し、平和と開発に貢献する報道へと転換することを目指す。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dee668b368b962987bf0b9c28f78e70f",
+      "title": "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies",
+      "url": "https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies",
+      "published_at": "2026-01-29T18:00:39.000Z",
+      "description": "Kolwezi in the Lualaba Province of the southeastern Democratic Republic of Congo (DRC), where tensions are high between artisanal miners and industrial companies, holds 70 percent of the world’s cobalt reserves.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "コバルトの世界的拠点DRCで、零細採掘業者と工業採掘企業の間の緊張が高まる",
+      "summary": "世界のコバルト埋蔵量の70%を占めるコンゴ民主共和国で、零細採掘業者と工業採掘企業との間で高い緊張が続き、社会経済的問題を引き起こしている。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "614ce030fc32f791b8000ab572c840d0",
+      "title": "Morocco, AFCON, and the controversies that trailed Africa’s biggest football event",
+      "url": "https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event",
+      "published_at": "2026-01-26T18:00:06.000Z",
+      "description": "“This isn’t ‘passion,’ it’s medieval conduct wearing a modern jersey, enabled by CAF.”",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "モロッコ、AFCON、そしてアフリカ最大のサッカーイベントを巡る論争",
+      "summary": "アフリカ最大のサッカーイベント、アフリカネイションズカップ（AFCON）で、モロッコに関連する「情熱」ではなく「中世的な行動」と批判される論争が勃発した。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "05661635aaae93baacbce9c78dfac065",
+      "title": "Norway's former PM charged with gross corruption over Epstein links",
+      "url": "https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T16:37:32.000Z",
+      "description": "The charge was brought after the Council of Europe lifted his immunity, which he had as its former secretary general.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ノルウェー元首相、エプスタインとの関連で重大な汚職容疑で起訴",
+      "summary": "欧州評議会の元事務総長としての免責特権が解除された後、ノルウェーの元首相がエプスタインとの関連で重大な汚職容疑で起訴された。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4d74291567c77120c23caaae093e2298",
+      "title": "The Dutch love four-day working weeks, but are they sustainable?",
+      "url": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T00:00:05.000Z",
+      "description": "The Netherlands has the lowest working hours in Europe, but some say it is harming its economy.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "オランダ人は週4日勤務を好むが、持続可能か？",
+      "summary": "ヨーロッパで最も労働時間が短いオランダでは週4日勤務が普及しているが、一部では経済に悪影響を与えているとの声もあり、その持続可能性が問われている。"
+    }
+  },
+  "CO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9a848f8ed9dbd49859a0424dc1dce182",
+      "title": "Trump hails White House talks with 'terrific' Petro, after months of trading barbs",
+      "url": "https://www.bbc.com/news/articles/c4g01vlwqp5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-03T23:21:07.000Z",
+      "description": "Colombia's leader says he urged Trump to work with him to target drug kingpins. Trump says they \"got along very well\".",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "トランプ氏、数ヶ月の舌戦後にペトロ氏とのホワイトハウス会談を「素晴らしい」と称賛",
+      "summary": "数ヶ月の舌戦の後、トランプ米大統領はコロンビアのペトロ大統領との会談を「非常にうまくいった」と称賛した。ペトロ大統領は麻薬王対策での協力を促した。"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b92e863e2ce3e7be5af39451272241a6",
+      "title": "Judge temporarily blocks axing deportation protections for Haitian migrants",
+      "url": "https://www.bbc.com/news/articles/c5yxn7kqww8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-03T19:39:25.000Z",
+      "description": "The judge said the Department of Homeland Security Secretary did not have facts or law on her side.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "HT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "裁判官、ハイチ移民の国外追放保護措置解除を一時的に差し止め",
+      "summary": "裁判官は、国土安全保障省長官がハイチ移民の国外追放保護措置を解除する法的根拠がないとし、一時的な差し止めを命じた。"
+    }
+  },
+  "TT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "27b02388324946e197c3b6f8aff4f964",
+      "title": "\"It's 'Operation Don't Come Last' at the Olympics\"",
+      "url": "https://www.bbc.com/news/articles/cm2yp6v54g7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-01-28T12:51:59.000Z",
+      "description": "Axel Brown, from Harrogate, is on the Trinidad and Tobago bobsleigh team at the upcoming Winter Olympics.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "TT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "「オリンピックでの目標は『最下位にならないこと』」",
+      "summary": "ハロゲート出身のアクセル・ブラウン選手が、トリニダード・トバゴ代表として来たる冬季オリンピックのボブスレー競技に出場する。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3785b4bb0ca09a8f0161f12c51fc6faa",
+      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
+      "url": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits",
+      "published_at": "2025-12-19T05:00:27.000Z",
+      "description": "Non-compliance with Technical Minimum Power, causing a greater injection of fossil-fuel-generated energy into the grid, violates Dominican legislation and hinders climate commitments, especially when renewable energy companies’ production remains restricted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 68,
+      "titleJa": "ドミニカ共和国、再生可能エネルギーを浪費する一方で化石燃料火力発電所が法的制限を超過稼働",
+      "summary": "ドミニカ共和国は再生可能エネルギーを浪費し、化石燃料発電所が制限を超過稼働している。これは国内法に違反し、気候変動対策を妨げている。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0e41aa40c646623bb9148874372bdf9f",
+      "title": "Social networks fuel youth mobilization on Argentina’s streets",
+      "url": "https://globalvoices.org/2025/12/18/social-networks-fuel-youth-mobilization-on-argentinas-streets",
+      "published_at": "2025-12-18T12:00:20.000Z",
+      "description": "Unlike movements in earlier decades, Argentina’s latest youth-led protests are increasingly organized digitally through platforms like TikTok, Instagram, and Whatsapp, rather than through unions or political parties.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ソーシャルネットワークがアルゼンチンの若者の街頭動員を促進",
+      "summary": "アルゼンチンでは、若者による抗議活動が、従来の組織ではなくTikTokやInstagramなどのSNSを通じて組織され、動員が活発化している。"
+    }
+  },
+  "BD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ca724aabc109845ec4555bb6ca7dc40d",
+      "title": "Who is Tarique Rahman, set to become Bangladesh's next PM?",
+      "url": "https://www.bbc.com/news/articles/cj98n7k7rmgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T05:43:04.000Z",
+      "description": "Rahman, the son of two former leaders of Bangladesh, only recently returned to the country after years in exile abroad.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "BD",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "バングラデシュの次期首相となるタリク・ラフマンとは誰か？",
+      "summary": "バングラデシュの元指導者2人の息子であるタリク・ラフマンは、長年の海外亡命を経て最近帰国。次期首相に就任すると見られており、その人物像と政治的背景が注目されている。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a544e2fa1727a36d8951868c669e7746",
+      "title": "Japan says it seized Chinese vessel amid tensions with Beijing",
+      "url": "https://www.bbc.com/news/articles/c2e4791re38o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T02:44:29.000Z",
+      "description": "The fishing boat tried to flee when ordered to stop for an inspection inside Japan's territorial waters, authorities say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "日本、中国との緊張の中、中国船を拿捕と発表",
+      "summary": "日本の当局は、領海内で検査命令を無視して逃走しようとした中国漁船を拿捕したと発表した。これは、両国間の既存の緊張をさらに高める可能性がある。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3edff8397d8dedc4e371cd3586c77c55",
+      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul ",
+      "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T11:10:55.000Z",
+      "description": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "金正恩、10代の娘を後継者に指名とソウルが発表",
+      "summary": "韓国の諜報機関は、金周愛が公の場に頻繁に姿を現すことは、彼女が北朝鮮の次期指導者として選ばれたことを示唆していると述べた。これは、北朝鮮の将来に大きな影響を与える。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2c2be611173cc83295952c281fb43c09",
+      "title": "China's Xi Jinping makes rare reference to recent military purge",
+      "url": "https://www.bbc.com/news/articles/cg5n7064p9eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T04:24:26.000Z",
+      "description": "Zhang Youxia, widely seen as Xi's closest military ally, was in January removed from his post.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "中国の習近平、最近の軍粛清に異例の言及",
+      "summary": "習近平の最も近い軍事同盟者と見なされていた張又侠が1月に解任された件について、習近平が珍しく言及した。これは中国の軍事および政治エリート層内の動向を示唆する。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e454221f39dd91a6caaa347ac0280dea",
+      "title": "Principal shot in Thailand school siege dies of injuries",
+      "url": "https://www.bbc.com/news/articles/cj98nvre2jeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T02:41:10.000Z",
+      "description": "A gunman who laid siege to the school shot the principal and another female student who is out of danger.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "タイの学校立てこもり事件、銃撃された校長が死亡",
+      "summary": "タイの学校で発生した立てこもり事件で、銃撃された校長が負傷により死亡した。もう一人の女子生徒は危険な状態を脱したものの、地域社会に深い衝撃を与えている。"
+    }
+  }
+}
