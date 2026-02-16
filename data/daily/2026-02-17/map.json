@@ -1,0 +1,802 @@
+{
+  "RU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "03b4785584dd7e02a10e7ff4b713d056",
+      "title": "Navalny's mother says she always knew he was murdered after poison finding",
+      "url": "https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T13:01:28.000Z",
+      "description": "On the second anniversary of his death, Lyudmila Navalnaya says her son did not \"simply die in prison\".",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ナワリヌイ氏の母親、毒物発見後「息子は殺されたと確信」",
+      "summary": "ナワリヌイ氏の死から2年、母親が息子は単に刑務所で死んだのではなく殺されたと述べ、毒物発見後に確信したと語った。"
+    }
+  },
+  "EU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ff9b506136262b9008d6b3ccd0234187",
+      "title": "Trump's new world order has become real and Europe is having to adjust fast",
+      "url": "https://www.bbc.com/news/articles/cddn002g6qzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T05:39:01.000Z",
+      "description": "European nations are asking whether traditional alliances can suffice, or whether they should be diversifying",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "EU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏の新世界秩序が現実となり、欧州は急速な調整を迫られている",
+      "summary": "トランプ氏が提唱する新世界秩序が現実味を帯び、欧州諸国は伝統的同盟の有効性や多角化の必要性について迅速な対応を迫られている。"
+    }
+  },
+  "AU": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ce99cce4fddad7818635bf5a78e994f5",
+      "title": "Bondi Beach shooting accused faces court for the first time",
+      "url": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T07:53:10.000Z",
+      "description": "The 24-year-old faces 59 charges, including 15 counts of murder and one of committing a terrorist attack.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ボンダイビーチ銃撃事件の容疑者が初出廷",
+      "summary": "ボンダイビーチ銃撃事件の容疑者（24歳）が初めて出廷し、殺人15件とテロ攻撃の罪を含む59件の容疑に直面している。"
+    }
+  },
+  "US": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b1d20436b0fb01c518344db9f0b8f455",
+      "title": "Life at the U.S.–Mexico border under the Trump administration",
+      "url": "https://globalvoices.org/2025/12/16/life-at-the-u-s-mexico-border-under-the-trump-administration",
+      "published_at": "2025-12-16T01:00:17.000Z",
+      "description": "The Trump administration has reintroduced some of its most contentious border measures, leading to renewed targeting, detention, and deportation of migrant communities, leaving thousands seeking safety in increasingly perilous conditions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "トランプ政権下の米国・メキシコ国境での生活",
+      "summary": "トランプ政権が国境対策を再導入し、移民の標的化、拘留、強制送還が再開。数千人が危険な状況で安全を求めている。"
+    }
+  },
+  "VE": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f6a40340d6f0d651f092d9e61fa29f1a",
+      "title": "A new, terrifying sound: A Venezuelan account of the the attack on Caracas",
+      "url": "https://globalvoices.org/2026/01/05/a-new-terrifying-sound",
+      "published_at": "2026-01-05T21:01:15.000Z",
+      "description": "“I thought Venezuelans had already heard every sound the country’s violence had to offer. But this was something new — terrifying in its unfamiliarity.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "新しい、恐ろしい音：カラカス攻撃に関するベネズエラ人の証言",
+      "summary": "「ベネズエラ人はこの国の暴力が提供するあらゆる音を聞いてきたと思っていた。しかし、これは新しいものであり、その不慣れさが恐ろしかった。」カラカスへの攻撃の個人的な証言。"
+    }
+  },
+  "IR": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "112add42b613611a12a96f30044c4392",
+      "title": "Iran must abandon enriched uranium and not produce more, Netanyahu says",
+      "url": "https://www.bbc.com/news/articles/cly191kz1lpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T04:26:53.000Z",
+      "description": "The Israeli PM's comments come ahead of Iran-US talks in Geneva on Tuesday to discuss a nuclear deal.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "イランは濃縮ウランを放棄し、追加生産すべきではないとネタニヤフ首相",
+      "summary": "ネタニヤフ・イスラエル首相は、イランが濃縮ウランを放棄し、これ以上生産すべきではないと述べた。これはイランと米国の核合意に関する協議を前にしたもの。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "881046ffe65a5b53113adad69e65fd41",
+      "title": "Kenya strike delays flights at international hub airport",
+      "url": "https://www.bbc.com/news/articles/c363096kd5po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T12:18:45.000Z",
+      "description": "Authorities say they have put in place contingency measures as a labour dispute affects travel.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 50,
+      "titleJa": "ケニアのストライキで国際ハブ空港のフライトが遅延",
+      "summary": "ケニアの国際ハブ空港で労働争議によるストライキが発生し、フライトに遅延が生じている。当局は緊急措置を講じていると発表した。"
+    }
+  },
+  "IL": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5904173c5b2fb28d704fc30a143939b4",
+      "title": "Where do the US and Israel differ on Iran strategy?",
+      "url": "https://www.dw.com/en/where-do-the-us-and-israel-differ-on-iran-strategy/a-75993517?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-16T16:41:00.000Z",
+      "description": "Amid new talks on Iran's nuclear program, Israeli Prime Minister Benjamin Netanyahu has signaled skepticism regarding Tehran honoring a deal with Donald Trump.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国とイスラエル、イラン戦略でどこが異なるのか？",
+      "summary": "イラン核プログラムに関する新たな協議の中、イスラエル首相ベンヤミン・ネタニヤフは、イランがドナルド・トランプとの合意を尊重することに懐疑的な見方を示している。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "706471c783a0b3e75248801bc6887d90",
+      "title": "Ukraine's ex-energy minister detained while attempting to leave country",
+      "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-15T17:11:49.000Z",
+      "description": "His detention comes as he faces legal proceedings after being dismissed in a corruption scandal.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ウクライナの元エネルギー大臣、出国試み中に拘束される",
+      "summary": "汚職スキャンダルで解任されたウクライナの元エネルギー大臣が、出国を試みた際に拘束された。彼は法的措置に直面している。"
+    }
+  },
+  "BR": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a74f906daf254861c274f4de41263f31",
+      "title": "The samba-dancing skier making Brazil Olympic history",
+      "url": "https://www.bbc.com/sport/articles/c24dnjnp39qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T13:46:27.000Z",
+      "description": "Lucas Pinheiro Braathen makes history for Brazil by clinching his nation's first Winter Olympic medal with gold in the giant slalom.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "サンバを踊るスキーヤーがブラジルのオリンピック史を刻む",
+      "summary": "ルーカス・ピニェイロ・ブラアテン選手が、大回転で金メダルを獲得し、ブラジル初の冬季オリンピックメダルという歴史を刻んだ。"
+    }
+  },
+  "AT": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "273fbc0aee9f26ec1a16be851638f7cd",
+      "title": "Austria files terror charges in alleged Taylor Swift concert plot",
+      "url": "https://www.dw.com/en/austria-files-terror-charges-in-alleged-taylor-swift-concert-plot/a-75995128?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-16T16:58:00.000Z",
+      "description": "Prosecutors in Austria have filed terrorism charges against a 21-year-old who was allegedly plotting to attack a Taylor Swift concert in Vienna in 2024.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AT",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "オーストリア、テイラー・スウィフト公演テロ計画容疑で訴追",
+      "summary": "オーストリア検察は、2024年にウィーンで開催されるテイラー・スウィフトのコンサートを攻撃する計画を立てていたとされる21歳の人物をテロ容疑で訴追した。"
+    }
+  },
+  "KH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "95d4a14dfa16029a33939bb67302d877",
+      "title": "Cambodia hopes French maps will vindicate it in Thai row",
+      "url": "https://www.dw.com/en/cambodia-hopes-french-maps-will-vindicate-it-in-thai-row/a-75991904?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-16T16:07:00.000Z",
+      "description": "As border tensions with Thailand drag on, Cambodia has turned to France for help — but a wrong move by Paris could make the situation worse.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 55,
+      "titleJa": "カンボジア、フランスの地図がタイとの係争を証明すると期待",
+      "summary": "タイとの国境問題が続く中、カンボジアはフランスに助けを求めているが、パリの間違った動きが状況を悪化させる可能性もある。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5f2804e08ac543f174e65dcdc0e4d06a",
+      "title": "UK targets all AI chatbots after Grok uproar",
+      "url": "https://www.dw.com/en/uk-targets-all-ai-chatbots-after-grok-uproar/a-75993297?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-16T15:19:00.000Z",
+      "description": "The British government is seeking to include all AI chatbots in online safety laws. The pushback comes after Elon Musk's Grok was used to create sexualized deepfakes.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "英国、Grok騒動を受け全てのAIチャットボットを規制対象に",
+      "summary": "英国政府は、イーロン・マスクのGrokが性的なディープフェイク作成に使用された騒動を受け、全てのAIチャットボットをオンライン安全法に含めようとしている。"
+    }
+  },
+  "HU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "de34cade272bc6ba6dc407b9eee115e5",
+      "title": "Rubio praises Orban and Hungary ahead of crunch election",
+      "url": "https://www.dw.com/en/rubio-praises-orban-and-hungary-ahead-of-crunch-election/a-75991053?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-16T13:48:00.000Z",
+      "description": "US Secretary of State Marco Rubio has backed Hungarian Prime Minister Viktor Orban's leadership during a visit to Budapest. Nationalist leader Orban faces a strong opposition challenge ahead of elections in April.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ルビオ氏、重要な選挙を前にオルバン首相とハンガリーを称賛",
+      "summary": "米国務長官マルコ・ルビオ氏がブダペスト訪問中にハンガリーのオルバン首相のリーダーシップを支持。オルバン氏は、4月の選挙を前に強力な野党の挑戦に直面している。"
+    }
+  },
+  "BD": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c786ade9cb0db0e1483c6918b2365d72",
+      "title": "After the landslide: Can India reset ties with a BNP-led Bangladesh?",
+      "url": "https://www.bbc.com/news/articles/cd6z007wgg6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-15T01:23:34.000Z",
+      "description": "A reset of the frayed relationship is possible, say analysts. But it will require restraint - and reciprocity.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "BD",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "地滑り的勝利の後：インドはBNP主導のバングラデシュとの関係を再構築できるか？",
+      "summary": "バングラデシュでBNPが政権を握った後、インドとの緊張関係を修復できるか分析。専門家は、自制と相互主義が鍵だと指摘する。"
+    }
+  },
+  "IN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8d95392a4d21660bb8cba66dfe6af13b",
+      "title": "Driven by money, pushed by passion: Migrant tea pickers of Kerala, India",
+      "url": "https://www.aljazeera.com/gallery/2026/2/16/driven-by-money-pushed-by-passion-migrant-tea-pickers-of-kerala-india?traffic_source=rss",
+      "published_at": "2026-02-16T17:34:21.000Z",
+      "description": "The migrant workforce is the backbone of the Indian economy, and Kerala is among the biggest beneficiaries.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "金に駆られ、情熱に突き動かされる：インド・ケララ州の移民茶摘み労働者たち",
+      "summary": "インド・ケララ州の茶摘み産業を支える移民労働者の生活に焦点を当てる。彼らはインド経済の重要な一部となっている。"
+    }
+  },
+  "PS": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "062f85b6c8c507753feda0bcc480b4d6",
+      "title": "Indonesia preparing to deploy up to 8,000 soldiers to Gaza",
+      "url": "https://www.bbc.com/news/articles/cvgjwpx9j2do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-10T11:38:56.000Z",
+      "description": "It would be the first country to do so as part of phase two of the ceasefire agreement brokered by the US last year.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "インドネシア、ガザに最大8,000人の兵士派遣を準備",
+      "summary": "インドネシアが、昨年の米国仲介による停戦合意の第2段階として、ガザ地区に最大8,000人の兵士を派遣する準備を進めている。"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e11d4557679e7282540ad85052991bb",
+      "title": "South African trio charged with Bolt driver's murder filmed on dashcam",
+      "url": "https://www.bbc.com/news/articles/cn9e39zljwxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T15:03:02.000Z",
+      "description": "Police are still looking for a fourth suspect in the attack which has shocked South Africans.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "南アフリカでボルト運転手殺害容疑の3人が起訴、ドラレコに映像",
+      "summary": "南アフリカで、配車サービスBoltの運転手殺害容疑で3人が起訴された。事件は国民に衝撃を与えており、警察は4人目の容疑者を追っている。"
+    }
+  },
+  "BF": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7bfb5e08f933e7f62f6e41c49f9ae85a",
+      "title": "Ghana tomato traders among dead in Burkina Faso attack",
+      "url": "https://www.bbc.com/news/articles/cjd9edyllnro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T14:56:55.000Z",
+      "description": "Seven men from Ghana were \"burnt beyond recognition\" after Islamists raided the town they were travelling through.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "BF",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ブルキナファソ襲撃事件でガーナ人トマト商人らが死亡",
+      "summary": "ブルキナファソでイスラム過激派による襲撃があり、移動中のガーナ人トマト商人7人が焼死した。遺体は身元不明の状態。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "89cdf7a8dbffda72f3cb8a93cc73f0b9",
+      "title": "Russian 'pick-up artist' accused of secretly filming women in Ghana and Kenya",
+      "url": "https://www.bbc.com/news/articles/c9wn5p299eko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T16:05:58.000Z",
+      "description": "Ghana has called on Russia to extradite the man, who is accused of recording sexual encounters without consent.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ロシア人「ピックアップアーティスト」がガーナとケニアで女性を秘密裏に撮影した疑い",
+      "summary": "ロシア人男性がガーナとケニアで女性との性行為を無断で録画した疑いが持たれている。ガーナはロシアに容疑者の身柄引き渡しを求めている。"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6d07b3832337e3d105bda471df586187",
+      "title": "Motorbike raids on villages kill dozens in Nigeria",
+      "url": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-15T15:29:26.000Z",
+      "description": "Armed men shot locals dead, set homes alight and abducted an \"undetermined\" number of people in Niger State.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ナイジェリアでオートバイ襲撃により数十人が死亡",
+      "summary": "ナイジェリアのニジェール州で武装集団がオートバイで村々を襲撃し、数十人を殺害、家屋を放火し、多数の住民を誘拐した。"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a3f5672936820d3454a97f02c6452e3b",
+      "title": "Planned US-funded baby vaccine trial in Guinea-Bissau blasted by WHO",
+      "url": "https://www.bbc.com/news/articles/c78j5k2gk02o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T16:20:33.000Z",
+      "description": "Giving some newborns in Guinea-Bissau an established hepatitis B treatment but not others is \"unethical\", it says.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GW",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 75,
+      "titleJa": "ギニアビサウでの米国資金提供による乳児ワクチン試験計画、WHOが非難",
+      "summary": "ギニアビサウで予定されている米国資金提供の乳児ワクチン試験に対し、WHOは新生児の一部にのみB型肝炎治療を行うのは「非倫理的」であると非難した。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "59d99417831f3f92a87fa136aac2cf61",
+      "title": "A simple guide to the crisis in South Sudan",
+      "url": "https://www.bbc.com/news/articles/c7933p4xe7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-11T12:34:52.000Z",
+      "description": "The political rift that could spiral into conflict again after the vice-president was accused of treason.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "南スーダン危機の簡単な手引き",
+      "summary": "副大統領が反逆罪で告発された後、南スーダンで再び紛争に発展しかねない政治的亀裂が生じている。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "02cd04793b3858838c18846deb2ef93a",
+      "title": "Women politicians face tech-facilitated violence in Uganda’s 2026 elections",
+      "url": "https://globalvoices.org/2026/02/16/women-politicians-face-tech-facilitated-violence-in-ugandas-2026-elections",
+      "published_at": "2026-02-16T06:00:01.000Z",
+      "description": "Ideally, the law that is supposed to protect women online is the Computer Misuse Act 2011, but it has instead been used to attack feminist dissenters.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ウガンダの2026年選挙で女性政治家がテクノロジーを悪用した暴力を受ける",
+      "summary": "ウガンダの2026年選挙を控え、女性政治家がオンラインでの暴力を経験。女性保護法が逆にフェミニスト活動家への攻撃に使われている実態が指摘されている。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "042e17759a02f303325bbd2475720073",
+      "title": "Burundi tea plantations hamper chimpanzee protection",
+      "url": "https://globalvoices.org/2026/02/14/burundi-tea-plantations-hamper-chimpanzee-protection",
+      "published_at": "2026-02-14T12:00:10.000Z",
+      "description": "In Burundi, tea production hampers the protection of endangered species, such as chimpanzees.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BI",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ブルンジの茶畑がチンパンジー保護の妨げに",
+      "summary": "ブルンジでは、茶葉生産がチンパンジーなどの絶滅危惧種の保護を妨げている。経済活動と環境保護の間の対立が浮き彫りになっている。"
+    }
+  },
+  "ML": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aa996738d6548fd5c48cb4863126a927",
+      "title": "Women and young girls bear the brunt of Mali’s worsening security crisis",
+      "url": "https://globalvoices.org/2026/02/11/women-and-young-girls-bear-the-brunt-of-malis-worsening-security-crisis",
+      "published_at": "2026-02-11T04:57:56.000Z",
+      "description": "Since 2012, Mali has been in security turmoil with the emergence and expansion of several radical non-State armed groups. This situation disproportionately affects the civilian population, especially women and girls.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "マリの悪化する治安危機で女性と少女が最も大きな被害に",
+      "summary": "マリでは2012年以降、治安が悪化し、武装勢力の拡大により民間人が特に影響を受けている。女性と少女がこの危機で最も深刻な被害を受けている状況が報じられている。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dee668b368b962987bf0b9c28f78e70f",
+      "title": "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies",
+      "url": "https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies",
+      "published_at": "2026-01-29T18:00:39.000Z",
+      "description": "Kolwezi in the Lualaba Province of the southeastern Democratic Republic of Congo (DRC), where tensions are high between artisanal miners and industrial companies, holds 70 percent of the world’s cobalt reserves.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "世界のコバルト産出国DRCで零細鉱夫と大手鉱山企業間の緊張が高まる",
+      "summary": "世界のコバルト埋蔵量の70%を占めるコンゴ民主共和国で、零細鉱夫と大規模鉱山企業の間で緊張が高まっている。この問題は国際的なサプライチェーンにも影響を与える可能性がある。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "614ce030fc32f791b8000ab572c840d0",
+      "title": "Morocco, AFCON, and the controversies that trailed Africa’s biggest football event",
+      "url": "https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event",
+      "published_at": "2026-01-26T18:00:06.000Z",
+      "description": "“This isn’t ‘passion,’ it’s medieval conduct wearing a modern jersey, enabled by CAF.”",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "モロッコ、AFCON、そしてアフリカ最大のサッカーイベントを巡る論争",
+      "summary": "アフリカ最大のサッカーイベントであるアフリカネイションズカップ（AFCON）で、モロッコを巡る論争が発生。これは「情熱」ではなく「中世的な行為」と評され、CAFの対応が問われている。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9184a42dbbe66e893d9b0d5cf727a3a6",
+      "title": "Italy's 'Lovers’ Arch' collapses into sea on Valentine's Day ",
+      "url": "https://www.bbc.com/news/articles/cpd8elz20jpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T15:41:36.000Z",
+      "description": "The popular tourist attraction was a proposal spot for couples and featured on postcards.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 55,
+      "titleJa": "イタリアの「恋人のアーチ」、バレンタインデーに海へ崩落",
+      "summary": "イタリアの人気観光名所である「恋人のアーチ」がバレンタインデーに海に崩落した。カップルのプロポーズスポットであり、絵葉書にも描かれていた。"
+    }
+  },
+  "FR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "019d02f1ca800c848f987ef116172d45",
+      "title": "Two Britons among three dead in French Alps avalanche",
+      "url": "https://www.bbc.com/news/articles/cd03elmng7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T02:55:21.000Z",
+      "description": "The Britons had been part of a group of five people accompanied by an instructor, skiing off-piste in Val d'Isère.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "フランスアルプスで雪崩、英国人2人を含む3人が死亡",
+      "summary": "フランスアルプスで発生した雪崩により、英国人2人を含む3人が死亡した。彼らはヴァル・ディゼールでインストラクターと共にオフピステスキーをしていたグループの一員だった。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "05661635aaae93baacbce9c78dfac065",
+      "title": "Norway's former PM charged with gross corruption over Epstein links",
+      "url": "https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T16:37:32.000Z",
+      "description": "The charge was brought after the Council of Europe lifted his immunity, which he had as its former secretary general.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ノルウェー元首相、エプスタインとの関連で重大な汚職容疑で起訴",
+      "summary": "ノルウェーの元首相が、エプスタインとの関連により重大な汚職容疑で起訴された。欧州評議会が元事務総長としての免責特権を解除した後、この訴追が行われた。"
+    }
+  },
+  "CU": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3c60d5f1ac8cb376496b1d962f573c22",
+      "title": "Oil refinery blaze hits Cuba as fuel crisis deepens",
+      "url": "https://www.bbc.com/news/articles/cge89x7re74o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T03:03:27.000Z",
+      "description": "The fire, which Cuban officials say was contained quickly, comes as electricity and fuel supplies dwindle.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "燃料危機が深刻化するキューバで石油精製所火災が発生",
+      "summary": "電力と燃料の供給が減少する中、キューバの石油精製所で火災が発生。当局は迅速に鎮火したと発表。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "70cd257881d44fab40816d1b726b483d",
+      "title": "The GB medallist now representing Jamaica in bobsleigh",
+      "url": "https://www.bbc.com/sport/articles/ckgl52gej21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T22:31:30.000Z",
+      "description": "A medallist with Team GB in 2014, bobsleigher Joel Fearon is preparing for his third Winter Olympics after coming out of retirement to compete for Jamaica.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "GBメダリストが現在ジャマイカ代表としてボブスレー競技に出場",
+      "summary": "2014年にGBチームのメダリストだったボブスレー選手のジョエル・フィアロンは、引退から復帰しジャマイカ代表として3度目の冬季オリンピック出場準備を進めている。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c15c56d114ae56f9fa91926f173063a4",
+      "title": "BBC joins Colombian commandos fighting 'never-ending battle' against drug gangs",
+      "url": "https://www.bbc.com/news/articles/c04105ywkkqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-03T17:12:42.000Z",
+      "description": "As the US and Colombian presidents meet, Orla Guerin joins a police unit tasked with finding and destroying jungle cocaine labs.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "BBCがコロンビアの特殊部隊に同行、麻薬ギャングとの「終わりのない戦い」に密着",
+      "summary": "米国とコロンビアの大統領が会談する中、BBCはジャングル内のコカイン研究所を発見・破壊する警察部隊に同行取材した。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3785b4bb0ca09a8f0161f12c51fc6faa",
+      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
+      "url": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits",
+      "published_at": "2025-12-19T05:00:27.000Z",
+      "description": "Non-compliance with Technical Minimum Power, causing a greater injection of fossil-fuel-generated energy into the grid, violates Dominican legislation and hinders climate commitments, especially when renewable energy companies’ production remains restricted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ドミニカ共和国、再生可能エネルギーを無駄にする一方で化石燃料火力発電所が法的限界を超えて稼働",
+      "summary": "ドミニカ共和国は再生可能エネルギーを無駄にし、化石燃料火力発電所が法的制限を超えて稼働。これはドミニカの法律に違反し、気候変動対策の公約を妨げている。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0e41aa40c646623bb9148874372bdf9f",
+      "title": "Social networks fuel youth mobilization on Argentina’s streets",
+      "url": "https://globalvoices.org/2025/12/18/social-networks-fuel-youth-mobilization-on-argentinas-streets",
+      "published_at": "2025-12-18T12:00:20.000Z",
+      "description": "Unlike movements in earlier decades, Argentina’s latest youth-led protests are increasingly organized digitally through platforms like TikTok, Instagram, and Whatsapp, rather than through unions or political parties.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ソーシャルネットワークがアルゼンチンの路上での若者の動員を加速",
+      "summary": "アルゼンチンでは、TikTokなどのソーシャルメディアを通じて若者主導の抗議活動が組織化されており、これまでの労働組合や政党を通じた動きとは異なっている。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e5d2ec05a1a196a07c86c0ee103dfff",
+      "title": "Is this a 'very Chinese time in your life'? The trend boosting China's soft power",
+      "url": "https://www.bbc.com/news/articles/cz6eljqvyp1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T23:11:56.000Z",
+      "description": "Chinamaxxing is adding more gloss to the recent flourish of Chinese soft power.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "これは「人生における『非常に中国的な時』」か？中国のソフトパワーを強化するトレンド",
+      "summary": "「Chinamaxxing」と呼ばれるトレンドが中国のソフトパワーを強化しており、中国の影響力が世界的に高まっている現状を探る記事。"
+    }
+  },
+  "UK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "859b0620f5d5039f3560d8c6c078f186",
+      "title": "British couple held by Taliban describe 'culture shock' returning to UK",
+      "url": "https://www.bbc.com/news/articles/cp8rn6z1dg2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T22:24:34.000Z",
+      "description": "Peter and Barbie Reynolds were released by the Taliban in September after being detained for seven-and-a-half months.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "UK",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "タリバンに拘束された英国人カップル、英国帰国後の「カルチャーショック」を語る",
+      "summary": "タリバンに7ヶ月半拘束され、9月に解放された英国人カップル、ピーターとバービー・レイノルズが帰国後に経験したカルチャーショックについて語った。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a544e2fa1727a36d8951868c669e7746",
+      "title": "Japan says it seized Chinese vessel amid tensions with Beijing",
+      "url": "https://www.bbc.com/news/articles/c2e4791re38o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-13T02:44:29.000Z",
+      "description": "The fishing boat tried to flee when ordered to stop for an inspection inside Japan's territorial waters, authorities say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "日本、北京との緊張高まる中、中国漁船を拿捕と発表",
+      "summary": "日本当局は、日本の領海内で検査命令を無視して逃走しようとした中国漁船を拿捕したと発表。これは北京との間の緊張をさらに高める出来事だ。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3edff8397d8dedc4e371cd3586c77c55",
+      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul ",
+      "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-12T11:10:55.000Z",
+      "description": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ソウル、金正恩氏が10代の娘を後継者に指名と発表",
+      "summary": "韓国の情報機関は、金正恩総書記の娘キム・ジュエ氏の公の場での存在感が際立っており、彼女が後継者に選ばれたことを示唆していると発表した。"
+    }
+  }
+}
