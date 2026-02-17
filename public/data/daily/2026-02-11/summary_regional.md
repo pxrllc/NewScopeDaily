@@ -1,0 +1,139 @@
+#[Title: 2026 - 02 - 11 World News / Regional Focus: アフリカに注目]
+
+## Top Topics
+
+### 1.スーダン内戦とリビア沖移民危機
+** 概要:**
+スーダン中部では、準軍事組織「即応支援部隊（RSF）」によるドローン攻撃が避難民を乗せた車両を直撃し、子ども8人を含む少なくとも24人が死亡するという悲劇が発生しました。また、リビア沖の地中海では、移民を乗せた船が転覆し、国連の機関によると53人が死亡または行方不明になっています。これは今年に入ってからのリビア沖での移民の死者・行方不明者が約500人に達する中で起きた最新の災害であり、アフリカ地域における紛争とそれに伴う人道危機の深刻さを浮き彫りにしています。
+
+** 各国の視点:**
+- ** The Guardian – World **: "[RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group](https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people)" - スーダン内戦における即応支援部隊(RSF)による避難民へのドローン攻撃で、子どもを含む多数が死亡した人道危機を報じています。
+- ** The Guardian – World **: "[53 people dead or missing after migrant boat capsizes in Mediterranean](https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya)" - リビア沖で移民船が転覆し、53人が死亡または行方不明になったと伝え、危険な地中海横断を試みる人々の現状を伝えています。
+- ** BBC – Africa **: "[Migrant boat capsizes off Libya leaving 53 dead](https://www.bbc.com/news/articles/cy9ge3844q0o?at_medium=RSS&at_campaign=rss)" - リビア沖で移民船が転覆し53人が死亡したことを報じ、今年に入ってリビア沖で約500人が死亡または行方不明になっている現状に焦点を当てています。
+
+### 2.アフリカ諸国の政治・経済情勢
+** 概要:**
+アフリカ各国では、政治的安定と経済改革を巡る動きが活発です。ジンバブエではムナンガグワ大統領の任期を2030年まで延長する計画が閣議で承認され、政治的連続性の議論を呼んでいます。一方、マラウイでは新たな税制改革案に抗議して数千の事業者が休業し、政府は導入を延期せざるを得なくなりました。ナイジェリアでは議員らが選挙結果のリアルタイムオンライン公開を承認し、選挙への信頼回復を目指していますが、実現可能性には疑問符も投げかけられています。ザンビアでは、前大統領の息子が不法に取得したとされる車両や不動産を差し出すよう命じられるなど、汚職対策も進められています。
+
+** 各国の視点:**
+- ** Al Jazeera – All **: "[Zimbabwe cabinet approves plan to extend Mnangagwa’s rule till 2030](https://www.aljazeera.com/news/2026/2/10/zimbabwe-cabinet-approves-plan-to-extend-mnangagwas-rule-till-2030?traffic_source=rss)" - ジンバブエの閣議がムナンガグワ大統領の任期を2030年まで延長する計画を承認したと報じ、政治的な動きに注目しています。
+- ** The Guardian – World **: "[Thousands of Malawi businesses close in protest over tax changes](https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system)" - マラウイで税制変更に抗議して数千の事業者が休業したデモについて伝え、小規模事業者が新たな税制で苦しむ可能性を指摘しています。
+- ** DW – Top Stories **: "[Nigerian lawmakers approve real-time online election results](https://www.dw.com/en/nigerian-lawmakers-approve-real-time-online-election-results/a-75901046?maca=en-rss-en-top-1022-rdf)" - ナイジェリア議会が選挙結果のリアルタイムオンライン公開を承認したと報じ、選挙への信頼回復への期待と、広大な国内での実現可能性に関する懸念を併記しています。
+- ** BBC – Africa **: "[Son of Zambia's ex-President Lungu ordered to surrender 79 cars, petrol station and 'luxury' flats](https://www.bbc.com/news/articles/c78xdvwl70wo?at_medium=RSS&at_campaign=rss)" - ザンビアの高等裁判所が前大統領の息子に対し、不法取得されたとされる資産の引き渡しを命じたという汚職対策のニュースを報じています。
+
+### 3.ケニア、ロシアに自国民の戦闘員利用で対峙
+** 概要:**
+ケニア政府は、同国籍の国民がロシアによって紛争地域での戦闘に不適切に利用されているとして、ロシア政府に強く抗議する姿勢を示しています。ナイロビは、違法な募集活動を阻止し、ロシアに対し徴兵禁止協定への署名を促す方針です。この動きは、アフリカ諸国が自国民の安全保障と国際法遵守を求める中で、国際紛争における傭兵問題や人権侵害に対する懸念が高まっていることを示唆しています。
+
+** 各国の視点:**
+- ** BBC – World News **: "[Kenya to confront Russia over 'unacceptable' use of its nationals in combat](https://www.bbc.com/news/articles/c0k1jzvrykro?at_medium=RSS&at_campaign=rss)" - ケニアがロシアに対し、自国籍の国民が戦闘に不適切に利用されていることについて対峙する姿勢を報じ、違法な徴兵への懸念を伝えています。
+
+### 4.ソマリアでの航空機緊急着陸とガーナ音楽界の巨匠の死
+** 概要:**
+ソマリアでは、故障した旅客機が滑走路への着陸に失敗し、海岸に緊急着陸するという出来事がありましたが、乗客乗員55人全員が無事生還し、パイロットの適切な判断が称賛されています。これはアフリカにおける航空安全への注目を高める一方で、迅速な対応の重要性を示しました。一方で、ガーナではハイライフ音楽のパイオニアでありギタリストのエボ・テイラー氏が90歳で逝去しました。彼はガーナ音楽界に多大な影響を与え、「史上最高のリードギタリスト」と称されるなど、アフリカ音楽の発展に貢献した偉大な人物です。
+
+** 各国の視点:**
+- ** BBC – World News **: "[Pilot praised after crash-landing faulty Somali passenger plane on seashore](https://www.bbc.com/news/articles/c2d1pz3pxewo?at_medium=RSS&at_campaign=rss)" - ソマリアで故障した旅客機が海岸に緊急着陸した際、乗客乗員全員の命を救ったパイロットの行動を称賛しています。
+- ** The Guardian – World **: "[Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90](https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90)" - ガーナのハイライフ音楽の伝説的ミュージシャン、エボ・テイラー氏の逝去を報じ、彼がアフリカ音楽に残した不朽の功績を称えています。
+
+---
+** Global Headlines **
+- **【米国】**: FBIがニュースキャスターの母親失踪事件でマスクを着用した人物の画像を公開。[BBC – World News]: "[FBI releases images of masked person in hunt for Savannah Guthrie's mother](https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss)"
+- **【米国】**: 米議員が司法省に対しエプスタイン関連ファイルの不適切な墨塗りについて批判。[BBC – World News]: "[US lawmakers accuse justice department of 'inappropriately' redacting Epstein files](https://www.bbc.com/news/articles/cn5gzepnw4lo?at_medium=RSS&at_campaign=rss)"
+- **【欧州】**: マクロン仏大統領、欧州に「世界の強国のように行動する」よう促す。[BBC – World News]: "[Macron urges Europe to start acting like world power](https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss)"
+- **【米国】**: 歌手のチャペル・ローアンがエプスタイン関連の余波でケイシー・ワッサーマン率いるタレントエージェンシーを去る。[BBC – World News]: "[Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout](https://www.bbc.com/news/articles/cewz1keql5no?at_medium=RSS&at_campaign=rss)"
+- **【フランス】**: 1960年代に遡る89人のティーンエイジャーへの性的虐待で元教師が起訴される。[BBC – World News]: "[French former teacher charged with abusing 89 teens dating back to 1960s](https://www.bbc.com/news/articles/czx4dnky0dzo?at_medium=RSS&at_campaign=rss)"
+- **【米国/カナダ】**: トランプ氏が米カナダ国境橋の開通を阻止すると脅迫、カーニー首相は「前向きな」対話と発言。[The Guardian – World]: "[Mark Carney reminds Trump that Canada paid for key border bridge US president says he won’t open](https://www.theguardian.com/us-news/2026/feb/10/trump-canada-windsor-detroit-bridge)"
+- **【ノルウェー】**: 冬季オリンピックの銅メダリストがテレビ番組で不倫を告白。[BBC – World News]: "[Laegreid wins bronze then confesses to affair on TV](https://www.bbc.com/news/articles/ckglnm521kko?at_medium=RSS&at_campaign=rss)"
+- **【米国】**: インスタグラムとYouTubeの所有者が「依存症製造機」を構築したとして裁判で審理。[BBC – World News]: "[Instagram and YouTube owners built 'addiction machines', trial hears](https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss)"
+- **【米国】**: ICE長官が議会で「まだ始まったばかり」と語り、大規模な強制送還政策を擁護。[DW – Top Stories]: "[ICE chief tells US House agency is 'just getting started'](https://www.dw.com/en/ice-chief-tells-us-house-agency-is-just-getting-started/a-75901381?maca=en-rss-en-top-1022-rdf)"
+- **【ドイツ】**: ルフトハンザ航空のパイロットと客室乗務員が木曜日にストライキを予定。[DW – Top Stories]: "[Lufthansa pilots, crew to strike on Thursday](https://www.dw.com/en/lufthansa-pilots-crew-to-strike-on-thursday/a-75901363?maca=en-rss-en-top-1022-rdf)"
+- **【パキスタン】**: モスク攻撃が武装勢力の脅威悪化を浮き彫りにする。[DW – Top Stories]: "[Pakistan mosque attack highlights worsening militant threat](https://www.dw.com/en/pakistan-mosque-attack-highlights-worsening-militant-threat/a-75900304?maca=en-rss-en-top-1022-rdf)"
+- **【ドイツ】**: ドイツでジャーナリストに対する犯罪の増加が記録される。[DW – Top Stories]: "[Germany logs rising rate of crimes against journalists](https://www.dw.com/en/germany-logs-rising-rate-of-crimes-against-journalists/a-75899832?maca=en-rss-en-top-1022-rdf)"
+- **【ドイツ】**: エプスタイン・ファイル関連でドイツは厳戒態勢。[DW – Top Stories]: "[Epstein files: Germany on high alert](https://www.dw.com/en/epstein-files-germany-on-high-alert/a-75898626?maca=en-rss-en-top-1022-rdf)"
+- **【オランダ】**: オランダ警察が「イスラム国」のTikTok投稿で15人を逮捕。[DW – Top Stories]: "[Dutch police arrest 15 over 'Islamic State' TikTok posts](https://www.dw.com/en/dutch-police-arrest-15-over-islamic-state-tiktok-posts/a-75900127?maca=en-rss-en-top-1022-rdf)"
+- **【ウクライナ】**: ウクライナのオリンピック選手が父親と国を胸に抱く。[DW – Top Stories]: "[Ukraine's Olympic skater has dad and country front of mind](https://www.dw.com/en/ukraine-s-olympic-skater-has-dad-and-country-front-of-mind/a-75898345?maca=en-rss-en-top-1022-rdf)"
+- **【欧州/ロシア】**: ウクライナ情勢更新：欧州がロシアとの和平交渉で要求を設定へ。[DW – Top Stories]: "[Ukraine updates: Europe to set its demands for Russia in peace talks](https://www.dw.com/en/ukraine-updates-europe-to-set-its-demands-for-russia-in-peace-talks/live-75896628?maca=en-rss-en-top-1022-rdf)"
+- **【ドイツ】**: 高所恐怖症のドイツのオリンピックスキージャンプ優勝者。[DW – Top Stories]: "[The German Olympic ski jump winner with a fear of heights](https://www.dw.com/en/the-german-olympic-ski-jump-winner-with-a-fear-of-heights/a-75896096?maca=en-rss-en-top-1022-rdf)"
+- **【スペイン/ポルトガル】**: スペインとポルトガルが2週間で3度目の致命的な嵐に見舞われる。[The Guardian – World]: "[Weather tracker: Spain and Portugal hit by third deadly storm in two weeks](https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm)"
+- **【チリ】**: 天文学者、世界で最も澄んだ空を脅かしていた100億ドルのプロジェクト中止を祝う。[The Guardian – World]: "[Astronomers celebrate cancellation of $10bn Chile project that threatened clearest skies in the world](https://www.theguardian.com/world/2026/feb/10/project-cancelled-chile-worlds-clearest-skies)"
+- **【米国】**: 米国は太平洋での軍事攻撃で2人が死亡したと発表。[The Guardian – World]: "[US says two people killed in military strike on boat in Pacific](https://www.theguardian.com/us-news/2026/feb/09/us-military-strike-pacific)"
+- **【カナダ/キューバ】**: 米国の石油禁輸措置で燃料アクセスが遮断され、エア・カナダがキューバへの全便を欠航。[The Guardian – World]: "[Air Canada cancels all flights to Cuba as US oil blockade cuts off fuel access](https://www.theguardian.com/world/2026/feb/09/air-canada-cancels-cuba-flights-fuel)"
+- **【中国】**: 旧正月：記録的な95億回の移動が予想される中、旅行者が30時間の列車移動に挑む。[Euronews – World]: "[Lunar New Year: Travellers brave 30-hour train journeys with record 9.5 billion trips expected](http://www.euronews.com/travel/2026/02/10/lunar-new-year-travellers-brave-30-hour-train-journeys-with-record-95-billion-trips-expect)"
+- **【米国】**: 米国を横断する「平和のための行進」を行っていた仏教僧が108日後にワシントンに到着。[Euronews – World]: "[Buddhist monks on 'Walk for Peace' across the United States arrive in Washington after 108 days](http://www.euronews.com/2026/02/10/buddhist-monks-on-walk-for-peace-across-the-united-states-arrive-in-washington-after-108-d)"
+- **【EU/米国】**: 欧州議会の政治グループがEU-米貿易協定に合意。[Euronews – World]: "[European Parliament's political groups agree EU-US trade deal](http://www.euronews.com/my-europe/2026/02/10/european-parliaments-political-groups-agree-eu-us-trade-deal)"
+- **【ジャマイカ】**: ジャマイカのボブスレーチームが冬季オリンピックで「クールランニング」のレガシーを継続へ。[Euronews – World]: "[Jamaica bobsleigh team to continue Cool Runnings legacy at Winter Olympics](http://www.euronews.com/2026/02/10/jamaica-bobsleigh-team-to-continue-cool-runnings-legacy-at-winter-olympics)"
+- **【バチカン】**: バチカン銀行が「カトリック原則に基づく」株価指数を立ち上げる。[Euronews – World]: "[Vatican Bank launches 'Catholic-based' stock indices](http://www.euronews.com/business/2026/02/10/vatican-bank-laundies-catholic-based-stock-indices)"
+- **【ハンガリー】**: ハンガリーのティサ党が「ブリュッセルの傀儡」という主張に対抗するため、EPPとの関係を断ち切る。[Euronews – World]: "[Hungary's Tisza Party breaks ranks with EPP in bid to counter Brussels puppet claims](http://www.euronews.com/my-europe/2026/02/10/hungarys-tisza-party-breaks-ranks-with-epp-in-bid-to-counter-brussels-puppet-claims)"
+- **【EU】**: 欧州議会が亡命希望者を無関係の国に移送する道を開く。[Euronews – World]: "[European Parliament clears way for transferring asylum seekers to unrelated countries](http://www.euronews.com/my-europe/2026/02/10/european-parliament-clears-way-for-transferring-asylum-seekers-to-unrelated-countries)"
+- **【ロシア】**: ロシアが法違反の疑いでテレグラムを制限し、国営の競合他社を支援。[Euronews – World]: "[Russia restricts Telegram over alleged law breaches as it supports state-backed rival](http://www.euronews.com/2026/02/10/russia-restricts-telegram-over-alleged-law-breaches-as-it-supports-state-backed-rival)"
+- **【国際】**: 気まぐれなトランプ氏に直面し、各国が新たな同盟を結ぼうと奔走。[Al Jazeera – All]: "[Facing a mercurial Trump, countries scramble to forge new alliances](https://www.aljazeera.com/economy/2026/2/10/facing-a-mercurial-trump-countries-scramble-to-forge-new-alliances?traffic_source=rss)"
+- **【EU】**: EUが移民を「安全な」第三国に送還することを承認。[Al Jazeera – All]: "[EU votes to allow deportation of migrants to ‘safe’ third countries](https://www.aljazeera.com/news/2026/2/10/eu-votes-to-allow-deportation-of-migrants-to-safe-third-countries?traffic_source=rss)"
+- **【米国】**: パラマウント社が敵対的買収提案の中、ワーナー・ブラザースへのオファーを拡大。[Al Jazeera – All]: "[Paramount expands offer for Warner Bros amid hostile takeover bid](https://www.aljazeera.com/economy/2026/2/10/paramount-expands-offer-for-warner-bros-amid-hostile-takeover-bid?traffic_source=rss)"
+- **【米国】**: 米商務長官ルトニック氏、エプスタインとの関係を軽視し辞任要求に反論。[Al Jazeera – All]: "[US Commerce Secretary Lutnick downplays Epstein ties amid resignation calls](https://www.aljazeera.com/news/2026/2/10/us-commerce-secretary-lutnick-downplays-epstein-ties-amid-resignation-calls?traffic_source=rss)"
+- **【インド】**: インドのモディ首相の名前がエプスタイン・ファイルに記載されたことでニューデリーで抗議デモが発生。[Al Jazeera – All]: "[Protests erupt in New Delhi over Indian PM’s name in Epstein files](https://www.aljazeera.com/video/newsfeed/2026/2/10/protests-erupt-in-new-delhi-over-indian-pms-name-in-epstein-files?traffic_source=rss)"
+- **【国際】**: パキスタンがT20ワールドカップの雪辱を果たし、米国を破る。[Al Jazeera – All]: "[Pakistan beat USA to avenge T20 World Cup upset](https://www.aljazeera.com/sports/2026/2/10/pakistan-beat-usa-to-avenge-t20-world-cup-upset?traffic_source=rss)"
+- **【米国/イスラエル】**: ネタニヤフ首相がイラン交渉の「原則」をトランプ氏に提示すると発言。[Al Jazeera – All]: "[Netanyahu says he’ll present ‘principles’ for Iran talks to Trump](https://www.aljazeera.com/news/2026/2/10/netanyahu-says-hell-present-principles-for-iran-talks-to-trump?traffic_source=rss)"
+- **【パレスチナ】**: インドネシアがガザに最大8,000人の兵士を派遣準備。[BBC – Middle East]: "[Indonesia preparing to deploy up to 8,000 soldiers to Gaza](https://www.bbc.com/news/articles/cvgjwpx9j2do?at_medium=RSS&at_campaign=rss)"
+- **【イラン】**: 機関銃から鉈まで：イランで数千人を虐殺した武器。[BBC – Middle East]: "[Machine guns to machetes: Weapons that massacred thousands in Iran](https://www.bbc.com/news/articles/c0mgndkklvmo?at_medium=RSS&at_campaign=rss)"
+- **【イラン】**: イランで改革派が逮捕され、異見弾圧が拡大していると報道。[BBC – Middle East]: "[Iran arrests reformists as crackdown on dissent widens, reports say](https://www.bbc.com/news/articles/cy03gnd74n5o?at_medium=RSS&at_campaign=rss)"
+- **【パレスチナ】**: パレスチナ人がヨルダン川西岸での新たなイスラエル措置を事実上の併合と見なす。[BBC – Middle East]: "[Palestinians say new Israeli measures in West Bank amount to de facto annexation](https://www.bbc.com/news/articles/cvg5x2l3v0qo?at_medium=RSS&at_campaign=rss)"
+- **【レバノン】**: レバノンでの建物倒壊で15人死亡、過失への警告が高まる。[BBC – Middle East]: "[Fifteen killed in latest Lebanon building collapse, as warnings of neglect grow](https://www.bbc.com/news/articles/c4gedxvqpz4o?at_medium=RSS&at_campaign=rss)"
+- **【オーストラリア】**: イスラエル大統領がシドニーを訪問中、警察が抗議者に催涙スプレーを使用。[BBC – Middle East]: "[Police pepper spray protesters as Israeli president visits Sydney](https://www.bbc.com/news/articles/c62grw02gpjo?at_medium=RSS&at_campaign=rss)"
+- **【イラン】**: イランのノーベル賞受賞者がさらに懲役刑を言い渡される、と弁護士が語る。[BBC – Middle East]: "[Iranian Nobel laureate handed further prison sentence, lawyer says](https://www.bbc.com/news/articles/clygw161wzvo?at_medium=RSS&at_campaign=rss)"
+- **【米国】**: トランプ氏がイランと取引する国々に関税を課すと脅迫。[BBC – Middle East]: "[Trump threatens tariffs for countries trading with Iran](https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss)"
+- **【オマーン/イラン】**: 米国との協議は「良いスタート」の後も継続するとイラン外相が発言。[BBC – Middle East]: "[Talks with US set to continue after 'good beginning', Iran's foreign minister says](https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss)"
+- **【エスワティニ】**: エスワティニが追放された指導者をホストし、マダガスカルの軍事政権を怒らせる。[BBC – Africa]: "[Eswatini angers Madagascar junta for hosting deposed leader](https://www.bbc.com/news/articles/c9v0pgj0xw2o?at_medium=RSS&at_campaign=rss)"
+- **【アフリカ】**: 新しいビデオゲームでアフリカ人が略奪された宝物を取り戻すことを夢見る。[BBC – Africa]: "[New video game sees Africans fantasise about taking back looted treasures](https://www.bbc.com/news/articles/clyg4lgm1d2o?at_medium=RSS&at_campaign=rss)"
+- **【セネガル】**: セネガルがフランスと関連する小児性愛者ギャングの疑いのある14人を逮捕。[BBC – Africa]: "[Senegal arrests 14 members of alleged paedophile gang linked to France](https://www.bbc.com/news/articles/cy4wy2xy300o?at_medium=RSS&at_campaign=rss)"
+- **【西アフリカ】**: 市販ドローンが西アフリカのジハード主義戦争をどのように変えているか。[BBC – Africa]: "[How off-the-shelf drones are changing jihadist warfare in West Africa](https://www.bbc.com/news/articles/cew8vldpzdyo?at_medium=RSS&at_campaign=rss)"
+- **【ナイジェリア】**: 歌手の悲劇的な死がナイジェリアのヘビ咬傷問題を浮き彫りにする。[BBC – Africa]: "[A singer's tragic death highlights Nigeria's snakebite problem](https://www.bbc.com/news/articles/cdjn1zwm0g7o?at_medium=RSS&at_campaign=rss)"
+- **【アフリカ】**: ハリウッドから故郷へ：なぜアフリカ諸国は黒人アメリカ人スターを誘致しているのか。[BBC – Africa]: "[From Hollywood to the homeland: Why African countries are courting black American stars](https://www.bbc.com/news/articles/c86vz6v07d3o?at_medium=RSS&at_campaign=rss)"
+- **【南アフリカ】**: 米国の資金が枯渇し、南アフリカのエイズ対策が困難になる。[BBC – Africa]: "[As US cash dries up South Africa's fight to stop Aids gets harder](https://www.bbc.com/news/articles/c5ydyr53np1o?at_medium=RSS&at_campaign=rss)"
+- **【南アフリカ】**: 南アフリカの景勝地がなぜ水不足になる可能性があるのか。[BBC – Africa]: "[Why a beauty spot in South Africa could be about to run out of water](https://www.bbc.com/news/articles/cy8pleg24rvo?at_medium=RSS&at_campaign=rss)"
+- **【アフリカ】**: アフリカの研究者たちはAIを使って世界の医療ギャップを埋めている。[Global Voices – Africa (Sub-Saharan)]: "[Researchers in Africa are using AI to fill the global health care gap](https://globalvoices.org/2026/02/05/researchers-in-africa-are-using-ai-to-fill-the-global-health-care-gap)"
+- **【ウガンダ】**: ウガンダ初の平和ジャーナリズム賞がメディアのあり方を再定義。[Global Voices – Africa (Sub-Saharan)]: "[Uganda’s first peace journalism awards redefine the media landscape](https://globalvoices.org/2026/02/03/ugandas-first-peace-journalism-awards-redefine-the-media-landscape)"
+- **【アフリカ】**: 誰が私がHIV陽性であることを知るべきか？[Global Voices – Africa (Sub-Saharan)]: "[Who deserves to know I am HIV positive?](https://globalvoices.org/2026/02/02/who-deserves-to-know-i-am-hiv-positive)"
+- **【コンゴ民主共和国】**: 世界のコバルトの首都であるDRCでは、手掘り鉱夫と工業採掘会社の間で緊張が高まっている。[Global Voices – Africa (Sub-Saharan)]: "[Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies](https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies)"
+- **【アフリカ】**: アフリカの若い人口潜在力を集団的な力に変える方法。[Global Voices – Africa (Sub-Saharan)]: "[How to turn Africa’s young demographic potential into a collective power](https://globalvoices.org/2026/01/28/how-to-turn-africas-young-demographic-potential-into-a-collective-power)"
+- **【モロッコ】**: モロッコ、AFCON、そしてアフリカ最大のサッカーイベントを巡る論争。[Global Voices – Africa (Sub-Saharan)]: "[Morocco, AFCON, and the controversies that trailed Africa’s biggest football event](https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event)"
+- **【アフリカ】**: ブーブーとワックスプリントを超えて：アフリカファッションツアーがアフリカの創造性に対する認識を変える。[Global Voices – Africa (Sub-Saharan)]: "[Beyond boubou and wax prints: Africa Fashion Tour changes perceptions of African creativity](https://globalvoices.org/2026/01/25/beyond-boubou-and-wax-prints-africa-fashion-tour-changes-perceptions-of-african-creativity)"
+- **【マリ】**: マリで気候危機と戦い平和を促進する。[Global Voices – Africa (Sub-Saharan)]: "[Combating the climate crisis to promote peace in Mali](https://globalvoices.org/2026/01/22/combating-the-climate-crisis-to-promote-peace-in-mali)"
+- **【アフリカ/EU】**: アフリカと欧州連合にとって「パートナーシップ」が本当に意味するものとは？[Global Voices – Africa (Sub-Saharan)]: "[What does ‘partnership’ really mean for Africa and the European Union?](https://globalvoices.org/2026/01/15/what-does-partnership-really-mean-for-africa-and-european-union)"
+- **【コンゴ共和国】**: コンゴ・ブラザビルにおける中国の存在は「先住民族」にとって脅威か、それとも救いか？[Global Voices – Africa (Sub-Saharan)]: "[Is the Chinese presence in Congo Brazzaville a threat to ‘first occupants’ or a relief to them?](https://globalvoices.org/2026/01/05/is-the-chinese-presence-in-congo-brazzaville-a-threat-to-first-occupants-or-a-relief-to-them)"
+- **【ノルウェー】**: ノルウェー警察が外交官をエプスタインとの関連で調査。[BBC – Europe]: "[Norway police investigate diplomat over Epstein links](https://www.bbc.com/news/articles/c5yg8yrypejo?at_medium=RSS&at_campaign=rss)"
+- **【ウクライナ】**: ウクライナのスケルトン選手、戦争犠牲者ヘルメットの禁止を主張。[BBC – Europe]: "[Ukraine skeleton racer says war victim helmet banned](https://www.bbc.com/sport/articles/czj1yj9pj00o?at_medium=RSS&at_campaign=rss)"
+- **【スペイン】**: スペインの列車運転士が致命的な衝突事故後、全国的なストライキを開始へ。[BBC – Europe]: "[Spanish train drivers to begin nationwide strike after fatal crashes](https://www.bbc.com/news/articles/czx7l7r9gyro?at_medium=RSS&at_campaign=rss)"
+- **【イタリア】**: イタリア、冬季オリンピック開始と同時に鉄道が「深刻な破壊工作」に見舞われたと発表。[BBC – Europe]: "[Italy says railways hit by 'serious sabotage' as Winter Olympics begin ](https://www.bbc.com/news/articles/czr4rx04xjpo?at_medium=RSS&at_campaign=rss)"
+- **【ロシア】**: ロシアが将軍銃撃事件の容疑者3人の氏名を公表。[BBC – Europe]: "[Russia names three suspects in shooting of general](https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss)"
+- **【ポルトガル】**: 中道左派候補がポルトガル大統領選で楽勝の見込み。[BBC – Europe]: "[Centre-left candidate poised to comfortably win Portuguese presidency](https://www.bbc.com/news/articles/cdxg6rqge2lo?at_medium=RSS&at_campaign=rss)"
+- **【イタリア】**: イタリア警察、オリンピック開催都市ミラノでの衝突後、抗議者を逮捕。[BBC – Europe]: "[Italian police arrest protesters after clash in Olympic host city Milan](https://www.bbc.com/news/articles/cgl5293n5n9o?at_medium=RSS&at_campaign=rss)"
+- **【フランス】**: 同一DNAを持つ双子の兄弟が絡み、フランスの殺人裁判が複雑化。[BBC – Europe]: "[France murder trial complicated by twin brothers with same DNA](https://www.bbc.com/news/articles/cn87l12e4xeo?at_medium=RSS&at_campaign=rss)"
+- **【フランス】**: フランスが元大臣ジャック・ラング氏をエプスタインとの関連で調査。[BBC – Europe]: "[France investigates ex-minister Jack Lang over Epstein links](https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss)"
+- **【ウクライナ】**: 米国は6月までにロシアとウクライナの戦争終結を望んでいる、とゼレンスキー氏が発言。[BBC – Europe]: "[US wants Russia and Ukraine to end war by June, says Zelensky](https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss)"
+- **【ベネズエラ】**: ベネズエラの野党が、党首が解放された数時間後に誘拐されたと発表。[BBC – Latin America & Caribbean]: "[Venezuela's opposition says party leader kidnapped hours after being freed](https://www.bbc.com/news/articles/c9wnjqzrv48o?at_medium=RSS&at_campaign=rss)"
+- **【コロンビア/米国】**: トランプ氏、数ヶ月間の舌戦の後、「素晴らしい」ペトロ大統領とのホワイトハウス会談を称賛。[BBC – Latin America & Caribbean]: "[Trump hails White House talks with 'terrific' Petro, after months of trading barbs](https://www.bbc.com/news/articles/c4g01vlwqp5o?at_medium=RSS&at_campaign=rss)"
+- **【コロンビア】**: BBCが麻薬組織との「終わりのない戦い」を戦うコロンビアの特殊部隊に同行。[BBC – Latin America & Caribbean]: "[BBC joins Colombian commandos fighting 'never-ending battle' against drug gangs](https://www.bbc.com/news/articles/c04105ywkkqo?at_medium=RSS&at_campaign=rss)"
+- **【ブラジル】**: 巡礼者を乗せたバスがブラジルで転覆し15人が死亡。[BBC – Latin America & Caribbean]: "[Bus carrying pilgrims overturns in Brazil killing 15 on board](https://www.bbc.com/news/articles/cq6vn5j312lo?at_medium=RSS&at_campaign=rss)"
+- **【米国】**: 裁判官がハイチ移民の強制送還保護の廃止を一時的に阻止。[BBC – Latin America & Caribbean]: "[Judge temporarily blocks axing deportation protections for Haitian migrants](https://www.bbc.com/news/articles/c5yxn7kqww8o?at_medium=RSS&at_campaign=rss)"
+- **【コスタリカ】**: 犯罪に厳しい候補がコスタリカ大統領選挙で勝利。[BBC – Latin America & Caribbean]: "[Candidate tough on crime wins Costa Rica presidential election](https://www.bbc.com/news/articles/cdre7me407yo?at_medium=RSS&at_campaign=rss)"
+- **【ベネズエラ】**: ベネズエラが人権活動家ハビエル・タラソナ氏を釈放。[BBC – Latin America & Caribbean]: "[Venezuela releases rights activist Javier Tarazona](https://www.bbc.com/news/articles/cgqedv5elzpo?at_medium=RSS&at_campaign=rss)"
+- **【カリブ海】**: 「こんなに強くぶつかったことはない」：サメに襲われるとはどんな感じか。[BBC – Latin America & Caribbean]: "['I've never hit anything so hard': What it's like to be attacked by a shark](https://www.bbc.com/news/articles/cwy8ded4890o?at_medium=RSS&at_campaign=rss)"
+- **【ベネズエラ】**: BBCがトランプ氏の「ベネズエラを再び偉大にする」計画の中心にある石油地帯を訪問。[BBC – Latin America & Caribbean]: "[BBC visits oil region at heart of Trump plan to 'Make Venezuela Great Again'](https://www.bbc.com/news/articles/ckgnp8n40reo?at_medium=RSS&at_campaign=rss)"
+- **【ベネズエラ/米国】**: 熱い公聴会で、ルビオ氏がベネズエラでの米国の行動が繁栄と安全をもたらすと主張。[BBC – Latin America & Caribbean]: "[During heated hearing, Rubio insists US action in Venezuela will lead to prosperity and security](https://www.bbc.com/news/articles/c1evy87qd1no?at_medium=RSS&at_campaign=rss)"
+- **【ドミニカ共和国】**: 再生可能エネルギーの無駄遣いがドミニカ共和国にとって高い代償となっている。[Global Voices – Americas]: "[Wasting renewable energy comes at a high cost for the Dominican Republic](https://globalvoices.org/2026/02/01/wasting-renewable-energy-comes-at-a-high-cost-for-the-dominican-republic)"
+- **【ベネズエラ】**: ベネズエラが釈放者数を水増しする中、政治犯は未だに宙ぶらりんの状態。[Global Voices – Americas]: "[Venezuela inflates release figures as political prisoners remain in limbo](https://globalvoices.org/2026/01/23/venezuela-inflates-release-figures-as-political-prisoners-remain-in-limbo)"
+- **【ベネズエラ】**: 平和の担い手：政治犯の解放のために戦うベネズエラ人たちに出会う。[Global Voices – Americas]: "[The peacemakers: Meet Venezuelans who are fighting to free political detainees](https://globalvoices.org/2026/01/16/the-peacemakers-meet-venezuelans-who-are-fighting-to-free-political-detainees)"
+- **【ベネズエラ】**: マドゥロ後のベネズエラ：南米国家の指導部は不確実。[Global Voices – Americas]: "[Venezuela after Maduro: Leadership of the South American nation seems uncertain](https://globalvoices.org/2026/01/07/venezuela-after-maduro-leadership-of-the-south-american-nation-seems-uncertain)"
+- **【ベネズエラ】**: 新しく、恐ろしい音：カラカス攻撃に関するベネズエラの証言。[Global Voices – Americas]: "[A new, terrifying sound: A Venezuelan account of the the attack on Caracas](https://globalvoices.org/2026/01/05/a-new-terrifying-sound)"
+- **【ブラジル】**: 「文化を清掃せよ」：テレビ司会者の発言がブラジルの先住民に声を出させる。[Global Voices – Americas]: "[‘Clean up your culture’: a TV host’s comment makes Indigenous Brazilians speak up](https://globalvoices.org/2025/12/20/clean-up-your-culture-a-tv-hosts-comment-makes-indigenous-brazilians-speak-up)"
+- **【ドミニカ共和国】**: ドミニカ共和国は再生可能エネルギーを無駄にする一方で、化石燃料火力発電所は法的制限を超えて稼働。[Global Voices – Americas]: "[Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits](https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits)"
+- **【アルゼンチン】**: ソーシャルネットワークがアルゼンチンの街頭での若者の動員を加速。[Global Voices – Americas]: "[Social networks fuel youth mobilization on Argentina’s streets](https://globalvoices.org/2025/12/18/social-networks-fuel-youth-mobilization-on-argentinas-streets)"
+- **【米国/メキシコ】**: トランプ政権下の米墨国境での生活。[Global Voices – Americas]: "[Life at the U.S.–Mexico border under the Trump administration](https://globalvoices.org/2025/12/16/life-at-the-u-s-mexico-border-under-the-trump-administration)"
+- **【国際】**: COP30で市民社会が象徴的ではなく真のリーダーシップを発揮。[Global Voices – Americas]: "[At COP30, civil society stepped into real, not symbolic, leadership](https://globalvoices.org/2025/12/15/at-cop30-civil-society-stepped-into-real-not-symbolic-leadership)"
+- **【日本】**: 日本は高市氏に地滑り的勝利を与えたが、彼女は経済を回復させられるか？[BBC – Asia]: "[Japan has given Takaichi a landslide win - but can she bring back the economy? ](https://www.bbc.com/news/articles/cddn7qed35eo?at_medium=RSS&at_campaign=rss)"
+- **【香港/中国】**: 中国に収監された英国メディア大物実業家の息子、「20年は死刑宣告だ」と語る。[BBC – Asia]: "[Twenty years is 'a death sentence', son of British media tycoon jailed by China says](https://www.bbc.com/news/articles/c77ely7nv2do?at_medium=RSS&at_campaign=rss)"
+- **【バングラデシュ】**: バングラデシュの若者はインドに反発しているのか？[BBC – Asia]: "[Are Bangladesh's youth turning against India?](https://www.bbc.com/news/articles/cjdjj44xxr5o?at_medium=RSS&at_campaign=rss)"
+- **【日本】**: 高市氏の歴史的な選挙勝利で日本の株価が急騰。[BBC – Asia]: "[Japanese stocks surge as Takaichi secures historic election victory](https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss)"
+- **【タイ】**: タイ首相が選挙勝利を主張、保守派がライバルを大きくリード。[BBC – Asia]: "[Thai PM claims election victory with conservatives well ahead of rivals](https://www.bbc.com/news/articles/cx2jn4z4eq0o?at_medium=RSS&at_campaign=rss)"
+- **【ニュージーランド】**: クライストチャーチ銃乱射事件の犯人が有罪判決の撤回を求める。[BBC – Asia]: "[Christchurch shooter seeks to overturn guilty plea](https://www.bbc.com/news/articles/c3vevxnw9pko?at_medium=RSS&at_campaign=rss)"
