@@ -274,13 +274,14 @@ function renderFeedList() {
             <a href="${item.link}" target="_blank" class="title-link">
                 ${titleHtml}
             </a>
+            ${(item.summary || item.description) ? `
             <details class="feed-description">
                 <summary>概要を表示</summary>
                 <div class="description-content">
-                    <p>${item.descriptionJa || '概要はありません。'}</p>
+                    <p>${item.summary || item.description}</p>
                     <a href="${item.link}" target="_blank" class="read-more">もっと読む &rarr;</a>
                 </div>
-            </details>
+            </details>` : ''}
         `;
 
         if (item.country && item.country !== 'XX') {
