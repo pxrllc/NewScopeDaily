@@ -1,0 +1,802 @@
+{
+  "IR": {
+    "count": 9,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f42f99ee03be365305ba2791ed403ca8",
+      "title": "White House presses Iran to make deal, while ramping up military presence",
+      "url": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T06:08:07.000Z",
+      "description": "US media reports that Trump has discussed attack options with advisers, and a  strike could happen as early as Saturday.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ホワイトハウス、イランに合意を迫る一方、軍事プレゼンスを強化",
+      "summary": "米メディアは、トランプ氏が顧問らと攻撃選択肢を協議し、早ければ土曜日にも攻撃が行われる可能性があると報じている。"
+    }
+  },
+  "SD": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9d3ba8bd58329f1660412783ee9e86ff",
+      "title": "'Hallmark of genocide' found in Sudan's el-Fasher — UN",
+      "url": "https://www.dw.com/en/hallmark-of-genocide-found-in-sudan-s-el-fasher-un/a-76047495?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-19T16:52:00.000Z",
+      "description": "An independent fact-finding mission said the paramilitary RSF's capture of el-Fasher bore the \"hallmarks of genocide.\" Graphic footage circulated in October showed RSF members carrying out mass killings and other crimes.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "スーダン、エル＝ファーシルで「ジェノサイドの兆候」と国連が指摘",
+      "summary": "国連の調査団は、スーダンのエル＝ファーシルを準軍事組織RSFが制圧した際に「ジェノサイドの兆候」が見られたと発表。"
+    }
+  },
+  "PS": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "dda961961bfd277bf1d8eae8d191f011",
+      "title": "The quiet conquest of the West Bank and the death of the Oslo Accords",
+      "url": "https://www.aljazeera.com/opinions/2026/2/19/the-quiet-conquest-of-the-west-bank-and-the-death-of-the-oslo-accords?traffic_source=rss",
+      "published_at": "2026-02-19T17:40:05.000Z",
+      "description": "Israel is seeking to achieve through paperwork what warfare alone could not.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ヨルダン川西岸の静かなる征服とオスロ合意の死",
+      "summary": "イスラエルが書類上の手続きを通じて、武力だけでは成し得なかったヨルダン川西岸の支配を進め、オスロ合意が事実上終焉を迎えている現状を伝える。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3420c1f5ff74bb344a74f1090499292e",
+      "title": "How the tide turned against the leader of South Africa's second-biggest party",
+      "url": "https://www.bbc.com/news/articles/c6209vqv3nlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-17T01:07:00.000Z",
+      "description": "John Steenhuisen will not seek re-election as DA leader, leaving the race wide open for a successor.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "南アフリカ第2党党首に対する風向きがどのように変わったか",
+      "summary": "南アフリカ第2党であるDAの党首ジョン・スティーンハイゼン氏が再選を目指さないことを表明し、後継者争いが激化する見通しです。"
+    }
+  },
+  "KR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d55751a17451d37e537123e411301859",
+      "title": "Martial law, protests and a president tried for insurrection: How did South Korea get here?",
+      "url": "https://www.bbc.com/news/videos/c70kw0nrxreo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T23:05:46.000Z",
+      "description": "A court is due to deliver its verdict in the insurrection trial of Yoon Suk Yeol.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "戒厳令、抗議デモ、大統領の反乱罪裁判：韓国はいかにして現状に至ったか？",
+      "summary": "韓国で戒厳令、抗議デモが発生し、尹錫悦大統領が反乱罪で裁判にかけられている。裁判所は近く判決を下す予定で、国内情勢が緊迫。"
+    }
+  },
+  "GB": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "188b9c5bcb173b13ad5d6c78139962c0",
+      "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
+      "published_at": "2026-02-16T03:00:39.000Z",
+      "description": "The Guardian’s community affairs correspondent, Chris Osuh, reports on the plot by two IS terrorists to massacre Jews in Manchester, and how it was thwarted by an undercover sting\nWalid Saadaoui had once worked as a holiday entertainer, organising dance shows and quizzes at a resort in his native Tunisia. After moving to the UK and marrying a British woman, he became a restaurateur and an avid keeper of birds.\nAll the while, however – as the Guardian’s community affairs correspondent, Chris Osuh, explains – he was hiding a secret: he had pledged allegiance to Islamic State.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "潜入警官がいかにして英国ユダヤ人虐殺のIS計画を阻止したか – ポッドキャスト",
+      "summary": "マンチェスターで計画されたISによるユダヤ人虐殺計画が、潜入警官によるおとり捜査で阻止された経緯を報じるポッドキャスト。テロリストはISに忠誠を誓っていた。"
+    }
+  },
+  "US": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b1d20436b0fb01c518344db9f0b8f455",
+      "title": "Life at the U.S.–Mexico border under the Trump administration",
+      "url": "https://globalvoices.org/2025/12/16/life-at-the-u-s-mexico-border-under-the-trump-administration",
+      "published_at": "2025-12-16T01:00:17.000Z",
+      "description": "The Trump administration has reintroduced some of its most contentious border measures, leading to renewed targeting, detention, and deportation of migrant communities, leaving thousands seeking safety in increasingly perilous conditions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "トランプ政権下の米墨国境での生活",
+      "summary": "トランプ政権が論争の的となる国境対策を再導入し、移民コミュニティへの標的化、拘束、強制送還が再開され、数千人が危険な状況で安全を求めている現状を描写。"
+    }
+  },
+  "KE": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f1ebef37d6c533803a08213690ad17d4",
+      "title": "A thousand Kenyans 'recruited' for Russia's war — new report",
+      "url": "https://www.dw.com/en/a-thousand-kenyans-recruited-for-russia-s-war-new-report/a-76050872?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-19T19:20:00.000Z",
+      "description": "Kenya's intelligence service says 1,000 Kenyans had been lured into fighting for Russia in Ukraine. Moscow denies the allegations.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "千人規模のケニア人がロシアの戦争に「徴募」されたとの新報告",
+      "summary": "ケニア情報機関によると、千人のケニア人がウクライナでのロシア側戦闘に誘い込まれた。ロシアはこの疑惑を否定している。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4e903daefd70abe19bf44ed7501164e8",
+      "title": "Faltering fighter jet deal casts doubt on EU defense plans",
+      "url": "https://www.dw.com/en/faltering-fighter-jet-deal-casts-doubt-on-eu-defense-plans/a-76046049?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-19T18:38:00.000Z",
+      "description": "Europe is supposed to be collaborating more on defense in response to Trump. But German Chancellor Friedrich Merz has signaled his country may exit the FCAS flagship deal to jointly build a warplane with France.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "停滞する戦闘機取引がEU防衛計画に疑問を投げかける",
+      "summary": "ドイツのメルツ首相はフランスとの共同戦闘機開発契約FCASからの離脱を示唆し、EUの防衛協力計画に懸念が生じている。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "eacb81cf2d6758be6be5190a46810679",
+      "title": "Why is Indonesia offering to send thousands of troops into Gaza?",
+      "url": "https://www.dw.com/en/why-is-indonesia-offering-to-send-thousands-of-troops-into-gaza/a-76039552?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-19T15:55:00.000Z",
+      "description": "Indonesia will join the Board of Peace and will send troops to Gaza. It's a risky move politically — Indonesia has no official relations with Israel — but President Prabowo Subianto says he has good reasons.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "ID",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "なぜインドネシアはガザに数千人の兵士を派遣すると申し出ているのか？",
+      "summary": "インドネシアは平和委員会に参加し、ガザに軍隊を派遣する予定。イスラエルとの国交がない中での政治的リスクが高い動き。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "062f5c23aecb7c0eeb4cd4f0bbf8884f",
+      "title": "Brazil's soy industry gives deforestation a green light",
+      "url": "https://www.dw.com/en/brazil-s-soy-industry-gives-deforestation-a-green-light/a-76038155?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-19T14:18:00.000Z",
+      "description": "For almost two decades, Brazil's largest soy producers guaranteed their products did not come from land cleared in the Amazon rainforest. Now, all bets are off.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "BR",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "ブラジルの大豆産業が森林伐採に青信号を出す",
+      "summary": "約20年間、ブラジルの大手大豆生産者はアマゾン熱帯雨林の開拓地から製品が供給されないと保証してきたが、その方針は撤回された。"
+    }
+  },
+  "PE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "853a4408d25b01358f7b3ab11ebe0ec9",
+      "title": "Peru names eighth president in a decade after incumbent's ouster",
+      "url": "https://www.bbc.com/news/articles/cvgkp84mmmvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T11:54:24.000Z",
+      "description": "José María Balcázar is chosen by Congress after his predecessor was ousted over graft allegations, which he denies.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ペルー、現職追放後10年で8人目の大統領を任命",
+      "summary": "汚職疑惑で前任者が追放された後、ペルー議会が新大統領ホセ・マリア・バルカサ氏を選出。同国は10年間で8人目の大統領を迎えることになった。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c44b776263b155defd8e79d6405cd908",
+      "title": "Mexican president challenges UK asylum given to woman accused of corruption",
+      "url": "https://www.theguardian.com/world/2026/feb/17/mexican-president-challenges-uk-asylum-given-to-woman-accused-of-corruption",
+      "published_at": "2026-02-17T19:59:26.000Z",
+      "description": "Karime Macías, ex-wife of a state governor, is wanted for allegedly pilfering nearly £5m of public money and now lives in London\nThe Mexican president, Claudia Sheinbaum, has said her government will send a formal letter of complaint to officials in the United Kingdom after the wife of a former governor wanted for allegedly pilfering £4.8m of public money was granted asylum in Britain.\nKarime Macías, ex-wife of jailed former Veracruz governor Javier Duarte, is wanted for extradition to Mexico for allegedly siphoning millions from the state welfare office, but has reportedly spent the last few years in London.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "メキシコ大統領、汚職容疑の女性に対する英国の亡命許可に異議",
+      "summary": "メキシコ大統領は、約500万ポンドの公金横領容疑で指名手配されている元州知事の妻に対し、英国が亡命を許可したことに正式な抗議書簡を送る意向を示した。"
+    }
+  },
+  "IT": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "607322307149e439cfc55d789b6fff06",
+      "title": "Italian toddler in critical condition after transplanted heart 'burned by frostbite'",
+      "url": "https://www.bbc.com/news/articles/cpqw24v4dn9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-17T12:43:57.000Z",
+      "description": "Several people are under investigation after the organ was reportedly damaged during transport between hospitals.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "移植された心臓が「凍傷で焼かれた」後、イタリアの幼児が危篤状態に",
+      "summary": "移植された心臓が病院間の輸送中に「凍傷で焼かれた」と報じられ、イタリアの幼児が危篤状態にある。関係者数名が調査を受けている。"
+    }
+  },
+  "SY": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a9ef221e8c2f650e18df98f8a7b5ba91",
+      "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
+      "url": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T00:20:03.000Z",
+      "description": "The BBC hears harrowing accounts of assaults appearing to target the sect of former President Assad.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "夢の中で叫び続けた：シリアのアラウィー派少数民族の女性たちが語る誘拐と強姦",
+      "summary": "BBCは、シリアの旧アサド大統領の宗派を標的としているとみられる誘拐と強姦について、アラウィー派少数民族の女性たちによる衝撃的な証言を聞いた。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2c4d25d7d3f01bdb9e304c3071980b5f",
+      "title": "Female Israeli soldiers rescued after being chased by ultra-Orthodox men",
+      "url": "https://www.bbc.com/news/articles/clyzen2lgw9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T07:47:54.000Z",
+      "description": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "超正統派の男たちに追われたイスラエル人女性兵士らが救助される",
+      "summary": "イスラエルのベネイ・ブラク市で、超正統派の男たちに追われた2人の女性兵士が警察によって救助された。彼女たちは群衆から逃れることを余儀なくされた。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "36bd09ce1620f3a4a303f78c781658e4",
+      "title": "Islamist militants accused of killing 34 in raids on Nigerian villages",
+      "url": "https://www.bbc.com/news/articles/cgrzgk57r9vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T14:33:19.000Z",
+      "description": "The gunmen launched simultaneous assaults on multiple communities in a remote border district, officials say.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イスラム過激派がナイジェリアの村々襲撃で34人殺害と非難される",
+      "summary": "ナイジェリアの国境地域の村々で、イスラム過激派が同時多発的に襲撃を行い、34人が殺害されたと報じられています。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e6a71cac43d39852e23c313b72af7db0",
+      "title": "The two farms in Senegal that supply many of the UK's vegetables",
+      "url": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T00:16:54.000Z",
+      "description": "During winter in Britain fresh produce is sent by cargo ship from the West African nation every week.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "英国の野菜の多くを供給するセネガルの2つの農場",
+      "summary": "冬の英国では、毎週セネガルから貨物船で新鮮な野菜が送られており、同国の2つの農場が英国の食卓を支えている状況が報じられています。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "59d99417831f3f92a87fa136aac2cf61",
+      "title": "A simple guide to the crisis in South Sudan",
+      "url": "https://www.bbc.com/news/articles/c7933p4xe7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-11T12:34:52.000Z",
+      "description": "The political rift that could spiral into conflict again after the vice-president was accused of treason.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "南スーダンの危機に関する簡単なガイド",
+      "summary": "南スーダンでは副大統領が反逆罪で告発されたことを受け、政治的亀裂が再び紛争へと発展する可能性があり、その危機的状況が解説されています。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "02cd04793b3858838c18846deb2ef93a",
+      "title": "Women politicians face tech-facilitated violence in Uganda’s 2026 elections",
+      "url": "https://globalvoices.org/2026/02/16/women-politicians-face-tech-facilitated-violence-in-ugandas-2026-elections",
+      "published_at": "2026-02-16T06:00:01.000Z",
+      "description": "Ideally, the law that is supposed to protect women online is the Computer Misuse Act 2011, but it has instead been used to attack feminist dissenters.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ウガンダの2026年選挙で女性政治家がテクノロジーを用いた暴力に直面",
+      "summary": "ウガンダでは、2026年の選挙に向けて女性政治家がオンラインでの暴力に直面しており、本来保護のための法律がフェミニスト攻撃に悪用されている。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "042e17759a02f303325bbd2475720073",
+      "title": "Burundi tea plantations hamper chimpanzee protection",
+      "url": "https://globalvoices.org/2026/02/14/burundi-tea-plantations-hamper-chimpanzee-protection",
+      "published_at": "2026-02-14T12:00:10.000Z",
+      "description": "In Burundi, tea production hampers the protection of endangered species, such as chimpanzees.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BI",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 60,
+      "titleJa": "ブルンジの茶畑がチンパンジー保護を妨げる",
+      "summary": "ブルンジでは、茶の生産がチンパンジーなどの絶滅危惧種の保護を妨げており、環境と経済活動の間の対立が浮上している。"
+    }
+  },
+  "ML": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aa996738d6548fd5c48cb4863126a927",
+      "title": "Women and young girls bear the brunt of Mali’s worsening security crisis",
+      "url": "https://globalvoices.org/2026/02/11/women-and-young-girls-bear-the-brunt-of-malis-worsening-security-crisis",
+      "published_at": "2026-02-11T04:57:56.000Z",
+      "description": "Since 2012, Mali has been in security turmoil with the emergence and expansion of several radical non-State armed groups. This situation disproportionately affects the civilian population, especially women and girls.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "マリの悪化する治安危機で女性と少女が最も苦しむ",
+      "summary": "2012年以来、マリは治安の混乱にあり、過激派武装勢力の拡大により、特に女性と少女が不均衡に大きな影響を受けている。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dee668b368b962987bf0b9c28f78e70f",
+      "title": "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies",
+      "url": "https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies",
+      "published_at": "2026-01-29T18:00:39.000Z",
+      "description": "Kolwezi in the Lualaba Province of the southeastern Democratic Republic of Congo (DRC), where tensions are high between artisanal miners and industrial companies, holds 70 percent of the world’s cobalt reserves.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "世界のコバルト首都DRCで零細鉱夫と大手採掘企業間で緊張高まる",
+      "summary": "世界のコバルト埋蔵量の70%を占めるDRCのコンゴ民主共和国で、零細鉱夫と産業採掘企業間の緊張が高まり、社会経済問題が深刻化している。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "614ce030fc32f791b8000ab572c840d0",
+      "title": "Morocco, AFCON, and the controversies that trailed Africa’s biggest football event",
+      "url": "https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event",
+      "published_at": "2026-01-26T18:00:06.000Z",
+      "description": "“This isn’t ‘passion,’ it’s medieval conduct wearing a modern jersey, enabled by CAF.”",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "モロッコ、AFCON、アフリカ最大のサッカーイベントを巡る論争",
+      "summary": "アフリカ最大のサッカーイベントであるAFCONを巡り、モロッコに関連する論争が発生。CAF（アフリカサッカー連盟）が助長するような不適切な行為が指摘されている。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "12aa2d8e4730c544489bd2bc8d24c86c",
+      "title": "Musk cuts Starlink access for Russian forces - giving Ukraine an edge at the front",
+      "url": "https://www.bbc.com/news/articles/c0q3ndj7052o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T01:39:55.000Z",
+      "description": "Ukrainian troops say Russian forces are suffering setbacks without access to Elon Musk's system.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "マスク氏、ロシア軍へのスターリンクアクセスを遮断 - ウクライナが前線で優位に",
+      "summary": "イーロン・マスク氏がロシア軍のスターリンク利用を停止したことで、ウクライナ軍が前線で優位に立ち、ロシア軍は苦戦している。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6a3f331fad276d6811fbc4b8f2705ef8",
+      "title": "Wave of arrests over killing of French nationalist piles pressure on far left",
+      "url": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T08:13:37.000Z",
+      "description": "Eleven people are in detention in connection with the killing of far-right student activist Quentin Deranque.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "フランスのナショナリスト殺害を巡る一連の逮捕が極左に圧力をかける",
+      "summary": "極右学生活動家クエンティン・デランク氏殺害に関連し11人が拘束。この事件がフランスの極左勢力に政治的圧力を加えている。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c219ea4eeca6a8c351663d0fb38ab20e",
+      "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
+      "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T17:40:56.000Z",
+      "description": "Spanish football expert Guillem Balague details how Vincius Jr has become a global symbol of resistance against discrimination.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "ES",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ヴィニシウス：レアル・マドリードでの8年間、人種差別的虐待の疑惑20件",
+      "summary": "レアル・マドリードのヴィニシウス・ジュニア選手は8年間で20件の人種差別疑惑に直面し、差別に対する抵抗の世界的象徴に。スペインのサッカー専門家が詳細を語る。"
+    }
+  },
+  "AT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d52eb8ff587f6b99f5e039c98d26d98e",
+      "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain ",
+      "url": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T07:58:02.000Z",
+      "description": "Kerstin G's boyfriend is accused of leaving her unprotected and exhausted close to the summit during a blizzard.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "オーストリア最高峰で恋人を見殺しにした登山家が裁判に",
+      "summary": "ブリザードの中、オーストリア最高峰で恋人を見捨てて死なせた疑いで、ケルスティン・Gの恋人が裁判にかけられている。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1f8cb5d2c175dc9da4e49222a97ba745",
+      "title": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?",
+      "url": "https://www.bbc.com/news/articles/c1mjrgkk1m8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T00:19:54.000Z",
+      "description": "Russia's economy is hanging between stagnation and decline, and ordinary Russians are beginning to feel the pinch.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "ロシアで食料品価格が高騰。戦争はロシア人の懐を直撃しているのか？",
+      "summary": "ロシアで食料品価格が高騰し、経済は停滞と衰退の間にあり、一般のロシア人が経済的苦境を感じ始めている。"
+    }
+  },
+  "PT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2b110078132c8b2532dc60f88a34e425",
+      "title": "Real Madrid tie halted over Vinicius racism allegation",
+      "url": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-17T21:31:49.000Z",
+      "description": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 80,
+      "titleJa": "ビニシウスへの人種差別疑惑でレアル・マドリード戦が中断",
+      "summary": "ベンフィカでのレアル・マドリード対チャンピオンズリーグ戦が、ビニシウス・ジュニオールが人種差別的な嫌がらせを報告したため、10分間中断された。"
+    }
+  },
+  "VE": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f6a40340d6f0d651f092d9e61fa29f1a",
+      "title": "A new, terrifying sound: A Venezuelan account of the the attack on Caracas",
+      "url": "https://globalvoices.org/2026/01/05/a-new-terrifying-sound",
+      "published_at": "2026-01-05T21:01:15.000Z",
+      "description": "“I thought Venezuelans had already heard every sound the country’s violence had to offer. But this was something new — terrifying in its unfamiliarity.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "新たな、恐ろしい音：カラカス攻撃に関するベネズエラからの報告",
+      "summary": "ベネズエラ人にとって国の暴力が提供するあらゆる音を聞いたと思っていたが、カラカスへの攻撃はこれまでになく恐ろしい、未知の音だったという住民の体験を語る。"
+    }
+  },
+  "GT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d12b4c0ff1c4e3a937f183f63af5db27",
+      "title": "Attorney-General's alleged role in illegal adoptions rocks Guatemala",
+      "url": "https://www.bbc.com/news/articles/cd03nkj7dleo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-17T16:42:27.000Z",
+      "description": "UN experts have called for a probe to determine if Consuelo Porras was involved in illegal adoptions in the 1980s.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "GT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 78,
+      "titleJa": "グアテマラで、司法長官の違法養子縁組関与疑惑が国を揺るがす",
+      "summary": "グアテマラの司法長官コンスエロ・ポラス氏が1980年代の違法養子縁組に関与したとされる疑惑が浮上。国連専門家は調査を要求し、国を揺るがす問題となっている。"
+    }
+  },
+  "TT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9b0f589861043e0ea48f5c4d38e4fcd4",
+      "title": "Trinidad & Tobago seal 'operation don't finish last'",
+      "url": "https://www.bbc.com/sport/articles/cedzlee6j9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-17T22:09:42.000Z",
+      "description": "Trinidad and Tobago's bobsleigh team say it is \"mission accomplished\" in their 'operation don't come last' as they finished 25th out of 26 in the Olympic two-man event.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "TT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "トリニダード・トバゴ、「最下位にならない作戦」を達成",
+      "summary": "トリニダード・トバゴのボブスレーチームは、オリンピック2人乗り種目で26チーム中25位となり、「最下位にならない作戦」を達成したと発表。「ミッション達成」を宣言した。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "70cd257881d44fab40816d1b726b483d",
+      "title": "The GB medallist now representing Jamaica in bobsleigh",
+      "url": "https://www.bbc.com/sport/articles/ckgl52gej21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T22:31:30.000Z",
+      "description": "A medallist with Team GB in 2014, bobsleigher Joel Fearon is preparing for his third Winter Olympics after coming out of retirement to compete for Jamaica.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "元GBメダリスト、ボブスレーでジャマイカ代表に",
+      "summary": "2014年のチームGBでメダリストだったボブスレー選手ジョエル・フィアロンが、引退から復帰しジャマイカ代表として3度目の冬季オリンピック出場準備を進めている。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3785b4bb0ca09a8f0161f12c51fc6faa",
+      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
+      "url": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits",
+      "published_at": "2025-12-19T05:00:27.000Z",
+      "description": "Non-compliance with Technical Minimum Power, causing a greater injection of fossil-fuel-generated energy into the grid, violates Dominican legislation and hinders climate commitments, especially when renewable energy companies’ production remains restricted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "ドミニカ共和国、再生可能エネルギーを浪費し、化石燃料火力発電所は法的制限を超えて稼働",
+      "summary": "ドミニカ共和国は再生可能エネルギーを浪費する一方、化石燃料火力発電所が法的制限を超えて稼働しており、技術的最低電力遵守の不履行はドミニカの法律に違反し、気候変動対策を妨げている。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0e41aa40c646623bb9148874372bdf9f",
+      "title": "Social networks fuel youth mobilization on Argentina’s streets",
+      "url": "https://globalvoices.org/2025/12/18/social-networks-fuel-youth-mobilization-on-argentinas-streets",
+      "published_at": "2025-12-18T12:00:20.000Z",
+      "description": "Unlike movements in earlier decades, Argentina’s latest youth-led protests are increasingly organized digitally through platforms like TikTok, Instagram, and Whatsapp, rather than through unions or political parties.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ソーシャルネットワークがアルゼンチンの若者のデモを煽る",
+      "summary": "アルゼンチンでは、以前の世代の運動とは異なり、最新の若者主導の抗議活動がTikTok、Instagram、Whatsappなどのデジタルプラットフォームを通じて組織されており、社会運動の新たな形態を示している。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0d5ee8e1c9fa9bbdb8c865aa048672a8",
+      "title": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
+      "url": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T08:13:25.000Z",
+      "description": "The Gates Foundation said the decision was made to \"ensure the focus remains on the summit's key priorities\".",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ビル・ゲイツ氏、エプスタイン文書論争でインドのAIサミットを欠席",
+      "summary": "エプスタイン文書に関する論争を受け、ビル・ゲイツ氏がインドのAIサミットへの参加を取りやめ。財団はサミットの優先事項に焦点を当てるためと説明。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c77fd14d89b6595bc5b475389fef473c",
+      "title": "Watch: Thai police go undercover as lion dancers to catch thief",
+      "url": "https://www.bbc.com/news/videos/c5yjl37vxvpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T06:33:02.000Z",
+      "description": "Wanted for multiple counts of theft, the suspect was caught outside a temple on the outskirts of Bangkok.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "見よ：タイ警察、獅子舞に扮して窃盗犯を逮捕",
+      "summary": "バンコク郊外の寺院で、タイ警察が獅子舞に扮して複数の窃盗容疑で指名手配されていた容疑者を逮捕した。ユニークな逮捕劇に注目が集まる。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a45c63bdf8fb7510249f8b2127efdc47",
+      "title": "Philippine VP Sara Duterte to run for president in 2028",
+      "url": "https://www.bbc.com/news/articles/cn5g207k7d5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T04:09:51.000Z",
+      "description": "The daughter of former President Rodrigo Duterte has feuded spectacularly with the incumbent, Bongbong Marcos.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "フィリピンのサラ・ドゥテルテ副大統領、2028年大統領選に出馬へ",
+      "summary": "フィリピンのサラ・ドゥテルテ副大統領が2028年の大統領選挙への出馬を表明。現職のマルコス大統領とは激しい対立を見せている。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "48a9b67e3eb31d0d99291f1030fefc68",
+      "title": "Australia bans citizen trying to return from IS camp in Syria",
+      "url": "https://www.bbc.com/news/articles/c4g2dgjrx75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T07:08:18.000Z",
+      "description": "The person temporarily banned is among a group of 34 who this week attempted to leave the camp for Australia.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "オーストラリア、シリアのISキャンプから帰国を試みる市民の入国を禁止",
+      "summary": "オーストラリアが、シリアのISキャンプから帰国を試みた市民の入国を一時的に禁止。この人物はグループの一員で、国家安全保障上の措置。"
+    }
+  }
+}
