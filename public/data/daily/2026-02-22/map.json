@@ -1,0 +1,862 @@
+{
+  "US": {
+    "count": 8,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3d46562c8da756097c91d15c77b7439d",
+      "title": "Trump lashes out at Supreme Court justices over tariffs ruling ",
+      "url": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T02:19:29.000Z",
+      "description": "The six justices who voted against the tariffs, dealing a major blow to his signature economic policy, should be \"absolutely ashamed\", Trump said.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏、関税判決を巡り最高裁判事らを激しく非難",
+      "summary": "トランプ氏は、自身の主要経済政策に打撃を与えた関税反対票を投じた最高裁判事6人について「絶対に恥ずべきだ」と述べた。"
+    }
+  },
+  "FR": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "89026daea56758a65cffed740bf4a756",
+      "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
+      "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T18:11:22.000Z",
+      "description": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc Mélenchon is being widely condemned.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ナショナリスト学生殺害事件、選挙を控えフランスの極左を窮地に追い込む",
+      "summary": "クエンティン・デランク氏殺害の容疑者は極左過激派とされ、ジャン＝リュック・メランション氏の党は広く非難されている。"
+    }
+  },
+  "RU": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "db733ace1a8fdde2aca28512a05137f4",
+      "title": "Ukraine strikes missile plant deep inside Russia",
+      "url": "https://www.dw.com/en/ukraine-strikes-missile-plant-deep-inside-russia/a-76072701?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-21T14:38:00.000Z",
+      "description": "The Votkinsk factory, that produces ballistic missiles, is more than 1,400 kilometers (870 miles) from Ukraine.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ウクライナ、ロシア奥深くのミサイル工場を攻撃",
+      "summary": "ウクライナが、ウクライナから1,400キロ以上離れたロシアのヴォトキンスクにある弾道ミサイル製造工場を攻撃しました。"
+    }
+  },
+  "PS": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c336bef6bf06cc2614fa70d395e58fd9",
+      "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
+      "url": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T06:33:52.000Z",
+      "description": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "イスラエルによるヨルダン川西岸支配強化でパレスチナ自治政府が窮地に",
+      "summary": "パレスチナ自治政府は設立から30年以上経ち、崩壊寸前との警告が高まっている。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "37aa95e56e51ef0ccb31e3f9caaa7853",
+      "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
+      "url": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T17:26:04.000Z",
+      "description": "The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イスラエルの攻撃でレバノンで少なくとも10人死亡と当局発表",
+      "summary": "イスラエルとヒズボラの停戦以来、レバノンで最も死者数の多い攻撃の一つとなった。"
+    }
+  },
+  "EC": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e8cb0895a5d1e20d4169db814b82b35d",
+      "title": "Giant tortoises reintroduced to a Galapagos island",
+      "url": "https://www.dw.com/en/giant-tortoises-reintroduced-to-a-galapagos-island/a-76072073?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-21T12:55:00.000Z",
+      "description": "Ecuador released 158 juveniles in the first phase of an ambitious rewilding effort at the World Heritage Site.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "EC",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ガラパゴス諸島にゾウガメを再導入",
+      "summary": "エクアドルは、世界遺産における野性復帰計画の第一段階として、158頭の幼体を放しました。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aeb36a5ccf89e881ca1ef1d79509f243",
+      "title": "Germany cuts funding for integration of refugees",
+      "url": "https://www.dw.com/en/germany-cuts-funding-for-integration-of-refugees/a-76063764?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-21T06:26:00.000Z",
+      "description": "The German Interior Ministry is restricting access to voluntary integration courses for immigrants, citing budget constraints. Many critics consider this a disastrous decision.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ドイツ、難民統合への資金提供を削減",
+      "summary": "ドイツ内務省は予算制約から難民の統合コースへのアクセスを制限。多くの批判家はこれを「壊滅的な決定」と見ています。"
+    }
+  },
+  "BG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e5c94066882f3d593e2afc156a399581",
+      "title": "No reckoning over ethnic cleansing of Bulgaria's Turks",
+      "url": "https://www.dw.com/en/no-reckoning-over-ethnic-cleansing-of-bulgaria-s-turks/a-76067294?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-21T08:30:00.000Z",
+      "description": "Bulgaria's Turkish community, descendants of Ottoman settlers, suffered severe persecution under the communist regime. Yet little has been done to address the injustice.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "BG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ブルガリア系トルコ人の民族浄化に対する清算なし",
+      "summary": "ブルガリアのトルコ系コミュニティは共産主義政権下で深刻な迫害を受けたものの、その不正義への対処はほとんど進んでいません。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "59bfdfa3ed4d8b16f3d1aeabca771b83",
+      "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+      "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+      "published_at": "2026-02-19T17:59:17.000Z",
+      "description": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities\nThe siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bore “the hallmarks of genocide”, a UN-mandated fact-finding mission has said.\nIn a report detailing the harrowing 18-month occupation of the capital of North Darfur, investigators concluded that the RSF and allied militias deliberately inflicted conditions calculated to bring about the physical destruction of the Zaghawa and Fur ethnic communities.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダン、エル・ファシェルのRSFによる包囲は「ジェノサイドの特徴を持つ」と国連調査団が報告",
+      "summary": "国連調査団は、スーダンのエル・ファシェルの包囲が「ジェノサイドの特徴を持つ」と報告。RSFと民兵がザガワ族とフール族を意図的に破壊しようとしたと結論付けた。"
+    }
+  },
+  "KE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1dffb73c401ccffd1b83c690d17c91b5",
+      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+      "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "published_at": "2026-02-19T14:39:41.000Z",
+      "description": "Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontline\nMore than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence report to the Kenyan parliament that highlights the scale of a Russian operation taking African men to the frontline.\nThe majority leader of Kenya’s national assembly, Kimani Ichung’wah, said “rogue recruitment agencies and individuals in Kenya” were continuing to send Kenyan nationals to fight in the conflict, as he read MPs the summary of an investigation by Kenya’s National Intelligence Service.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "1,000人以上のケニア人がロシアのためにウクライナ戦争で戦うよう誘われたと報告",
+      "summary": "報告によると、1,000人以上のケニア人が、ロシアによるウクライナ戦争での戦闘に誘い込まれた。ケニアの諜報機関が議会に提出した報告書は、アフリカ人男性を戦場へ送るロシアの活動規模を強調している。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "188b9c5bcb173b13ad5d6c78139962c0",
+      "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
+      "published_at": "2026-02-16T03:00:39.000Z",
+      "description": "The Guardian’s community affairs correspondent, Chris Osuh, reports on the plot by two IS terrorists to massacre Jews in Manchester, and how it was thwarted by an undercover sting\nWalid Saadaoui had once worked as a holiday entertainer, organising dance shows and quizzes at a resort in his native Tunisia. After moving to the UK and marrying a British woman, he became a restaurateur and an avid keeper of birds.\nAll the while, however – as the Guardian’s community affairs correspondent, Chris Osuh, explains – he was hiding a secret: he had pledged allegiance to Islamic State.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "覆面警官が英国ユダヤ人虐殺IS計画をいかに阻止したか – ポッドキャスト",
+      "summary": "覆面警官がマンチェスターで英国ユダヤ人の虐殺を計画していたISテロリスト2名の企みを阻止した。容疑者はISに忠誠を誓っていた。"
+    }
+  },
+  "BO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "03c4096d42cd6fbbe8d8ccab657a52a3",
+      "title": "Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence",
+      "url": "https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance",
+      "published_at": "2026-02-20T04:10:29.000Z",
+      "description": "Long-serving socialist former leader Evo Morales has reappeared in his political stronghold after almost seven weeks of unexplained absence\nBolivia’s long-serving socialist former leader, Evo Morales, reappeared on Thursday in his political stronghold of the tropics after almost seven weeks of unexplained absence, endorsing candidates for upcoming regional elections and quieting rumours he had fled the country in the wake of the US seizure of his ally, Venezuela’s ex-president Nicolás Maduro.\nThe weeks of hand-wringing over Morales’ fate showed how little the Andean country knows about what’s happening in the remote Chapare region, where the former president has spent the past year evading an arrest warrant on human trafficking charges, and how vulnerable it is to fears about US president Donald Trump’s potential future foreign escapades.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ボリビアの元指導者エボ・モラレス氏、数ヶ月の謎の不在を経て再登場",
+      "summary": "ボリビアの元社会主義指導者エボ・モラレス氏が約7週間の謎の不在の後、自身の政治的拠点に再登場。今後の地方選挙候補者を支持し、逃亡説を鎮めた。"
+    }
+  },
+  "PE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "853a4408d25b01358f7b3ab11ebe0ec9",
+      "title": "Peru names eighth president in a decade after incumbent's ouster",
+      "url": "https://www.bbc.com/news/articles/cvgkp84mmmvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T11:54:24.000Z",
+      "description": "José María Balcázar is chosen by Congress after his predecessor was ousted over graft allegations, which he denies.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ペルー、現職追放後10年で8人目の大統領を指名",
+      "summary": "現職大統領が汚職疑惑で追放された後、ホセ・マリア・バルカサルが議会により新たな大統領に選出された。ペルーは過去10年間で8人目の大統領を迎えることになる。"
+    }
+  },
+  "IR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f3f13e814b6d9da9b81b5e3445efcbc0",
+      "title": "US build-up of warships and fighter jets tracked near Iran",
+      "url": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T17:38:45.000Z",
+      "description": "A second US aircraft carrier appears to be heading towards the Middle East as Washington increases its pressure on Iran.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米国、イラン近郊で軍艦と戦闘機の増強を追跡",
+      "summary": "米国がイランへの圧力を高める中、中東に向けて2隻目の空母が派遣され、イラン近郊での軍艦と戦闘機の増強が確認された。"
+    }
+  },
+  "SY": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c8ac8cead54e75cf4bda8c156882e864",
+      "title": "US to withdraw troops from Syria as tensions mount with Iran",
+      "url": "https://www.bbc.com/news/articles/c875pey8vy2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T01:14:47.000Z",
+      "description": "The decision came as US President Donald Trump ramps up military presence in the Middle East as tensions mount with Iran.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "米国、イランとの緊張が高まる中、シリアから部隊を撤退へ",
+      "summary": "イランとの緊張が高まる中、米国はシリアからの部隊撤退を決定。これは中東での米軍増強と同時期の戦略的な動きである。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e74859c29b51f29affd969196e677eb",
+      "title": "Nigeria confronts growing climate risks with rising droughts, heatwaves, and flooding",
+      "url": "https://globalvoices.org/2026/02/17/nigeria-confronts-growing-climate-risks-with-rising-droughts-heatwaves-and-flooding",
+      "published_at": "2026-02-17T12:00:34.000Z",
+      "description": "In 2022, Nigeria was the third-highest country in internal displacement in Africa, primarily caused by conflict and flood, a climate change induced disaster.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ナイジェリア、干ばつ、熱波、洪水増加で気候変動リスクに直面",
+      "summary": "ナイジェリアは干ばつ、熱波、洪水といった気候変動リスクが増大しており、2022年には洪水により多数の国内避難民が発生した。"
+    }
+  },
+  "ZA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8449b2feb1b51e45d39c9657812964c5",
+      "title": "South African farmers fear devastation as foot-and-mouth takes hold",
+      "url": "https://www.bbc.com/news/articles/ceqvjwre8vqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:37:30.000Z",
+      "description": "The government has begun a vaccination programme but officials have been blamed for a slow response.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "口蹄疫が蔓延し、南アフリカの農家が壊滅を恐れる",
+      "summary": "南アフリカで口蹄疫が拡大し、農家は壊滅的な被害を懸念している。政府はワクチン接種プログラムを開始したが、対応の遅さが批判されている。"
+    }
+  },
+  "TN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "94da6039e696da72bae854cdd226f39a",
+      "title": "Tunisian MP jailed for eight months over posts mocking president",
+      "url": "https://www.bbc.com/news/articles/c3v75lvgy36o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T11:35:53.000Z",
+      "description": "The MP was arrested this month after mocking the president's handling of the recent floods in the country.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "TN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "大統領を嘲笑する投稿でチュニジアの国会議員が8ヶ月の禁固刑に",
+      "summary": "チュニジアで、洪水への大統領の対応を嘲笑する投稿をした国会議員が逮捕され、8ヶ月の禁固刑を言い渡された。"
+    }
+  },
+  "IO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cf157ae50b3441ef33ae505aa457e0da",
+      "title": "Deportation of Chagos Islanders blocked by judge",
+      "url": "https://www.bbc.com/news/articles/c1jk5p0ewx0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T15:58:51.000Z",
+      "description": "A court upholds a challenge about the lawfulness of the orders to remove four men who travelled to the territory.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "IO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "チャゴス諸島住民の国外追放が判事によって阻止される",
+      "summary": "チャゴス諸島へ渡航した4人の男性を排除する命令の合法性に対する異議申し立てが裁判所で認められ、彼らの国外追放が阻止された。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d181dffc00224b81508c98f96c542b5d",
+      "title": "Lion DNA helps convict poachers for first time",
+      "url": "https://www.bbc.com/news/articles/c4grxvdyy00o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:23:10.000Z",
+      "description": "Investigators reveal how they were able to identify a missing animal using a database of lions in Zimbabwe.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 65,
+      "titleJa": "ライオンのDNAが初めて密猟者の有罪判決に貢献",
+      "summary": "ジンバブエでライオンのデータベースを活用し、行方不明の個体をDNAで特定する新技術により、初めて密猟者の有罪判決が下された。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e6a71cac43d39852e23c313b72af7db0",
+      "title": "The two farms in Senegal that supply many of the UK's vegetables",
+      "url": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T00:16:54.000Z",
+      "description": "During winter in Britain fresh produce is sent by cargo ship from the West African nation every week.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 50,
+      "titleJa": "英国の多くの野菜を供給するセネガルの二つの農場",
+      "summary": "英国の冬の間、毎週、セネガルから貨物船で新鮮な農産物が大量に送られており、同国の二つの農場がその多くを供給している。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "02cd04793b3858838c18846deb2ef93a",
+      "title": "Women politicians face tech-facilitated violence in Uganda’s 2026 elections",
+      "url": "https://globalvoices.org/2026/02/16/women-politicians-face-tech-facilitated-violence-in-ugandas-2026-elections",
+      "published_at": "2026-02-16T06:00:01.000Z",
+      "description": "Ideally, the law that is supposed to protect women online is the Computer Misuse Act 2011, but it has instead been used to attack feminist dissenters.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ウガンダ2026年選挙で女性政治家がテクノロジーを悪用した暴力に直面",
+      "summary": "ウガンダでは2026年の選挙に向けて、女性政治家がオンラインでの暴力に直面しており、本来保護のための法律が悪用されている。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "042e17759a02f303325bbd2475720073",
+      "title": "Burundi tea plantations hamper chimpanzee protection",
+      "url": "https://globalvoices.org/2026/02/14/burundi-tea-plantations-hamper-chimpanzee-protection",
+      "published_at": "2026-02-14T12:00:10.000Z",
+      "description": "In Burundi, tea production hampers the protection of endangered species, such as chimpanzees.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BI",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 55,
+      "titleJa": "ブルンジの茶畑がチンパンジー保護を阻害",
+      "summary": "ブルンジでは茶葉の生産が拡大し、チンパンジーなどの絶滅危惧種の保護活動に悪影響を与えている。"
+    }
+  },
+  "ML": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aa996738d6548fd5c48cb4863126a927",
+      "title": "Women and young girls bear the brunt of Mali’s worsening security crisis",
+      "url": "https://globalvoices.org/2026/02/11/women-and-young-girls-bear-the-brunt-of-malis-worsening-security-crisis",
+      "published_at": "2026-02-11T04:57:56.000Z",
+      "description": "Since 2012, Mali has been in security turmoil with the emergence and expansion of several radical non-State armed groups. This situation disproportionately affects the civilian population, especially women and girls.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "マリの悪化する治安危機、女性と少女が最大の被害者",
+      "summary": "マリでは2012年以来続く治安危機が深刻化し、非国家武装集団の活動により、特に女性と少女が最も大きな被害を受けている。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dee668b368b962987bf0b9c28f78e70f",
+      "title": "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies",
+      "url": "https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies",
+      "published_at": "2026-01-29T18:00:39.000Z",
+      "description": "Kolwezi in the Lualaba Province of the southeastern Democratic Republic of Congo (DRC), where tensions are high between artisanal miners and industrial companies, holds 70 percent of the world’s cobalt reserves.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "コンゴ民主共和国、職人鉱夫と産業採掘企業間の緊張が高まる",
+      "summary": "世界のコバルト供給を担うコンゴ民主共和国では、零細鉱夫と大手採掘企業の間で緊張が高まっており、紛争のリスクをはらんでいる。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "614ce030fc32f791b8000ab572c840d0",
+      "title": "Morocco, AFCON, and the controversies that trailed Africa’s biggest football event",
+      "url": "https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event",
+      "published_at": "2026-01-26T18:00:06.000Z",
+      "description": "“This isn’t ‘passion,’ it’s medieval conduct wearing a modern jersey, enabled by CAF.”",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "モロッコ、アフリカネイションズカップ、そしてその後の論争",
+      "summary": "アフリカ最大のサッカーイベント、アフリカネイションズカップとモロッコを巡る論争が話題となっている。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "58b631b5848c425e954fc139005ec192",
+      "title": "Civilians to soldiers: how four years of war has changed ordinary Ukrainians",
+      "url": "https://www.bbc.com/news/articles/cddn2e11zm8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T00:22:28.000Z",
+      "description": "Seven Ukrainian men and women in uniform reveal how Russia's invasion in 2022 has changed them.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "市民から兵士へ：4年間の戦争が普通のウクライナ人をどう変えたか",
+      "summary": "ロシアによるウクライナ侵攻から4年が経ち、7人のウクライナ人兵士が戦争による個人的な変化を語る。彼らの証言から紛争が日常にもたらす深い影響が浮き彫りになる。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c5508c06d45d26ae4a6d1a005526d97d",
+      "title": "Six races, six golds - Klaebo's historic Olympics",
+      "url": "https://www.bbc.com/sport/articles/cx2dj8dd95jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T13:35:33.000Z",
+      "description": "Johannes Hoesflot Klaebo, Norway's king of cross-country skiing, breaks the record for the most gold medals won at a single Winter Olympics with his sixth of the Games.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 72,
+      "titleJa": "6種目6金メダル - クレーボの歴史的オリンピック",
+      "summary": "ノルウェーのクロスカントリースキー王者ヨハンネス・ホスフロト・クレーボが、冬季オリンピックで史上最多となる6個の金メダルを獲得し、新たな歴史を刻んだ。"
+    }
+  },
+  "BY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "adc431443bf6cf3951907ca041e014d3",
+      "title": "Veteran dissident who refused exile released",
+      "url": "https://www.bbc.com/news/articles/cn0ewjdgrkzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T20:15:42.000Z",
+      "description": "Mikola Statkevich, who spent more than five years in prison in his native Belarus, is now recovering from a stroke at home, his wife says.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "BY",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 63,
+      "titleJa": "亡命を拒否したベテラン反体制派が釈放",
+      "summary": "ベラルーシで5年以上服役していた反体制派のミコラ・スタトケヴィッチ氏が釈放され、現在は自宅で脳卒中から回復中であることが妻によって明かされた。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4fe3862069e632c0bb984c28cbab2499",
+      "title": "Gaffe-ridden Olympic commentary prompts Italy's Rai sport chief to resign",
+      "url": "https://www.bbc.com/news/articles/c1jkx7yg9p6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T13:10:43.000Z",
+      "description": "Paolo Petrecca, whose gaffe-ridden commentary of the event went viral, stands down from his job.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 48,
+      "titleJa": "失言だらけのオリンピック実況、イタリアRaiスポーツ責任者の辞任を招く",
+      "summary": "オリンピック中継での失言が広まり、問題となった実況を担当したパオロ・ペトレッカ氏がイタリア国営放送Raiのスポーツ部門責任者を辞任した。"
+    }
+  },
+  "ES": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c219ea4eeca6a8c351663d0fb38ab20e",
+      "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
+      "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T17:40:56.000Z",
+      "description": "Spanish football expert Guillem Balague details how Vincius Jr has become a global symbol of resistance against discrimination.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "ES",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "ビニシウス：レアル・マドリードでの8年間、人種差別疑惑は20件",
+      "summary": "スペインのサッカー専門家ギエム・バラゲが、レアル・マドリードで8年間プレーするビニシウス・ジュニオールが、いかに差別に対する抵抗の世界的象徴となったかを詳細に語る。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4e83ce59dbf0f945b4e8665c9f0e8873",
+      "title": "Desperate hunt for breakthrough in Nancy Guthrie case turns to Mexico",
+      "url": "https://www.bbc.com/news/articles/c4gq2k8220go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T12:09:31.000Z",
+      "description": "The search for the 84-year-old mother of US presenter Savannah Guthrie has moved into a third week.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "ナンシー・ガスリー事件、突破口を求めメキシコに捜査の焦点",
+      "summary": "米国のプレゼンター、サバンナ・ガスリーの84歳の母親が行方不明となり、捜索が3週目に入った。突破口を見つけるため、捜査の焦点はメキシコに移っている。"
+    }
+  },
+  "BR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a74f906daf254861c274f4de41263f31",
+      "title": "The samba-dancing skier making Brazil Olympic history",
+      "url": "https://www.bbc.com/sport/articles/c24dnjnp39qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T13:46:27.000Z",
+      "description": "Lucas Pinheiro Braathen makes history for Brazil by clinching his nation's first Winter Olympic medal with gold in the giant slalom.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "サンバを踊るスキーヤー、ブラジルのオリンピック史を刻む",
+      "summary": "ルーカス・ピニェイロ・ブラアテンが、ジャイアントスラロームで金メダルを獲得し、ブラジルにとって初の冬季オリンピックメダルという歴史を刻んだ。"
+    }
+  },
+  "VE": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5b6d7c451dfe568906f8673c67f6ec8c",
+      "title": "Venezuela inflates release figures as political prisoners remain in limbo",
+      "url": "https://globalvoices.org/2026/01/23/venezuela-inflates-release-figures-as-political-prisoners-remain-in-limbo",
+      "published_at": "2026-01-23T19:49:54.000Z",
+      "description": "As Venezuelan authorities claim a mass release of political prisoners, families wait outside detention centers without answers, or guarantees. Behind the government’s discourse of reconciliation, uncertainty and fear persist.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ベネズエラ、政治犯釈放の数字を誇張するも、囚人たちは宙ぶらりんのまま",
+      "summary": "ベネズエラ当局が政治犯の大量釈放を主張する中、家族たちは拘置所の外で答えも保証もなく待ち続ける。政府の和解の言説の裏には、不確実性と恐れが残る。"
+    }
+  },
+  "TT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9b0f589861043e0ea48f5c4d38e4fcd4",
+      "title": "Trinidad & Tobago seal 'operation don't finish last'",
+      "url": "https://www.bbc.com/sport/articles/cedzlee6j9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-17T22:09:42.000Z",
+      "description": "Trinidad and Tobago's bobsleigh team say it is \"mission accomplished\" in their 'operation don't come last' as they finished 25th out of 26 in the Olympic two-man event.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "TT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "トリニダード・トバゴ、「最下位回避作戦」を達成",
+      "summary": "トリニダード・トバゴのボブスレーチームは、オリンピック2人乗りイベントで26チーム中25位に終わり、「最下位にならない作戦」が「任務完了」であると述べた。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "70cd257881d44fab40816d1b726b483d",
+      "title": "The GB medallist now representing Jamaica in bobsleigh",
+      "url": "https://www.bbc.com/sport/articles/ckgl52gej21o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T22:31:30.000Z",
+      "description": "A medallist with Team GB in 2014, bobsleigher Joel Fearon is preparing for his third Winter Olympics after coming out of retirement to compete for Jamaica.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "元GBメダリスト、現在はジャマイカ代表としてボブスレーに出場",
+      "summary": "2014年にチームGBでメダルを獲得したボブスレー選手ジョエル・フィアロンが、引退から復帰し、ジャマイカ代表として3度目の冬季オリンピック出場に向けて準備を進めている。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6d1a829fd81d7c731e3a465832adc562",
+      "title": "Wasting renewable energy comes at a high cost for the Dominican Republic",
+      "url": "https://globalvoices.org/2026/02/01/wasting-renewable-energy-comes-at-a-high-cost-for-the-dominican-republic",
+      "published_at": "2026-02-01T01:00:33.000Z",
+      "description": "By operating thermal plants above their limits and maintaining a grid with insufficient storage capacity, the DR wastes part of its clean energy and generates multimillion-dollar losses.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "ドミニカ共和国にとって再生可能エネルギーの無駄は高コストを招く",
+      "summary": "ドミニカ共和国は、火力発電所を限界を超えて稼働させ、貯蔵容量の不足した送電網を維持することで、クリーンエネルギーの一部を浪費し、数百万ドルの損失を出している。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0e41aa40c646623bb9148874372bdf9f",
+      "title": "Social networks fuel youth mobilization on Argentina’s streets",
+      "url": "https://globalvoices.org/2025/12/18/social-networks-fuel-youth-mobilization-on-argentinas-streets",
+      "published_at": "2025-12-18T12:00:20.000Z",
+      "description": "Unlike movements in earlier decades, Argentina’s latest youth-led protests are increasingly organized digitally through platforms like TikTok, Instagram, and Whatsapp, rather than through unions or political parties.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ソーシャルネットワークがアルゼンチンの若者の動員を促す",
+      "summary": "アルゼンチンにおける最新の若者主導の抗議活動は、かつての運動とは異なり、労働組合や政党を介するのではなく、デジタルプラットフォームを通じて組織されている。"
+    }
+  },
+  "AU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e7883bec59f8d03ffb6690f939b0b01d",
+      "title": "Welcome to Australia's hottest beach event - nowhere near the sea",
+      "url": "https://www.bbc.com/news/articles/crrx792qk81o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T22:16:49.000Z",
+      "description": "Tonnes of sand and flocks of tourists are ferried into Cootamundra for its annual volleyball tournament.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "オーストラリアの内陸で開催される最も熱いビーチイベントへようこそ",
+      "summary": "オーストラリアの内陸都市クータマンドラで毎年恒例のバレーボール大会が開催され、大量の砂と観光客が集まる。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0d5ee8e1c9fa9bbdb8c865aa048672a8",
+      "title": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
+      "url": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T08:13:25.000Z",
+      "description": "The Gates Foundation said the decision was made to \"ensure the focus remains on the summit's key priorities\".",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "ビル・ゲイツ、エプスタイン文書騒動でインドのAIサミットを欠席",
+      "summary": "ビル・ゲイツ氏が、エプスタイン文書を巡る騒動を受けてインドで開催されるAIサミットへの参加を取りやめた。財団はサミットの優先事項に焦点を当てるためと説明。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5a4e11a7b2de35b861649f5d6f32dd0a",
+      "title": "Asos co-founder dies after Thailand apartment block fall",
+      "url": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T14:35:49.000Z",
+      "description": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "Asos共同創設者、タイのアパートから転落死",
+      "summary": "Asosの共同創設者クエンティン・グリフィス氏がタイのアパートから転落して死亡。同氏は2000年にAsosを共同設立し、退社後も大株主だった。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b8c95dae182c3e4223882e76bc61c1de",
+      "title": "Mystery donor gives Japanese city $3.6m in gold bars to fix water system",
+      "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T02:55:04.000Z",
+      "description": "Osaka's mayor says he is 'lost for words' and that he has 'nothing but appreciation' for the gesture.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "日本の都市に謎の寄付者、水道システム改修のため360万ドルの金塊を寄贈",
+      "summary": "大阪市に匿名の寄付者が、水道システムの改修費用として360万ドル相当の金塊を寄贈。市長は感謝の意を表明した。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "edde3253e58379221ab742fd609d6815",
+      "title": "South Korea's ex-president jailed for life over martial law attempt",
+      "url": "https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T09:46:55.000Z",
+      "description": "Yoon Suk Yeol's December 2024 martial law bid fundamentally damaged South Korea's democracy, a judge told the court.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "韓国の元大統領、戒厳令試みで終身刑に",
+      "summary": "韓国の元大統領ユン・ソクヨル氏が2024年12月の戒厳令試みにより、民主主義を根本的に損なったとして終身刑を宣告された。"
+    }
+  }
+}
