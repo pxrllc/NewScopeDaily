@@ -1,0 +1,982 @@
+{
+  "RU": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ed1b9938bfa9bac22594a28bf2fd2a2a",
+      "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+      "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T06:01:59.000Z",
+      "description": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "ウクライナでの全面戦争から4年、ロシアはその影響を感じている",
+      "summary": "ロシアのウクライナ戦争から4年が経過し、ロシアが経済的影響に直面している状況と、国民がどう対処しているかを報じる。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6eb92c76ba9f3642bae9e33e8035c139",
+      "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+      "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-22T22:00:47.000Z",
+      "description": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ゼレンスキー氏、プーチン大統領が第三次世界大戦を始めた、止めなければならないとBBCに語る",
+      "summary": "ウクライナのゼレンスキー大統領が、プーチン大統領が第三次世界大戦を始めたとBBCに発言。戦争4周年前のキーウでのインタビュー。"
+    }
+  },
+  "MX": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "94fa507d3bb5f9fabd4dae01a3c2b260",
+      "title": "Mexican security forces kill drug cartel boss ‘El Mencho’",
+      "url": "https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho",
+      "published_at": "2026-02-23T00:39:49.000Z",
+      "description": "Death of Nemesio Oseguera Cervantes, one of world’s most wanted drug traffickers, sets off wave of disorder across several Mexican states\n\nWho was El Mencho, the former police officer who co-founded an ultraviolent cartel in Mexico?\n\nOne of the world’s most wanted drug traffickers, the Mexican cartel boss known as “El Mencho”, has been killed by security forces, Mexico’s defence ministry has confirmed. The operation set off a wave of violence, with torched cars and gunmen blocking highways in more than half a dozen states.\nThe drug lord, whose real name is Nemesio Rubén Oseguera Cervantes, was killed on Sunday in the western state of Jalisco along with at least six alleged accomplices, the ministry said in a statement.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "メキシコ治安部隊が麻薬カルテルのボス「エル・メンチョ」を殺害",
+      "summary": "世界で最も指名手配されていたメキシコの麻薬カルテルボス「エル・メンチョ」が治安部隊によって殺害された。この作戦は、複数の州で車両の放火や道路封鎖といった暴力の波を引き起こした。"
+    }
+  },
+  "US": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3bcf6bcc9b0a6fcf20494085cd1ff93a",
+      "title": "What now for Asia after Trump's tariffs struck down?",
+      "url": "https://www.bbc.com/news/articles/c4g58vlwdq3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T07:29:11.000Z",
+      "description": "After the Supreme Court ruling, Trump said he would impose new levies of 15% on goods entering the US.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "US",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "トランプ氏の関税が却下された後、アジアはどうなるのか？",
+      "summary": "最高裁判所の判決でトランプ氏の関税が却下された後、同氏は米国への輸入品に15%の新たな関税を課すと述べ、アジア経済への影響が懸念される。"
+    }
+  },
+  "NP": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d3db92fed657e2710f67e13af5311a72",
+      "title": "Briton among 19 killed in Nepal bus crash",
+      "url": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T14:14:48.000Z",
+      "description": "Nepalese police say the British national was a 24-year-old man.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NP",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 65,
+      "titleJa": "ネパールでのバス事故で19人死亡、英国人1名も含まれる",
+      "summary": "ネパールで発生したバス事故で19人が死亡し、その中に24歳の英国人男性1名が含まれていることをネパール警察が発表した。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d841e8e916c9c3b429f72a01261305fc",
+      "title": "Rob Jetten becomes Netherlands' youngest ever PM",
+      "url": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T16:33:33.000Z",
+      "description": "The 38-year-old is sworn in as premier after clinching a narrow victory in October's election.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ロブ・イエッテン氏、オランダ史上最年少の首相に就任",
+      "summary": "10月の選挙で僅差の勝利を収めた38歳のロブ・イエッテン氏が、オランダ史上最年少の首相として宣誓就任した。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "805697614fe9801a41f697c4cfe29367",
+      "title": "Australia backs removing Andrew from royal line of succession",
+      "url": "https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T17:02:46.000Z",
+      "description": "Andrew Mountbatten-Windsor remains eighth in line to the throne despite being stripped of his titles.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 55,
+      "titleJa": "オーストラリア、アンドルー王子を王位継承順位から除外することを支持",
+      "summary": "オーストラリア政府が、アンドルー・マウントバッテン＝ウィンザー王子を王位継承順位から除外することを支持する姿勢を示した。"
+    }
+  },
+  "ZA": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8449b2feb1b51e45d39c9657812964c5",
+      "title": "South African farmers fear devastation as foot-and-mouth takes hold",
+      "url": "https://www.bbc.com/news/articles/ceqvjwre8vqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T00:37:30.000Z",
+      "description": "The government has begun a vaccination programme but officials have been blamed for a slow response.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "口蹄疫蔓延で南アフリカの農家が壊滅を懸念",
+      "summary": "口蹄疫が蔓延し、南アフリカの農家は壊滅的な被害を恐れている。政府はワクチン接種を開始したが、対応の遅さが批判されている。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "65ff6d8c763b8a8ebba0bff9be979dc2",
+      "title": "Kim Jong Un re-appointed leader of North Korea's ruling party",
+      "url": "https://www.bbc.com/news/articles/cvg18588mdko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T07:15:47.000Z",
+      "description": "The announcement by the rubber-stamp party congress comes as little surprise given the Kim family's grip since the 1940s.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "金正恩氏、北朝鮮の与党指導者に再任",
+      "summary": "北朝鮮の形式的な党大会で、金正恩氏が与党指導者に再任されたことが発表された。これは金一族が1940年代から掌握している権力を考えると当然の動きとされている。"
+    }
+  },
+  "GB": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "932cb45bd74708c2b70374e5276263ce",
+      "title": "Peter Mandelson arrested amid Epstein files fallout",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/peter-mandelson-arrested-amid-epstein-files-fallout?traffic_source=rss",
+      "published_at": "2026-02-23T18:33:42.000Z",
+      "description": "Former UK Ambassador to the US Peter Mandelson was arrested amid revelations over his ties to Jeffrey Epstein.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ピーター・マンデルソン氏、エプスタイン文書の余波で逮捕",
+      "summary": "元英国駐米大使ピーター・マンデルソン氏が、ジェフリー・エプスタインとの関係を巡る暴露を受け逮捕された。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "eda170587317d55df8ee4bb46f27c27e",
+      "title": "Berlinale faces difficult balancing act in polarized Gaza debate",
+      "url": "https://www.dw.com/en/berlinale-faces-difficult-balancing-act-in-polarized-gaza-debate/a-76091332?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-23T16:19:00.000Z",
+      "description": "A Palestinian award-winner's accusation that Germany has supported genocide sparked political after the closing gala, while others criticized the festival's attempts to remain neutral on Gaza.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "ベルリン映画祭、二極化したガザ議論で難しい綱渡り",
+      "summary": "閉会式後、パレスチナ人受賞者がドイツのジェノサイド支援を非難し論争に。映画祭はガザ問題で中立を保とうと試みているが批判も。"
+    }
+  },
+  "AL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bf62e76fe9d23984af20d762d7e0e84c",
+      "title": "World's first virtual minister in court in Albania",
+      "url": "https://www.dw.com/en/world-s-first-virtual-minister-in-court-in-albania/a-76090488?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-23T14:42:00.000Z",
+      "description": "Last fall, Albanian PM Edi Rama presented the world's first virtual minister, \"Diella.\" Actor Anila Bisha says she never gave her consent for her voice and image to be used for the avatar and has filed a lawsuit.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "アルバニアで世界初のバーチャル大臣が法廷に",
+      "summary": "アルバニアのラマ首相が発表した世界初のバーチャル大臣「ディエラ」に対し、女優アニラ・ビシャが自身の声と画像の無断使用で提訴。"
+    }
+  },
+  "PH": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2679a4532d984dbb9805d477a413e5c2",
+      "title": "ICC opens hearing for Philippines ex-president Duterte",
+      "url": "https://www.dw.com/en/icc-opens-hearing-for-philippines-ex-president-duterte/a-76090295?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-23T12:10:00.000Z",
+      "description": "Rodrigo Duterte is accused of crimes against humanity for allegedly authorizing dozens of murders during his so-called war on drugs.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ICC、フィリピンのドゥテルテ元大統領の公聴会を開始",
+      "summary": "ロドリゴ・ドゥテルテ元大統領は、「麻薬戦争」中に数十件の殺害を承認したとして人道に対する罪で国際刑事裁判所の公聴会に臨む。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "59bfdfa3ed4d8b16f3d1aeabca771b83",
+      "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+      "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+      "published_at": "2026-02-19T17:59:17.000Z",
+      "description": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities\nThe siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bore “the hallmarks of genocide”, a UN-mandated fact-finding mission has said.\nIn a report detailing the harrowing 18-month occupation of the capital of North Darfur, investigators concluded that the RSF and allied militias deliberately inflicted conditions calculated to bring about the physical destruction of the Zaghawa and Fur ethnic communities.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "スーダン、エル・ファーシェルにおけるRSFの包囲は「ジェノサイドの特徴を持つ」と国連使節団が報告",
+      "summary": "スーダン、北ダルフールのエル・ファーシェル市に対する準軍事組織RSFの包囲が「ジェノサイドの特徴を持つ」と国連の調査団が報告した。民族コミュニティに対する意図的な破壊が詳述されている。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4964781e4a38aa5178f1d5c2e7c28576",
+      "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
+      "url": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
+      "published_at": "2026-02-17T11:01:02.000Z",
+      "description": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest\nWhen Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027, had his phones returned to him by Kenyan authorities after his controversial arrest last July, he immediately noticed a problem: one of the phones was no longer password protected and could be opened without one.\nIt was Mwangi’s personal phone, which he used to communicate with friends and mentors, and contained photos of private family moments with his wife and children. Knowing that its contents could be in the hands of the Kenyan government made Mwangi – who has described harassment and even torture – feel unsafe and “exposed”, he told the Guardian.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ケニア当局がイスラエルの技術を使って活動家の携帯電話をハッキングしたと報告",
+      "summary": "レポートによると、ケニア当局がイスラエルの技術を使って、著名な民主主義活動家ボニファス・ムワンギ氏の携帯電話をハッキングしたとされる。プライバシー侵害と監視が懸念されている。"
+    }
+  },
+  "EC": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ec226c7cc80bb28b8b77fb7410686c12",
+      "title": "Floreana giant tortoise reintroduced to Galápagos island after almost 200 years",
+      "url": "https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years",
+      "published_at": "2026-02-20T21:00:49.000Z",
+      "description": "Subspecies driven to extinction by hungry whalers returns after ‘back breeding’ programme using partial descendants\nGiant tortoises, the life-giving engineers of remote small island ecosystems, are plodding over the Galápagos island of Floreana for the first time in more than 180 years.\nThe Floreana giant tortoise (Chelonoidis niger niger), a subspecies of the giant tortoise once found across the Galápagos, was driven to extinction in the 1840s by whalers who removed thousands from the volcanic island to provide a living larder during their hunting voyages.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EC",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "フロレアナゾウガメが約200年ぶりにガラパゴス諸島に再導入される",
+      "summary": "絶滅したフロレアナゾウガメの亜種が、約180年ぶりにガラパゴス諸島のフロレアナ島に再導入された。これは「バックブリーディング」プログラムによる成果で、生態系の回復に貢献する。"
+    }
+  },
+  "BO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "03c4096d42cd6fbbe8d8ccab657a52a3",
+      "title": "Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence",
+      "url": "https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance",
+      "published_at": "2026-02-20T04:10:29.000Z",
+      "description": "Long-serving socialist former leader Evo Morales has reappeared in his political stronghold after almost seven weeks of unexplained absence\nBolivia’s long-serving socialist former leader, Evo Morales, reappeared on Thursday in his political stronghold of the tropics after almost seven weeks of unexplained absence, endorsing candidates for upcoming regional elections and quieting rumours he had fled the country in the wake of the US seizure of his ally, Venezuela’s ex-president Nicolás Maduro.\nThe weeks of hand-wringing over Morales’ fate showed how little the Andean country knows about what’s happening in the remote Chapare region, where the former president has spent the past year evading an arrest warrant on human trafficking charges, and how vulnerable it is to fears about US president Donald Trump’s potential future foreign escapades.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ボリビアの元指導者エボ・モラレスが数ヶ月の不明な不在を経て再登場",
+      "summary": "ボリビアの元社会主義指導者エボ・モラレスが、数週間の行方不明の後、政治的拠点である熱帯地方に再び姿を現した。彼は今後の地域選挙の候補者を支持し、逃亡の噂を静めた。"
+    }
+  },
+  "PS": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2e5581249b02625a3af4ef0de8b909a3",
+      "title": "Israeli settlers deface, set fire to West Bank mosque during Ramadan",
+      "url": "https://www.aljazeera.com/news/2026/2/23/israeli-settlers-deface-set-fire-to-west-bank-mosque-during-ramadan?traffic_source=rss",
+      "published_at": "2026-02-23T18:53:54.000Z",
+      "description": "Attack on Nablus-area mosque is latest in surge of Israeli settler and military violence targeting Palestinians.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イスラエル人入植者、ラマダン中にヨルダン川西岸のモスクを汚損・放火",
+      "summary": "ナブルス地域のモスクが攻撃され、イスラエル人入植者や軍によるパレスチナ人への暴力が急増している最新の事例となった。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6d1a47dcd2696934490ac8bd8c18c720",
+      "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
+      "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss",
+      "published_at": "2026-02-23T18:35:33.000Z",
+      "description": "Relations between Israel and Turkiye continue to deteriorate amid accusations and heightened geopolitical tensions.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ネタニヤフ首相が新たな同盟に注力する中、イスラエルでトルコの「脅威」が語られる",
+      "summary": "イスラエルとトルコの関係は、非難と地政学的緊張の高まりの中で悪化の一途を辿っている。"
+    }
+  },
+  "IR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "344b96f28ebb4b18942f81977365b701",
+      "title": "What could happen if the US strikes Iran? Here are seven scenarios",
+      "url": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T16:53:41.000Z",
+      "description": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "米国がイランを攻撃した場合、何が起こりうるか？7つのシナリオ",
+      "summary": "米国がイランを攻撃した場合の、政権交代から報復まで、起こりうる7つのシナリオが提示されている。"
+    }
+  },
+  "VE": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "69c1cd110950b6f577d5ff231f12eff4",
+      "title": "Venezuela after Maduro: Leadership of the South American nation seems uncertain",
+      "url": "https://globalvoices.org/2026/01/07/venezuela-after-maduro-leadership-of-the-south-american-nation-seems-uncertain",
+      "published_at": "2026-01-07T02:52:44.000Z",
+      "description": "Since the airstrikes, there has been a huge sense of uncertainty, with long queues in local supermarkets and gas stations, and Caracas residents worried about basic necessities like groceries.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "マドゥロ後のベネズエラ：南米国家の指導体制は不確実",
+      "summary": "空爆以来、ベネズエラでは指導体制に大きな不確実性が漂い、スーパーやガソリンスタンドに長蛇の列ができ、住民は食料などの生活必需品を懸念している。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "37aa95e56e51ef0ccb31e3f9caaa7853",
+      "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
+      "url": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T17:26:04.000Z",
+      "description": "The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イスラエル軍の攻撃によりレバノンで少なくとも10人が死亡、当局発表",
+      "summary": "イスラエルとヒズボラの戦争終結以来、レバノンで最も死者数の多い攻撃の一つにより、少なくとも10人が死亡した。"
+    }
+  },
+  "SY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a67e4cfe0518510cd0e24552d90717f9",
+      "title": "Australian IS families in Syria camp turned back after leaving for home",
+      "url": "https://www.bbc.com/news/articles/cvg5ed05pplo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-16T19:18:04.000Z",
+      "description": "The group of 34 women and children with family links to Islamic State group have been held in the Roj camp for nearly seven years.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "シリアの収容所にいたオーストラリア人IS家族、帰国途中に引き返される",
+      "summary": "イスラム国（IS）とのつながりを持つオーストラリア人女性と子供34人のグループが、シリアのロジキャンプで約7年間拘束された後、帰国途中で引き返された。"
+    }
+  },
+  "TD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "38b216f852025b5f36d516168c568f0d",
+      "title": "Chad shuts border with Sudan in bid to stop conflict spreading",
+      "url": "https://www.bbc.com/news/articles/cm2x1n95z5vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T14:01:53.000Z",
+      "description": "A Chadian government spokesperson says the decision is aimed at protecting citizens.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "TD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "チャド、紛争拡大阻止のためスーダンとの国境を閉鎖",
+      "summary": "チャド政府は、紛争の拡大を防ぎ国民を保護するため、スーダンとの国境を閉鎖する決定を下した。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e74859c29b51f29affd969196e677eb",
+      "title": "Nigeria confronts growing climate risks with rising droughts, heatwaves, and flooding",
+      "url": "https://globalvoices.org/2026/02/17/nigeria-confronts-growing-climate-risks-with-rising-droughts-heatwaves-and-flooding",
+      "published_at": "2026-02-17T12:00:34.000Z",
+      "description": "In 2022, Nigeria was the third-highest country in internal displacement in Africa, primarily caused by conflict and flood, a climate change induced disaster.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ナイジェリアが干ばつ、熱波、洪水増加に伴う気候リスク増大に直面",
+      "summary": "ナイジェリアは干ばつ、熱波、洪水といった気候変動による災害リスクが増大している。2022年には国内避難民がアフリカで3番目に多かった。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "cf55e3e4769fd41e673569ad1b9e8813",
+      "title": "Rare prison sentences handed to Cameroon soldiers after killing of 21 civilians",
+      "url": "https://www.bbc.com/news/articles/cev74dywd7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T13:44:30.000Z",
+      "description": "In a rare occurence, three soldiers were handed jail terms for killings in the troubled Anglophone region.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "カメルーン兵、民間人21人殺害で異例の禁固刑",
+      "summary": "カメルーンの不安定な英語圏地域での民間人21人殺害に対し、3人の兵士に異例の禁固刑が言い渡された。"
+    }
+  },
+  "TN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "94da6039e696da72bae854cdd226f39a",
+      "title": "Tunisian MP jailed for eight months over posts mocking president",
+      "url": "https://www.bbc.com/news/articles/c3v75lvgy36o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T11:35:53.000Z",
+      "description": "The MP was arrested this month after mocking the president's handling of the recent floods in the country.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "TN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "チュニジアの国会議員、大統領を揶揄する投稿で8か月の禁固刑",
+      "summary": "チュニジアの国会議員が、最近の洪水に対する大統領の対応を揶揄する投稿をしたとして逮捕され、8か月の禁固刑を言い渡された。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e6a71cac43d39852e23c313b72af7db0",
+      "title": "The two farms in Senegal that supply many of the UK's vegetables",
+      "url": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T00:16:54.000Z",
+      "description": "During winter in Britain fresh produce is sent by cargo ship from the West African nation every week.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 50,
+      "titleJa": "英国の野菜の多くを供給するセネガルの2つの農場",
+      "summary": "英国の冬の間、西アフリカのセネガルにある2つの農場から、毎週貨物船で新鮮な農産物が英国へ送られている。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "59d99417831f3f92a87fa136aac2cf61",
+      "title": "A simple guide to the crisis in South Sudan",
+      "url": "https://www.bbc.com/news/articles/c7933p4xe7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-11T12:34:52.000Z",
+      "description": "The political rift that could spiral into conflict again after the vice-president was accused of treason.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "南スーダン危機への簡単なガイド",
+      "summary": "副大統領が反逆罪で告発された後、再び紛争に発展する可能性のある政治的亀裂について解説。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "02cd04793b3858838c18846deb2ef93a",
+      "title": "Women politicians face tech-facilitated violence in Uganda’s 2026 elections",
+      "url": "https://globalvoices.org/2026/02/16/women-politicians-face-tech-facilitated-violence-in-ugandas-2026-elections",
+      "published_at": "2026-02-16T06:00:01.000Z",
+      "description": "Ideally, the law that is supposed to protect women online is the Computer Misuse Act 2011, but it has instead been used to attack feminist dissenters.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ウガンダの2026年選挙で女性政治家がテクノロジーを悪用した暴力に直面",
+      "summary": "ウガンダでは2026年の選挙に向けて、女性政治家がオンラインでの暴力にさらされている。本来保護すべき法律がフェミニスト攻撃に利用されている。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "042e17759a02f303325bbd2475720073",
+      "title": "Burundi tea plantations hamper chimpanzee protection",
+      "url": "https://globalvoices.org/2026/02/14/burundi-tea-plantations-hamper-chimpanzee-protection",
+      "published_at": "2026-02-14T12:00:10.000Z",
+      "description": "In Burundi, tea production hampers the protection of endangered species, such as chimpanzees.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BI",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 55,
+      "titleJa": "ブルンジの茶畑がチンパンジー保護を阻害",
+      "summary": "ブルンジでは、茶の生産が絶滅危惧種であるチンパンジーの保護活動を妨げている。"
+    }
+  },
+  "ML": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aa996738d6548fd5c48cb4863126a927",
+      "title": "Women and young girls bear the brunt of Mali’s worsening security crisis",
+      "url": "https://globalvoices.org/2026/02/11/women-and-young-girls-bear-the-brunt-of-malis-worsening-security-crisis",
+      "published_at": "2026-02-11T04:57:56.000Z",
+      "description": "Since 2012, Mali has been in security turmoil with the emergence and expansion of several radical non-State armed groups. This situation disproportionately affects the civilian population, especially women and girls.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "マリの悪化する治安危機で女性と少女が最も大きな被害を受ける",
+      "summary": "マリでは2012年以来の治安危機が深刻化し、特に女性と少女がその影響を不均衡に受けている。武装集団の活動が拡大している。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dee668b368b962987bf0b9c28f78e70f",
+      "title": "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies",
+      "url": "https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies",
+      "published_at": "2026-01-29T18:00:39.000Z",
+      "description": "Kolwezi in the Lualaba Province of the southeastern Democratic Republic of Congo (DRC), where tensions are high between artisanal miners and industrial companies, holds 70 percent of the world’s cobalt reserves.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "世界のコバルトの首都であるDRCで、零細採掘者と工業採掘企業の間の緊張が高まる",
+      "summary": "世界のコバルト埋蔵量の70%を占めるコンゴ民主共和国で、零細採掘者と工業採掘企業の間に高い緊張が見られる。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "614ce030fc32f791b8000ab572c840d0",
+      "title": "Morocco, AFCON, and the controversies that trailed Africa’s biggest football event",
+      "url": "https://globalvoices.org/2026/01/26/morocco-afcon-and-the-controversies-that-trailed-africas-biggest-football-event",
+      "published_at": "2026-01-26T18:00:06.000Z",
+      "description": "“This isn’t ‘passion,’ it’s medieval conduct wearing a modern jersey, enabled by CAF.”",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "モロッコ、AFCON、そしてアフリカ最大のサッカーイベントを巡る論争",
+      "summary": "アフリカ最大のサッカーイベントであるAFCONを巡り、モロッコで発生した論争や行為について批判的な意見が上がっている。"
+    }
+  },
+  "AT": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "348b6f114a6ccbfc8287ba7cbfeaf43a",
+      "title": "Avalanches kill five in Austrian Alps, officials say",
+      "url": "https://www.bbc.com/news/articles/c5yqgz2q58lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T08:46:40.000Z",
+      "description": "A man skiing with his son was among the victims on Friday, bringing the region's avalanche death toll this season to at least 21.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "オーストリアアルプスで雪崩により5人が死亡と当局発表",
+      "summary": "オーストリアアルプスで発生した雪崩により5人が死亡。今シーズンの雪崩による死者数は少なくとも21人に達した。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c5508c06d45d26ae4a6d1a005526d97d",
+      "title": "Six races, six golds - Klaebo's historic Olympics",
+      "url": "https://www.bbc.com/sport/articles/cx2dj8dd95jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T13:35:33.000Z",
+      "description": "Johannes Hoesflot Klaebo, Norway's king of cross-country skiing, breaks the record for the most gold medals won at a single Winter Olympics with his sixth of the Games.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "6レース6金メダル – クレーボ選手の歴史的オリンピック",
+      "summary": "ノルウェーのクロスカントリースキー王者ヨハネス・ヘスフロト・クレーボ選手が、冬季オリンピック史上最多となる6個の金メダルを獲得し、記録を更新した。"
+    }
+  },
+  "FR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "89026daea56758a65cffed740bf4a756",
+      "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
+      "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T18:11:22.000Z",
+      "description": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc Mélenchon is being widely condemned.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "民族主義の学生殺害でフランス極左が選挙を前に窮地に",
+      "summary": "民族主義の学生クエンティン・デランク氏殺害で極左過激派が関与疑い。ジャン＝リュック・メランション氏の党が選挙を前に非難され窮地に。"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ff333cc15c1af9d172cba5b57b56d769",
+      "title": "Italian toddler dies after transplant with heart 'burned by frostbite'",
+      "url": "https://www.bbc.com/news/articles/ceqvgedennpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-21T16:01:45.000Z",
+      "description": "The heart given to two-year-old Domenico was reportedly severely damaged during its transfer to hospital.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "イタリアの幼児、凍傷で「焼けた」心臓移植後に死亡",
+      "summary": "2歳のイタリア人幼児が、病院への移送中にひどく損傷した「凍傷を負った」心臓を移植され、その後死亡した。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "63de1f33ee1f33c3b7875389eac7640d",
+      "title": "Fifteen killed after helicopter crashes during Peru flood rescue",
+      "url": "https://www.bbc.com/news/articles/c5yjpv28g5ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T18:05:36.000Z",
+      "description": "The military helicopter was supporting search and rescue operations in the Arequipa region on Sunday.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "ペルーの洪水救助中にヘリコプター墜落、15人死亡",
+      "summary": "ペルーのアレキパ地域で、洪水救助活動を支援していた軍用ヘリコプターが墜落し、15人が死亡した。この悲劇により、救助活動に大きな支障が出ている。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d9d4f9616c9a2b51ce91ddfba5cbfd6a",
+      "title": "‘Clean up your culture’: a TV host’s comment makes Indigenous Brazilians speak up",
+      "url": "https://globalvoices.org/2025/12/20/clean-up-your-culture-a-tv-hosts-comment-makes-indigenous-brazilians-speak-up",
+      "published_at": "2025-12-20T06:00:52.000Z",
+      "description": "“Access to technology should be a guaranteed right to the all Brazilian citizens. To have a cell phone doesn't make (anyone) less Indigenous.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "「文化をきれいにしろ」：テレビ司会者の発言がブラジル先住民に声を上げさせる",
+      "summary": "テレビ司会者の発言がブラジルの先住民の反発を招いた。「携帯電話を持つことが先住民性を損なうものではない」と彼らは主張している。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c219ea4eeca6a8c351663d0fb38ab20e",
+      "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
+      "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-18T17:40:56.000Z",
+      "description": "Spanish football expert Guillem Balague details how Vincius Jr has become a global symbol of resistance against discrimination.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 72,
+      "titleJa": "ヴィニシウス：レアル・マドリードでの8年間、20件の差別疑惑",
+      "summary": "レアル・マドリードの選手ヴィニシウス・ジュニアは、8年間で20件もの人種差別疑惑に直面。彼は差別に抵抗する世界的な象徴となっている。"
+    }
+  },
+  "TT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9b0f589861043e0ea48f5c4d38e4fcd4",
+      "title": "Trinidad & Tobago seal 'operation don't finish last'",
+      "url": "https://www.bbc.com/sport/articles/cedzlee6j9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-17T22:09:42.000Z",
+      "description": "Trinidad and Tobago's bobsleigh team say it is \"mission accomplished\" in their 'operation don't come last' as they finished 25th out of 26 in the Olympic two-man event.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "TT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 45,
+      "titleJa": "トリニダード・トバゴ、「最下位にならない作戦」を達成",
+      "summary": "トリニダード・トバゴのボブスレーチームが、オリンピック2人乗り種目で26チーム中25位となり、「最下位にならない作戦」を達成したと表明した。"
+    }
+  },
+  "AR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "36b2c97cee623e0660fa2263403e13d3",
+      "title": "How the series ‘The Eternaut’ revived searches for the disappeared in Argentina",
+      "url": "https://globalvoices.org/2026/02/22/how-the-series-the-eternaut-revived-searches-for-the-disappeared-in-argentina",
+      "published_at": "2026-02-22T06:00:34.000Z",
+      "description": "The family of Héctor Germán Oesterheld, author of the comic strip behind the series, lost nine members to the dictatorship: Oesterheld himself, his four daughters, two sons-in-law and two grandchildren.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "「エテルナウト」シリーズがアルゼンチンにおける行方不明者の捜索をどのように再活性化させたか",
+      "summary": "アルゼンチンの漫画シリーズ「エテルナウト」が、軍事独裁政権下で失踪した人々の捜索を再燃させた経緯を解説。作者の家族も犠牲となるなど、社会的な影響の大きさが強調されている。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3785b4bb0ca09a8f0161f12c51fc6faa",
+      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
+      "url": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits",
+      "published_at": "2025-12-19T05:00:27.000Z",
+      "description": "Non-compliance with Technical Minimum Power, causing a greater injection of fossil-fuel-generated energy into the grid, violates Dominican legislation and hinders climate commitments, especially when renewable energy companies’ production remains restricted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 78,
+      "titleJa": "ドミニカ共和国、化石燃料火力発電所が法的制限を超えて稼働する中、再生可能エネルギーを浪費",
+      "summary": "ドミニカ共和国では、再生可能エネルギーが浪費され、化石燃料火力発電所が法的制限を超えて稼働。これにより送電網への化石燃料発電が増え、気候変動対策が阻害されている。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b97f531cd12a12f6406d6211dfc0d743",
+      "title": "How South Korea's democracy rallied after the president tried to impose military rule",
+      "url": "https://www.bbc.com/news/articles/cwygnw91wl0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-22T23:57:01.000Z",
+      "description": "Yoon Suk Yeol's life sentence for insurrection \"offers a rare example of democratic resilience\", experts say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "大統領が軍事統治を試みた後、韓国の民主主義はいかにして立て直されたか",
+      "summary": "韓国で大統領が軍事統治を試みた後、尹錫悦（ユン・ソンニョル）に対する終身刑が下され、民主主義の回復力の稀有な例と評価されている。"
+    }
+  },
+  "TH": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5a4e11a7b2de35b861649f5d6f32dd0a",
+      "title": "Asos co-founder dies after Thailand apartment block fall",
+      "url": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T14:35:49.000Z",
+      "description": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "Asos共同創業者、タイのマンションから転落死",
+      "summary": "ファッション通販サイトAsosの共同創業者クエンティン・グリフィス氏がタイのマンションからの転落により死去。著名な実業家の突然の死に悲しみが広がっている。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b8c95dae182c3e4223882e76bc61c1de",
+      "title": "Mystery donor gives Japanese city $3.6m in gold bars to fix water system",
+      "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-20T02:55:04.000Z",
+      "description": "Osaka's mayor says he is 'lost for words' and that he has 'nothing but appreciation' for the gesture.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "日本の都市に謎の寄付者から水システム改修のため360万ドルの金塊",
+      "summary": "大阪市に謎の寄付者から水システム改修費用として360万ドル相当の金塊が贈られた。市長は前例のない善意に深く感謝している。"
+    }
+  },
+  "IN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f1f188645acf80c928e1dbc9148e8ff4",
+      "title": "How budget fast fashion is taking small-town India by storm",
+      "url": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-23T00:40:05.000Z",
+      "description": "More Indians in small towns are now shopping for affordable brands instead of unlabelled goods in the bazaars.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "安価なファストファッションがインドの小都市を席巻している背景",
+      "summary": "インドの小都市で、より多くの人々が安価なブランド品を購入するようになり、無印商品から手頃な価格のファストファッションへの消費習慣の変化が見られる。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "624c8a07e9dc62e82cfa1c5d65ce3d10",
+      "title": "The Chinese AI app sending Hollywood into a panic",
+      "url": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T23:08:29.000Z",
+      "description": "Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 70,
+      "titleJa": "ハリウッドをパニックに陥れている中国のAIアプリ",
+      "summary": "中国のAIアプリがデッドプールなどの映画キャラクターのクリップを生成し、ハリウッドで著作権侵害への懸念とパニックを引き起こしている。"
+    }
+  }
+}
