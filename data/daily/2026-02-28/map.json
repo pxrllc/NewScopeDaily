@@ -1,0 +1,842 @@
+{
+  "IT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "385a08d8824579fbc77ddc86624a3a5a",
+      "title": "Tram derails in Milan, leaving two dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T19:03:10.000Z",
+      "description": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "ミラノで路面電車が脱線、2人死亡、数十人負傷",
+      "summary": "ミラノ中心部でラッシュアワー中に路面電車が脱線し建物に衝突。2人が死亡し、数十人が負傷した。"
+    }
+  },
+  "PK": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "73e1588625864db9c3bfd806b8896947",
+      "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
+      "url": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T13:19:18.000Z",
+      "description": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PK",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "パキスタン国防相、攻撃後アフガニスタンと「全面戦争」状態にあると発言",
+      "summary": "パキスタン国防相は、度重なる攻撃を受け、アフガニスタンと「全面戦争」状態にあると述べた。"
+    }
+  },
+  "CU": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b5517043d748a1d36b23c51304801494",
+      "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
+      "url": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T12:46:26.000Z",
+      "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "なぜトランプがキューバ革命にとって過去最大の脅威となるのか",
+      "summary": "トランプ氏の政策が、内部危機を悪化させ、キューバ革命が内部から崩壊する状況を生み出す可能性について考察。"
+    }
+  },
+  "US": {
+    "count": 9,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a8fdb8227eceb5399918d1ada76b2109",
+      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+      "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T18:45:41.000Z",
+      "description": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "トランプ大統領、イランとの核協議後「感心しない」と発言",
+      "summary": "トランプ大統領は、イランとの核プログラム協議の結果に不満を表明したが、攻撃の決定には至っていないと述べた。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "33efd11d5d373ae3766856bbe701bd44",
+      "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+      "url": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T15:29:37.000Z",
+      "description": "Sweden's prime minister said it was a serious but not expected incident - and a \"Russian way of acting that we recognise from other places\".",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "フランス空母付近で妨害されたドローンはロシア製か、スウェーデンが指摘",
+      "summary": "フランス空母付近でドローンが妨害された事件について、スウェーデン首相はロシア製である可能性が高いと述べた。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b02e3ba28a419fe237e48b5bd3284b4e",
+      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "url": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T16:15:30.000Z",
+      "description": "The tech firm has been criticised for not reporting the suspect's ChatGPT account to police despite it being flagged internally due to concerns over content.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "OpenAI、タンブラーリッジ銃撃事件を受け安全ポリシー変更を誓約",
+      "summary": "タンブラーリッジでの銃撃事件後、OpenAIは容疑者のChatGPTアカウントに関する内部警告を警察に報告しなかったと批判され、安全ポリシーの変更を約束した。"
+    }
+  },
+  "GH": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6c28e2462c26cf53a40c684220a99f03",
+      "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+      "url": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T16:13:13.000Z",
+      "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "GH",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ロシア・ウクライナ戦争で少なくとも55人のガーナ人が死亡、大臣が発表",
+      "summary": "ロシア・ウクライナ戦争において、ガーナ出身者少なくとも55人が死亡したと大臣が発表。これは単一のアフリカ諸国からの最多死者数。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b7a9dffb87a557f58ff86b1c5e9a842b",
+      "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
+      "url": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T06:02:12.000Z",
+      "description": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "MA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "エプスタイン、2019年の逮捕数日前にモロッコで宮殿購入を試みる",
+      "summary": "不名誉な金融業者エプスタインが2019年の逮捕数日前にモロッコで豪華な邸宅購入を交渉していたが、取引は完了しなかった。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08b64f46a99a61d91836cd92fc2fb83e",
+      "title": "Did Germany's Merz pull off business balancing act in China?",
+      "url": "https://www.dw.com/en/did-germany-s-merz-pull-off-business-balancing-act-in-china/a-76151732?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-27T13:12:00.000Z",
+      "description": "Despite the cordial outcome of Chancellor Merz's business trip to Germany's largest trading partner and primary economic rival, a massive trade deficit and Chinese overcapacity remain key concerns.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "ドイツのメルツ首相、中国でのビジネス綱渡りを成功させたか？",
+      "summary": "メルツ首相の中国訪問は友好的な結果に終わったが、ドイツ最大の貿易相手国である中国との貿易赤字と中国の過剰生産能力が依然として懸念事項だ。"
+    }
+  },
+  "ET": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9670721d99913a7216f4c3c49b0b11dc",
+      "title": "Is Ethiopia heading back to war in Tigray?",
+      "url": "https://www.bbc.com/news/articles/cwygrnjz9wro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T12:39:00.000Z",
+      "description": "Many people are again leaving the region of Tigray just over three years after the civil war there ended.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "エチオピアはティグレで再び戦争に向かっているのか？",
+      "summary": "ティグレ内戦終結から3年余り、多くの人々が再びこの地域を離れており、エチオピアがティグレで再び戦争に突入する可能性が懸念されている。"
+    }
+  },
+  "TR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "356789be7b129d2ff540434c377c07b2",
+      "title": "Turkey's Ramadan directive reignites secularism debate",
+      "url": "https://www.dw.com/en/turkey-s-ramadan-directive-reignites-secularism-debate/a-76106615?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-02-27T10:35:00.000Z",
+      "description": "A new directive encourages Ramadan-themed events and mosque visits in Turkish schools. Critics warn it pressures students and challenges secular principles, while the government says participation is voluntary.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "TR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "トルコのラマダン指令が世俗主義論争を再燃させる",
+      "summary": "トルコ政府がラマダン関連行事やモスク訪問を学校で奨励する新指令を出し、批判派は生徒への圧力と世俗主義原則への挑戦だと警告。政府は自主参加を強調している。"
+    }
+  },
+  "UG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ff0a913202458397102bff628b3a7ec7",
+      "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
+      "url": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
+      "published_at": "2026-02-26T08:00:23.000Z",
+      "description": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists\nTwo women have been arrested and detained in Uganda after allegedly kissing in public, an act of “same-sex activity” which can lead to a life sentence in the east African country..\nWendy Faith, a 22-year-old musician known as Torrero Bae, and Alesi Diana Denise, 21, were taken into custody after police raided their rented room in Uganda’s north-west Arua City last week.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "UG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ウガンダで公共の場でキスしたとして女性2人が逮捕、終身刑の可能性も",
+      "summary": "ウガンダで公共の場でキスしたとして女性2人が逮捕された。同国の法律では同性愛行為が終身刑に処される可能性がある。"
+    }
+  },
+  "ZM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "69071fde9a1b81a1b20822a01a2f0163",
+      "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
+      "url": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
+      "published_at": "2026-02-25T13:00:36.000Z",
+      "description": "Leaked draft of $1bn memorandum of understanding reveals mandatory targets, sharing of data, and reported access to mining concessions\nThe US has been accused of “shameless exploitation” over a health financing agreement with Zambia worth more than $1bn (£740m), amid warnings that the country is getting a raw deal from the Trump administration.\nA leaked draft of a five-year memorandum of understanding (MOU) between the two countries, seen by the Guardian, reveals that Zambia may accept terms worse than health financing agreements the US has reached with 16 other African countries.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ZM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "米国、ザンビアとの保健援助取引案で「恥知らずな搾取」と非難される",
+      "summary": "米国とザンビアの10億ドル超の保健融資協定案が、データ共有や鉱山採掘権へのアクセス要求で「恥知らずな搾取」と非難されている。"
+    }
+  },
+  "AR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "36b2c97cee623e0660fa2263403e13d3",
+      "title": "How the series ‘The Eternaut’ revived searches for the disappeared in Argentina",
+      "url": "https://globalvoices.org/2026/02/22/how-the-series-the-eternaut-revived-searches-for-the-disappeared-in-argentina",
+      "published_at": "2026-02-22T06:00:34.000Z",
+      "description": "The family of Héctor Germán Oesterheld, author of the comic strip behind the series, lost nine members to the dictatorship: Oesterheld himself, his four daughters, two sons-in-law and two grandchildren.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "シリーズ『エテルナウト』がいかにアルゼンチンで行方不明者の捜索を再燃させたか",
+      "summary": "アルゼンチンの独裁政権下で行方不明となった人々、特に漫画「エテルナウト」の作者の家族の捜索が、同シリーズを通じて再び注目されている。"
+    }
+  },
+  "BR": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f9ebfa7b85fa669badca4e91701d07ae",
+      "title": "Floods and landslides in Brazil kill at least 25",
+      "url": "https://www.bbc.com/news/articles/c70k7vjllzeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T22:25:54.000Z",
+      "description": "Hundreds of people have been displaced and dozens are missing, with rescue operations still ongoing in Juiz de Fora.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 92,
+      "titleJa": "ブラジルでの洪水と地滑りにより少なくとも25人死亡",
+      "summary": "ブラジルで洪水と地滑りが発生し、少なくとも25人が死亡、数百人が避難し、数十人が行方不明。フイス・デ・フォーラでは救助活動が継続中。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "44c5b6dc5cba632646f1f6e97c92defd",
+      "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
+      "url": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss",
+      "published_at": "2026-02-27T18:49:49.000Z",
+      "description": "The Supreme Court ruling comes after Israel said it would ban 37 aid groups from Gaza for failing to follow new rules.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "イスラエル最高裁、ガザでの活動禁止に直面する援助団体に活動継続を許可",
+      "summary": "イスラエル最高裁は、新たな規則に従わなかったとして活動禁止とされていたガザの37の援助団体に対し、活動継続を認める判決を下した。人道支援に影響する重要な決定。"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "10017d6bc2878dd1a73d254af717ccb4",
+      "title": "Nomadic art haven opens in Qatar’s desert",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/nomadic-art-haven-opens-in-qatars-desert?traffic_source=rss",
+      "published_at": "2026-02-27T18:35:15.000Z",
+      "description": "A new art exhibition in a tent in the middle of the Qatari desert offers visitors a new way to experience creativity.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "QA",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 40,
+      "titleJa": "カタールの砂漠に遊牧民のアートの聖地がオープン",
+      "summary": "カタールの砂漠の真ん中に新しいテント式アート展がオープンし、来場者に創造性を体験する新たな機会を提供している。地元の文化イベント。"
+    }
+  },
+  "AF": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f9230010deeb9d9a611a24c4bc1bf252",
+      "title": "Residents describe panic as Pakistan attacks Afghanistan in ‘open war’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/residents-describe-panic-as-pakistan-attacks-afghanistan-in-open?traffic_source=rss",
+      "published_at": "2026-02-27T18:00:05.000Z",
+      "description": "Residents of Kabul, Afghanistan are cleaning up broken glass and describing how they tried to run to safety.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "AF",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "パキスタンがアフガニスタンを「全面戦争」で攻撃、住民はパニックを語る",
+      "summary": "パキスタンによるアフガニスタン攻撃で、カブールの住民は避難し、壊れたガラスの片付けに追われている。武力衝突による民間人の被害と混乱が報じられている。"
+    }
+  },
+  "IN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8c88be7f9365a0c3382904458cc36db5",
+      "title": "Canada’s PM Carney in India to reset ties and bolster trade",
+      "url": "https://www.aljazeera.com/news/2026/2/27/canadas-pm-carney-in-india-to-bolster-trade-and-mend-ties?traffic_source=rss",
+      "published_at": "2026-02-27T17:41:39.000Z",
+      "description": "India's foreign ministry says the visit marks a \"significant step\" in strengthening ties.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "カナダのカーニー首相、インドを訪問し関係再構築と貿易強化へ",
+      "summary": "カナダのカーニー首相がインドを訪問し、両国関係の再構築と貿易強化を目指す。インド外務省は、関係強化に向けた「重要な一歩」と述べている。"
+    }
+  },
+  "IR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5a52c04f9e9943eb30d36889ce2a67cf",
+      "title": "Iran says US must drop ‘excessive demands’ in nuclear negotiations",
+      "url": "https://www.aljazeera.com/news/2026/2/27/iran-says-us-must-drop-excessive-demands-in-nuclear-negotiations?traffic_source=rss",
+      "published_at": "2026-02-27T16:31:16.000Z",
+      "description": "Iranian foreign minister emphasizes seriousness and realism as key to successful negotiations with the United States.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "イラン、米国は核交渉で「過度な要求」を取り下げるべきだと主張",
+      "summary": "イラン外相は、米国との核交渉を成功させるには真剣さと現実主義が不可欠だと強調し、米国に「過度な要求」の撤回を求めた。国際的な安全保障に関する重要な外交交渉。"
+    }
+  },
+  "YE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fdf20f41f3cb9e7571680a872b20e364",
+      "title": "'They seized everything': Yemen's Houthi rebels drive aid groups to the brink",
+      "url": "https://www.bbc.com/news/articles/cj4z129dq8vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T09:15:27.000Z",
+      "description": "Aid groups - a lifeline for millions of Yemenis - are being squeezed out of existence in areas under the control of the rebels, the BBC hears.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "「すべてを奪われた」：イエメンのフーシ派反乱軍、援助団体を窮地に追い込む",
+      "summary": "イエメンのフーシ派反乱軍が支配する地域で、数百万人の命綱である援助団体が活動を追いやられ、存続の危機に瀕している。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3f082e98c7a0c25002e6729810a423a1",
+      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+      "url": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T06:01:11.000Z",
+      "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "イスラエル兵がパレスチナ人の少年を射殺し、出血死するのを傍観する映像が公開",
+      "summary": "イスラエル軍がパレスチナ人の救急車を阻止する中、14歳の少年が45分以上出血して横たわり、死亡した映像が示された。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "80316d2879c63b5aa5cc2b5adbbe1213",
+      "title": "Lawyers appeal to UN over men jailed in alleged power struggle in UAE",
+      "url": "https://www.bbc.com/news/articles/cn5gelnelz9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-24T12:56:09.000Z",
+      "description": "The son of one tells the BBC how 11 years spent in prison has taken a toll on his father's health.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "AE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "アラブ首長国連邦の権力闘争で投獄された男性たちをめぐり、弁護士が国連に上訴",
+      "summary": "アラブ首長国連邦で権力闘争により投獄された男性たちについて、弁護士が国連に上訴。家族は健康への影響を訴えている。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "27d5adb3867fc5151ff126e40680033f",
+      "title": "Girl, 14, shot dead as South Africa's 'taxi wars' hit school",
+      "url": "https://www.bbc.com/news/articles/c62gz17999eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T14:11:01.000Z",
+      "description": "Violence has plagued South Africa's highly competitive and lucrative taxi industry for decades.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "南アフリカの「タクシー戦争」が学校を襲い、14歳の少女が射殺される",
+      "summary": "南アフリカで長年続く「タクシー戦争」と呼ばれる暴力が学校に波及し、14歳の少女が射殺された。この暴力は数十年にわたり、同国の競争の激しいタクシー業界を悩ませている。"
+    }
+  },
+  "NG": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6c1947fe749168783a0a9fae792795f6",
+      "title": "Nearly 200 people massacred by gunmen in Kaiama LGA, Nigeria",
+      "url": "https://globalvoices.org/2026/02/24/nearly-200-people-massacred-by-gunmen-in-kaiama-lga-nigeria",
+      "published_at": "2026-02-24T04:00:41.000Z",
+      "description": "Security experts and human rights organizations have linked the cause of the attacks to porous borders, reactive security approach, and spillover of extremist groups.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ナイジェリアのカイアマLGAで銃撃犯により約200人が虐殺される",
+      "summary": "ナイジェリアのカイアマ地方政府区域で銃撃犯により約200人が殺害された。攻撃の原因は国境の警備の甘さや過激派の流入と指摘されている。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "222816a547ada113ac778b23b7de72a1",
+      "title": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
+      "url": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-25T00:43:00.000Z",
+      "description": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ドローンがスーダンの金・石油地帯を攻撃 — 決定的な新たな前線",
+      "summary": "スーダンのコルドファン地域でドローンによる攻撃が激化し、多数の死傷者が出ている。和平が遠い中、金と石油の地帯が紛争の新たな重要な前線となっている。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e4649069cb83450e70e0f024b31431de",
+      "title": "How Zimbabwe returned from abyss to World Cup resurgence",
+      "url": "https://www.bbc.com/sport/cricket/articles/cjrq1yl02v5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-25T09:45:31.000Z",
+      "description": "After a long time in the wilderness, Zimbabwe are again contending on the biggest stage at the 2026 T20 World Cup - this is the story of their resurgence.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "ジンバブエ、どん底からワールドカップ復活を遂げた経緯",
+      "summary": "長らく低迷していたジンバブエが、2026年T20ワールドカップで再び大舞台に挑戦。これは彼らの復活の物語である。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e6a71cac43d39852e23c313b72af7db0",
+      "title": "The two farms in Senegal that supply many of the UK's vegetables",
+      "url": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-19T00:16:54.000Z",
+      "description": "During winter in Britain fresh produce is sent by cargo ship from the West African nation every week.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "イギリスの野菜の多くを供給するセネガルの2つの農場",
+      "summary": "イギリスの冬の間、新鮮な農産物は西アフリカのセネガルにある2つの農場から毎週貨物船で送られている。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7b9174db04f473bd89cf6e43ee0d192c",
+      "title": "Kenyans drop flowers for Valentine's bouquets of cash. Not everyone is impressed",
+      "url": "https://www.bbc.com/news/articles/cn87g2v73jno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-14T00:02:04.000Z",
+      "description": "Bouquets of cash have been blooming in popularity in Kenya but recent warnings may slow the trend.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "ケニア人、バレンタインの花束を現金の花束に。誰もが感銘を受けているわけではない",
+      "summary": "ケニアではバレンタインデーに花束ではなく現金の束を贈る流行が広まっているが、最近の警告によりその傾向が鈍化する可能性があり、その社会現象と賛否を伝える。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "042e17759a02f303325bbd2475720073",
+      "title": "Burundi tea plantations hamper chimpanzee protection",
+      "url": "https://globalvoices.org/2026/02/14/burundi-tea-plantations-hamper-chimpanzee-protection",
+      "published_at": "2026-02-14T12:00:10.000Z",
+      "description": "In Burundi, tea production hampers the protection of endangered species, such as chimpanzees.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BI",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 60,
+      "titleJa": "ブルンジの茶畑がチンパンジー保護を阻害",
+      "summary": "ブルンジでは、茶の生産がチンパンジーなどの絶滅危惧種の保護を妨げている。経済活動と環境保全のバランスが課題となっている。"
+    }
+  },
+  "ML": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aa996738d6548fd5c48cb4863126a927",
+      "title": "Women and young girls bear the brunt of Mali’s worsening security crisis",
+      "url": "https://globalvoices.org/2026/02/11/women-and-young-girls-bear-the-brunt-of-malis-worsening-security-crisis",
+      "published_at": "2026-02-11T04:57:56.000Z",
+      "description": "Since 2012, Mali has been in security turmoil with the emergence and expansion of several radical non-State armed groups. This situation disproportionately affects the civilian population, especially women and girls.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "マリの悪化する治安危機で女性と少女が最も大きな被害に",
+      "summary": "2012年以来、武装勢力の台頭により治安が混乱するマリでは、女性や少女を含む民間人が特に深刻な影響を受けている。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dee668b368b962987bf0b9c28f78e70f",
+      "title": "Tensions high in DRC, the global cobalt capital, between artisanal miners and industrial mining companies",
+      "url": "https://globalvoices.org/2026/01/29/tensions-high-in-drc-the-global-cobalt-capital-between-artisanal-miners-and-industrial-mining-companies",
+      "published_at": "2026-01-29T18:00:39.000Z",
+      "description": "Kolwezi in the Lualaba Province of the southeastern Democratic Republic of Congo (DRC), where tensions are high between artisanal miners and industrial companies, holds 70 percent of the world’s cobalt reserves.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "世界のコバルト首都DRCで小規模採掘者と産業鉱山会社間の緊張が高まる",
+      "summary": "世界のコバルト埋蔵量の70%を占めるコンゴ民主共和国コルウェジで、小規模採掘者と産業鉱山会社との間で緊張が高まり、資源を巡る社会問題が深刻化している。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "76e245575f4ff892dfb3f22f698b6627",
+      "title": "The AI videos supercharging Russia's online disinformation campaigns",
+      "url": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T07:53:39.000Z",
+      "description": "Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ロシアのオンライン偽情報キャンペーンを加速するAI動画",
+      "summary": "セキュリティ専門家は、AIを活用した動画がロシアのオンライン偽情報キャンペーンを強化しており、西側政府はこれに対抗する準備が不足していると警告している。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "42c30587d804b4e58422a3addba0e18c",
+      "title": "Remains found in Tasmania most likely belong to missing Belgian backpacker ",
+      "url": "https://www.bbc.com/news/articles/cgqgl88w155o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T23:33:49.000Z",
+      "description": "Celine Cremer, 31, disappeared after going on a hike in a rainforest in June 2023.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "タスマニアで発見された遺体、行方不明のベルギー人バックパッカーの可能性が高い",
+      "summary": "2023年6月にレインフォレストでのハイキング後に行方不明になった31歳のベルギー人バックパッカー、セリーヌ・クレマーさんの遺体がタスマニアで発見された可能性が高い。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7b0bcc931a9ebcc5788afab54a67a782",
+      "title": "Russia and Ukraine exchange more than 1,000 soldiers' bodies",
+      "url": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T14:28:35.000Z",
+      "description": "Russia's announcement comes as Ukraine's top negotiator met US peace envoys in Geneva.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ロシアとウクライナが1,000体以上の兵士の遺体を交換",
+      "summary": "ロシアが発表したところによると、ロシアとウクライナが1,000体以上の兵士の遺体を交換した。これはウクライナの首席交渉官がジュネーブで米国の和平特使と会談した最中に行われた。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f03fad8d910a9293a515638e00c1f1ad",
+      "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
+      "url": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T17:45:33.000Z",
+      "description": "Arrivals at the Rock's airport would have to show their passport twice under a new UK-EU treaty.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "スペイン、ブレグジット後の協定に基づきジブラルタル到着者を検査へ",
+      "summary": "新しい英EU条約に基づき、ジブラルタル空港への到着者は2回パスポートを提示する必要があり、スペインが検査を行うことになる。"
+    }
+  },
+  "MX": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c9e94dbe2cd30756818693fc7977238b",
+      "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
+      "url": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-25T17:00:49.000Z",
+      "description": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "「恐怖はどこにでもある」：麻薬カルテルの抗争で戦場と化したメキシコの都市からBBCが報告",
+      "summary": "メキシコ北部のクリアカン市がシナロア・カルテル内のライバル派閥の支配権争いにより暴力が激化し、戦場と化しているとBBCが報じた。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3785b4bb0ca09a8f0161f12c51fc6faa",
+      "title": "Dominican Republic wastes renewable energy while fossil fuel thermoelectric plants operate above legal limits",
+      "url": "https://globalvoices.org/2025/12/19/dominican-republic-wastes-renewable-energy-while-fossil-fuel-thermoelectric-plants-operate-above-legal-limits",
+      "published_at": "2025-12-19T05:00:27.000Z",
+      "description": "Non-compliance with Technical Minimum Power, causing a greater injection of fossil-fuel-generated energy into the grid, violates Dominican legislation and hinders climate commitments, especially when renewable energy companies’ production remains restricted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "ドミニカ共和国は再生可能エネルギーを浪費する一方で、化石燃料火力発電所が法的制限を超えて稼働",
+      "summary": "ドミニカ共和国は再生可能エネルギーを浪費し、化石燃料発電所が法的制限を超えて稼働。気候変動対策と国内法規への違反が問題となっている。"
+    }
+  },
+  "VE": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f6a40340d6f0d651f092d9e61fa29f1a",
+      "title": "A new, terrifying sound: A Venezuelan account of the the attack on Caracas",
+      "url": "https://globalvoices.org/2026/01/05/a-new-terrifying-sound",
+      "published_at": "2026-01-05T21:01:15.000Z",
+      "description": "“I thought Venezuelans had already heard every sound the country’s violence had to offer. But this was something new — terrifying in its unfamiliarity.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "新たな、恐ろしい音：カラカス攻撃に関するベネズエラからの報告",
+      "summary": "「ベネズエラ人はあらゆる暴力の音を聞いてきたが、カラカス攻撃は新しく、その異質さが恐ろしい」と市民は語る。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fe687745ed588ec951fc70d075918f96",
+      "title": "Dyson settles forced labour suit in landmark UK case",
+      "url": "https://www.bbc.com/news/articles/cddnry8dnl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T09:44:40.000Z",
+      "description": "Migrant workers alleged they were subjected to abusive treatment in a Malaysian factory for Dyson.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "GB",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ダイソン、強制労働訴訟で和解、英国で画期的な判決",
+      "summary": "ダイソンが、マレーシアの工場で移民労働者への虐待が指摘された強制労働訴訟で和解。英国の画期的な事例となった。"
+    }
+  },
+  "HK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "599ab49f9ae285ffc04b67f593c10ffe",
+      "title": "Hong Kong jailed my dad to stop me speaking out, says activist ",
+      "url": "https://www.bbc.com/news/articles/cly897pv4j9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-26T23:51:23.000Z",
+      "description": "Pro-democracy activist Anna Kwok's father has been jailed for eight months for a national security offence.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "HK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "香港、活動家の父を投獄、発言を封じるためと主張",
+      "summary": "民主化活動家アンナ・クォック氏は、香港で国家安全保障法違反により父が8ヶ月間投獄され、自身の発言を封じ込めるためだと訴える。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "813c5ce327513ef713d8f02c286662aa",
+      "title": "China removes nine military officials ahead of key political meeting ",
+      "url": "https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-02-27T04:29:01.000Z",
+      "description": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "中国、主要政治会議を前に軍高官9人を解任",
+      "summary": "中国は、主要な「両会」を控えて軍高官9人を解任した。公式な理由は明らかにされていないが、政治的変動を示唆している。"
+    }
+  }
+}
