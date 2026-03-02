@@ -19,6 +19,12 @@ function appendLog(message: string) {
 }
 
 async function main() {
+    // Fail fast after 10 minutes to prevent GitHub Action hanging
+    const globalTimeout = setTimeout(() => {
+        console.error("CRITICAL: Global timeout of 10 minutes reached. Forcing exit.");
+        process.exit(1);
+    }, 10 * 60 * 1000);
+
     const startTime = new Date();
     // Use JST for logging display (approximate by adding 9 hours if local is UTC, or just use ISO)
     // For simplicity, using simple local string or ISO.
@@ -171,6 +177,8 @@ async function main() {
         const endTimestamp = endTime.toISOString().replace('T', ' ').substring(0, 19);
         appendLog(`${endTimestamp} END`);
         appendLog(''); // Empty line
+
+        clearTimeout(globalTimeout);
     }
 }
 

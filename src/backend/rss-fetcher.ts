@@ -4,7 +4,9 @@ import * as path from 'path';
 import * as crypto from 'crypto';
 import { Article } from './types';
 
-const parser = new Parser();
+const parser = new Parser({
+    timeout: 15000 // 15 seconds timeout
+});
 
 export class RssFetcher {
     private opmlPath: string;
