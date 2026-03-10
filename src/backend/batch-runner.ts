@@ -171,7 +171,13 @@ async function main() {
         const endTimestamp = endTime.toISOString().replace('T', ' ').substring(0, 19);
         appendLog(`${endTimestamp} END`);
         appendLog(''); // Empty line
+
+        // Ensure process exits promptly (especially in CI environments)
+        process.exit(0);
     }
 }
 
-main().catch(err => console.error(err));
+main().catch(err => {
+    console.error(err);
+    process.exit(1);
+});

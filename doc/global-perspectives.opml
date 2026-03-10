@@ -31,7 +31,7 @@
       <!-- Euronews World (欧州・世界) -->
       <outline text="Euronews – World"
         type="rss"
-        xmlUrl="https://www.euronews.com/rss?level=theme&name=world"
+        xmlUrl="https://www.euronews.com/rss"
         htmlUrl="https://www.euronews.com/"/>
 
     </outline>
