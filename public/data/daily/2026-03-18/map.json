@@ -1,0 +1,902 @@
+{
+  "US": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4ee6d7ac5b16f022ea05589bc9ebe5e9",
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T16:43:34.000Z",
+      "description": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "米国のテロ対策トップ、イラン戦争を巡り辞任、トランプ氏に「方針転換」を促す",
+      "summary": "米国の対テロセンター長がイラン戦争を巡り辞任し、トランプ大統領に戦争方針の転換を求めた。イスラエルやロビー団体の圧力で戦争が始まったと述べている。"
+    }
+  },
+  "AF": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9bc1be4857565c1232a3e24c46f4c152",
+      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+      "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T18:45:54.000Z",
+      "description": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AF",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "カブールのリハビリ施設が空爆され、患者らが夕食中に被弾したと生存者がBBCに語る",
+      "summary": "カブールのリハビリ施設がパキスタン軍の空爆を受け、患者らが夕食中に犠牲になったと生存者が証言。死者数は数百人に上ると懸念されている。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2e903400d5f7a9f0309020bf52c34a04",
+      "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
+      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T19:07:04.000Z",
+      "description": "The deaths of Larijani and the head of the paramilitary Basij force have not been confirmed by Iranian authorities.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "イスラエル、空爆でイラン治安トップのアリ・ラリジャニ氏を殺害と発表",
+      "summary": "イスラエルが空爆でイランの治安部門トップであるアリ・ラリジャニ氏を殺害したと発表。イラン当局は彼の死を確認していない。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b2466cdd46a4db5ee64d33bf8a7176c5",
+      "title": "Chile's president begins building border barrier less than week into term",
+      "url": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T15:49:46.000Z",
+      "description": "José Antonio Kast visited the ditch - a few feet wide and deep - on Monday, calling it a \"milestone\".",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "チリ大統領、就任1週間足らずで国境障壁の建設を開始",
+      "summary": "チリのホセ・アントニオ・カスト大統領が、就任後1週間足らずで国境の溝の建設を開始し、これを「画期的な出来事」と称した。"
+    }
+  },
+  "MD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7f1ea9ef81fa98a13d364980a3cd1f8c",
+      "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T16:10:06.000Z",
+      "description": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "MD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "モルドバで給水停止、ウクライナでのロシア軍攻撃による石油流出が原因か",
+      "summary": "ウクライナでのロシア軍の攻撃による石油流出が原因で、モルドバで給水が停止された。モルドバはドニエストル川流域に15日間の警戒態勢を敷いている。"
+    }
+  },
+  "ZM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b1656524c11675612855c07aebcea4d7",
+      "title": "Aspiring female Zambian politicians were asked for sexual favours, official says  ",
+      "url": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T13:31:08.000Z",
+      "description": "These reports harm attempts to close the wide gender representation gap in Zambia, activists say.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ZM",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "志望するザンビアの女性政治家、性的便宜を要求されると当局者が明かす",
+      "summary": "ザンビアで政治家を目指す女性が性的便宜を求められる事例が報告された。これはジェンダー代表の格差を解消しようとする試みを阻害すると活動家は指摘している。"
+    }
+  },
+  "IR": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1df3550bebda1b1370455d5be928abb6",
+      "title": "War in Iran: Chronically ill fight for survival",
+      "url": "https://www.dw.com/en/war-in-iran-chronically-ill-fight-for-survival/a-76398758?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-17T19:28:00.000Z",
+      "description": "As a consequence of the US-Israeli war against Iran, a new humanitarian crisis is looming. Millions of chronically ill people in Iran are at risk of losing access to medical care.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イランでの戦争：慢性疾患患者が生き残りをかけて闘う",
+      "summary": "米国とイスラエルのイランに対する戦争の結果、新たな人道危機が迫っている。イランでは数百万人の慢性疾患患者が医療を受けられなくなる危険性がある。"
+    }
+  },
+  "CD": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8e4297d8977f78c0448d2dbd09b28fcb",
+      "title": "Belgian diplomat faces trial over 1961 DR Congo leader killing",
+      "url": "https://www.dw.com/en/belgian-diplomat-faces-trial-over-1961-dr-congo-leader-killing/a-76401220?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-17T18:37:00.000Z",
+      "description": "Etienne Davignon, the only surviving suspect, is ordered to stand trial over war crimes tied to Patrice Lumumba's killing six decades ago. The case represents a historic moment in confronting Belgium's colonial past.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CD",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ベルギー外交官、1961年のDRコンゴ指導者殺害で裁判に直面",
+      "summary": "ベルギーの外交官が、60年前のパトリス・ルムンバ殺害に関連する戦争犯罪で裁判を受ける。これはベルギーの植民地時代の過去と向き合う歴史的な瞬間となる。"
+    }
+  },
+  "VA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "19040e2597a28b1ee80a33912adeb868",
+      "title": "Vatican declares partial mistrial in cardinal's fraud case",
+      "url": "https://www.dw.com/en/vatican-declares-partial-mistrial-in-cardinal-s-fraud-case/a-76400048?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-17T17:47:00.000Z",
+      "description": "A Vatican appeals court overturned the conviction in a landmark fraud case involving a senior Catholic cardinal. Angelo Becciu is appealing a five-and-a-half year jail term.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "VA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "バチカン、枢機卿の詐欺事件で一部無効を宣言",
+      "summary": "バチカン控訴裁判所は、上級カトリック枢機卿が関与した詐欺事件での有罪判決を覆した。アンジェロ・ベッチウは5年半の懲役刑を控訴中である。"
+    }
+  },
+  "UA": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7fd09db00ad32b332b0d6d0ba53a9e89",
+      "title": "Iran and Russia are 'brothers in hatred', Zelensky tells MPs",
+      "url": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T18:26:19.000Z",
+      "description": "The president highlights how Tehran is selling drones to Moscow that have been used against Ukraine.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ゼレンスキー大統領、イランとロシアは「憎しみの兄弟」と議員に語る",
+      "summary": "ゼレンスキー大統領は議会で、イランがロシアにウクライナで使用されたドローンを売却していることを挙げ、両国を「憎しみの兄弟」と非難した。"
+    }
+  },
+  "NG": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b05be3971558cafd1c6693f6f7af94c4",
+      "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
+      "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
+      "published_at": "2026-03-17T11:28:01.000Z",
+      "description": "More than 100 others injured in bombings targeting post office, market areas and hospital in Maiduguri\nAt least 23 people have been killed and more than 100 others injured in multiple suspected suicide bombings in the north-eastern Nigerian city of Maiduguri, shattering its reputation as a relative oasis of calm in recent years as a long-running insurgency was pushed to the rural hinterlands.\nAuthorities said the explosions went off at the post office and market areas, as well as the entrance to the University of Maiduguri teaching hospital, on Monday evening during iftar, the breaking of fast in the month of Ramadan.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ナイジェリア北東部で自爆テロとみられる攻撃により少なくとも23人が死亡",
+      "summary": "ナイジェリア北東部のマイヅグリで複数の自爆テロとみられる攻撃があり、少なくとも23人が死亡、100人以上が負傷。比較的平穏だった地域の治安が悪化している。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d62156b3a7bcbee3709dd6729305db14",
+      "title": "Northern Ireland's Gerry Adams tells court he wasn't in IRA",
+      "url": "https://www.dw.com/en/northern-ireland-s-gerry-adams-tells-court-he-wasn-t-in-ira/a-76396742?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-17T15:24:00.000Z",
+      "description": "The former leader of Sinn Fein is accused in London's High Court of being responsible for Irish Republican Army (IRA) attacks in England. But Gerry Adams said he was never a member, instead calling them his \"neighbors.\"",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "北アイルランドのジェリー・アダムス、IRAメンバーではないと法廷で証言",
+      "summary": "シン・フェイン党の元党首ジェリー・アダムスは、ロンドンの高等裁判所でアイルランド共和軍（IRA）によるイングランドでの攻撃の責任を問われているが、自身はメンバーではなかったと証言した。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f14d537dde0460354501212e3c7d101b",
+      "title": "German philosopher and social critic Jürgen Habermas dies at 96",
+      "url": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T18:02:15.000Z",
+      "description": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ドイツの哲学者で社会批評家のユルゲン・ハーバーマス氏が96歳で死去",
+      "summary": "戦後ドイツで最も影響力のある思想家の一人であり、生涯を通じて哲学と政治行動を結びつけたドイツの哲学者ユルゲン・ハーバーマス氏が96歳で死去した。"
+    }
+  },
+  "BR": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b14badb57dc6bef69b3111d134377e7",
+      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+      "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-12T00:05:52.000Z",
+      "description": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "エプスタイン、モデルエージェントを使い少女をリクルート ブラジル人女性がBBCに語る",
+      "summary": "ジェフリー・エプスタインがモデルエージェントを通じて少女たちをリクルートし、米国ビザを手配していたとブラジル人女性らがBBCに証言した。"
+    }
+  },
+  "CU": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2031b253c37182d90b4a06473ad9f362",
+      "title": "Cuba’s electrical grid collapses amid US oil blockade",
+      "url": "https://www.theguardian.com/world/2026/mar/16/cuba-electrical-grid-collapses-amid-us-oil-blockade",
+      "published_at": "2026-03-16T19:41:29.000Z",
+      "description": "Ten million people left without power in latest of outages that sparked violent protest last weekend\nCuba’s national electric grid has collapsed, the country’s grid operator has said, leaving approximately 10 million people without power amid a US-imposed oil blockade that has crippled the island’s already obsolete generation system.\nThe grid operator, UNE, said on social media on Monday that it was investigating the causes of the blackout, the latest in a series of widespread outages that last for hours or days and that last weekend sparked a rare violent protest in the communist-run country.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "キューバの電力網が米国の石油封鎖の中で崩壊",
+      "summary": "キューバの全国電力網が崩壊し、約1000万人が停電に見舞われた。米国の石油禁輸措置と老朽化した発電システムが原因とされ、社会不安を引き起こしている。"
+    }
+  },
+  "CO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6e0194eb4fc5fca183a8c415be664ddc",
+      "title": "Colombian president accuses Ecuador after ‘27 charred bodies’ found near border",
+      "url": "https://www.theguardian.com/world/2026/mar/17/colombian-president-ecuador-bodies",
+      "published_at": "2026-03-17T18:51:24.000Z",
+      "description": "Relations deteriorate as Gustavo Petro claims government of Trump ally Daniel Noboa bombing targets in Colombia\nPresident Gustavo Petro has accused Ecuador of bombing targets inside Colombian territory, saying later that the burned remains of nearly 30 people had been found near the border, in a sharp deterioration in relations between the two neighbouring countries.\nThe Colombian leader said on Tuesday that an attack which had left “27 charred bodies” did not appear to have been carried out by Colombia’s own forces or any illegal armed groups which he said do not have armed planes.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "コロンビア大統領、国境近くで「27体の焼死体」発見後、エクアドルを非難",
+      "summary": "コロンビア大統領が、国境近くで27体の焼死体が発見された後、エクアドルをコロンビア領内の爆撃で非難。両国間の関係が急速に悪化している。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "713ef67d4ce4e754889ba52bb873434c",
+      "title": "Man and woman charged with murder of Iranian activist in Canada",
+      "url": "https://www.theguardian.com/world/2026/mar/17/two-men-court-murder-iranian-activist-canada",
+      "published_at": "2026-03-17T14:05:58.000Z",
+      "description": "Charges follow discovery of body of Masood Masjoody, who was a critic of the Tehran regime and the exiled shah\nTwo people have been charged with the murder of an Iranian activist in Canada, in a case which has intensified fears over transnational repression of critics of the regime in Tehran.\nMasood Masjoody, a former university maths teacher,  went missing in early February in the city of Burnaby, British Columbia. He had been critical of Iran’s theocratic regime and the exiled family of the former shah.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "カナダでイラン人活動家殺害の容疑で男女を起訴",
+      "summary": "カナダでイラン人活動家殺害の容疑で男女2人が起訴された。この事件は、イラン政権の批判者に対する越境弾圧への懸念を強めている。"
+    }
+  },
+  "FR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "94f380174fe073c7b134564863c1950a",
+      "title": "Macron says France could join Hormuz ship escorts once situation 'calmer'",
+      "url": "http://www.euronews.com/2026/03/17/macron-says-france-could-join-hormuz-ship-escorts-once-situation-calmer",
+      "published_at": "2026-03-17T15:52:05.000Z",
+      "description": "The French president rejected US President Trump's calls for immediate action to reopen the key oil route, but said an international escort mission could be considered once fighting subsides.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "マクロン大統領、状況が「より落ち着けば」フランスもホルムズ海峡の船舶護衛に参加可能と発言",
+      "summary": "マクロン仏大統領は、トランプ米大統領のホルムズ海峡の即時再開要求を拒否しつつも、戦闘が収まれば国際的な護衛任務を検討する可能性を示唆した。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "737432141563cc886bcedd1c03b24605",
+      "title": "Israel says 'limited' ground operations under way in Lebanon",
+      "url": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T05:03:13.000Z",
+      "description": "Troops are targeting \"Hezbollah strongholds\" in south Lebanon, where strikes reportedly killed nine people on Monday.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イスラエル、レバノンで「限定的」地上作戦実施中と発表",
+      "summary": "イスラエル軍はレバノン南部でヒズボラ拠点を標的とした地上作戦を展開中。攻撃により9人が死亡したと報じられている。"
+    }
+  },
+  "UK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e52518caa2588022a488a4ce13e219d7",
+      "title": "How might the UK support shipping in the Strait of Hormuz?",
+      "url": "https://www.bbc.com/news/videos/cvgj29dgrxwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T18:52:34.000Z",
+      "description": "Ben Chu from BBC Verify has been looking at what role the Royal Navy could play in the Strait of Hormuz.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "UK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "英国はホルムズ海峡の船舶輸送をどのように支援するのか？",
+      "summary": "BBC検証部門のベン・チューが、英国海軍がホルムズ海峡で果たす可能性のある役割について調査した。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "75c6a016f884a048141e4e911ded7503",
+      "title": "Iran hits key UAE oil port and Dubai airport",
+      "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T12:43:32.000Z",
+      "description": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "AE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イラン、UAEの主要石油港とドバイ空港を攻撃",
+      "summary": "イランがUAEのフジャイラ港とドバイ空港を攻撃した。フジャイラ港はホルムズ海峡が封鎖された際の世界的供給維持に重要。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f3310271a2b87b7eee3bcf088775713b",
+      "title": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
+      "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-15T22:02:21.000Z",
+      "description": "Five of the seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "AU",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "イラン代表主将、亡命申請を撤回した最新の選手に ― イラン国営メディア",
+      "summary": "オーストラリアに滞在を求めた女性サッカー代表団7名のうち5名が帰国を選択。イラン国営メディアが主将も亡命申請を撤回したと報じた。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4f00ae4e6dfc8ceb062e3056a64aac90",
+      "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+      "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-15T10:38:22.000Z",
+      "description": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イスラエル軍、占領下のヨルダン川西岸でパレスチナ人夫婦と2人の子供を殺害",
+      "summary": "占領下のヨルダン川西岸で、イスラエル軍がパレスチナ人夫婦とその5歳と7歳の子供2人を殺害したとパレスチナ保健省が発表した。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f20dccf31ba356c9622873c739fa7f7a",
+      "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
+      "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T14:09:58.000Z",
+      "description": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ロシア、ウクライナ紛争でのケニア人徴用停止に合意とケニアが発表",
+      "summary": "ケニアは、ロシアがウクライナ紛争におけるケニア人戦闘員の徴用を停止することに合意したと発表。約1000人のケニア人が不当な勧誘で徴用されたとされる。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "00dfd6ffef872a919ad4b5eced563f22",
+      "title": "Whistleblower murder suspect is former elite officer, South African police say",
+      "url": "https://www.bbc.com/news/articles/czr05nz3dp8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T12:36:51.000Z",
+      "description": "Marius van der Merwe was shot dead three weeks after accusing police officers of killing a robbery suspect.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "内部告発者殺害容疑者は元エリート警察官、南アフリカ警察が発表",
+      "summary": "南アフリカ警察によると、内部告発者の殺害容疑者は元エリート警察官。告発者は警察官による容疑者殺害を非難した3週間後に射殺された。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9455a4f502a6e044d7cd777ee0813956",
+      "title": "Ugandan opposition leader tells BBC he fled abroad fearing for his life",
+      "url": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-15T21:56:34.000Z",
+      "description": "Bobi Wine says from an undisclosed location: \"It was clear that the regime wanted to eliminate me.\"",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ウガンダ野党指導者、命の危険を感じ国外逃亡とBBCに語る",
+      "summary": "ウガンダの野党指導者ボビ・ワインは、政権が彼を排除しようとしていると確信し、命の危険から国外に逃亡したことをBBCに語った。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d2c22b4908139b7af78a84006875c506",
+      "title": "'We will go wherever they hide': Rooting out IS in Somalia",
+      "url": "https://www.bbc.com/news/articles/cj32d8e2m5eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T00:05:40.000Z",
+      "description": "Somalia became a key part of IS's global network after fighters were driven out of strongholds in Syria and Iraq.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "「彼らが隠れるどこへでも行く」：ソマリアでのIS掃討作戦",
+      "summary": "シリアとイラクからIS戦闘員が追放された後、ソマリアはISの世界的ネットワークの主要拠点となった。現在、ソマリアでのIS掃討作戦が進行中。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "da6b688b8f0341311187ae78c4a10d88",
+      "title": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
+      "url": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-15T00:01:25.000Z",
+      "description": "They have engaged a lobbying firm with close ties to the US president to argue their case.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "トランプはジンバブエの白人農民の賠償闘争を助けるか、妨げるか？",
+      "summary": "ジンバブエの白人農民たちは、賠償請求を主張するため、米国大統領と密接な関係を持つロビー会社と契約した。トランプ氏が彼らを助けるかどうかが焦点。"
+    }
+  },
+  "NA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3dac4ae2a487a97b58fbc5848b05d73f",
+      "title": "Why Namibia's green energy dream could be a red flag for penguins",
+      "url": "https://www.bbc.com/news/articles/czj1lkvpzxyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-12T00:04:52.000Z",
+      "description": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NA",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ナミビアのグリーンエネルギーの夢がペンギンにとって危険信号となる理由",
+      "summary": "ナミビアのほぼ手つかずの砂漠と海岸の自然が、巨大な水素生産施設の建設地となる可能性があり、ペンギンなどの野生生物への悪影響が懸念されている。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "533f9420a6c3137d5a96c0c8bd8007c4",
+      "title": "Ethiopia’s urban renewal projects and turn toward aesthetic propaganda",
+      "url": "https://globalvoices.org/2026/03/11/aesthetic-propaganda-ethiopias-urban-renewal-projects-and-the-visual-turn-in-digital-authoritarianism",
+      "published_at": "2026-03-11T08:00:59.000Z",
+      "description": "This is not a trend limited to Ethiopia. Influencers have increasingly become important in popularizing selective authoritarian stories from Dubai to China, and thereby legitimizing authoritarian narratives.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "エチオピアの都市再生プロジェクトと美的プロパガンダへの転換",
+      "summary": "エチオピアの都市再生プロジェクトは、権威主義的な物語を正当化するためにインフルエンサーを用いる美的プロパガンダの一例であり、これは世界的な傾向である。"
+    }
+  },
+  "BW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "776084c86a2c646e33ea375ef62f1947",
+      "title": "Government attacks on mainstream media undermine the credibility of democracy in Botswana",
+      "url": "https://globalvoices.org/2026/03/09/government-attacks-on-mainstream-media-undermine-the-credibility-of-democracy-in-botswana",
+      "published_at": "2026-03-09T16:00:39.000Z",
+      "description": "\"What is at stake in Botswana media is not only law reforms but the viability of journalism in a disrupted, underfunded and rapidly changing environment.\"",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "政府による主流メディアへの攻撃がボツワナの民主主義の信頼性を損なう",
+      "summary": "ボツワナでは政府による主流メディアへの攻撃が民主主義の信頼性を損ねており、ジャーナリズムの存続可能性と法改正が危機に瀕している。"
+    }
+  },
+  "CM": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2fef6b9ebb863b1f00b76c821502c6a7",
+      "title": "Cameroonians turn to private solar grids in response to prolonged power cuts",
+      "url": "https://globalvoices.org/2026/03/07/solar-energy-use-expands-in-bamenda-cameroon-as-residents-respond-to-prolonged-power-cuts",
+      "published_at": "2026-03-07T03:00:17.000Z",
+      "description": "In Mile 4 New Council area in Bamenda, North West region of Cameroon, residents have increasingly turned to solar energy to cope with prolonged and unpredictable electricity disruptions.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "カメルーン国民、長期停電を受けプライベートな太陽光発電網に転換",
+      "summary": "カメルーン北西部のバメンダでは、長期化する予測不能な停電に対処するため、住民がプライベートな太陽光発電システムに転換する動きが加速している。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a7cb9b924c3dff01857770659e1ddd35",
+      "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
+      "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T18:55:17.000Z",
+      "description": "King Felipe appears to have helped thaw frosty relations with Mexico while reviving a fierce debate over events 500 years ago.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "スペイン国王、メキシコ征服巡る「虐待」を認め、議論を再燃",
+      "summary": "スペイン国王フェリペがメキシコ征服における「虐待」を認め、両国間の関係改善に寄与しつつ、500年前の出来事を巡る激しい議論を再燃させた。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c0f2390f88df681943efd75023ea3dce",
+      "title": "Italy warns stricken Russian tanker could explode in Med at any time",
+      "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T19:21:00.000Z",
+      "description": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz drifting out of control in the Med.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "イタリア、地中海で座礁したロシアのタンカーがいつでも爆発する可能性を警告",
+      "summary": "イタリアが、地中海を漂流中のロシアのタンカー「アークティック・メタガス」が制御不能となり、いつでも爆発する危険性があると警告。EU各国は迅速な対応を求めている。"
+    }
+  },
+  "AZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e729e36a4bc310e4e0bff0c8a71e715f",
+      "title": "French national jailed for 10 years in Azerbaijan for spying",
+      "url": "https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T11:47:16.000Z",
+      "description": "Martin Ryan was accused of collecting secret information about Baku's military co-operation with Turkey and Pakistan.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "フランス国民、アゼルバイジャンでスパイ容疑により10年間の禁固刑",
+      "summary": "フランス人国民が、アゼルバイジャンでトルコおよびパキスタンとの軍事協力に関する秘密情報を収集した容疑で10年の禁固刑を言い渡された。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ffe7cbef3175482de1d11c63d38654b3",
+      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+      "url": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-14T12:45:41.000Z",
+      "description": "Security had been increased at Jewish public institutions following an earlier incident in Rotterdam.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "アムステルダムのユダヤ人学校での爆発は「意図的な攻撃」と市長が発言",
+      "summary": "アムステルダムのユダヤ人学校で発生した爆発について、市長は「意図的な攻撃」と発表。ロッテルダムでの以前の事件を受け、ユダヤ系公共施設の警備が強化されていた。"
+    }
+  },
+  "VE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e82da0bd66ef276a210de01cdb37a739",
+      "title": "UN receives reports alleging torture of detainees in Venezuela continues",
+      "url": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T10:12:10.000Z",
+      "description": "The UN is deeply concerned by allegations there have been incidents of torture after Nicolás Maduro's ouster.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ベネズエラで拘留者への拷問が続いているとの報告を国連が受領",
+      "summary": "ニコラス・マドゥロ氏失脚後もベネズエラで拘留者に対する拷問が続いているとの疑惑が国連に報告され、深い懸念が表明されている。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b4e718b94722149a24fedd23c09c2936",
+      "title": "Ecuador deploys 75,000 soldiers and police to combat drug gangs",
+      "url": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T11:58:42.000Z",
+      "description": "Citizens of the most violent-wracked provinces have been warned the government is \"at war\" with the gangs.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "エクアドル、麻薬組織と戦うため兵士と警察官7万5000人を配備",
+      "summary": "エクアドル政府は最も暴力に苦しむ州の市民に対し、麻薬組織との「戦争」を宣言し、7万5000人の兵士と警察官を動員した。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "272829e37ef1401297782668a861e254",
+      "title": "Mexico City breaks Guinness Record with giant football training session",
+      "url": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-16T17:23:27.000Z",
+      "description": "Mexico City set a Guinness record for the largest football training session as 9,500 participants filled the capital’s Zocalo square ahead of World Cup.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "メキシコシティ、大規模サッカー練習会でギネス記録を更新",
+      "summary": "メキシコシティがワールドカップを前に、9,500人が参加する大規模なサッカー練習会を開催し、ギネス世界記録を樹立した。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4034cd9d4b6fe41802e9efe50143da39",
+      "title": "Concerns grow as Jamaica ends Cuban medical programme",
+      "url": "https://globalvoices.org/2026/03/14/concerns-grow-as-jamaica-ends-cuban-medical-programme",
+      "published_at": "2026-03-14T13:00:17.000Z",
+      "description": "Terminating the decades-old programme that brought hundreds of Cuban medical personnel to its shores is an unusual move, especially for a programme that had been running smoothly for 50 years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ジャマイカがキューバとの医療プログラムを終了し懸念が高まる",
+      "summary": "ジャマイカが50年間続いたキューバからの医療従事者受け入れプログラムを終了し、国民の健康への影響について懸念が広がっている。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "84fa64925f467d5f0395c344351c84d7",
+      "title": "Nawat language now has its own Wikipedia",
+      "url": "https://globalvoices.org/2026/03/06/nawat-language-now-has-its-own-wikipedia",
+      "published_at": "2026-03-06T13:52:37.000Z",
+      "description": "The New Year brought an exciting announcement: the official launch of Wikipedia in Nawat, the result of several years of training and community-building across communities in El Salvador and beyond.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "ナワート語に独自のウィキペディアが登場",
+      "summary": "エルサルバドルなどで数年間の訓練とコミュニティ構築を経て、ナワート語のウィキペディアが正式に立ち上げられた。これは言語保存と情報アクセスにとって画期的な出来事である。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "51ed74fb55ef0355caedc3b04dbab06d",
+      "title": "Beyond words: Incarcerated women’s responses to punitive systems in Peru",
+      "url": "https://globalvoices.org/2026/03/06/beyond-words-incarcerated-womens-responses-to-punitive-systems-in-peru",
+      "published_at": "2026-03-06T13:30:35.000Z",
+      "description": "A collage-based artistic creation workshop revealed how a group of incarcerated women counter the dynamics and effects of imprisonment through individual reflection, creative practice, and the sustaining of collective bonds.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "言葉を超えて：ペルーにおける受刑女性たちの懲罰制度への応答",
+      "summary": "ペルーの刑務所で、コラージュ制作ワークショップを通じて、受刑女性たちが個人の内省、創造的実践、そして連帯の維持を通して、投獄の影響に対抗している様子が明らかになった。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "36b2c97cee623e0660fa2263403e13d3",
+      "title": "How the series ‘The Eternaut’ revived searches for the disappeared in Argentina",
+      "url": "https://globalvoices.org/2026/02/22/how-the-series-the-eternaut-revived-searches-for-the-disappeared-in-argentina",
+      "published_at": "2026-02-22T06:00:34.000Z",
+      "description": "The family of Héctor Germán Oesterheld, author of the comic strip behind the series, lost nine members to the dictatorship: Oesterheld himself, his four daughters, two sons-in-law and two grandchildren.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "シリーズ『エテルナウト』がいかにアルゼンチンの失踪者捜索を再燃させたか",
+      "summary": "アルゼンチンの独裁政権下で失踪した人々、特に漫画原作者オエステルヘルドの家族の悲劇に焦点を当て、彼の作品『エテルナウト』がいかに失踪者の捜索と記憶を再活性化させたかを伝える。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "445f9e0015f60217dd054390ab3e1220",
+      "title": "Russia notifies launch of safeguard investigation on tinplate",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_rus_11mar26_319_e.htm",
+      "published_at": "2026-03-11T00:00:00.000Z",
+      "description": "On 11 March 2026, the Russian Federation notified the WTO’s Committee on Safeguards of the initiation on 4 March 2026 of a safeguard investigation on tinplate (certain flat-rolled products of iron or non-alloy steel) imported into the customs territory of the Eurasian Economic Union.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "RU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "ロシアがブリキに関するセーフガード調査の開始を通知",
+      "summary": "ロシア連邦は2026年3月4日、ユーラシア経済連合へのブリキ輸入に対するセーフガード調査の開始をWTOのセーフガード委員会に通知しました。"
+    }
+  },
+  "UZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e919b64466c8cb0e6c4d100e221f65ef",
+      "title": "Uzbekistan commits to maintaining \"strong momentum\" to accede to WTO in 2026",
+      "url": "https://www.wto.org/english/news_e/news26_e/acc_09mar26_316_e.htm",
+      "published_at": "2026-03-09T00:00:00.000Z",
+      "description": "At a meeting of the Working Party on the Accession of Uzbekistan on 9 March, the head of Uzbekistan's delegation, Deputy Prime Minister Jamshid Khodjaev, said his country is committed to bringing Uzbekistan’s accession process to a successful conclusion this year. Thanking members for supporting Uzbekistan's accession during a very busy period, he reaffirmed the country's commitment to engage constructively with all Working Party members. Uzbekistan stands ready to address any remaining issues in a spirit of partnership and mutual understanding, he added.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "UZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ウズベキスタン、2026年のWTO加盟に向け「強い勢い」を維持することを約束",
+      "summary": "ウズベキスタンは、WTO加盟プロセスを本年中に成功裏に完了させることにコミットしていると表明。加盟作業部会のメンバーと建設的に協力し、残る問題に対処する用意があると強調しました。"
+    }
+  }
+}
