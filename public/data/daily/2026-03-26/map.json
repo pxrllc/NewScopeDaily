@@ -1,0 +1,942 @@
+{
+  "US": {
+    "count": 9,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "596d05522d7202e40f9d4b3e4ab34305",
+      "title": "Meta, YouTube found liable in US social media addiction case",
+      "url": "https://www.dw.com/en/meta-youtube-found-liable-in-us-social-media-addiction-case/a-76532878?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-25T17:44:00.000Z",
+      "description": "A California jury has declared that social media giants Meta and YouTube were liable for harming a young woman by designing their platforms to be addictive. The verdict could affect many more cases.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "US",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "米国のソーシャルメディア中毒訴訟でMetaとYouTubeに責任認定",
+      "summary": "カリフォルニア州の陪審が、MetaとYouTubeがプラットフォームを中毒性があるように設計し、若い女性に危害を与えたとして責任を認定。この判決は多くの類似訴訟に影響を与える可能性がある。"
+    }
+  },
+  "NL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5cb306c980be95e8b25eade33cf0fcd5",
+      "title": "Has banning phones improved performance at Dutch schools? ",
+      "url": "https://www.bbc.com/news/articles/cpqxjwvvyl4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T06:00:25.000Z",
+      "description": "Two years ago the Netherlands banned phones in schools. Now the government wants to go further, pushing to restrict social media for under‑16s.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "オランダの学校での携帯電話禁止は成績向上に貢献したか？",
+      "summary": "オランダは2年前に学校での携帯電話を禁止。政府はさらに踏み込み、16歳未満のソーシャルメディア利用制限も推進しようとしている。"
+    }
+  },
+  "PH": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a555210a6f36c5ee517495b1a90f152a",
+      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
+      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T08:59:46.000Z",
+      "description": "The President says the country will procure one million barrels of oil to add to the current stock.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PH",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "フィリピンがエネルギー緊急事態を宣言、マルコス大統領は「石油の流れ」を約束",
+      "summary": "フィリピンがエネルギー緊急事態を宣言。マルコス大統領は、現在の備蓄に100万バレルの石油を加えて「石油の流れ」を確保すると約束した。"
+    }
+  },
+  "DK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "669c370836e942a6dbeeb158bd7b6623",
+      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+      "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T07:59:41.000Z",
+      "description": "The party, which has been in power since 2019, gained the most votes but faces tough talks on forming a new government.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "DK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "デンマーク首相、1903年以来で最も弱い選挙結果で過半数確保に失敗",
+      "summary": "デンマーク首相の党が1903年以来の最弱の選挙結果で過半数を確保できず、新政府樹立に向けた困難な交渉に直面している。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "10af06ffd108a899edf6ee48e4fce9a8",
+      "title": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
+      "url": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-20T00:06:24.000Z",
+      "description": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 90,
+      "titleJa": "食料を求め絶望する干ばつに見舞われたケニア人、ジンジャーブレッドツリーに頼る",
+      "summary": "干ばつに見舞われたケニアでは、食料不足が深刻化し、住民がジンジャーブレッドツリーに頼っている。オックスファムは、ケニア、エチオピア、ソマリアで約2600万人が極度の飢餓に直面していると警告している。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "067e7379401e60bf5bbb0aa47700d503",
+      "title": "Hungarian election: Will Europe's far-right help Orban win?",
+      "url": "https://www.dw.com/en/hungarian-election-will-europe-s-far-right-help-orban-win/a-76522061?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-25T18:14:00.000Z",
+      "description": "Leading European populists are throwing their weight behind Viktor Orban's reelection campaign. But the Hungarian prime minister lags behind the opposition due to talk of corruption, scandal and his Russian ties.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ハンガリー選挙：欧州の極右はオルバン氏の勝利を助けるか？",
+      "summary": "欧州の主要なポピュリストがオルバン首相の再選キャンペーンを支持。しかし、汚職やスキャンダル、ロシアとの関係が取り沙汰され、オルバン氏は野党に遅れをとっている。"
+    }
+  },
+  "DE": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7d0aefca69a16d8ecd27f94ffa45a099",
+      "title": "Germany's big climate move — bold step or bare minimum?",
+      "url": "https://www.dw.com/en/germany-s-big-climate-move-bold-step-or-bare-minimum/a-76529540?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-25T16:08:00.000Z",
+      "description": "The German government has rolled out a multibillion‑euro climate package to turbocharge wind power and e‑mobility. Supporters call it overdue momentum, but critics say it barely scratches the surface.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ドイツの大きな気候変動対策 — 大胆な一歩か、最低限か？",
+      "summary": "ドイツ政府が風力発電とEモビリティを加速させる数十億ユーロ規模の気候変動対策パッケージを発表。支持者は待望の推進力と評価するが、批評家は表面的なものだと指摘している。"
+    }
+  },
+  "IR": {
+    "count": 9,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1452a7404ef7554bf6a79ae61b1ad90a",
+      "title": "What’s Iran’s war strategy and what risks does it pose?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/25/whats-irans-war-strategy-and-what-risks-does-it-pose?traffic_source=rss",
+      "published_at": "2026-03-25T19:22:06.000Z",
+      "description": "US-Israeli attacks have triggered global economic shocks.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イランの戦争戦略とは何か、どのようなリスクがあるのか？",
+      "summary": "米国とイスラエルの攻撃により、イランの戦争戦略とそのリスクが世界経済に衝撃を与えていることについて。"
+    }
+  },
+  "AZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "366eb288c85815aadd4a3ef0914151a0",
+      "title": "Iran war boosts strategic significance of South Caucasus",
+      "url": "https://www.dw.com/en/iran-war-boosts-strategic-significance-of-south-caucasus/a-76518386?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-25T17:38:00.000Z",
+      "description": "With war raging in Iran, the South Caucasus has become one of the few stable corridors between Asia and Europe. Nowhere are the conflict's opportunities and risks more visible than in Azerbaijan.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "イラン戦争、南コーカサスの戦略的重要性を高める",
+      "summary": "イランでの戦争が激化する中、南コーカサス地域がアジアとヨーロッパを結ぶ数少ない安定した回廊となっている。この紛争による機会とリスクはアゼルバイジャンで最も顕著に見られる。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d272bdd6096bab743d560965d5e24093",
+      "title": "South Africans say criminal gangs are exploiting the water crisis",
+      "url": "https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-19T06:01:49.000Z",
+      "description": "Residents of some areas have been without mains water for weeks.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "南アフリカ人、犯罪組織が水危機を悪用していると訴える",
+      "summary": "南アフリカの一部地域では数週間にわたり水道水が供給されておらず、住民は犯罪組織がこの水危機を悪用していると訴えている。"
+    }
+  },
+  "CD": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2d16de0b804d586444ee2bd78bb6f87f",
+      "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+      "url": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+      "published_at": "2026-03-24T12:42:56.000Z",
+      "description": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park\nA second set of mountain gorilla twins has been born in Virunga national park in the Democratic Republic of the Congo (DRC), in what conservationists are celebrating as an “extraordinary” event for the endangered primates.\nJust two months after tiny twin mountain gorillas were discovered by rangers in the Virunga massif, in eastern DRC, another rare twin birth has been found by park wardens. This time, an infant male and female have been spotted in the Baraka family, a troop of 19 mountain gorillas that roam the region’s high-altitude rainforests.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "コンゴ民主共和国でマウンテンゴリラの双子が誕生、「並外れた出来事」と称賛",
+      "summary": "コンゴ民主共和国のヴィルンガ国立公園で、絶滅危惧種のマウンテンゴリラの双子が2か月で2組目となる誕生を迎えました。これは保護活動家にとって「並外れた出来事」として祝われています。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f23a4bd81419c04d9a1967d93989e7ce",
+      "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+      "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+      "published_at": "2026-03-21T23:15:04.000Z",
+      "description": "Victims of army drone attack on East Darfur health facility included children and medical personnel \nA strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday.\nThe UN’s humanitarian office in Sudan had earlier said it was “appalled by the attack on a hospital in East Darfur yesterday, reportedly killing dozens, including children, and injuring more”.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダンの病院への攻撃で少なくとも64人死亡、89人負傷とWHOが報告",
+      "summary": "スーダンの病院が攻撃を受け、少なくとも64人が死亡し、89人が負傷したとWHOが報告しました。東ダルフールの医療施設への陸軍ドローン攻撃とされ、犠牲者には子供や医療従事者が含まれています。"
+    }
+  },
+  "MG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e4bbb531fb8f0ed6f9f0461f446bc71d",
+      "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+      "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
+      "published_at": "2026-03-20T10:26:47.000Z",
+      "description": "Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption\nMadagascar’s military president has said new ministers will have to pass lie detector tests to root out corrupt candidates, after he dismissed the prime minister and cabinet without explanation earlier this month.\nMichael Randrianirina came to power in a coup in October after weeks of youth-led protests under the banner “Gen Z Madagascar”. However, young people were quickly disenchanted by his choice of government officials, which they saw as being part of the old, corrupt elite.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "マダガスカルの軍事指導者、閣僚に嘘発見器テストを義務付けると宣言",
+      "summary": "マダガスカルの軍事大統領は、汚職撲滅のため、新閣僚に嘘発見器テストの合格を義務付けると発表しました。彼はクーデターで権力を掌握し、首相と内閣を理由なく解任したばかりです。"
+    }
+  },
+  "BR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b14badb57dc6bef69b3111d134377e7",
+      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+      "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-12T00:05:52.000Z",
+      "description": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "エプスタインはモデルエージェントを使って少女を募集、ブラジル人女性がBBCに語る",
+      "summary": "ジェフリー・エプスタインが、モデルエージェントを介して少女たちをリクルートし、米国へのビザを手配していたとブラジル人女性たちがBBCに証言した。"
+    }
+  },
+  "IL": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "43af0a72b68531a9a3783c317b2966dc",
+      "title": "Israel says it will take control of large buffer zone in southern Lebanon",
+      "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T16:58:08.000Z",
+      "description": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, Israel's defence minister says.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イスラエル、レバノン南部の大規模緩衝地帯を掌握すると発表",
+      "summary": "イスラエル国防相は、イスラエル北部が安全になるまで、避難したレバノン住民の帰還を認めないと述べ、レバノン南部の緩衝地帯を掌握すると発表した。"
+    }
+  },
+  "GB": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2ab261a898244675157d0830c1afe3b5",
+      "title": "Palestine Action hunger strikers to sue prisons over alleged mistreatment",
+      "url": "https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss",
+      "published_at": "2026-03-25T17:49:47.000Z",
+      "description": "Activists plan to take legal action against the UK prisons that allegedly mistreated them.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "GB",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "パレスチナ行動のハンガーストライキ参加者、虐待疑惑で刑務所を提訴へ",
+      "summary": "アクティビストらは、自身らを虐待したとされる英国の刑務所に対し、法的措置を取る計画だ。"
+    }
+  },
+  "CU": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e19b870a9e54323ee8dd91936e54ceb",
+      "title": "How the US plunged Cuba into darkness",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/how-the-us-plunged-cuba-into-darkness?traffic_source=rss",
+      "published_at": "2026-03-25T17:42:32.000Z",
+      "description": "The US oil blockade has brought Cuba’s power grid to the brink of collapse.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "米国はいかにしてキューバを暗闇に突き落としたか",
+      "summary": "米国の石油封鎖がキューバの電力網を崩壊寸前に追い込み、キューバを停電の危機に陥れた経緯について。"
+    }
+  },
+  "IQ": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "192ef7b12c2b2fef0da2bb883fc9d6ae",
+      "title": "What we know about US attack on Iraqi military site",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-us-attack-on-iraqi-military-site?traffic_source=rss",
+      "published_at": "2026-03-25T17:10:28.000Z",
+      "description": "Iraqi authorities say a US air strike on a military site in Anbar killed seven soldiers and wounded 13.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イラク軍事施設への米国の攻撃について分かっていること",
+      "summary": "イラク当局は、アンバールにある軍事施設への米軍空爆により兵士7人が死亡、13人が負傷したと発表した。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7e19cc97a6e73da7715361a4fe99eb9c",
+      "title": "Protest in India over cooking gas crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/protest-in-india-over-cooking-gas-crisis?traffic_source=rss",
+      "published_at": "2026-03-25T16:36:39.000Z",
+      "description": "Indian opposition parties have staged a protest over the shortage of cooking gas triggered by the war on Iran.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "インドで調理用ガス危機を巡る抗議デモ",
+      "summary": "イランへの戦争によって引き起こされた調理用ガス不足に対し、インドの野党が抗議デモを行った。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5183d7410081203c9e55f4de88009212",
+      "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
+      "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T12:27:28.000Z",
+      "description": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "「もう安全はない」：パレスチナ人、ヨルダン川西岸での入植者による暴力拡大を警告",
+      "summary": "イラン戦争開始以来、占領下のヨルダン川西岸でイスラエル人入植者によるパレスチナ人村落への攻撃が急増。パレスチナ人が安全の喪失を訴え警告している。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ab01d64b1f737c6a93a482453295bf45",
+      "title": "Senegal appeal to be heard 'as swiftly as possible'",
+      "url": "https://www.bbc.com/sport/football/articles/c895x5x0jy5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T16:50:20.000Z",
+      "description": "The Court of Arbitration for Sport (Cas) says it will rule on Senegal's appeal against being stripped of the Africa Cup of Nations title \"as swiftly as possible\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "セネガル代表の異議申し立て、「可能な限り迅速に審理」へ",
+      "summary": "スポーツ仲裁裁判所（Cas）は、セネガル代表がアフリカネイションズカップのタイトル剥奪に異議申し立てを行った件について、可能な限り迅速に裁定を下すと発表した。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a1b446a623923f64ac1b0f50e9c98f3f",
+      "title": "Ghana and EU sign landmark defence deal to combat militant Islamist threat",
+      "url": "https://www.bbc.com/news/articles/c87w80xe1jro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T16:45:47.000Z",
+      "description": "Ghana is the first African country to make such a deal with the EU, the Ghanaian vice-president says.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ガーナとEU、イスラム過激派の脅威に対抗するための画期的な防衛協定に署名",
+      "summary": "ガーナとEUは、イスラム過激派の脅威に対処するため、初の防衛協定を締結した。ガーナ副大統領は、アフリカ諸国として初のEUとの防衛協定であると述べた。"
+    }
+  },
+  "NA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b8de72c5cc8146063211c13272c1a41e",
+      "title": "Elon Musk's Starlink blocked from operating in Namibia",
+      "url": "https://www.bbc.com/news/articles/crl1ny1g6e0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T10:50:17.000Z",
+      "description": "Namibia's regulator noted that Starlink's subsidiary is not locally owned.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "イーロン・マスク氏のスターリンク、ナミビアでの事業運営を阻止される",
+      "summary": "ナミビアの規制当局は、スターリンクの子会社が現地企業ではないことを理由に、ナミビアでの事業運営を阻止した。"
+    }
+  },
+  "AO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4be9f6a88a4c6a8c0b185d576f5b204d",
+      "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+      "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T00:18:10.000Z",
+      "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "AO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "アンゴラでの反政府デモを扇動したとされるロシアの工作活動の内幕",
+      "summary": "アンゴラで、ロシア人とアンゴラ人のグループが反政府デモを扇動したとして起訴され、裁判に臨む。彼らは容疑を否認している。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6c1947fe749168783a0a9fae792795f6",
+      "title": "Nearly 200 people massacred by gunmen in Kaiama LGA, Nigeria",
+      "url": "https://globalvoices.org/2026/02/24/nearly-200-people-massacred-by-gunmen-in-kaiama-lga-nigeria",
+      "published_at": "2026-02-24T04:00:41.000Z",
+      "description": "Security experts and human rights organizations have linked the cause of the attacks to porous borders, reactive security approach, and spillover of extremist groups.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ナイジェリアのカイアマ地方政府地域で武装集団が約200人を虐殺",
+      "summary": "ナイジェリアのカイアマ地方政府地域で武装集団により約200人が虐殺された。治安専門家は、攻撃の原因を国境の脆弱性や過激派組織の流入に結びつけている。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3544611841ed851db5e3da438202f749",
+      "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+      "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T00:08:56.000Z",
+      "description": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "「空から火が降りてきて焼き尽くした」 – 南スーダン内戦の瀬戸際の生活",
+      "summary": "南スーダン、ジョンレイ州で軍が大規模な軍事攻勢を警告し、約5万人が避難を命じられている。内戦の瀬戸際にある人々の悲惨な生活が描かれている。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "da6b688b8f0341311187ae78c4a10d88",
+      "title": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
+      "url": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-15T00:01:25.000Z",
+      "description": "They have engaged a lobbying firm with close ties to the US president to argue their case.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "トランプはジンバブエの白人農家への補償闘争を助けるか、それとも妨げるか？",
+      "summary": "ジンバブエの白人農家は、土地補償を巡る訴訟で米国大統領と関係の深いロビー活動会社を雇い、トランプ氏の介入が彼らの闘争にどう影響するか注目されている。"
+    }
+  },
+  "CM": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f1842974a288f974935a6c903a991aee",
+      "title": "WTO Chairs Programme holds academic conference in Cameroon",
+      "url": "https://www.wto.org/english/news_e/news26_e/chair_19mar26_333_e.htm",
+      "published_at": "2026-03-19T00:00:00.000Z",
+      "description": "The WTO Chairs Programme (WCP) held an academic conference on 19 and 20 March in Yaoundé, Cameroon, discussing a wide range of issues and challenges in reforming the multilateral trading system from an African perspective. Participants also delved into trade and development issues to explore opportunities and new approaches for the continent and for other developing regions.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "WTOチェアーズ・プログラム、カメルーンで学術会議を開催",
+      "summary": "WTOチェアーズ・プログラムがカメルーンのヤウンデで学術会議を開催し、多角的貿易システムの改革におけるアフリカの視点からの課題や、アフリカおよびその他の開発途上地域の貿易と開発の機会について議論した。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "533f9420a6c3137d5a96c0c8bd8007c4",
+      "title": "Ethiopia’s urban renewal projects and turn toward aesthetic propaganda",
+      "url": "https://globalvoices.org/2026/03/11/aesthetic-propaganda-ethiopias-urban-renewal-projects-and-the-visual-turn-in-digital-authoritarianism",
+      "published_at": "2026-03-11T08:00:59.000Z",
+      "description": "This is not a trend limited to Ethiopia. Influencers have increasingly become important in popularizing selective authoritarian stories from Dubai to China, and thereby legitimizing authoritarian narratives.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 55,
+      "titleJa": "エチオピアの都市再生プロジェクトと美的プロパガンダへの転換",
+      "summary": "エチオピアの都市再生プロジェクトは、権威主義的物語を正当化するための美的プロパガンダへと変貌している。この傾向は、ドバイから中国まで、インフルエンサーによって広まっている。"
+    }
+  },
+  "BW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "776084c86a2c646e33ea375ef62f1947",
+      "title": "Government attacks on mainstream media undermine the credibility of democracy in Botswana",
+      "url": "https://globalvoices.org/2026/03/09/government-attacks-on-mainstream-media-undermine-the-credibility-of-democracy-in-botswana",
+      "published_at": "2026-03-09T16:00:39.000Z",
+      "description": "\"What is at stake in Botswana media is not only law reforms but the viability of journalism in a disrupted, underfunded and rapidly changing environment.\"",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ボツワナにおける主流メディアへの政府攻撃が民主主義の信頼性を損なう",
+      "summary": "ボツワナでは政府による主流メディアへの攻撃が続き、法改正だけでなくジャーナリズムの存続そのものが危ぶまれており、民主主義の信頼性が揺らいでいる。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "904365dbe2b7f189a009b3c1c6a5b2d7",
+      "title": "Haaland donates £100,000 Viking book to home town",
+      "url": "https://www.bbc.com/sport/football/articles/c1j70ee87n3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T14:35:27.000Z",
+      "description": "Erling Haaland donates a rare 16th-century manuscript of Viking sagas, worth £100,000, to be displayed in the library in the Norwegian town of Bryne, where he grew up.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 30,
+      "titleJa": "ハーランドが故郷に10万ポンドのヴァイキング本を寄贈",
+      "summary": "アーリング・ハーランドが育ったノルウェーの町ブライネの図書館に、16世紀の貴重なヴァイキングのサガの写本（10万ポンド相当）が寄贈されることになった。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "22c07ea88f10bc1468e7c2f88b1aa572",
+      "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+      "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T12:14:15.000Z",
+      "description": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "世界的不確実性に直面し、オーストラリアとEUが包括的な貿易協定に合意",
+      "summary": "長年の交渉を経て、オーストラリアとEUが包括的な貿易および安全保障協定に署名した。これは世界的な不確実性の中で締結されたもの。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "58d4e11a893334305365c58f307c13d9",
+      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
+      "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T21:47:10.000Z",
+      "description": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシアがウクライナに24時間で過去最大となる948機のドローン攻撃",
+      "summary": "ロシアがウクライナに対し24時間で948機のドローンによる過去最大規模の攻撃を実施。ウクライナ各地の都市が打撃を受け、少なくとも8人が死亡、数十人が負傷したと報じられた。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6c475c4121555fe197888e8c72ad570b",
+      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+      "url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-23T20:25:32.000Z",
+      "description": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "国民投票での敗北により、イタリアのメローニ首相はより脆弱な立場に",
+      "summary": "憲法改正を巡る国民投票で敗北したメローニ首相は、それでも前進すると誓った。多くの人がこの投票を政権に対する国民投票と見なしていた。"
+    }
+  },
+  "IE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0a02c90b92c309c5fe656b23657526b7",
+      "title": "Irish government cuts excise duty on diesel and petrol",
+      "url": "https://www.bbc.com/news/articles/c5yvmvx0gyvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T14:07:11.000Z",
+      "description": "Duty on diesel will be reduced by 20 cent and petrol will be cut by 15 cent from midnight on Wednesday.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "アイルランド政府、ディーゼルとガソリンの物品税を削減",
+      "summary": "アイルランド政府は、水曜日の深夜からディーゼル税を20セント、ガソリン税を15セント削減すると発表した。"
+    }
+  },
+  "CO": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "32629c51867b1acbfa0e3f4d6b8d3bc5",
+      "title": "Death toll from Colombian military plane crash rises to 69 as search ends",
+      "url": "https://www.bbc.com/news/articles/c8ejkz89k1ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T21:30:53.000Z",
+      "description": "The Hercules military transport plane crashed minutes after take-off near Colombia's southern border with Peru.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "コロンビア軍用機墜落事故の死者数が69人に、捜索終了",
+      "summary": "コロンビア南部で発生した軍用機墜落事故による死者数が69人に上り、捜索活動が終了した。"
+    }
+  },
+  "VE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c2d8d8fb6aadce62e8e812047e1bc1e1",
+      "title": "Marco Rubio testifies in former housemate's Maduro lobbying trial",
+      "url": "https://www.bbc.com/news/articles/cj940j7ngwyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T16:54:02.000Z",
+      "description": "Rubio's former housemate is charged with illegally trying to influence the first Trump administration on behalf of the Venezuelan government.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "マルコ・ルビオ上院議員、元同居人のマドゥロ政権ロビー活動裁判で証言",
+      "summary": "マルコ・ルビオ上院議員が、元同居人のマドゥロ政権を代表した違法なロビー活動に関する裁判で証言した。"
+    }
+  },
+  "PR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "27b6623ae7393cbeee4d449edb5e7cc3",
+      "title": "How Bad Bunny brought the issue of Puerto Rico’s power grid into world view",
+      "url": "https://globalvoices.org/2026/03/22/how-bad-bunny-brought-the-issue-of-puerto-ricos-power-grid-into-world-view",
+      "published_at": "2026-03-22T06:30:47.000Z",
+      "description": "Puerto Rico’s electricity system has faced repeated crises since 2017’s Hurricane Maria, which destroyed much of the grid and triggered the longest blackout in modern U.S. history; outages remain routine.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "バッド・バニーがプエルトリコの電力網問題を世界に提起",
+      "summary": "プエルトリコの電力システムはハリケーン・マリア以来危機に瀕し、頻繁な停電が住民の生活に大きな影響を与えている現状をバッド・バニーが世界に訴えかけた。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08e6a3c1befbbb07884571be27a51d68",
+      "title": "Ecuador’s Netanyahu and Trump supporters target Ecuadorian–Iranian Cultural Center",
+      "url": "https://globalvoices.org/2026/03/21/ecuadors-netanyahu-and-trump-supporters-target-ecuadorian-iranian-cultural-center",
+      "published_at": "2026-03-21T06:00:20.000Z",
+      "description": "Wars no longer have defined frontlines. Battlefields can be anywhere those in power decide that a neighbor, due to their faith, ethnicity, or background, is an enemy.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 55,
+      "titleJa": "エクアドルのネタニヤフおよびトランプ支持者がエクアドル・イラン文化センターを標的に",
+      "summary": "エクアドルでネタニヤフとトランプの支持者がエクアドル・イラン文化センターを標的とする事件が発生。信仰や出自に基づく対立がどこでも起こりうる状況を示している。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4034cd9d4b6fe41802e9efe50143da39",
+      "title": "Concerns grow as Jamaica ends Cuban medical programme",
+      "url": "https://globalvoices.org/2026/03/14/concerns-grow-as-jamaica-ends-cuban-medical-programme",
+      "published_at": "2026-03-14T13:00:17.000Z",
+      "description": "Terminating the decades-old programme that brought hundreds of Cuban medical personnel to its shores is an unusual move, especially for a programme that had been running smoothly for 50 years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ジャマイカがキューバ人医療プログラムを終了し懸念が高まる",
+      "summary": "50年間スムーズに運営されてきたキューバ人医療従事者プログラムの終了は異例の動きで、ジャマイカの医療体制への影響について懸念が広がっている。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "84fa64925f467d5f0395c344351c84d7",
+      "title": "Nawat language now has its own Wikipedia",
+      "url": "https://globalvoices.org/2026/03/06/nawat-language-now-has-its-own-wikipedia",
+      "published_at": "2026-03-06T13:52:37.000Z",
+      "description": "The New Year brought an exciting announcement: the official launch of Wikipedia in Nawat, the result of several years of training and community-building across communities in El Salvador and beyond.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "ナワット語に独自のウィキペディアが登場",
+      "summary": "エルサルバドルなどで数年にわたるコミュニティの努力が実を結び、先住民のナワット語版ウィキペディアが正式に公開された。言語復興に向けた重要な一歩となる。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "51ed74fb55ef0355caedc3b04dbab06d",
+      "title": "Beyond words: Incarcerated women’s responses to punitive systems in Peru",
+      "url": "https://globalvoices.org/2026/03/06/beyond-words-incarcerated-womens-responses-to-punitive-systems-in-peru",
+      "published_at": "2026-03-06T13:30:35.000Z",
+      "description": "A collage-based artistic creation workshop revealed how a group of incarcerated women counter the dynamics and effects of imprisonment through individual reflection, creative practice, and the sustaining of collective bonds.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "言葉を超えて：ペルーの懲罰制度に対する投獄された女性たちの反応",
+      "summary": "ペルーの刑務所で、投獄された女性たちがコラージュ制作ワークショップを通じて、投獄の影響に対抗し、自己省察と創造的実践、集団的絆を維持している様子が明らかになった。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f7bd3c9c16f449c5ed823f9889136b7a",
+      "title": "Mexican government partially unblocks secure internet",
+      "url": "https://globalvoices.org/2026/03/03/mexican-government-partially-unblocks-secure-internet",
+      "published_at": "2026-03-03T16:00:14.000Z",
+      "description": "The Tor network is used by millions of users daily to securely access the internet, safeguard their right to information and freedom of expression, and avoid censorship or government surveillance.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "メキシコ政府がセキュアなインターネットの一部ブロックを解除",
+      "summary": "メキシコ政府がTorネットワークなど、安全なインターネットアクセスの一部ブロックを解除した。これは、情報への権利と表現の自由を巡る重要な動きとみられている。"
+    }
+  },
+  "SG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6ee745ddb24b0413106caa3fb85b1d9b",
+      "title": "Indian singer's drowning was accidental - Singapore coroner",
+      "url": "https://www.bbc.com/news/articles/c747x091n79o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T12:40:21.000Z",
+      "description": "The coroner ruled that there was no evidence of foul play in the death of iconic singer Zubeen Garg.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "SG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "インド人歌手の溺死は事故だった - シンガポール検視官",
+      "summary": "シンガポール検視官は、象徴的な歌手ズベーン・ガルグ氏の溺死は事故であり、不正行為の証拠はないと判断した。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7d4aaeac081052822190d367f5e020d7",
+      "title": "BTS comeback concert on Netflix draws 18.4m global viewers ",
+      "url": "https://www.bbc.com/news/articles/cy513rvg91ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T02:55:12.000Z",
+      "description": "The livestreamed show saw the band perform together for the first time since October 2022.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 75,
+      "titleJa": "BTSのNetflixカムバックコンサートが世界で1840万人の視聴者を集める",
+      "summary": "BTSのライブストリームコンサートがNetflixで世界中から1840万人の視聴者を集め、2022年10月以来初めてグループ全員でパフォーマンスを行った。"
+    }
+  },
+  "AF": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cc079685f7994835c05cc402746887c7",
+      "title": "US detainee Dennis Coyle released by Taliban after more than a year",
+      "url": "https://www.bbc.com/news/articles/c79j1wj4495o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T15:50:42.000Z",
+      "description": "Coyle, who was working as a language researcher, according to his family, was arrested in January 2025.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AF",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国人被拘束者デニス・コイル氏、タリバンに1年以上拘束された後解放",
+      "summary": "語学研究者として活動していたデニス・コイル氏が、タリバンに1年以上拘束された後、解放されたことが家族により確認された。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b5f751573ad9c27a51403899b5e19fd2",
+      "title": "Canada launches safeguard investigation on certain vegetable goods",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_can_18mar26_327_e.htm",
+      "published_at": "2026-03-18T00:00:00.000Z",
+      "description": "On 18 March 2026, Canada notified the WTO’s Committee on Safeguards that it had initiated on 16 March 2026 a safeguard investigation on imports of certain vegetable goods.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "CA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 50,
+      "titleJa": "カナダ、特定野菜製品に対するセーフガード調査を開始",
+      "summary": "2026年3月18日、カナダはWTOのセーフガード委員会に対し、特定野菜製品の輸入に関するセーフガード調査を3月16日に開始したことを通知した。"
+    }
+  }
+}
