@@ -1,0 +1,962 @@
+{
+  "IR": {
+    "count": 12,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d43db0eaac27334340639596b1a8df14",
+      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T18:41:02.000Z",
+      "description": "Marco Rubio said US allies were open to helping escort ships through the Strait of Hormuz, which Iran has closed and threatened to charge fees for.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ルビオ議員、米国はイランとの戦争を「数週間以内に終結させる」と発言",
+      "summary": "マルコ・ルビオ議員は、米国がイランとの戦争を数週間で終わらせる見込みだと述べ、同盟国がイランが閉鎖したホルムズ海峡の船舶護衛に協力的だと語った。"
+    }
+  },
+  "US": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b8a13bba130e3176fef1b9cdebce1794",
+      "title": "US rebuilding WWII Pacific airfields amid China threat",
+      "url": "https://www.dw.com/en/us-rebuilding-wwii-pacific-airfields-amid-china-threat/a-76569562?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-27T15:38:00.000Z",
+      "description": "Engineers are refurbishing 80-year-old airstrips on the islands of Tinian and Peleliu as a strategic rivalry in the Indo-Pacific continues to grow.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "米、中国の脅威の中、第二次世界大戦期の太平洋飛行場を再建",
+      "summary": "インド太平洋地域での戦略的競争が激化する中、米国はテニアン島とペリリュー島の80年前の滑走路を改修している。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2ef0eb62be03c0d97724b4e647d239a6",
+      "title": "Spanish woman who died through euthanasia failed by state, say critics",
+      "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T12:09:06.000Z",
+      "description": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "安楽死で死去したスペイン人女性、国家に「見捨てられた」と批判の声",
+      "summary": "バルセロナの病院で安楽死したスペイン人女性ノエリア・カスティーヨさんについて、父との長い法廷闘争後だったことから、国家の対応を批判する声が上がっている。"
+    }
+  },
+  "AT": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5b7093447d5c6b27e14f68afa507bdb3",
+      "title": "Austria plans to ban social media for under-14s",
+      "url": "https://www.dw.com/en/austria-plans-to-ban-social-media-for-under-14s/a-76571330?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-27T17:31:00.000Z",
+      "description": "Austria is set to follow other countries in curbing young people's access to social media. The three-party governing coalition plans to present a draft law by the end of June.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "オーストリア、14歳未満のソーシャルメディア利用禁止を計画",
+      "summary": "オーストリアは、14歳未満の若者に対するソーシャルメディアのアクセスを制限する計画を発表。連立政権は6月末までに法案を提出予定。"
+    }
+  },
+  "CU": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4a6a176afa5ed972f6f4ef5e21fdb4e5",
+      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T18:04:02.000Z",
+      "description": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "メキシコを出発したキューバ行き援助船2隻が行方不明に",
+      "summary": "米国の禁輸措置で食料と燃料が不足しているキューバへ援助物資を運ぶ船2隻がメキシコ出発後に行方不明となり、メキシコ海軍が救助活動を開始した。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c9d97b1193c77ac5aed34928634271f1",
+      "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
+      "url": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T03:14:10.000Z",
+      "description": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ベラルーシ大統領、北朝鮮の金正恩氏にライフルを贈呈、友好条約に署名",
+      "summary": "ロシアのウクライナ侵攻を支持するベラルーシのアレクサンドル・ルカシェンコ大統領が平壌を訪問し、金正恩氏にライフルを贈り、友好条約を締結した。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "916fb131c034c7174e834270984f94de",
+      "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
+      "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T12:30:10.000Z",
+      "description": "Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ヨルダン川西岸でパレスチナ人男性が死亡、入植者の暴力による死者数が増加",
+      "summary": "ヨルダン川西岸でパレスチナ人男性モハマド・アル・マルヒさんが入植者によって殺害され、イランとの戦争開始以来、入植者の暴力によるパレスチナ人の死者数は7人となった。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dc888b65a316a6451ff2d6b62a64f052",
+      "title": "Germany news: Merz questions coal reform amid Mideast crisis",
+      "url": "https://www.dw.com/en/germany-news-merz-questions-coal-reform-amid-mideast-crisis/live-76558121?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-03-27T18:36:00.000Z",
+      "description": "With global energy supplies disrupted, Chancellor Friedrich Merz said it may be necessary to keep Germany's coal-fired plants online for longer. Lufthansa cabin crew have voted in favor of a new strike. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ドイツニュース：中東危機の中、メルツ独首相が石炭改革に疑問を呈す",
+      "summary": "ドイツのメルツ首相は、世界的なエネルギー供給混乱を受け、石炭火力発電所の稼働延長の可能性を示唆。ルフトハンザ航空客室乗務員はストライキを可決した。"
+    }
+  },
+  "NG": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "036aec8af4fa93622bfb859fe5456c28",
+      "title": "Unpacking the political complexities of the Benue killings in Nigeria",
+      "url": "https://globalvoices.org/2026/03/26/unpacking-the-political-complexities-to-the-benue-killings-in-nigeria",
+      "published_at": "2026-03-26T19:00:03.000Z",
+      "description": "What we are dealing with here in Benue is a calculated, well planned, full-scale genocidal invasion and land grabbing campaign by Herder terrorists and bandits, which ... is worsening every year.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "ナイジェリアにおけるベヌエ州殺害事件の政治的複雑さを解明する",
+      "summary": "ベヌエ州で発生している牧畜民テロリストによる計画的な大量虐殺と土地強奪が毎年悪化しており、その政治的背景が複雑さを増しています。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bc0f016d6f688d48682ffb271c08421b",
+      "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
+      "url": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
+      "published_at": "2026-03-26T06:51:05.000Z",
+      "description": "Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ウクライナ戦争速報：ゼレンスキー大統領、米国が安全保障をドンバス譲渡と関連付けたと発言",
+      "summary": "ウクライナのゼレンスキー大統領は、米国が安全保障をドンバス地域のロシアへの譲渡と関連付けていると発言し、和平交渉における新たな進展を示唆した。"
+    }
+  },
+  "ZA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c81c6cdb1464a45e494b2350fc82bb13",
+      "title": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
+      "url": "https://www.bbc.com/news/articles/c4g8w9d3j0xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T08:16:37.000Z",
+      "description": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "南アフリカのG7サミット除外は驚きではない、とラマポーザ大統領",
+      "summary": "南アフリカのラマポーザ大統領は、G7サミットへの招待取り消しは驚きではないと述べた。報道によると、トランプ前大統領のボイコット示唆を受け、米国がフランスに圧力をかけたという。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "59b05801977e848c388a98dba08c2fc3",
+      "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
+      "url": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
+      "published_at": "2026-03-26T10:24:21.000Z",
+      "description": "Market in North Darfur and truck carrying civilians in North Kordofan hit as civil war approaches fourth year\nAt least 28 civilians have been killed in two separate drone strikes in Sudan, according to health workers, as the country’s brutal civil war between the army and the paramilitary Rapid Support Forces (RSF) approaches its fourth year.\nA strike hit a market in the town of Saraf Omra, in North Darfur state, on Wednesday, killing “22 people, including an infant, and injuring 17 more”, a health worker at the local clinic told Agence France-Presse (AFP).\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダンで民間人標的のドローン攻撃2件、28人死亡",
+      "summary": "スーダン内戦が4年目に近づく中、北ダルフールと北コルドファンの民間人標的へのドローン攻撃2件で、少なくとも28人が死亡したと医療関係者が発表した。"
+    }
+  },
+  "DM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7d46568f9444b0bd8f94b6680f59ec37",
+      "title": "Scientists film whale giving birth while other whales work together to help her",
+      "url": "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her",
+      "published_at": "2026-03-27T16:13:07.000Z",
+      "description": "Female named Rounder surrounded by family members when about to give birth to her second calf\nScientists have managed to film a sperm whale giving birth while other female whales worked together to support the mother and her newborn.\nA team from Project Ceti, an international effort seeking to understand how whales communicate, was in a boat near a pod of 11 whales off the coast of the Caribbean island of Dominica on 8 July 2023.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "DM",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "科学者たちがクジラの出産を撮影、他のクジラたちが協力して助ける様子を捉える",
+      "summary": "科学者たちがドミニカ沖でマッコウクジラの出産を撮影し、他の雌クジラたちが母親と新生児を助ける協力的な行動を捉えた。これは希少な科学的観察である。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f7bd3c9c16f449c5ed823f9889136b7a",
+      "title": "Mexican government partially unblocks secure internet",
+      "url": "https://globalvoices.org/2026/03/03/mexican-government-partially-unblocks-secure-internet",
+      "published_at": "2026-03-03T16:00:14.000Z",
+      "description": "The Tor network is used by millions of users daily to securely access the internet, safeguard their right to information and freedom of expression, and avoid censorship or government surveillance.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "メキシコ政府がセキュアなインターネットの一部ブロックを解除",
+      "summary": "メキシコ政府がTorネットワークの一部ブロックを解除した。これは数百万人のユーザーが情報への権利と表現の自由を守り、政府による検閲や監視を避けるために利用する。"
+    }
+  },
+  "SV": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f4b56cefb94603e759165ec01e8c7a48",
+      "title": "Venezuelans deported by US detail fresh claims of torture and abuse at El Salvador mega-prison",
+      "url": "https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition",
+      "published_at": "2026-03-26T22:16:01.000Z",
+      "description": "Petition seeks accountability from Salvadorian authorities over human rights violations at notorious Cecot facility\nA group of 18 Venezuelan men whom the US expelled a notorious Salvadorian mega-prison are demanding that Salvadorian authorities be held internationally accountable for violation of human rights – detailing new allegations of torture, sexual assault and medical neglect.\nA new petition, filed on Thursday before the Inter-American Commission on Human Rights, alleges that El Salvador violated the human rights of these men, who were expelled to El Salvador’s Terrorism Confinement Center (Cecot) last year without charge.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "米国に強制送還されたベネズエラ人、エルサルバドルの巨大刑務所での拷問と虐待を新たに訴える",
+      "summary": "米国に強制送還されたベネズエラ人男性らが、エルサルバドルの巨大刑務所「セコット」での拷問や性的暴行、医療過誤といった人権侵害を告発し、国際的な責任追及を求めている。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6633c68e409199e3eacefb49f42b54c9",
+      "title": "French court hands Islam scholar Tariq Ramadan 18-year jail term for rape",
+      "url": "https://www.bbc.com/news/articles/cj408984v2xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T14:31:23.000Z",
+      "description": "Ramadan, a 63-year-old former Oxford professor, denied the charges but his lawyers said he was too ill to attend the trial.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "フランスの裁判所、イスラム学者タリク・ラマダン氏に強姦罪で18年の実刑判決",
+      "summary": "フランスの裁判所が、イスラム学者タリク・ラマダン氏に対し強姦罪で18年の実刑判決を下した。同氏は容疑を否認している。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c324c89f65adca19a628fbae13c78ccc",
+      "title": "Canada’s Bill C-12 an ‘attack on refugee, migrant rights’: Advocates",
+      "url": "https://www.aljazeera.com/news/2026/3/27/canadas-bill-c-12-an-attack-on-refugee-migrant-rights-advocates?traffic_source=rss",
+      "published_at": "2026-03-27T19:02:50.000Z",
+      "description": "Rights groups say new law restricting asylum will put thousands 'at risk of persecution, violence and precarity'.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "カナダの法案C-12は「難民・移民の権利への攻撃」と擁護団体が主張",
+      "summary": "権利団体は、新たな亡命制限法が数千人を「迫害、暴力、不安定な状態」に陥れる危険があると述べている。"
+    }
+  },
+  "IL": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "56b5a7b9d9af27d76489125c397f3a62",
+      "title": "Israel says it has killed Iran's navy chief overseeing Strait of Hormuz blockade",
+      "url": "https://www.bbc.com/news/articles/cy81p99x07no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T15:26:36.000Z",
+      "description": "Israel's defence minister said a number of other \"senior Navy command officials\" have also been killed. Iran has not yet commented.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イスラエル、ホルムズ海峡封鎖を監督していたイラン海軍司令官を殺害と発表",
+      "summary": "イスラエルの国防相は、ホルムズ海峡封鎖を監督していたイラン海軍司令官を含む複数の高官を殺害したと発表した。イランはまだコメントしていない。"
+    }
+  },
+  "RU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7617bed659dc3e1fc1b06cd57d3b4184",
+      "title": "Russia declares protagonist of Oscar-winning documentary a ‘foreign agent’",
+      "url": "https://www.aljazeera.com/news/2026/3/27/russia-declares-protagonist-of-oscar-winning-documentary-a-foreign-agent?traffic_source=rss",
+      "published_at": "2026-03-27T16:37:59.000Z",
+      "description": "The teacher had spent two years documenting pro-war propaganda at a school before smuggling footage out of Russia.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ロシア、オスカー受賞ドキュメンタリーの主人公を「外国代理人」と認定",
+      "summary": "その教師は、ロシアの学校でプロパガンダを2年間記録し、その映像を国外に持ち出した人物。"
+    }
+  },
+  "SA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b7ffcc6e87727614b5d7d739f720913",
+      "title": "Ukraine signs deal with Saudi Arabia offering drone expertise",
+      "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T10:15:27.000Z",
+      "description": "Volodymyr Zelensky says the Gulf kingdom faces the same type of attacks from Iran that Kyiv has been resisting.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ウクライナ、サウジアラビアとドローン専門知識提供で合意",
+      "summary": "ウクライナのゼレンスキー大統領は、イランからの攻撃に直面するサウジアラビアが、ウクライナが抵抗してきた攻撃と同じ種類に遭遇していると述べ、ドローン専門知識提供で合意した。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0be21304e732094f0eb337a6b18cbbde",
+      "title": "Morocco ready to host Wafcon 'any time' as questions remain over postponement",
+      "url": "https://www.bbc.com/sport/football/articles/cp9m3enx4llo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T11:07:46.000Z",
+      "description": "A senior member of the Moroccan government says the country was “ready to host” the Women’s Africa Cup of Nations this month despite the decision to delay it until July.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "延期を巡り疑問が残る中、モロッコはいつでも女子アフリカネイションズカップ開催の準備万端",
+      "summary": "モロッコ政府高官は、女子アフリカネイションズカップが7月まで延期されたにもかかわらず、モロッコはいつでも開催できる準備ができていたと述べた。"
+    }
+  },
+  "GN": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c62a64815a9835fe503889e2405ee3ab",
+      "title": "Army commander convicted of Guinea stadium massacre dies in prison",
+      "url": "https://www.bbc.com/news/articles/clyxe6n297ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T13:08:21.000Z",
+      "description": "Aboubacar Sidiki Diakité was convicted over the 2009 massacre in which more than 150 people were killed.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GN",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "ギニアのスタジアム虐殺で有罪判決を受けた陸軍司令官が獄死",
+      "summary": "2009年の虐殺事件で150人以上を殺害した罪で有罪判決を受けていたアブバカール・シディキ・ディアキテ陸軍司令官が、獄中で死亡した。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "07ccf003380df920c051331e5927498f",
+      "title": "Senegal to parade Afcon trophy despite title being stripped",
+      "url": "https://www.bbc.com/sport/football/articles/c070kg5rn0ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T14:35:52.000Z",
+      "description": "Senegal's Football Federation boss calls the decision to hand Morocco the Afcon title a \"robbery\" amid plans to parade the trophy before Saturday's friendly against Peru in Paris.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "タイトル剥奪にもかかわらず、セネガルがアフリカネイションズカップのトロフィーをパレードへ",
+      "summary": "セネガルのサッカー連盟会長は、アフリカネイションズカップのタイトルをモロッコに与える決定を「強奪」と呼び、土曜日のペルー戦前にトロフィーをパレードする計画だ。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7bc7395f02d1040661ab6f74f5fa11f3",
+      "title": "Zimbabwe says 15 nationals killed after being lured to fight for Russia",
+      "url": "https://www.bbc.com/news/articles/clyxevz45x9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T10:55:56.000Z",
+      "description": "Zimbabwe says it is engaging the Russian government to repatriate bodies and bring home those still alive.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ジンバブエ、ロシアのために戦うよう誘惑された国民15人が死亡と発表",
+      "summary": "ジンバブエ政府は、ロシアのために戦うよう誘い込まれた国民15人が死亡したと発表した。遺体の送還と生存者の帰還について、ロシア政府と協議中だという。"
+    }
+  },
+  "AO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4be9f6a88a4c6a8c0b185d576f5b204d",
+      "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+      "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T00:18:10.000Z",
+      "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "AO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "アンゴラで反政府デモを扇動したとされるロシアの作戦の内幕",
+      "summary": "アンゴラで、反政府デモを扇動したとしてロシア人とアンゴラ人のグループが裁判にかけられる。彼らは容疑を否認している。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "10af06ffd108a899edf6ee48e4fce9a8",
+      "title": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
+      "url": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-20T00:06:24.000Z",
+      "description": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "食糧を求める絶望的な状況下、干ばつに苦しむケニア人がジンジャーブレッドツリーに頼る",
+      "summary": "干ばつに見舞われたケニアでは、食糧を求める人々がジンジャーブレッドツリーに頼っている。Oxfamは、ケニア、エチオピア、ソマリアで約2600万人が極度の飢餓に直面していると警告した。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3544611841ed851db5e3da438202f749",
+      "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+      "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-17T00:08:56.000Z",
+      "description": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "「空から火が降ってきて彼らを焼いた」―南スーダン、内戦の瀬戸際の生活",
+      "summary": "南スーダンのジョングレイ州では、軍が大規模な軍事攻勢を警告しており、約5万人が自宅からの避難を命じられ、内戦寸前の状況にある。"
+    }
+  },
+  "CM": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7809091b16dc816f94a3364d012f91c1",
+      "title": "Cameroonian rice farmers caught between national ambition and rural realities",
+      "url": "https://globalvoices.org/2026/03/24/cameroonian-rice-farmers-caught-between-national-ambition-and-rural-realities",
+      "published_at": "2026-03-24T20:00:29.000Z",
+      "description": "The Cameroonian government’s rice self-sufficiency policy has sparked enthusiasm among the country’s rice farmers. In the northwest, rice farmers combine courage with determination every day to fulfil these national promises.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 72,
+      "titleJa": "カメルーンの米農家、国家の野心と農村の現実の狭間で苦闘",
+      "summary": "カメルーン政府の米自給自足政策は農家の熱意を呼んだものの、北西部では農民が日々の厳しい現実と向き合いながら国家の目標達成に奮闘しています。"
+    }
+  },
+  "CD": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d2aac70660290df7cda4297c58b5def5",
+      "title": "Climate change brings changes to North Kivu’s agricultural practices in the DRC",
+      "url": "https://globalvoices.org/2026/03/17/climate-change-brings-changes-to-north-kivus-agricultural-practices-in-the-drc",
+      "published_at": "2026-03-17T04:00:51.000Z",
+      "description": "Climate change has impacted North Kivu, a region in the eastern Democratic Republic of the Congo (DRC), where farmers have had to adapt their farming practices to survive.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 78,
+      "titleJa": "気候変動がコンゴ民主共和国北キブ州の農業慣行に変化をもたらす",
+      "summary": "コンゴ民主共和国東部の北キブ州では気候変動の影響が深刻で、農民は生存のため農業慣行の適応を余儀なくされています。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "533f9420a6c3137d5a96c0c8bd8007c4",
+      "title": "Ethiopia’s urban renewal projects and turn toward aesthetic propaganda",
+      "url": "https://globalvoices.org/2026/03/11/aesthetic-propaganda-ethiopias-urban-renewal-projects-and-the-visual-turn-in-digital-authoritarianism",
+      "published_at": "2026-03-11T08:00:59.000Z",
+      "description": "This is not a trend limited to Ethiopia. Influencers have increasingly become important in popularizing selective authoritarian stories from Dubai to China, and thereby legitimizing authoritarian narratives.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 82,
+      "titleJa": "エチオピアの都市再開発プロジェクトと美的プロパガンダへの転換",
+      "summary": "エチオピアの都市再開発は、ドバイから中国に至るまで権威主義的な物語を普及させ、その正当性を確立するための美的プロパガンダへと転換している世界的な傾向の一部です。"
+    }
+  },
+  "BW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "776084c86a2c646e33ea375ef62f1947",
+      "title": "Government attacks on mainstream media undermine the credibility of democracy in Botswana",
+      "url": "https://globalvoices.org/2026/03/09/government-attacks-on-mainstream-media-undermine-the-credibility-of-democracy-in-botswana",
+      "published_at": "2026-03-09T16:00:39.000Z",
+      "description": "\"What is at stake in Botswana media is not only law reforms but the viability of journalism in a disrupted, underfunded and rapidly changing environment.\"",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 87,
+      "titleJa": "政府による主流メディアへの攻撃がボツワナの民主主義の信頼性を損なう",
+      "summary": "ボツワナでは、政府による主流メディアへの攻撃が、法改正だけでなく混乱した環境下でのジャーナリズムの存続を脅かし、民主主義の信頼性を低下させています。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "724d3e08028c41c30484f011f4fbce6b",
+      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+      "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T17:16:06.000Z",
+      "description": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "オーバン政権のハンガリー政府、選挙前に大規模な有権者威嚇で告発される",
+      "summary": "ハンガリーのオーバン政権が選挙を前に、有権者に金銭や薬物を提供し与党を支持するよう圧力をかけたとして告発されている。"
+    }
+  },
+  "GB": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "32c8c591f1cdb3d8c3a871eaa279c59e",
+      "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
+      "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T16:24:42.000Z",
+      "description": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "英国、ロシアのシャドー船団の船舶を差し押さえる「準備ができた」とヒーリー氏が発言",
+      "summary": "英国政府は1月に法的根拠を特定し、制裁対象のロシア船籍船舶を必要に応じて乗船・差し押さえる準備ができたと発表した。"
+    }
+  },
+  "EE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5280993543721f198c41f5be932a5466",
+      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones",
+      "url": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T12:42:14.000Z",
+      "description": "The incidents occurred on the same night that Ukraine launched a massive attack on Russia's port of Ust-Luga, near the Estonian border.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "EE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "エストニアとラトビア、ウクライナの迷いドローンに領土が被弾したと発表",
+      "summary": "エストニアとラトビアが、ウクライナのドローンが自国領土に被弾したと発表した。これは、ウクライナがロシアの港を大規模攻撃した夜に発生した。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5cb306c980be95e8b25eade33cf0fcd5",
+      "title": "Has banning phones improved performance at Dutch schools? ",
+      "url": "https://www.bbc.com/news/articles/cpqxjwvvyl4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T06:00:25.000Z",
+      "description": "Two years ago the Netherlands banned phones in schools. Now the government wants to go further, pushing to restrict social media for under‑16s.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "オランダの学校での携帯電話禁止は成績向上に貢献したか？",
+      "summary": "オランダでは2年前に学校での携帯電話使用が禁止された。政府はさらに16歳未満のソーシャルメディア利用も制限しようとしている。"
+    }
+  },
+  "VE": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "175a2c2667c1b1728622a58566d580e1",
+      "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+      "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T18:49:46.000Z",
+      "description": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "米検察、マドゥロ氏がベネズエラの富を「略奪した」と法廷で主張",
+      "summary": "米国の検察官は、マドゥロ夫妻がベネズエラ資金を弁護士費用に充てることの是非を巡る法廷闘争で、「マドゥロ氏がベネズエラの富を略奪した」と主張した。"
+    }
+  },
+  "CO": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "32629c51867b1acbfa0e3f4d6b8d3bc5",
+      "title": "Death toll from Colombian military plane crash rises to 69 as search ends",
+      "url": "https://www.bbc.com/news/articles/c8ejkz89k1ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T21:30:53.000Z",
+      "description": "The Hercules military transport plane crashed minutes after take-off near Colombia's southern border with Peru.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "コロンビア軍用機墜落、捜索終了で死者69人に増加",
+      "summary": "コロンビア軍の輸送機ヘラクレスがペルーとの国境付近で離陸直後に墜落。捜索活動が終了し、死者数は69人に達した。"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b14badb57dc6bef69b3111d134377e7",
+      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+      "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-12T00:05:52.000Z",
+      "description": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "エプスタインがモデルエージェントを使い少女を募集、ブラジル人女性らがBBCに証言",
+      "summary": "ブラジル人女性らがBBCに証言。故ジェフリー・エプスタインがモデルエージェントを介して少女たちを募集し、米国へのビザを手配していたと報じられた。"
+    }
+  },
+  "PR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "27b6623ae7393cbeee4d449edb5e7cc3",
+      "title": "How Bad Bunny brought the issue of Puerto Rico’s power grid into world view",
+      "url": "https://globalvoices.org/2026/03/22/how-bad-bunny-brought-the-issue-of-puerto-ricos-power-grid-into-world-view",
+      "published_at": "2026-03-22T06:30:47.000Z",
+      "description": "Puerto Rico’s electricity system has faced repeated crises since 2017’s Hurricane Maria, which destroyed much of the grid and triggered the longest blackout in modern U.S. history; outages remain routine.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "バッド・バニーはいかにしてプエルトリコの電力網問題を世界に知らしめたか",
+      "summary": "プエルトリコの電力網問題について、人気アーティストのバッド・バニーが世界的な注目を集めた。ハリケーン・マリア以来、停電が常態化している状況が続く。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08e6a3c1befbbb07884571be27a51d68",
+      "title": "Ecuador’s Netanyahu and Trump supporters target Ecuadorian–Iranian Cultural Center",
+      "url": "https://globalvoices.org/2026/03/21/ecuadors-netanyahu-and-trump-supporters-target-ecuadorian-iranian-cultural-center",
+      "published_at": "2026-03-21T06:00:20.000Z",
+      "description": "Wars no longer have defined frontlines. Battlefields can be anywhere those in power decide that a neighbor, due to their faith, ethnicity, or background, is an enemy.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "エクアドルのネタニヤフ・トランプ支持者がエクアドル・イラン文化センターを標的に",
+      "summary": "エクアドルでネタニヤフとトランプの支持者が、エクアドル・イラン文化センターを標的とした。信仰や背景による敵対視が、場所を問わず紛争の温床となる現代の状況を示唆する。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4034cd9d4b6fe41802e9efe50143da39",
+      "title": "Concerns grow as Jamaica ends Cuban medical programme",
+      "url": "https://globalvoices.org/2026/03/14/concerns-grow-as-jamaica-ends-cuban-medical-programme",
+      "published_at": "2026-03-14T13:00:17.000Z",
+      "description": "Terminating the decades-old programme that brought hundreds of Cuban medical personnel to its shores is an unusual move, especially for a programme that had been running smoothly for 50 years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ジャマイカがキューバの医療プログラムを終了し、懸念が高まる",
+      "summary": "ジャマイカが50年間続いていたキューバ人医師受け入れプログラムを終了したことで懸念が広がっている。これは医療提供に大きな影響を与える可能性がある。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "51ed74fb55ef0355caedc3b04dbab06d",
+      "title": "Beyond words: Incarcerated women’s responses to punitive systems in Peru",
+      "url": "https://globalvoices.org/2026/03/06/beyond-words-incarcerated-womens-responses-to-punitive-systems-in-peru",
+      "published_at": "2026-03-06T13:30:35.000Z",
+      "description": "A collage-based artistic creation workshop revealed how a group of incarcerated women counter the dynamics and effects of imprisonment through individual reflection, creative practice, and the sustaining of collective bonds.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "言葉を超えて：ペルーにおける処罰システムに対する女性受刑者の反応",
+      "summary": "ペルーの女性受刑者たちが、コラージュ制作ワークショップを通じて、個人の内省、創造的実践、そして集団的な絆を維持することで、投獄の力学と影響に対抗していることが明らかになった。"
+    }
+  },
+  "SG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "af405e56e8ff8f303c276808ea78253f",
+      "title": "Singapore denies Malaysian scholar entry, calling her 'undesirable visitor'",
+      "url": "https://www.bbc.com/news/articles/cql7d9neee0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-27T06:42:56.000Z",
+      "description": "Fadiah Nadwa Fikri urged some in Singapore to \"adopt her brand of radical advocacy\", authorities say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "SG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "シンガポール、マレーシア人学者を入国拒否、「好ましくない訪問者」と呼ぶ",
+      "summary": "シンガポール当局は、マレーシア人学者ファディア・ナドワ・フィクリ氏が「過激な擁護」を提唱したとして、入国を拒否した。"
+    }
+  },
+  "IN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "659b40547a98f7de35b3580aa0f39c53",
+      "title": "India's fertiliser supplies under strain as war disrupts shipments",
+      "url": "https://www.bbc.com/news/articles/crk1066npvzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T06:40:45.000Z",
+      "description": "Analysts say current stocks are enough for the upcoming sowing season, but this may change if the war stretches on.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "戦争が出荷を混乱させ、インドの肥料供給が逼迫",
+      "summary": "国際的な戦争による出荷の混乱でインドの肥料供給が逼迫している。現在の在庫は次の作付けシーズンには足りるが、戦争が長引けば状況は変わる可能性がある。"
+    }
+  },
+  "PH": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a555210a6f36c5ee517495b1a90f152a",
+      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
+      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-25T08:59:46.000Z",
+      "description": "The President says the country will procure one million barrels of oil to add to the current stock.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "マルコス大統領、エネルギー緊急事態宣言のフィリピンで「石油の流れ」を約束",
+      "summary": "フィリピンがエネルギー緊急事態を宣言する中、マルコス大統領は国内の石油供給を確保するため、100万バレルの石油を調達すると約束した。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3c2c178d2e453ea64adc98ff24d9b51c",
+      "title": "Australia bans Iranian tourists with valid visas for six months",
+      "url": "https://www.bbc.com/news/articles/cdrm0rlv102o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-26T05:43:31.000Z",
+      "description": "Critics say the move, which comes after Iranian footballers were granted asylum, is a \"moral failure\".",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "オーストラリア、有効なビザを持つイラン人観光客を6ヶ月間禁止",
+      "summary": "オーストラリアが有効なビザを持つイラン人観光客を6ヶ月間禁止する措置を発表した。この動きは一部から「道徳的失敗」と批判されている。"
+    }
+  },
+  "EU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "65e3d952f92ecfc40e3281874390f163",
+      "title": "EU launches safeguard investigation on grain-oriented electrical steel",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_eec_27mar26_348_e.htm",
+      "published_at": "2026-03-27T00:00:00.000Z",
+      "description": "On 27 March 2026, the European Union notified the WTO’s Committee on Safeguards that it had initiated, on the same day (27 March 2026), a safeguard investigation on imports of grain-oriented electrical steel.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "EU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "EU、方向性電磁鋼板に関するセーフガード調査を開始",
+      "summary": "欧州連合は2026年3月27日、方向性電磁鋼板の輸入に関するセーフガード調査を開始したことをWTOに通知した。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "66f27e3e9f6371585fabc632b3981eff",
+      "title": "China commits USD 1.1 million to support WTO accession, LDCs and technical assistance",
+      "url": "https://www.wto.org/english/news_e/pres26_e/pr993_340_e.htm",
+      "published_at": "2026-03-26T00:00:00.000Z",
+      "description": "In two separate contributions, the government of China has pledged USD 1.1 million (close to CHF 900,000) for 2026 to support the WTO’s Least-Developed Countries (LDCs) and Accessions Programme (also known as the China Programme) as well as the general fund that supports WTO technical assistance.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "CN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "中国、WTO加盟支援、後発開発途上国支援、技術支援に110万ドルを拠出",
+      "summary": "中国政府は2026年、WTOの後発開発途上国および加盟プログラム、ならびに技術支援のための一般基金に110万ドルを拠出することを表明した。"
+    }
+  }
+}
