@@ -1,0 +1,842 @@
+{
+  "IR": {
+    "count": 15,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c770b2557f07600d2bfeb61e317b3903",
+      "title": "New video reveals moment US-Israeli munitions impact Iranian bridge",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/new-video-reveals-moment-us-israeli-munitions-impact-iranian-bridge?traffic_source=rss",
+      "published_at": "2026-04-04T17:02:25.000Z",
+      "description": "New video shows the moment multiple US-Israeli strikes hit the B1 bridge in Iran's northern Alborz province on Thursday.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "新たなビデオが米・イスラエル製弾薬がイランの橋に命中した瞬間を公開",
+      "summary": "新しい映像が、米・イスラエル軍の攻撃がイラン北部アルボルズ州のB1橋に命中した瞬間を捉えた。"
+    }
+  },
+  "US": {
+    "count": 8,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ee92ccf896922af18ee71ffba330cdf8",
+      "title": "Trump says Iran has 48 hours to make deal as search for US pilot continues",
+      "url": "https://www.aljazeera.com/news/2026/4/4/trump-says-iran-has-48-hours-to-make-deal-as-search-for-us-pilot-continues?traffic_source=rss",
+      "published_at": "2026-04-04T16:35:27.000Z",
+      "description": "Trump does not reference a downed US jet in his post but points to a deadline for Iran to reopen the Strait of Hormuz.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "トランプ氏、米国人パイロット捜索中にイランに48時間以内の取引を要求",
+      "summary": "トランプ氏は、イランがホルムズ海峡を再開するための期限を提示し、48時間以内に合意するよう要求した。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "13e91dccdf8c4de11160815860d901f1",
+      "title": "Russian attack on Ukraine market kills five",
+      "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T18:54:53.000Z",
+      "description": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "ロシアのウクライナ市場攻撃で5人死亡",
+      "summary": "ウクライナ南部の市場でロシアのドローン攻撃があり、5人が死亡、21人が負傷した。"
+    }
+  },
+  "IT": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "093fec31928675991ae7adb5c10d0be8",
+      "title": "Meloni in the Gulf: harmony on gas and defence with Qatar, the Emirates and Saudi Arabia",
+      "url": "http://www.euronews.com/2026/04/04/meloni-in-the-gulf-harmony-on-gas-and-defence-with-qatar-the-emirates-and-saudi-arabia",
+      "published_at": "2026-04-04T17:44:05.000Z",
+      "description": "The focus of the talks of Italian prime minister with Qatar, the Emirates and Saudi Arabia was the restoration of energy supplies and security in Hormuz. Italy offered technical support for affected infrastructure and defence against Iranian raids.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "メローニ首相、湾岸諸国でガス・防衛協力に合意：カタール、UAE、サウジアラビアと",
+      "summary": "イタリアのメローニ首相がカタール、UAE、サウジアラビアを訪問し、エネルギー供給回復とホルムズ海峡の安全保障について協議。イランからの攻撃に対する防衛協力も。"
+    }
+  },
+  "CM": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7809091b16dc816f94a3364d012f91c1",
+      "title": "Cameroonian rice farmers caught between national ambition and rural realities",
+      "url": "https://globalvoices.org/2026/03/24/cameroonian-rice-farmers-caught-between-national-ambition-and-rural-realities",
+      "published_at": "2026-03-24T20:00:29.000Z",
+      "description": "The Cameroonian government’s rice self-sufficiency policy has sparked enthusiasm among the country’s rice farmers. In the northwest, rice farmers combine courage with determination every day to fulfil these national promises.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "国家の野心と農村の現実の間に挟まれるカメルーンの米農家",
+      "summary": "カメルーン政府の米自給自足政策が米農家に希望を与えているものの、農家は日々、国家の約束を果たすために奮闘している状況を報告します。"
+    }
+  },
+  "AU": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "63cb3dd18e505116b9ffc84cedd3aaa8",
+      "title": "Iran war economic shocks will last 'months', says Australia's PM",
+      "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T10:53:03.000Z",
+      "description": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "イラン戦争の経済的衝撃は「数ヶ月続く」と豪首相が発言",
+      "summary": "オーストラリアのアンソニー・アルバニージー首相は、イラン戦争の世界的影響により、今後数ヶ月は経済的に困難になるだろうと国民に警告した。"
+    }
+  },
+  "PE": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ef88c948cf03db9fac6cf55c398641f7",
+      "title": "One dead and dozens injured at Peru football stadium during pre-match event",
+      "url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
+      "published_at": "2026-04-04T10:00:05.000Z",
+      "description": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures\nOne person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the football club Alianza Lima.\nHundreds of fans were attending a “flag-waving event” on Friday around the stadium, a day before a derby match between the home team Alianza Lima and local rivals Universitario de Deportes.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "PE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "ペルーのサッカースタジアムで試合前イベント中に1人死亡、数十人負傷",
+      "summary": "ペルーのリマにあるスタジアムで、ダービーマッチ前日のイベント中に1人が死亡し、数十人が負傷した。クラブは当初の報道とは異なり、構造上の問題はなかったと発表。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "588695d5b8024cd9641cebb61d9ce78f",
+      "title": "France: Thousands join Paris suburb mayor to protest racism",
+      "url": "https://www.dw.com/en/france-thousands-join-paris-suburb-mayor-to-protest-racism/a-76663818?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-04T17:39:00.000Z",
+      "description": "Left-wing Mayor Bally Bagayoko has been subjected to racist abuse since winning a clear majority in the first-round vote. Prosecutors are investigating comments made on national television.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "フランス：パリ郊外の市長に連帯し、人種差別に抗議するため数千人が参加",
+      "summary": "パリ郊外で人種差別的な嫌がらせを受けた市長への抗議デモに数千人が参加した。検察当局が調査を開始している。"
+    }
+  },
+  "KE": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "10af06ffd108a899edf6ee48e4fce9a8",
+      "title": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
+      "url": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-20T00:06:24.000Z",
+      "description": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "食料に窮し、干ばつに苦しむケニア人がジンジャーブレッドの木に頼る",
+      "summary": "干ばつに見舞われたケニアでは、食料に窮した人々がジンジャーブレッドの木に頼る。ケニアを含むアフリカ諸国で2600万人が飢餓に直面する。"
+    }
+  },
+  "LB": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ed2724ba59fbf55e176457dd18dcfaf5",
+      "title": "US and Iran race to find missing downed pilot as Lebanon faces intense Israeli strikes",
+      "url": "http://www.euronews.com/2026/04/04/us-and-iran-race-to-find-missing-downed-pilot-as-lebanon-faces-intense-israeli-strikes",
+      "published_at": "2026-04-04T14:38:46.000Z",
+      "description": "The Israeli military have relaunched evacuation orders from the southern Lebanese city of Tyre, warning of more strikes, claiming they are targeting Hezbollah. Over 1.2 million people in Lebanon have been displaced since the beginning of the war.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米国とイラン、行方不明の撃墜されたパイロット捜索で競争。レバノンはイスラエルの激しい攻撃に直面",
+      "summary": "レバノン南部ティルス市でイスラエル軍が避難命令を再発令し、ヒズボラへの攻撃を警告。レバノンでは120万人以上が戦争で避難。"
+    }
+  },
+  "DE": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "425ef4fe98a4bc798fb0bd2f8b63c292",
+      "title": "German, EU finance ministers call for energy windfall tax",
+      "url": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-04T14:30:00.000Z",
+      "description": "The war in Iran has sent oil and gas prices soaring, boosting profits for energy companies, but burdening consumers. The EU is looking for a way to respond.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ドイツとEUの財務大臣がエネルギー企業への超過利潤税を求める",
+      "summary": "イラン戦争で石油・ガス価格が高騰し、エネルギー企業が巨額の利益を上げている一方で消費者に負担がかかる中、ドイツとEUの財務大臣が超過利潤税を求めている。EUは対応策を検討中だ。"
+    }
+  },
+  "BF": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a4771a5a7dfc1da17b6d4784a6a900cb",
+      "title": "People of Burkina Faso should forget about democracy, says military ruler",
+      "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+      "published_at": "2026-04-03T10:18:56.000Z",
+      "description": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’\nPeople in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, told the country’s state broadcaster.\nTraoré took power in a coup in September 2022, toppling another junta that had taken power just nine months earlier. He has since stifled opposition and in January banned political parties outright.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BF",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ブルキナファソの人々は民主主義を忘れるべきだと軍事指導者が発言",
+      "summary": "ブルキナファソの軍事指導者イブラヒム・トラオレは、民主主義は「我々のためではない」と述べ、国民は民主主義を忘れるべきだと語った。彼は2022年のクーデターで政権を掌握し、政治的反対意見を抑圧している。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4cae6fc30520bf41260123fcf54f2d4f",
+      "title": "Four toddlers stabbed to death at Ugandan nursery school",
+      "url": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T21:23:44.000Z",
+      "description": "The suspect is in custody but his motive is unknown, the police say in a brief statement.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "ウガンダの保育園で幼児4人が刺殺される",
+      "summary": "ウガンダの保育園で幼児4人が刺殺される悲劇が発生。容疑者は拘留されたが、動機は不明。社会に衝撃を与える凶悪事件。"
+    }
+  },
+  "CG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ed9af507b9026b91bab1ef0a437723bb",
+      "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+      "url": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant",
+      "published_at": "2026-03-30T15:34:49.000Z",
+      "description": "Football federation president on the run with wife and son\n\nConviction in absentia of wide-ranging corruption charges\n\nAuthorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Mayolas, the president of the country’s football federation, Fecofoot, after he was convicted of embezzling $1.1m in Fifa funds.\nMayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021. As the Guardian revealed last year, that included almost $500,000 earmarked for the Congo women’s team.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CG",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "コンゴ・ブラザビルがジャン＝ギ・ブレーズ・マヨラスに対しインターポール逮捕状を請求",
+      "summary": "コンゴ・ブラザビル当局は、FIFA資金110万ドルを横領した罪で有罪判決を受けた同国サッカー連盟会長に対し、インターポール逮捕状を請求した。彼は妻と息子と共に逃亡中。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "52d4e24e1fdfdb05d6521d8197448738",
+      "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
+      "url": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
+      "published_at": "2026-03-30T09:31:31.000Z",
+      "description": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gusts\nAn unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including the United Arab Emirates and Saudi Arabia. The Arabian peninsula – typically dominated by arid desert climates – received up to 150mm of rain in just a few days.\nThe deluge was caused by an abnormally strong jet stream, which helped a deep area of low pressure to develop north of Saudi Arabia. This, in turn, drew moist tropical air from the Indian Ocean and triggered intense storms.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "AE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 55,
+      "titleJa": "天気追跡：アラブ首長国連邦とサウジアラビアを雷雨が襲う",
+      "summary": "異常に強いジェット気流が原因で、先週アラブ首長国連邦とサウジアラビアを含む中東の一部で激しい雷雨が発生し、砂漠地帯で数日間で最大150mmの雨量を記録した。"
+    }
+  },
+  "CU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3d071efa065d3fed4532df61e4e52664",
+      "title": "Cuba's mothers-to-be prepare to give birth in a country plunged into darkness",
+      "url": "https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T05:58:19.000Z",
+      "description": "Two pregnant women tell the BBC's Will Grant of their hopes and fears as their nation is mired in crisis.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "キューバの妊婦たち、暗闇に包まれた国での出産に備える",
+      "summary": "危機に瀕し、暗闇に包まれたキューバで、妊婦たちが将来への希望と不安を抱きながら出産に備える状況が報じられた。二人の女性がその心情を語った。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7a645fa83ccb6ffe954cff0048b73a9b",
+      "title": "Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster",
+      "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
+      "published_at": "2026-04-02T19:07:20.000Z",
+      "description": "A Radio-Canada reporter noticed his maple syrup tasted odd; testing revealed it was adulterated with cane sugar\nAn investigation by Canada’s national broadcaster has found that a major Quebec producer has been diluting its maple syrup with cane sugar and selling the fraudulent product to grocery chains.\nIn a sting operation that involved false identities and covert recordings, journalists from Radio-Canada’s Enquête programme found that a low-cost syrup sold in major grocery store chains was heavily diluted.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "ケベック州で発覚したメープルシロップ詐欺をカナダの放送局が暴く",
+      "summary": "カナダの国営放送局の調査により、ケベック州の大手メープルシロップ製造業者が製品をサトウキビ砂糖で薄め、不正な商品を販売していた詐欺が発覚した。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0a130c506d9b12e091cc289ad0827547",
+      "title": "RFI Investigation: Ukrainian military in Libya and the strike on the Russian gas carrier Arctic Metagaz",
+      "url": "http://www.euronews.com/2026/04/04/rfi-investigation-ukrainian-military-in-libya-and-the-strike-on-the-russian-gas-carrier-ar",
+      "published_at": "2026-04-04T12:00:16.000Z",
+      "description": "French journalists report the presence of more than 200 Ukrainian military specialists in Libya and their alleged involvement in the attack on the Arctic Metagaz vessel using a maritime drone.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "LY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "RFI調査：リビアに展開するウクライナ軍とロシアのガス運搬船「アークティック・メタガス」への攻撃",
+      "summary": "フランスの報道によると、リビアに200人超のウクライナ軍事専門家がおり、海洋ドローンでロシアのガス運搬船「アークティック・メタガス」を攻撃した疑いがある。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2075ca7fed7076e8097a823624319605",
+      "title": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss",
+      "published_at": "2026-04-04T18:43:35.000Z",
+      "description": "Palestinians in Gaza scrambled to extinguish a vehicle engulfed in flames after it was targeted by an Israeli drone.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "ガザ中部でイスラエル無人機攻撃後、車両が炎上",
+      "summary": "ガザ中部でイスラエルの無人機攻撃を受け車両が炎上、パレスチナ人が消火活動に奔走した。"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ea576222047cb2bfb0d842841337a2ba",
+      "title": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
+      "url": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss",
+      "published_at": "2026-04-04T17:39:55.000Z",
+      "description": "Prime Minister Meloni is the first EU and NATO country leader to visit the region since the war began.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "QA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 78,
+      "titleJa": "イタリアのメローニ首相、イラン戦争中にカタール首長とエネルギー問題を協議",
+      "summary": "メローニ伊首相がカタール首長と会談。イラン戦争下でのエネルギー問題について議論し、欧米諸国として初の地域訪問となった。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b253a209cd9bbc1dc00dcc4a9565aa54",
+      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-atletico-madrid-vs-barcelona-la-liga?traffic_source=rss",
+      "published_at": "2026-04-04T16:09:13.000Z",
+      "description": "Follow our live updates, including team news coverage, before our text commentary stream of Spanish top flight match.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 35,
+      "titleJa": "ライブ：アトレティコ・マドリード対バルセロナ – ラ・リーガ",
+      "summary": "スペインのトップリーグ、アトレティコ・マドリード対バルセロナの試合をライブで速報。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b16ee156170edcc1587413abd7bb6d55",
+      "title": "Three suspects ordered to stay in UK custody over Jewish charity attack",
+      "url": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss",
+      "published_at": "2026-04-04T15:19:01.000Z",
+      "description": "The Metropolitan Police said the three men were charged with arson after setting ambulances on fire.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "GB",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ユダヤ系慈善団体攻撃で容疑者3名が英国で拘留継続を命じられる",
+      "summary": "英国の警視庁は、救急車に放火した容疑で3名を逮捕し、拘留継続を命じたと発表した。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "036aec8af4fa93622bfb859fe5456c28",
+      "title": "Unpacking the political complexities of the Benue killings in Nigeria",
+      "url": "https://globalvoices.org/2026/03/26/unpacking-the-political-complexities-to-the-benue-killings-in-nigeria",
+      "published_at": "2026-03-26T19:00:03.000Z",
+      "description": "What we are dealing with here in Benue is a calculated, well planned, full-scale genocidal invasion and land grabbing campaign by Herder terrorists and bandits, which ... is worsening every year.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ナイジェリアのベヌエ州における殺人事件の政治的複雑性を解き明かす",
+      "summary": "ナイジェリアのベヌエ州で毎年悪化している、牧畜民テロリストによる計画的な大量虐殺と土地強奪キャンペーンの政治的側面を掘り下げます。"
+    }
+  },
+  "AO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4be9f6a88a4c6a8c0b185d576f5b204d",
+      "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+      "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T00:18:10.000Z",
+      "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "AO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "アンゴラにおける反政府デモ誘発を企てた疑いのあるロシア人作戦の内幕",
+      "summary": "アンゴラで、ロシア人とアンゴラ人のグループが反政府デモを扇動したとして裁判にかけられている。これは外国からの政治的干渉疑惑を巡る問題。"
+    }
+  },
+  "CD": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d2aac70660290df7cda4297c58b5def5",
+      "title": "Climate change brings changes to North Kivu’s agricultural practices in the DRC",
+      "url": "https://globalvoices.org/2026/03/17/climate-change-brings-changes-to-north-kivus-agricultural-practices-in-the-drc",
+      "published_at": "2026-03-17T04:00:51.000Z",
+      "description": "Climate change has impacted North Kivu, a region in the eastern Democratic Republic of the Congo (DRC), where farmers have had to adapt their farming practices to survive.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "気候変動がDRC北キブ州の農業慣行に変化をもたらす",
+      "summary": "気候変動がコンゴ民主共和国東部の北キブ州に影響を与え、農家が生き残るために農業慣行の適応を余儀なくされている状況を説明します。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "533f9420a6c3137d5a96c0c8bd8007c4",
+      "title": "Ethiopia’s urban renewal projects and turn toward aesthetic propaganda",
+      "url": "https://globalvoices.org/2026/03/11/aesthetic-propaganda-ethiopias-urban-renewal-projects-and-the-visual-turn-in-digital-authoritarianism",
+      "published_at": "2026-03-11T08:00:59.000Z",
+      "description": "This is not a trend limited to Ethiopia. Influencers have increasingly become important in popularizing selective authoritarian stories from Dubai to China, and thereby legitimizing authoritarian narratives.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "エチオピアの都市再生プロジェクトと美的プロパガンダへの転換",
+      "summary": "エチオピアの都市再生プロジェクトが美的プロパガンダへと転換している事例を紹介し、ドバイから中国に至る権威主義的な物語を正当化する世界的傾向の一環であることを指摘します。"
+    }
+  },
+  "BW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "776084c86a2c646e33ea375ef62f1947",
+      "title": "Government attacks on mainstream media undermine the credibility of democracy in Botswana",
+      "url": "https://globalvoices.org/2026/03/09/government-attacks-on-mainstream-media-undermine-the-credibility-of-democracy-in-botswana",
+      "published_at": "2026-03-09T16:00:39.000Z",
+      "description": "\"What is at stake in Botswana media is not only law reforms but the viability of journalism in a disrupted, underfunded and rapidly changing environment.\"",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "BW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ボツワナにおける主流メディアへの政府攻撃が民主主義の信頼性を損なう",
+      "summary": "ボツワナで政府が主流メディアを攻撃していることが、民主主義の信頼性を損なうだけでなく、ジャーナリズムの存続可能性自体を脅かしている現状を報じます。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c9a0311c23cc388e15ca3e8423b63980",
+      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
+      "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T23:04:24.000Z",
+      "description": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "16年間政権を握ったヴィクトル・オルバンはついに失脚するか？",
+      "summary": "ハンガリーで9日後に総選挙が行われる。16年間政権を維持したオルバン首相が退陣する可能性を探る。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "971aefc1d460aaaf0f050666d4414b65",
+      "title": "Ancient golden helmet recovered more than a year after Dutch heist",
+      "url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T14:20:02.000Z",
+      "description": "The helmet and three golden bracelets were stolen in January 2025, but one bracelet is yet to be found.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "オランダでの強盗事件から1年以上、古代の黄金の兜が回収される",
+      "summary": "2025年1月に盗まれた兜と3つの黄金の腕輪のうち、兜は回収されたが、1つの腕輪はまだ見つかっていない。"
+    }
+  },
+  "GR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "56d6b65190273a56cd1ac6f56d5d75cb",
+      "title": "Families cram into Greek court for trial into deadliest train crash",
+      "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T16:30:17.000Z",
+      "description": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ギリシャ史上最悪の列車事故に関する裁判のため、遺族が裁判所に殺到",
+      "summary": "2023年に列車2台が衝突し57人が死亡したギリシャ史上最悪の鉄道事故で、36人が起訴された裁判が始まり、長期化する見込みだ。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "28015ccd20d3828c1b82d707b8c6e666",
+      "title": "Russian military plane crash kills 29 in occupied Crimea",
+      "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-01T09:55:28.000Z",
+      "description": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "ロシア軍機が占領下のクリミアで墜落、29人死亡",
+      "summary": "ロシア当局によると、技術的な故障によりAn-26が崖に衝突し、29人が死亡した。"
+    }
+  },
+  "VE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b3a2fbe6e3938e45bbca1ed212fe33df",
+      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T11:55:37.000Z",
+      "description": "It is the latest sign of warming relations between the US and Venezuela after Nicolás Maduro was seized in a commando raid.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国、ベネズエラのデルシー・ロドリゲス暫定指導者への制裁を解除",
+      "summary": "米国はベネズエラのデルシー・ロドリゲス暫定指導者への制裁を解除。これは両国間の関係改善の最新の兆候であり、ニコラス・マドゥロ氏の逮捕後に発生した。"
+    }
+  },
+  "BR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b14badb57dc6bef69b3111d134377e7",
+      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+      "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-12T00:05:52.000Z",
+      "description": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 95,
+      "titleJa": "エプスタイン、モデルエージェントを使い少女たちを募集とブラジル人女性がBBCに語る",
+      "summary": "ブラジル人女性たちがBBCに語ったところによると、ジェフリー・エプスタインはモデルエージェントを利用し、少女たちを募集して米国訪問のためのビザを手配していたという。"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a36f9b4551bb0ba1591daceb6164204a",
+      "title": "At least 16 killed and thousands displaced by gang attack in rural Haiti",
+      "url": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-31T12:02:46.000Z",
+      "description": "The attack happened in the Artibonite region, where members of the Gran Grif gang have targeted locals in the past.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "HT",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ハイチ農村部でギャング襲撃、少なくとも16人死亡、数千人避難",
+      "summary": "ハイチのアルティボニット地域でギャングによる襲撃が発生し、少なくとも16人が死亡、数千人が避難を余儀なくされた。グラン・グリフ・ギャングは以前からこの地域で住民を標的にしていた。"
+    }
+  },
+  "CO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "087c1f2adda521fa3c58e039557a2c08",
+      "title": "Healing a region: How healthcare is bringing peace to Arauca, Colombia",
+      "url": "https://globalvoices.org/2026/03/02/healing-a-region-how-healthcare-is-bringing-peace-to-arauca-colombia",
+      "published_at": "2026-03-02T01:00:21.000Z",
+      "description": "Reliable, inclusive healthcare does more than treat illness. It can function as social glue that softens community strain and transforms clinics into safe spaces for everyone.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "地域を癒す：コロンビア、アラウカにおける医療が平和をもたらす方法",
+      "summary": "コロンビアのアラウカ地域で、信頼性の高い医療が地域の平和を促進。医療は病気を治療するだけでなく、コミュニティの緊張を和らげ、誰もが安心できる場を提供する「社会の接着剤」として機能しています。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "440bc60ce3a6b41791fae2fc78466956",
+      "title": "Community micro-hydropower plants revolutionise isolated areas of the Dominican Republic",
+      "url": "https://globalvoices.org/2026/03/29/community-micro-hydropower-plants-revolutionise-isolated-areas-of-the-dominican-republic",
+      "published_at": "2026-03-29T09:00:44.000Z",
+      "description": "Community micro-hydropower projects in the DR rely on local leadership to deliver energy from renewable sources to isolated areas excluded from national distribution systems, contributing to reduced greenhouse gas emissions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ドミニカ共和国の孤立地域を改革する地域マイクロ水力発電所",
+      "summary": "ドミニカ共和国の地域マイクロ水力発電が、地方のリーダーシップにより孤立地域に再生可能エネルギーを供給。温室効果ガス削減に貢献し、地域を活性化しています。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08e6a3c1befbbb07884571be27a51d68",
+      "title": "Ecuador’s Netanyahu and Trump supporters target Ecuadorian–Iranian Cultural Center",
+      "url": "https://globalvoices.org/2026/03/21/ecuadors-netanyahu-and-trump-supporters-target-ecuadorian-iranian-cultural-center",
+      "published_at": "2026-03-21T06:00:20.000Z",
+      "description": "Wars no longer have defined frontlines. Battlefields can be anywhere those in power decide that a neighbor, due to their faith, ethnicity, or background, is an enemy.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "エクアドルのネタニヤフおよびトランプ支持者がエクアドル・イラン文化センターを標的に",
+      "summary": "エクアドルで、ネタニヤフとトランプの支持者がエクアドル・イラン文化センターを標的に。信仰や民族を理由に敵視する現代の政治対立を示唆している。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4034cd9d4b6fe41802e9efe50143da39",
+      "title": "Concerns grow as Jamaica ends Cuban medical programme",
+      "url": "https://globalvoices.org/2026/03/14/concerns-grow-as-jamaica-ends-cuban-medical-programme",
+      "published_at": "2026-03-14T13:00:17.000Z",
+      "description": "Terminating the decades-old programme that brought hundreds of Cuban medical personnel to its shores is an unusual move, especially for a programme that had been running smoothly for 50 years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ジャマイカがキューバ医療プログラムを終了し懸念が高まる",
+      "summary": "ジャマイカが50年続いたキューバの医療プログラムを終了し、懸念が拡大。数百人の医療従事者が関わった異例の政策変更です。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "84fa64925f467d5f0395c344351c84d7",
+      "title": "Nawat language now has its own Wikipedia",
+      "url": "https://globalvoices.org/2026/03/06/nawat-language-now-has-its-own-wikipedia",
+      "published_at": "2026-03-06T13:52:37.000Z",
+      "description": "The New Year brought an exciting announcement: the official launch of Wikipedia in Nawat, the result of several years of training and community-building across communities in El Salvador and beyond.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ナワト語に独自のウィキペディアが登場",
+      "summary": "エルサルバドルなどのコミュニティで数年の努力が実り、ナワト語版ウィキペディアが正式に公開。言語の保存とデジタル化における重要な一歩です。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "434f4daf45b8c46acd2d4c478b2a6c78",
+      "title": "Fears cost of water and beer to soar as India's scorching summer hits",
+      "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T23:16:37.000Z",
+      "description": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "インドの猛暑で水とビールの価格高騰への懸念が高まる",
+      "summary": "インドの猛暑が到来し、水とビールの価格が高騰する恐れがある。戦争による供給逼迫で、プラスチック・ガラスボトルメーカーは原材料調達に苦戦している。"
+    }
+  },
+  "MM": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e0a0db7383de99f3fb0bbeec8f644a31",
+      "title": "Myanmar's coup leader who set off a brutal civil war becomes president",
+      "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T06:49:37.000Z",
+      "description": "General Min Aung Hlaing has been chosen as the next president by the newly-elected parliament.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "MM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "残酷な内戦を引き起こしたミャンマーのクーデター指導者が大統領に就任",
+      "summary": "ミャンマーのミン・アウン・ライン総司令官が、新たに選出された議会によって次期大統領に選出された。彼はクーデターを引き起こし、国内は内戦状態にある。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2dc977db2cc26d789ce2b8286b2af09a",
+      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T04:00:48.000Z",
+      "description": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "インドネシア沖でマグニチュード7.4の地震が発生、1人死亡",
+      "summary": "マナド島とテルナテ島の間でマグニチュード7.4の地震が発生し、1人が死亡した。津波警報は解除されたが、被害の全容はまだ不明。"
+    }
+  }
+}
