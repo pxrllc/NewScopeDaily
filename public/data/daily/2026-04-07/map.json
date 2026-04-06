@@ -1,0 +1,982 @@
+{
+  "IR": {
+    "count": 19,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d1f24a5c8e9e2802309ef188686e37e1",
+      "title": "Trump warns Iran it could be destroyed 'in one night' as deadline nears",
+      "url": "http://www.euronews.com/2026/04/06/trump-iran-deadline",
+      "published_at": "2026-04-06T18:34:01.000Z",
+      "description": "Donald Trump has once again escalated threats against Iran, warning the country could be “taken out in one night” as the US deadline for Tehran approaches. Iran has rejected a proposed ceasefire, insisting on a permanent end to the war, while fighting continues to intensify across the region.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "トランプ氏、イランに「一夜で破壊されうる」と警告 期限が迫る",
+      "summary": "トランプ大統領がイランに対し、「一夜で破壊されうる」と警告し、期限が迫る中、イランは停戦案を拒否。地域の戦闘激化が懸念される。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "163d3160bf921817391a9735c26b087f",
+      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T19:11:20.000Z",
+      "description": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ガザでのイスラエル空爆とハマスと民兵の衝突で10人死亡、地元情報源",
+      "summary": "ガザ地区でイスラエル軍の空爆とハマス、イスラエル支援民兵との衝突により10人が死亡。空爆はハマス治安部隊を標的としたと報じられている。"
+    }
+  },
+  "US": {
+    "count": 10,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "614a6e29a2b54e6ad8a5c336c2ec3bf1",
+      "title": "Artemis II breaks record for farthest human spaceflight",
+      "url": "https://www.dw.com/en/artemis-ii-breaks-record-for-farthest-human-spaceflight/a-76677687?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-06T07:54:00.000Z",
+      "description": "The Orion spacecraft is in its final phase, with NASA saying astronauts have broken Apollo 13's record for traveling the farthest distance from Earth.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "US",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 85,
+      "titleJa": "アルテミスII、有人宇宙飛行の最遠記録を更新",
+      "summary": "オリオン宇宙船が最終段階に入り、NASAは宇宙飛行士がアポロ13号の地球から最も遠くへ旅した記録を更新したと発表。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0a302f65c169d30d50528566ac61841b",
+      "title": "Kanye West's right to enter UK under review after festival outcry",
+      "url": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T19:29:02.000Z",
+      "description": "The rapper's appearance in London in July has caused controversy because of his past antisemitic comments.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 40,
+      "titleJa": "カニエ・ウェストの英入国権が音楽祭での抗議を受け見直しへ",
+      "summary": "ラッパーのカニエ・ウェストの過去の反ユダヤ主義的な発言により、7月のロンドン公演を巡って物議を醸し、彼の英入国権が見直されている。"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a277bd90cf323db9f22a20355263e026",
+      "title": "Ladysmith Black Mambazo's 'wise elder' dies aged 77",
+      "url": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T17:20:16.000Z",
+      "description": "Albert Mazibuko sang in the iconic South African choral group for more than 55 years.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 35,
+      "titleJa": "レディスミス・ブラック・マンバゾの「賢明な長老」が77歳で死去",
+      "summary": "南アフリカの著名な合唱グループ、レディスミス・ブラック・マンバゾで55年以上歌い続けたアルバート・マジブコ氏が77歳で死去した。"
+    }
+  },
+  "ER": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "93016dc64e510bec2273ec013a5a0671",
+      "title": "Seven Eritrean players fail to return home after international match",
+      "url": "https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T17:31:33.000Z",
+      "description": "Several footballers have absconded in the past leaving behind what rights groups call a repressive government.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ER",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "エリトリア代表選手7名が国際試合後、帰国せず",
+      "summary": "国際試合後、エリトリア代表のサッカー選手7名が帰国しなかった。過去にも選手が抑圧的な政府から逃れるため失踪している。"
+    }
+  },
+  "BD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ce88876655ecd82c1fe186fa5f062f92",
+      "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
+      "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T09:59:40.000Z",
+      "description": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "BD",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "バングラデシュで1ヶ月に麻疹疑いで100人の子供が死亡、緊急接種を開始",
+      "summary": "バングラデシュで3月中旬以降、主に子供100人以上が麻疹で死亡した疑いがあり、当局は緊急予防接種を開始した。"
+    }
+  },
+  "KP": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2083322d375a30fea940ab730d635029",
+      "title": "North Korea: Kim's daughter now seen as likely heir — South",
+      "url": "https://www.dw.com/en/north-korea-kim-s-daughter-now-seen-as-likely-heir-south/a-76680967?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-06T16:09:00.000Z",
+      "description": "Seoul's spy service says the North Korean leader's \"most beloved\" daughter is increasingly seen as a likely successor. Officials say her appearances at military events are meant to normalize the idea of a female heir.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "北朝鮮：金正恩氏の娘が有力な後継者と見られる – 韓国",
+      "summary": "韓国の情報機関によると、北朝鮮の金正恩氏の娘が後継者として有力視されており、女性後継者の考えを定着させるため軍事行事に参加させている。"
+    }
+  },
+  "MM": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "759a0dc2485374fa4272d03dd7403f19",
+      "title": "Watch: Who is the coup leader who will be Myanmar's next president?",
+      "url": "https://www.bbc.com/news/videos/ckg0lnnplxko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T00:04:04.000Z",
+      "description": "Min Aung Hlaing presided over his last military parade in Myanmar before he takes up the role of president.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "MM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "動画：ミャンマーの次期大統領となるクーデター指導者とは？",
+      "summary": "ミン・アウン・ラインはミャンマーで最後の軍事パレードを主宰した後、大統領の役職に就任する。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9ba03b3ac85e67d8670182bd46f4ad4e",
+      "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky ",
+      "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T08:34:00.000Z",
+      "description": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ロシアは停戦ではなく「イースターのエスカレーション」を選んだ、とゼレンスキー大統領",
+      "summary": "ゼレンスキー大統領は、ロシアが停戦ではなく「イースターのエスカレーション」を選び、数百機のドローンとミサイルを発射し、多数の死傷者が出たと述べた。"
+    }
+  },
+  "IN": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "434f4daf45b8c46acd2d4c478b2a6c78",
+      "title": "Fears cost of water and beer to soar as India's scorching summer hits",
+      "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T23:16:37.000Z",
+      "description": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "インドの猛暑襲来で水とビールの価格高騰の懸念",
+      "summary": "戦争が供給を圧迫しているため、プラスチックおよびガラス瓶の製造業者は原材料の入手が困難に直面している。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e1ea596badf4d4d532dc36b69a413e82",
+      "title": "Mediterranean sharks are vanishing in a legal void",
+      "url": "https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-06T07:05:00.000Z",
+      "description": "Along Libya's coast, sharks — including breeding females — are being sold unchecked. With little enforcement and growing financial pressure on fishermen, vulnerable species are spiraling toward extinction.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "LY",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "地中海のサメ、法の空白地帯で消滅の危機",
+      "summary": "リビア沿岸で、繁殖期のメスを含むサメが野放しで売買されている。取り締まりの甘さと漁師への経済的圧力により、脆弱な種は絶滅へと向かっている。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ef176979c4e9ddcd02b120a1bdb000c0",
+      "title": "Russians living in exile cope with grief far from home",
+      "url": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-06T05:45:00.000Z",
+      "description": "Since the start of the war against Ukraine, many Russians living in exile have been unable to return home for security reasons. Three of them told DW how they cope with the loss of loved ones far from their families.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "亡命ロシア人、故郷から遠く離れて悲しみに耐える",
+      "summary": "ウクライナ侵攻以来、多くの亡命ロシア人が安全上の理由で帰国できず、家族から離れて愛する人を失った悲しみにどう対処しているか語る。"
+    }
+  },
+  "BF": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a4771a5a7dfc1da17b6d4784a6a900cb",
+      "title": "People of Burkina Faso should forget about democracy, says military ruler",
+      "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+      "published_at": "2026-04-03T10:18:56.000Z",
+      "description": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’\nPeople in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, told the country’s state broadcaster.\nTraoré took power in a coup in September 2022, toppling another junta that had taken power just nine months earlier. He has since stifled opposition and in January banned political parties outright.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BF",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ブルキナファソの人々は民主主義を忘れるべきだと軍事支配者が発言",
+      "summary": "ブルキナファソの軍事大統領イブラヒム・トラオレは、民主主義は自国には適さないと述べ、野党を弾圧し政党を禁止した。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3692d28faca4d81d99e383b724bd3321",
+      "title": "Uganda receives first US deportation flight under third-country agreement",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "published_at": "2026-04-02T16:37:12.000Z",
+      "description": "Dozen people arrive under new deal but legal challenges expected with scheme criticised as ‘dehumanising process’\nA flight carrying people being deported from the US has landed in Uganda, as Donald Trump’s administration pushes on with its strategy of expelling migrants to countries they have no ties to.\nThe deported people would stay in the east African country as “a transition phase for potential onward transmission to other countries”, an unnamed senior Ugandan government official told Reuters.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ウガンダ、第三国協定に基づき米国からの初の強制送還便を受け入れ",
+      "summary": "米国からの強制送還便がウガンダに到着。この取り決めは「非人間的なプロセス」と批判されており、強制送還された人々はウガンダを「通過段階」として利用する。"
+    }
+  },
+  "CG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ed9af507b9026b91bab1ef0a437723bb",
+      "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+      "url": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant",
+      "published_at": "2026-03-30T15:34:49.000Z",
+      "description": "Football federation president on the run with wife and son\n\nConviction in absentia of wide-ranging corruption charges\n\nAuthorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Mayolas, the president of the country’s football federation, Fecofoot, after he was convicted of embezzling $1.1m in Fifa funds.\nMayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021. As the Guardian revealed last year, that included almost $500,000 earmarked for the Congo women’s team.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CG",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "コンゴ・ブラザヴィル、ジャン＝ギ・ブレーズ・マヨラスにインターポール逮捕状を請求",
+      "summary": "コンゴ・ブラザヴィル当局は、FIFA資金110万ドルを横領した罪で有罪判決を受けたサッカー連盟会長ジャン＝ギ・ブレーズ・マヨラスに対し、国際逮捕手配書を請求した。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "52d4e24e1fdfdb05d6521d8197448738",
+      "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
+      "url": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
+      "published_at": "2026-03-30T09:31:31.000Z",
+      "description": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gusts\nAn unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including the United Arab Emirates and Saudi Arabia. The Arabian peninsula – typically dominated by arid desert climates – received up to 150mm of rain in just a few days.\nThe deluge was caused by an abnormally strong jet stream, which helped a deep area of low pressure to develop north of Saudi Arabia. This, in turn, drew moist tropical air from the Indian Ocean and triggered intense storms.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "AE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "気象追跡：アラブ首長国連邦とサウジアラビアを雷雨が襲う",
+      "summary": "異常なジェット気流により、アラブ首長国連邦とサウジアラビアで激しい雷雨と最大150mmの豪雨が発生し、中東の乾燥地帯に大きな影響を与えた。"
+    }
+  },
+  "CU": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "032d44c809e4ec781869ab39270f0c83",
+      "title": "House Democrats call for permanent solution to Cuban crises after witnessing energy blockade",
+      "url": "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats",
+      "published_at": "2026-04-06T17:41:43.000Z",
+      "description": "Jonathan Jackson of Illinois calls Cuba ‘most sanctioned part of Earth’ amid US oil blockade causing vast disruptions\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nTwo Democratic US lawmakers on Monday called for a permanent solution to crises confronting Cuba after they visited the island to witness the effects of an American energy blockade.\n\r\n The US House members Pramila Jayapal of Washington and Jonathan Jackson of Illinois met with the Cuban president, Miguel Díaz-Canel, and foreign minister, Bruno Rodríguez, as well as members of Cuba’s parliament during a five-day trip ending on Sunday.\n“I denounced the criminal damage caused by the blockade, particularly the consequences of the energy siege decreed by the current US government and its threats of even more aggressive actions,” Díaz-Canel wrote on X.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米下院民主党議員、エネルギー封鎖を目の当たりにしキューバ危機の恒久的解決を要求",
+      "summary": "米下院民主党議員2名がキューバを訪問後、壊滅的な影響をもたらす米国のエネルギー封鎖を批判し、キューバの危機に対する恒久的な解決策を求めた。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f7bd3c9c16f449c5ed823f9889136b7a",
+      "title": "Mexican government partially unblocks secure internet",
+      "url": "https://globalvoices.org/2026/03/03/mexican-government-partially-unblocks-secure-internet",
+      "published_at": "2026-03-03T16:00:14.000Z",
+      "description": "The Tor network is used by millions of users daily to securely access the internet, safeguard their right to information and freedom of expression, and avoid censorship or government surveillance.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "メキシコ政府が安全なインターネットのブロックを一部解除",
+      "summary": "メキシコ政府が、情報への権利や表現の自由を守るために使われるTorネットワークへのアクセス制限を一部解除。これにより、検閲や政府監視の回避が可能になる。"
+    }
+  },
+  "PE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ef88c948cf03db9fac6cf55c398641f7",
+      "title": "One dead and dozens injured at Peru football stadium during pre-match event",
+      "url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
+      "published_at": "2026-04-04T10:00:05.000Z",
+      "description": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures\nOne person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the football club Alianza Lima.\nHundreds of fans were attending a “flag-waving event” on Friday around the stadium, a day before a derby match between the home team Alianza Lima and local rivals Universitario de Deportes.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "PE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ペルーのサッカー競技場で試合前イベント中に1人死亡、数十人負傷",
+      "summary": "ペルーのリマにあるアレハンドロ・ビジャヌエバ・スタジアムで、ダービー戦前のイベント中に1人が死亡、数十人が負傷した。クラブは構造上の問題はないとしている。"
+    }
+  },
+  "RS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6dc8261df35f2cfee8016f63c572542b",
+      "title": "Serbia looks for pipeline sabotage plot culprit as Vance's Hungary visit nears",
+      "url": "http://www.euronews.com/my-europe/2026/04/06/serbia-looks-for-pipeline-sabotage-plot-culprit-as-vances-hungary-visit-nears",
+      "published_at": "2026-04-06T13:50:24.000Z",
+      "description": "Serbia has opened a probe into the attempted pipeline sabotage after explosives were found near Kanjiža, as military intelligence suspects a migrant with training, raising the temperature before a key election in Hungary on Sunday.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "RS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ハンガリー訪問が近づく中、セルビアはパイプライン妨害工作の犯人を捜索",
+      "summary": "ハンガリーの重要選挙を控え、セルビアはカンジジャ近郊で発見された爆発物によるパイプライン妨害未遂事件の捜査を開始。軍情報機関は訓練された移民を疑っている。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "29929856fed42168418952c0254026f9",
+      "title": "Foreign investment in Spain falls by 22% to lowest level since 2021",
+      "url": "http://www.euronews.com/business/2026/04/06/foreign-investment-in-spain-falls-by-22-to-lowest-level-since-2021",
+      "published_at": "2026-04-06T12:56:43.000Z",
+      "description": "FDI in Spain fell by 21.8% in 2025 to €30.764 billion, its lowest level since 2021 despite the expected boost from European funds, according to official data.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "スペインへの海外直接投資、22%減で2021年以来の低水準に",
+      "summary": "公式データによると、2025年のスペインへの海外直接投資は21.8%減の307.64億ユーロとなり、欧州基金からの期待された後押しにもかかわらず、2021年以来の最低水準を記録した。"
+    }
+  },
+  "EG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1d7b612075f174afca7dcbe474661ea9",
+      "title": "Cairo faces darker nights as global energy prices continue to soar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
+      "published_at": "2026-04-06T17:46:59.000Z",
+      "description": "Cairo streets and storefronts have been forced to go dark at night as part of measures to curb Egypt’s electricity use.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "EG",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "世界的なエネルギー価格高騰でカイロは夜が暗くなる",
+      "summary": "世界的なエネルギー価格高騰を受け、エジプトは電力使用を抑制するため、カイロの街路や店が夜間消灯を余儀なくされている。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fc581045e5f5bd24963a4053e24475dd",
+      "title": "US warns its citizens to leave Lebanon citing escalating security risks",
+      "url": "https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T20:06:47.000Z",
+      "description": "The advisory follows recent military developments, including a US jet reportedly being shot down and Israeli strikes on parts of Beirut.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "米国、治安情勢悪化を理由に市民にレバノンからの退去を警告",
+      "summary": "米国は、米軍ジェット機の撃墜報道やベイルートへのイスラエル空爆などを受け、治安リスクの悪化を理由に市民にレバノンからの退去を勧告した。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "89f1842145fa7be46a73986b9151fb79",
+      "title": "Churches and politicians in South Sudan call for 'lasting peace' in Easter messages",
+      "url": "https://www.bbc.com/news/articles/cly9xeq1ey7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T16:06:09.000Z",
+      "description": "There are fears South Sudan may be plunged back into a civil war less than a decade after it ended.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "南スーダンの教会と政治家、イースターメッセージで「永続的な平和」を呼びかけ",
+      "summary": "内戦再発の懸念が高まる南スーダンで、教会と政治家がイースターの機会に永続的な平和を訴えた。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c04e8204d6c86b849d175af278efe585",
+      "title": "Somalia set for 'historic' first offshore oil drilling ",
+      "url": "https://www.bbc.com/news/articles/czrepkppnl1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T11:55:14.000Z",
+      "description": "A Turkish government-owned drilling ship is expected to arrive in Somali waters later this week.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ソマリア、「歴史的な」初の沖合石油掘削へ",
+      "summary": "ソマリアが歴史的な初の沖合石油掘削を控え、トルコ政府所有の掘削船が到着予定。同国の経済に大きな影響を与える可能性がある。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "036aec8af4fa93622bfb859fe5456c28",
+      "title": "Unpacking the political complexities of the Benue killings in Nigeria",
+      "url": "https://globalvoices.org/2026/03/26/unpacking-the-political-complexities-to-the-benue-killings-in-nigeria",
+      "published_at": "2026-03-26T19:00:03.000Z",
+      "description": "What we are dealing with here in Benue is a calculated, well planned, full-scale genocidal invasion and land grabbing campaign by Herder terrorists and bandits, which ... is worsening every year.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ナイジェリア・ベヌエでの殺害事件が持つ政治的複雑さを解き明かす",
+      "summary": "ナイジェリアのベヌエ州で発生している殺害事件は、牧畜民のテロリストや武装集団による計画的で大規模な民族浄化的な侵攻および土地強奪キャンペーンであると指摘されている。この状況は毎年悪化し、深刻な政治的複雑さを呈している。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "10af06ffd108a899edf6ee48e4fce9a8",
+      "title": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
+      "url": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-20T00:06:24.000Z",
+      "description": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "食糧を求めて必死の干ばつ被災ケニア人、ジンジャーブレッドツリーに頼る",
+      "summary": "干ばつに苦しむケニアで、食糧難に直面する人々が「ジンジャーブレッドツリー」に頼っている。ケニア、エチオピア、ソマリアでは2600万人が極度の飢餓に瀕している。"
+    }
+  },
+  "AO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4be9f6a88a4c6a8c0b185d576f5b204d",
+      "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+      "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-24T00:18:10.000Z",
+      "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "AO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "アンゴラにおける反政府デモを扇動したとされるロシアの作戦の内幕",
+      "summary": "ロシア人グループとアンゴラ人グループがアンゴラで反政府デモを扇動した容疑で裁判に直面。彼らは容疑を否定しているが、政治的干渉の疑惑が持ち上がっている。"
+    }
+  },
+  "CD": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "68f2dd2472f084f1dd949263ce1321c7",
+      "title": "DRC: Urban trees are natural CO₂ stores that merit closer attention",
+      "url": "https://globalvoices.org/2026/04/05/drc-urban-trees-are-natural-co%e2%82%82-stores-that-merit-closer-attention",
+      "published_at": "2026-04-05T09:00:29.000Z",
+      "description": "Urban trees are not just landscaping features. They are natural carbon sinks, capable of offsetting human activity-related carbon dioxide (CO₂) emissions.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "コンゴ民主共和国：都市の樹木はより注目されるべき天然のCO₂貯蔵庫である",
+      "summary": "コンゴ民主共和国の都市の樹木は、単なる景観要素ではなく、天然の炭素吸収源として人間の活動によるCO₂排出を相殺する重要な役割を果たす。その価値にもっと注目すべきだと指摘されている。"
+    }
+  },
+  "CM": {
+    "count": 9,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f7feea4d364ff54997058de212a4ac8f",
+      "title": "MC14 concludes with adopted decisions, progress on key outstanding issues",
+      "url": "https://www.wto.org/english/news_e/news26_e/mc14_30mar26_354_e.htm",
+      "published_at": "2026-03-30T00:00:00.000Z",
+      "description": "The WTO's 14th Ministerial Conference (MC14) concluded early 30 March with ministers adopting a number of decisions as well as making a commitment to continue work in Geneva on key outstanding issues.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "第14回閣僚会議が決定採択と重要課題への進展を伴い閉幕",
+      "summary": "WTO第14回閣僚会議が閉幕し、複数の決定が採択され、未解決の重要課題に対する作業継続のコミットメントがなされました。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "533f9420a6c3137d5a96c0c8bd8007c4",
+      "title": "Ethiopia’s urban renewal projects and turn toward aesthetic propaganda",
+      "url": "https://globalvoices.org/2026/03/11/aesthetic-propaganda-ethiopias-urban-renewal-projects-and-the-visual-turn-in-digital-authoritarianism",
+      "published_at": "2026-03-11T08:00:59.000Z",
+      "description": "This is not a trend limited to Ethiopia. Influencers have increasingly become important in popularizing selective authoritarian stories from Dubai to China, and thereby legitimizing authoritarian narratives.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エチオピアの都市再生プロジェクトと美的プロパガンダへの転換",
+      "summary": "エチオピアの都市再生プロジェクトは、権威主義的な物語を正当化するための美的プロパガンダとして機能している。これはエチオピアだけでなく、ドバイから中国まで、インフルエンサーを通じて権威主義的政権が影響力を高める世界的な傾向の一部である。"
+    }
+  },
+  "HU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c9a0311c23cc388e15ca3e8423b63980",
+      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
+      "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T23:04:24.000Z",
+      "description": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "16年間政権を握るヴィクトル・オルバン、ついに退陣か？",
+      "summary": "ハンガリーで9日後に選挙が迫る中、16年間権力を握ってきたヴィクトル・オルバン首相が、ついにその座を追われる可能性が浮上している。"
+    }
+  },
+  "VA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6ab5631a272268b2c353f8dc3db7cf7d",
+      "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+      "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-05T12:35:36.000Z",
+      "description": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "VA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "レオ法王、初のイースターミサで世界指導者に平和選択を呼びかけ",
+      "summary": "レオ14世法王は、初のイースターミサでサンピエトロ広場に集まった数千人の信者に演説し、世界の指導者たちに平和を選択するよう訴えた。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0fb5740b1b838fa3a6d7e43fb69c70a8",
+      "title": "German males under 45 may need military approval for long stays abroad ",
+      "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-04T21:16:42.000Z",
+      "description": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ドイツ、45歳未満男性の長期海外滞在に軍の承認が必要になる可能性",
+      "summary": "ドイツで、45歳未満の男性が長期で海外に滞在する際、軍の承認が必要となる法律が導入される可能性がある。施行方法には不透明な点も残る。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "26b912c8b6d5b4a6cf845aa6c53ac6c1",
+      "title": "Italy's Uffizi Galleries targeted in cyber-attack but deny security breach",
+      "url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T15:04:39.000Z",
+      "description": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "イタリアのウフィツィ美術館がサイバー攻撃の標的に、しかしセキュリティ侵害を否定",
+      "summary": "イタリアのウフィツィ美術館がサイバー攻撃を受けたと報じられたが、美術館側はITシステムへの侵入を否定し、作品の安全は確保されていると主張している。"
+    }
+  },
+  "FR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d41a2381751111aa33f346f8f498a7a2",
+      "title": "France's Muslim gathering ban overturned by courts",
+      "url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T12:20:28.000Z",
+      "description": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "フランス、イスラム教徒集会禁止令が裁判所で覆される",
+      "summary": "パリ警察がテロ標的の可能性を理由に禁止したイスラム教徒の4日間の集会が、裁判所によってその禁止令が覆された。"
+    }
+  },
+  "VE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b3a2fbe6e3938e45bbca1ed212fe33df",
+      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T11:55:37.000Z",
+      "description": "It is the latest sign of warming relations between the US and Venezuela after Nicolás Maduro was seized in a commando raid.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国、ベネズエラ暫定指導者デルシー・ロドリゲスへの制裁を解除",
+      "summary": "米国がベネズエラの暫定指導者デルシー・ロドリゲスへの制裁を解除。これはマドゥロが襲撃された後の米・ベネズエラ関係改善の兆候だ。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e667649ae3a53e5b28659e9ec8749d4f",
+      "title": "How far-right ‘fear tactics’ affect girls seeking legal abortion in Brazil",
+      "url": "https://globalvoices.org/2026/03/07/how-far-right-fear-tactics-affect-girls-seeking-legal-abortion-in-brazil",
+      "published_at": "2026-03-07T11:11:58.000Z",
+      "description": "Fighting a resolution to ensure access to legal abortion for girls under 14 is the latest example of abortion rights being used as a political tool by conservatives in the country",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ブラジルで右翼の「恐怖戦術」がいかに合法的な中絶を求める少女たちに影響を与えるか",
+      "summary": "ブラジルで、14歳未満の少女の合法的堕胎へのアクセスを確保する決議に対し、保守派が堕胎権を政治的手段として利用し、少女たちに影響を与えている。"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a36f9b4551bb0ba1591daceb6164204a",
+      "title": "At least 16 killed and thousands displaced by gang attack in rural Haiti",
+      "url": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-31T12:02:46.000Z",
+      "description": "The attack happened in the Artibonite region, where members of the Gran Grif gang have targeted locals in the past.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "HT",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "ハイチの農村部でギャング襲撃により少なくとも16人死亡、数千人が避難",
+      "summary": "ハイチのアルティボニット地域でギャングの襲撃が発生し、少なくとも16人が死亡、数千人が避難した。ギャングは以前から地域住民を標的にしていた。"
+    }
+  },
+  "CO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "087c1f2adda521fa3c58e039557a2c08",
+      "title": "Healing a region: How healthcare is bringing peace to Arauca, Colombia",
+      "url": "https://globalvoices.org/2026/03/02/healing-a-region-how-healthcare-is-bringing-peace-to-arauca-colombia",
+      "published_at": "2026-03-02T01:00:21.000Z",
+      "description": "Reliable, inclusive healthcare does more than treat illness. It can function as social glue that softens community strain and transforms clinics into safe spaces for everyone.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "地域を癒す：コロンビア・アラウカで医療がいかに平和をもたらしているか",
+      "summary": "コロンビアのアラウカ地域では、信頼できる包括的な医療が、単に病気を治療するだけでなく、社会的な絆を強化し、コミュニティの緊張を和らげ、平和をもたらしている。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "440bc60ce3a6b41791fae2fc78466956",
+      "title": "Community micro-hydropower plants revolutionise isolated areas of the Dominican Republic",
+      "url": "https://globalvoices.org/2026/03/29/community-micro-hydropower-plants-revolutionise-isolated-areas-of-the-dominican-republic",
+      "published_at": "2026-03-29T09:00:44.000Z",
+      "description": "Community micro-hydropower projects in the DR rely on local leadership to deliver energy from renewable sources to isolated areas excluded from national distribution systems, contributing to reduced greenhouse gas emissions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ドミニカ共和国の孤立地域を変革するコミュニティ型小水力発電所",
+      "summary": "ドミニカ共和国では、地域主導の小水力発電プロジェクトが、国の電力網から外れた地域に再生可能エネルギーを供給し、温室効果ガス削減に貢献している。"
+    }
+  },
+  "PR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "27b6623ae7393cbeee4d449edb5e7cc3",
+      "title": "How Bad Bunny brought the issue of Puerto Rico’s power grid into world view",
+      "url": "https://globalvoices.org/2026/03/22/how-bad-bunny-brought-the-issue-of-puerto-ricos-power-grid-into-world-view",
+      "published_at": "2026-03-22T06:30:47.000Z",
+      "description": "Puerto Rico’s electricity system has faced repeated crises since 2017’s Hurricane Maria, which destroyed much of the grid and triggered the longest blackout in modern U.S. history; outages remain routine.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "バッド・バニーがプエルトリコの電力網問題をいかにして世界に知らしめたか",
+      "summary": "プエルトリコの電力システムは、2017年のハリケーン・マリア以降、度重なる危機に直面。アーティストがこの問題に光を当て、世界的な注目を集めている。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "08e6a3c1befbbb07884571be27a51d68",
+      "title": "Ecuador’s Netanyahu and Trump supporters target Ecuadorian–Iranian Cultural Center",
+      "url": "https://globalvoices.org/2026/03/21/ecuadors-netanyahu-and-trump-supporters-target-ecuadorian-iranian-cultural-center",
+      "published_at": "2026-03-21T06:00:20.000Z",
+      "description": "Wars no longer have defined frontlines. Battlefields can be anywhere those in power decide that a neighbor, due to their faith, ethnicity, or background, is an enemy.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 60,
+      "titleJa": "エクアドルのネタニヤフとトランプ支持者がエクアドル・イラン文化センターを標的に",
+      "summary": "エクアドルで、ネタニヤフとトランプの支持者がエクアドル・イラン文化センターを標的にした行動。信仰、民族、背景を理由とした敵視が問題視されている。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4034cd9d4b6fe41802e9efe50143da39",
+      "title": "Concerns grow as Jamaica ends Cuban medical programme",
+      "url": "https://globalvoices.org/2026/03/14/concerns-grow-as-jamaica-ends-cuban-medical-programme",
+      "published_at": "2026-03-14T13:00:17.000Z",
+      "description": "Terminating the decades-old programme that brought hundreds of Cuban medical personnel to its shores is an unusual move, especially for a programme that had been running smoothly for 50 years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ジャマイカがキューバ人医師プログラムを終了、懸念が広がる",
+      "summary": "ジャマイカが50年間続いたキューバ人医療従事者派遣プログラムを終了し、医療提供と外交関係への影響について懸念が高まっている。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "84fa64925f467d5f0395c344351c84d7",
+      "title": "Nawat language now has its own Wikipedia",
+      "url": "https://globalvoices.org/2026/03/06/nawat-language-now-has-its-own-wikipedia",
+      "published_at": "2026-03-06T13:52:37.000Z",
+      "description": "The New Year brought an exciting announcement: the official launch of Wikipedia in Nawat, the result of several years of training and community-building across communities in El Salvador and beyond.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ナワット語版ウィキペディアが誕生",
+      "summary": "エルサルバドルを中心としたコミュニティの長年の努力が実を結び、ナワット語版ウィキペディアが正式に公開された。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0b0ffe253ccfaad9a383f6b0a6986a79",
+      "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+      "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-05T22:07:40.000Z",
+      "description": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 65,
+      "titleJa": "中国はいかにしてロブスターに夢中になったか：AIアシスタントが北京の野望について語る",
+      "summary": "AIアシスタントが3月に「ロブスター育成」ブームを巻き起こし、ユーザーがツールを訓練してニーズに合わせている。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6eb3359c932e19136efd3579712d9ed2",
+      "title": "Unanswered questions remain after Australia's most wanted fugitive killed in standoff",
+      "url": "https://www.bbc.com/news/articles/cg7358zzz0no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-03T19:19:02.000Z",
+      "description": "Double-murderer Dezi Freeman evaded capture for seven months in the bush but police believe he had help.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "オーストラリア最重要指名手配犯が銃撃戦で死亡後も未解決の疑問が残る",
+      "summary": "二重殺人犯のデジ・フリーマンは7か月間ブッシュで逃亡したが、警察は彼に協力者がいたと考えている。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2dc977db2cc26d789ce2b8286b2af09a",
+      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-02T04:00:48.000Z",
+      "description": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "インドネシア沖でM7.4の地震が発生、1人死亡",
+      "summary": "マナド島とテルナテ島の間で地震が発生し、津波警報は解除された。"
+    }
+  }
+}
