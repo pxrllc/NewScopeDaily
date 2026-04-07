@@ -1,0 +1,782 @@
+{
+  "IR": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "62cc2852c9be9f192401d1c2c50c72db",
+      "title": "Tehran synagogue destroyed as US-Israeli strikes kill over a dozen",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/tehran-synagogue-destroyed-as-us-israeli-strikes-kill-over-a-dozen?traffic_source=rss",
+      "published_at": "2026-04-07T18:45:27.000Z",
+      "description": "A synagogue in Tehran was struck in a wave of US-Israeli attacks overnight.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米国とイスラエルの攻撃で十数人が死亡、テヘランのシナゴーグが破壊される",
+      "summary": "テヘランのシナゴーグが、一夜にして行われた米国とイスラエルによる攻撃で破壊され、十数人が死亡した。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "44da58440825df4dca0e1a8c2109500a",
+      "title": "UK denies Kanye West entry, music festival canceled",
+      "url": "https://www.dw.com/en/uk-denies-kanye-west-entry-music-festival-canceled/a-76696623?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T15:31:00.000Z",
+      "description": "US rapper Ye, formerly called Kanye West, has been denied entry into the UK over his numerous antisemitic outbursts. He had been scheduled to headline a music festival that has now been canceled.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 70,
+      "titleJa": "英国、カニエ・ウェストの入国を拒否し音楽祭中止",
+      "summary": "米ラッパーのイェ（旧カニエ・ウェスト）が、反ユダヤ主義的発言のため英国への入国を拒否され、出演予定だった音楽祭も中止となった。"
+    }
+  },
+  "IQ": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "83c030b21b0bb03be7ecf7d0eb617a97",
+      "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
+      "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T17:50:17.000Z",
+      "description": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IQ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "米国人ジャーナリスト、シェリー・キトルソンがイラクでの誘拐後解放へ、民兵組織が発表",
+      "summary": "イラクで誘拐された米国人ジャーナリスト、シェリー・キトルソンが、民兵組織の発表により解放されることになった。解放の条件は彼女が直ちにイラクを離れること。"
+    }
+  },
+  "HU": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c67676de8ed7012106580007fd597bec",
+      "title": "Who is Viktor Orbán, Hungarian PM fighting to stay in power after 16 years?",
+      "url": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-05T17:04:26.000Z",
+      "description": "Since 2010, Orbán has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "16年間政権を握るハンガリー首相ヴィクトル・オルバンとは？",
+      "summary": "ハンガリーのヴィクトル・オルバン首相は16年間政権にあり、欧州議会は同国を「選挙制独裁のハイブリッド体制」と非難している。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9122b04ff7f02c547b8d758238faa9c6",
+      "title": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
+      "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T13:55:19.000Z",
+      "description": "Israel's military says troops fired at a vehicle driven by the Palestinian because they believed it posed \"an immediate threat\".",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "WHO、イスラエル軍による請負業者殺害を受けガザの医療避難を一時停止",
+      "summary": "イスラエル軍による請負業者の殺害を受け、世界保健機関（WHO）はガザ地区からの医療避難を一時停止した。イスラエル軍は車両が「差し迫った脅威」と判断し発砲したと述べた。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f444733b4de33c9e6be2f414ac7dc6e3",
+      "title": "Australia's most-decorated living soldier charged over alleged war crimes",
+      "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T07:19:27.000Z",
+      "description": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "オーストラリアで最も勲章を持つ現役兵士が戦争犯罪の疑いで起訴",
+      "summary": "オーストラリアで最も勲章を受勲している現役兵士が戦争犯罪の疑いで起訴された。彼は容疑を否認しており、以前に名誉毀損訴訟でも敗訴していた。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b64b9e65e53d5f98e4288a12a69eec42",
+      "title": "One dead as train travelling 99mph collides with lorry in France",
+      "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T12:31:01.000Z",
+      "description": "The lorry driver is in custody after the train driver died during the collision in northern France.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 65,
+      "titleJa": "フランスで時速159キロの列車がトラックと衝突、1人死亡",
+      "summary": "フランス北部で、時速約159キロで走行中の列車がトラックと衝突し、列車運転士が死亡した。トラック運転手は拘留されている。"
+    }
+  },
+  "RO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "75678a72b89ba58641370166aebe9755",
+      "title": "Virtual Romanian singer goes viral but sparks criticism",
+      "url": "https://www.dw.com/en/virtual-romanian-singer-goes-viral-but-sparks-criticism/a-76697967?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T19:34:00.000Z",
+      "description": "In Romania, an AI-generated singer inspired by poems about the Roma community has become an overnight success. But critics say her creator is monetizing the woes of a marginalized group without involving its members.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "RO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "仮想のルーマニア人歌手が人気を博すが批判も受ける",
+      "summary": "ルーマニアでロマ族の詩に触発されたAI歌手が人気。批評家は、製作者が疎外されたグループの苦難を当事者抜きで収益化していると批判。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5e66180f9ff6a4a9bac4bebb8e9b01ef",
+      "title": "Ukraine: Several killed as Russia strikes bus, other targets",
+      "url": "https://www.dw.com/en/ukraine-several-killed-as-russia-strikes-bus-other-targets/a-76697817?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T16:33:00.000Z",
+      "description": "Meanwhile, Ukrainian drone strikes on Russia and Russian-occupied regions killed at least five, including a 12-year-old boy. Ukraine has been pushing for a ceasefire during the Orthodox Easter, which is later this week.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ウクライナ：ロシアがバスなどを攻撃し、多数の死者",
+      "summary": "ロシアによるウクライナへの攻撃で多数が死亡。ウクライナのロシア・占領地へのドローン攻撃でも死者が出た。ウクライナは正教会の復活祭中の停戦を求めている。"
+    }
+  },
+  "TR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5e1e1520354b49a67c533f2d6a24df76",
+      "title": "Gunman killed in shootout near Israel's Istanbul consulate",
+      "url": "https://www.dw.com/en/gunman-killed-in-shootout-near-israel-s-istanbul-consulate/a-76695392?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T14:46:00.000Z",
+      "description": "Israel has said it will \"not be intimidated\" after an apparent failed attack on its consulate in Istanbul. One man was killed who the Turkish government says had links to a terror group.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "TR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イスラエル・イスタンブール領事館近くで銃撃戦、銃撃犯死亡",
+      "summary": "イスラエルのイスタンブール領事館近くで銃撃戦が発生し、テロ組織と関連のある男が死亡。イスラエルは威嚇されないと表明した。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1db36882d32e43953874feaea9123a5c",
+      "title": "South Korea turns to EU to revive talks with the North",
+      "url": "https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T13:22:00.000Z",
+      "description": "Seoul's unification minister has urged Brussels to act as mediator in North-South discussions, but Pyongyang still seems to show little appetite for interaction.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "韓国、北朝鮮との対話再開に向けEUに協力を要請",
+      "summary": "韓国の統一相は、北朝鮮との対話再開のためEUに仲介を要請したが、北朝鮮は依然として対話に消極的な姿勢を示している。"
+    }
+  },
+  "US": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e19709a943e079d358250d7336fd8b77",
+      "title": "'Only the president knows' what he will do on Iran, White House says in statement",
+      "url": "http://www.euronews.com/2026/04/07/only-the-president-knows-what-he-will-do-on-iran-white-house-says-in-statement",
+      "published_at": "2026-04-07T16:41:56.000Z",
+      "description": "Trump had threatened to target Iranian infrastructure unless Tehran agreed a deal to end the war on Tuesday, saying he was \"considering blowing everything up and taking over the oil.\"",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "「イランについて大統領だけが何をするか知っている」とホワイトハウスが声明で発表",
+      "summary": "ホワイトハウスは、イランに関する大統領の行動について「大統領だけが知っている」と声明を発表した。トランプ氏は、イランが戦争終結の合意に応じない限り、イランのインフラを標的にすると警告していた。"
+    }
+  },
+  "IN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "90c69e1e5091b8dcd727bc1c51495dc5",
+      "title": "Inside India's courts, AI's growing role sparks concern",
+      "url": "https://www.dw.com/en/inside-india-s-courts-ai-s-growing-role-sparks-concern/a-76653611?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T12:28:00.000Z",
+      "description": "The increasing use of artificial intelligence in courtrooms raises worries that the technology may aggravate bias and structural distortions in the legal system.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "インドの裁判所におけるAIの役割拡大に懸念",
+      "summary": "インドの裁判所では、AIの利用拡大が、法制度内の偏見や構造的歪みを悪化させる可能性について懸念を引き起こしている。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6003fba29b53b7981b1ad31fe4081b57",
+      "title": "One in five young Germans plan to leave the country",
+      "url": "https://www.dw.com/en/one-in-five-young-germans-plan-to-leave-the-country/a-76689505?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T11:48:00.000Z",
+      "description": "A recent study shows that as many as one in five Germans between the ages of 14 and 29 are actively thinking about moving to another country — and 40% plan to do so in the long term.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ドイツの若者の5人に1人が国外移住を計画",
+      "summary": "ドイツの若者（14～29歳）の5人に1人が国外移住を考えており、40%が長期的な移住を計画しているとの調査結果。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e96ee513e725c194d1c3c173d96d2140",
+      "title": "Why have US-South Africa relations soured?",
+      "url": "https://www.dw.com/en/why-have-us-south-africa-relations-soured/a-76655817?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-07T11:25:00.000Z",
+      "description": "US President Donald Trump wants to sideline South Africa on the world stage. What is his issue with the country and when did things start going south?",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "米国と南アフリカの関係が悪化した理由とは？",
+      "summary": "米国大統領ドナルド・トランプは南アフリカを国際舞台で排除しようとしている。記事は両国関係が悪化した問題点と経緯を探る。"
+    }
+  },
+  "SZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ae1c02eea333ab9105bc0423313e9982",
+      "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
+      "url": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
+      "published_at": "2026-04-07T16:13:07.000Z",
+      "description": "Pheap Rom was one of 15 people sent to prison in African kingdom last year despite completing US sentences\nA Cambodian man deported by the US said he would have accepted being sent to Cambodia, but instead ended up imprisoned in Eswatini, a country he knew so little about that when he first read the name he thought it was another immigration detention centre in Louisiana.\nPheap Rom, who had been convicted of attempted murder, was one of 10 deportees sent to Eswatini by the US in October 2025. They joined a group of five men, from Cambodia, Cuba, Jamaica, Vietnam and Yemen, who were deported to the small southern African country in July. All were sent to a maximum-security prison. Rom was deported from Eswatini to Cambodia in March.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "米国がエスワティニに強制送還したカンボジア人男性、「適正な手続きを受ける権利がある」と訴え",
+      "summary": "米国によりエスワティニに強制送還され投獄されたカンボジア人男性が、適正な手続きの必要性を訴えた。最終的にカンボジアへ送還されたが、他国への強制送還問題が浮き彫りになった。"
+    }
+  },
+  "BF": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a4771a5a7dfc1da17b6d4784a6a900cb",
+      "title": "People of Burkina Faso should forget about democracy, says military ruler",
+      "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+      "published_at": "2026-04-03T10:18:56.000Z",
+      "description": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’\nPeople in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, told the country’s state broadcaster.\nTraoré took power in a coup in September 2022, toppling another junta that had taken power just nine months earlier. He has since stifled opposition and in January banned political parties outright.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BF",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ブルキナファソの軍事支配者、「国民は民主主義を忘れるべき」と発言",
+      "summary": "2022年のクーデターで政権を握ったブルキナファソの軍事大統領が、国民は民主主義を忘れるべきと発言。政治活動を抑圧し、政党を禁止している。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3692d28faca4d81d99e383b724bd3321",
+      "title": "Uganda receives first US deportation flight under third-country agreement",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "published_at": "2026-04-02T16:37:12.000Z",
+      "description": "Dozen people arrive under new deal but legal challenges expected with scheme criticised as ‘dehumanising process’\nA flight carrying people being deported from the US has landed in Uganda, as Donald Trump’s administration pushes on with its strategy of expelling migrants to countries they have no ties to.\nThe deported people would stay in the east African country as “a transition phase for potential onward transmission to other countries”, an unnamed senior Ugandan government official told Reuters.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国の強制送還便、第三国協定に基づきウガンダに初到着",
+      "summary": "米国からの強制送還者を乗せた初の航空便が、第三国協定の下でウガンダに到着した。この取り決めは「非人道的なプロセス」と批判されており、法的異議申し立てが予想される。"
+    }
+  },
+  "CG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ed9af507b9026b91bab1ef0a437723bb",
+      "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+      "url": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant",
+      "published_at": "2026-03-30T15:34:49.000Z",
+      "description": "Football federation president on the run with wife and son\n\nConviction in absentia of wide-ranging corruption charges\n\nAuthorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Mayolas, the president of the country’s football federation, Fecofoot, after he was convicted of embezzling $1.1m in Fifa funds.\nMayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021. As the Guardian revealed last year, that included almost $500,000 earmarked for the Congo women’s team.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "コンゴ共和国でジャン＝ギィ・ブレーズ・マヨラスに国際刑事警察機構の逮捕状が請求される",
+      "summary": "コンゴ共和国当局は、FIFA資金110万ドルを横領した罪で有罪判決を受けた同国サッカー連盟会長に対し、国際刑事警察機構（インターポール）の逮捕状を請求した。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "252ea8c9fc7fb8204fb833d545dd0e6b",
+      "title": "First Nation asks court to block Alberta referendum on seceding from Canada",
+      "url": "https://www.theguardian.com/world/2026/apr/07/first-nation-decries-alberta-separatist-push-canada",
+      "published_at": "2026-04-07T16:43:13.000Z",
+      "description": "Sturgeon Lake Cree Nation has asked a court to halt the separatist push, arguing it would violate their treaty rights\nA First Nation in Alberta has said that a separatist push for the province to secede from Canada is “consummately irresponsible and dishonourable” and should be shut down, arguing in court that a proposed referendum would violate their treaty rights.\nA minority of residents of the oil-rich province have long argued that the province’s woes are due to the structure of payments to the federal government and a perceived inability to get their vast fossil fuel reserves to market.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ファーストネーションがアルバータ州のカナダからの分離独立住民投票を阻止するよう裁判所に要請",
+      "summary": "アルバータ州のスタージョンレイク・クリー・ネーションは、同州のカナダからの分離独立住民投票が条約上の権利を侵害するとして、その阻止を裁判所に求めた。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0dee8482b1c661fa6b52e827a77e198a",
+      "title": "#MeToo movement brings wave of harassment claims across Colombia",
+      "url": "https://www.theguardian.com/world/2026/apr/07/metoo-movement-brings-wave-of-harassment-claims-across-colombia",
+      "published_at": "2026-04-07T13:22:11.000Z",
+      "description": "Female journalists’ accounts of harassment trigger avalanche of allegations reaching as far as government\nJuanita Gómez was reporting on an international assignment for Caracol, a Colombian television channel in 2015, when an older colleague attempted to forcibly kiss her by inside a lift.\nShe only managed to break free from him by pushing him away several times. Fearing any complaint would come down to the word of a “girl” against that of a senior presenter, she did not report the incident.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "コロンビアで#MeToo運動がハラスメント告発の波を引き起こす",
+      "summary": "コロンビアで#MeToo運動が拡大し、女性ジャーナリストの告発を皮切りに、政府機関にまで及ぶハラスメントの訴えが相次いでいる。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fab2250dac7b86730dabbbb4ba780dd3",
+      "title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
+      "url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
+      "published_at": "2026-04-07T10:00:45.000Z",
+      "description": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulate\n\nRevealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’\n\nMexico is facing a “toxic crisis” and has become a “garbage sink” for the US, exposing Mexican communities to dangerous pollution, a UN expert has warned.\nIn an interview with the Guardian and Quinto Elemento Lab, an investigative outlet, Marcos Orellana, an environmental specialist, said pollutants ranging from imported waste to dangerous pesticides were affecting people’s right to live healthy lives.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 85,
+      "titleJa": "国連専門家、米国がメキシコを「ゴミ捨て場」として利用し「毒性危機」に陥らせていると指摘",
+      "summary": "国連専門家は、米国がメキシコを「ゴミ捨て場」として利用し「毒性危機」に陥らせていると警告。緩い環境基準が汚染物質の蓄積を許している。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4b5de99cb4c3da4655dda65f37b001f3",
+      "title": "Spain's huge pork industry seeks salvation from swine fever threat",
+      "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-05T23:19:20.000Z",
+      "description": "Countries around the world, including the US, have already stopped imports over the outbreak.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "スペインの巨大な豚肉産業、豚熱の脅威から救済を求める",
+      "summary": "スペインの豚肉産業は豚熱の脅威に直面し、世界各国が輸入を停止。業界は対策を講じ、救済を求めている。"
+    }
+  },
+  "CU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7cf217e43dba6a3ba7f8aa58a0088b36",
+      "title": "Hundreds of Cuban women stage rally against US blockade as energy crisis deepens",
+      "url": "http://www.euronews.com/2026/04/07/hundreds-of-cuban-women-stage-rally-against-us-blockade-as-energy-crisis-deepens",
+      "published_at": "2026-04-07T18:45:08.000Z",
+      "description": "Cuba produces only 40% of the fuel it consumes and the shortage has paralysed the country, affecting its health system, public transportation and the production of goods and services.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "キューバでエネルギー危機が深刻化する中、数百人の女性が米国による封鎖に反対する集会を開催",
+      "summary": "キューバでエネルギー危機が深刻化し、国内が麻痺状態にある中、数百人の女性が米国の経済封鎖に抗議する集会を開いた。燃料不足が医療、公共交通、生産に影響を与えている。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "87f54acefbce045c4a9988f8acd26f73",
+      "title": "Anti-war protesters rally outside US embassy office in Tel Aviv",
+      "url": "http://www.euronews.com/video/2026/04/07/anti-war-protesters-rally-outside-us-embassy-office-in-tel-aviv",
+      "published_at": "2026-04-07T17:00:33.000Z",
+      "description": "A small group of anti-war protesters gathered outside the US embassy’s Tel Aviv office, calling for an end to the conflict before police moved to disperse the demonstration.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "テルアビブの米国大使館事務所前で反戦デモ隊が集会",
+      "summary": "テルアビブにある米国大使館事務所前で小規模な反戦デモ隊が集まり、紛争の終結を訴えた。その後、警察がデモを解散させた。"
+    }
+  },
+  "AF": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d3d8688657a39f0d09754f895123e5d3",
+      "title": "Afghanistan brands China peace talks with Pakistan ‘useful’",
+      "url": "https://www.aljazeera.com/news/2026/4/7/afghanistan-brands-china-peace-talks-with-pakistan-useful?traffic_source=rss",
+      "published_at": "2026-04-07T18:21:24.000Z",
+      "description": "Kabul's foreign minister expresses hope that minor interpretations will not hinder progress.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "AF",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "アフガニスタン、中国とパキスタンの和平協議を「有用」と評価",
+      "summary": "アフガニスタンの外相は、中国とパキスタンによる和平協議を「有用」とし、進展を期待すると表明した。"
+    }
+  },
+  "PK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f329c9f371b01fc5abbdb36cc494a1aa",
+      "title": "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
+      "url": "https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts?traffic_source=rss",
+      "published_at": "2026-04-07T17:32:05.000Z",
+      "description": "Backchannel talks gain pace as Pakistan mediates and Iran seeks indirect engagement through US vice president.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "JD・ヴァンスがパキスタンの土壇場での米イラン調停努力に加わった理由",
+      "summary": "パキスタンが米イラン間の調停を加速させ、イランが米国副大統領を通じて間接的な関与を模索している。"
+    }
+  },
+  "ET": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7deed360f116e0dadb2257fcbd4b16d7",
+      "title": "Ringleader of suspected human trafficking network arrested in Ethiopia",
+      "url": "https://www.bbc.com/news/articles/cn08gx8k5ego?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T13:24:44.000Z",
+      "description": "Yetbarek Dawit is alleged to have operated a multi-million-dollar operation, using torture to raise money.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "エチオピアで人身売買ネットワークの首謀者が逮捕",
+      "summary": "エチオピアで、拷問を用いて多額の資金を調達していたとされる人身売買組織の首謀者イェットバレク・ダウィットが逮捕された。"
+    }
+  },
+  "AO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c0e013f2a5e901c009632a2b2fe2725c",
+      "title": "Dozens killed as Angola flood death toll rises",
+      "url": "https://www.bbc.com/news/articles/c3v6nr3q2xwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T13:06:32.000Z",
+      "description": "Mourning the deaths, the president says it was a \"race against the clock\" to find others affected.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "AO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "アンゴラで洪水による死者増加、数十人が死亡",
+      "summary": "アンゴラで洪水により数十人が死亡。大統領は犠牲者を悼み、被災者捜索が時間との戦いであると述べた。"
+    }
+  },
+  "ER": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "93016dc64e510bec2273ec013a5a0671",
+      "title": "Seven Eritrean players fail to return home after international match",
+      "url": "https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T17:31:33.000Z",
+      "description": "Several footballers have absconded in the past leaving behind what rights groups call a repressive government.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ER",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "エリトリアの選手7名が国際試合後帰国せず",
+      "summary": "エリトリアのサッカー選手7名が国際試合後、抑圧的な政府を理由に帰国しなかった。過去にも同様の事例がある。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "036aec8af4fa93622bfb859fe5456c28",
+      "title": "Unpacking the political complexities of the Benue killings in Nigeria",
+      "url": "https://globalvoices.org/2026/03/26/unpacking-the-political-complexities-to-the-benue-killings-in-nigeria",
+      "published_at": "2026-03-26T19:00:03.000Z",
+      "description": "What we are dealing with here in Benue is a calculated, well planned, full-scale genocidal invasion and land grabbing campaign by Herder terrorists and bandits, which ... is worsening every year.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ナイジェリアのベヌエ州における殺戮事件の政治的複雑性を解き明かす",
+      "summary": "ナイジェリアのベヌエ州で発生している殺戮は、牧畜民テロリストによる計画的な民族浄化と土地強奪であり、毎年悪化している深刻な政治的対立である。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "89f1842145fa7be46a73986b9151fb79",
+      "title": "Churches and politicians in South Sudan call for 'lasting peace' in Easter messages",
+      "url": "https://www.bbc.com/news/articles/cly9xeq1ey7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T16:06:09.000Z",
+      "description": "There are fears South Sudan may be plunged back into a civil war less than a decade after it ended.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "南スーダンで教会と政治家がイースターメッセージで「永続的な平和」を訴え",
+      "summary": "南スーダンでは、内戦終結から10年も経たずに再び内戦に陥る懸念が高まる中、教会や政治家がイースターのメッセージで「永続的な平和」を呼びかけた。"
+    }
+  },
+  "MW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a063dda40375cd505f9e19086efdff4a",
+      "title": "'I adore her now': Mother learns to live with child's autism in a country with little help",
+      "url": "https://www.bbc.com/news/articles/cj608n98z1jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-05T23:32:20.000Z",
+      "description": "Malawian Martha Ongwane, brought low by her daughter's autism, found a rare support group.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MW",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "「今は彼女をとても愛している」：支援が少ない国で自閉症の子供と共に生きることを学ぶ母親",
+      "summary": "マラウイのマーサ・オングワネさんは、娘の自閉症に苦しんだ後、希少な支援グループを見つけ、共に生きることを学んだ。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a60cdc0407b251747a7bdd1427f3643c",
+      "title": "One ant for $220: The new frontier of wildlife trafficking",
+      "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-29T00:01:15.000Z",
+      "description": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "アリ一匹220ドル：野生生物密売の新たなフロンティア",
+      "summary": "アリ収集のブームがケニアで野生生物密売の新たな分野となり、密輸業者らが利益を得ようと狙っている。"
+    }
+  },
+  "CD": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d2aac70660290df7cda4297c58b5def5",
+      "title": "Climate change brings changes to North Kivu’s agricultural practices in the DRC",
+      "url": "https://globalvoices.org/2026/03/17/climate-change-brings-changes-to-north-kivus-agricultural-practices-in-the-drc",
+      "published_at": "2026-03-17T04:00:51.000Z",
+      "description": "Climate change has impacted North Kivu, a region in the eastern Democratic Republic of the Congo (DRC), where farmers have had to adapt their farming practices to survive.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "気候変動がDRC北キブ州の農業慣行に変化をもたらす",
+      "summary": "コンゴ民主共和国東部の北キブ州では気候変動が深刻な影響を与え、農家は生き残るために農業慣行の適応を余儀なくされている。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7809091b16dc816f94a3364d012f91c1",
+      "title": "Cameroonian rice farmers caught between national ambition and rural realities",
+      "url": "https://globalvoices.org/2026/03/24/cameroonian-rice-farmers-caught-between-national-ambition-and-rural-realities",
+      "published_at": "2026-03-24T20:00:29.000Z",
+      "description": "The Cameroonian government’s rice self-sufficiency policy has sparked enthusiasm among the country’s rice farmers. In the northwest, rice farmers combine courage with determination every day to fulfil these national promises.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "カメルーンの米農家、国家の野心と地方の現実の間で",
+      "summary": "カメルーン政府の米自給自足政策は農家の熱意を呼んだが、北西部の農家は国家の約束を果たすべく、日々現実と奮闘しており、課題に直面している。"
+    }
+  },
+  "CV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "91810c2f0742c45a91672cc60a4bd90c",
+      "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
+      "url": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T10:36:21.000Z",
+      "description": "Tui is investigating the claims and says it is \"not in a position to provide a statement at this stage\".",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "CV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "カーボベルデで体調を崩した1,700人以上の英国人がTuiに対して訴訟を起こす",
+      "summary": "カーボベルデで病気になった1,700人以上の英国人観光客が旅行会社Tuiに対し訴訟を提起。Tuiは現在調査中と発表。"
+    }
+  },
+  "BE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4333dff4b352e54de1105ead09e92225",
+      "title": "Pogacar may face fine for running red light in Flanders win",
+      "url": "https://www.bbc.com/sport/cycling/articles/cde5rndeej7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-06T10:13:55.000Z",
+      "description": "Tadej Pogacar wins a record-equalling third Tour of Flanders, but could face action after he is one of up to 20 riders who run a red light at a railway crossing.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "BE",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "ポガチャル、フランドル勝利で赤信号無視により罰金の可能性",
+      "summary": "タデイ・ポガチャル選手はツール・デ・フランドルで優勝したが、赤信号を無視したため罰金を科される可能性がある。"
+    }
+  },
+  "VA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6ab5631a272268b2c353f8dc3db7cf7d",
+      "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+      "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-05T12:35:36.000Z",
+      "description": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "VA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "レオ法王、初のイースターミサで世界の指導者に平和の選択を呼びかける",
+      "summary": "レオ14世法王は初のイースターミサで、サンピエトロ広場に集まった数千人の信者に対し、世界の指導者が平和を選択するよう訴えた。"
+    }
+  }
+}
