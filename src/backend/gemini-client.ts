@@ -19,13 +19,32 @@ export class GeminiClient {
         return new Promise(resolve => setTimeout(resolve, ms));
     }
 
+    private async generateWithRetry(prompt: string, maxRetries = 3): Promise<string> {
+        for (let attempt = 1; attempt <= maxRetries; attempt++) {
+            try {
+                const response = await this.ai.models.generateContent({
+                    model: this.modelName,
+                    contents: prompt
+                });
+                return response.text ?? '';
+            } catch (error: any) {
+                const status = error?.status ?? error?.code;
+                const isRetryable = status === 'UNAVAILABLE' || status === 503 || status === 429;
+                if (isRetryable && attempt < maxRetries) {
+                    console.log(`API unavailable (attempt ${attempt}/${maxRetries}), waiting 60s...`);
+                    await this.delay(60000);
+                } else {
+                    throw error;
+                }
+            }
+        }
+        throw new Error('Max retries exceeded');
+    }
+
     public async validateConnection(): Promise<boolean> {
         try {
-            const response = await this.ai.models.generateContent({
-                model: this.modelName,
-                contents: 'ping'
-            });
-            return !!response.text;
+            const text = await this.generateWithRetry('ping');
+            return !!text;
         } catch (error) {
             console.error("Gemini Connection Validation Failed:", error);
             return false;
@@ -49,11 +68,7 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, description: a.d
 
         try {
             await this.delay(100);
-            const response = await this.ai.models.generateContent({
-                model: this.modelName,
-                contents: prompt
-            });
-            const responseText = response.text ?? '';
+            const responseText = await this.generateWithRetry(prompt);
             const jsonStr = responseText.replace(/```json\n?|\n?```/g, '').trim();
             const enrichedData = JSON.parse(jsonStr);
 
@@ -143,11 +158,7 @@ Format:
 
         try {
             await this.delay(5000);
-            const response = await this.ai.models.generateContent({
-                model: this.modelName,
-                contents: prompt
-            });
-            return response.text ?? '# Error generating summary';
+            return await this.generateWithRetry(prompt);
         } catch (error) {
             console.error('Error generating summary:', error);
             return "# Error generating summary";
