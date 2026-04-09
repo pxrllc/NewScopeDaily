@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-08T19:56:08.161Z",
+  "generated_at": "2026-04-09T05:33:22.981Z",
   "version": "1.0",
   "articles": [
+    {
+      "id": "2002ec128f084f70c64375214e35adb6",
+      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
+      "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-09T01:59:34.000Z",
+      "description": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "トランプ氏がNATOを批判、同盟首長は会談を「非常に率直」と表現",
+      "summary": "米大統領がイラン戦争時にNATOが支援しなかったと批判し、同盟首長は会談を「非常に率直だった」と述べた。"
+    },
     {
       "id": "38eae00322669bf3efebcf87cd7a3cc0",
       "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
@@ -10,37 +26,77 @@
       "description": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "イラン停戦合意はトランプ氏に戦争からの出口を与えるが、代償は大きい",
+      "summary": "イランとの2週間の停戦合意は、トランプ米大統領に戦争からの出口を与えたが、その代償は大きく、世界の対米観を根本的に変えた可能性がある。"
     },
     {
       "id": "34bf717e119fe6e28eddeb76e4f89e68",
       "title": "What we know about the two-week ceasefire between the US and Iran ",
       "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T14:14:08.000Z",
+      "published_at": "2026-04-08T20:25:49.000Z",
       "description": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "US",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "米国とイラン間の2週間の停戦についてわかっていること",
+      "summary": "米国とイスラエルがイランへの協調攻撃を開始してから1ヶ月以上を経て、暫定的な停戦が成立した。"
     },
     {
       "id": "66607e4a94d51137a291eda1654b6bca",
-      "title": "More than 100 killed in Lebanon as Israel carries out large wave of strikes",
+      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
       "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T19:50:55.000Z",
+      "published_at": "2026-04-08T20:54:59.000Z",
       "description": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米イラン停戦発表数時間後、レバノン全土でイスラエル軍の空爆により少なくとも182人死亡",
+      "summary": "米イラン停戦発表から数時間後、ベイルート南部郊外、レバノン南部、ベッカー渓谷東部がイスラエル軍の攻撃を受け、少なくとも182人が死亡した。"
     },
     {
-      "id": "f6a3494b83c20f9ad7791de60a847c14",
-      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T16:36:29.000Z",
-      "description": "Crude prices tumbled by more than 15% on the conditional pause but remain far higher than before the war.",
+      "id": "ad8e133c7a2418513b87dd2ea232d82a",
+      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+      "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-08T21:10:14.000Z",
+      "description": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "AU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "豪州で最も勲章を受けた兵士、歴史的な戦争犯罪事件の中心に",
+      "summary": "豪州で最も勲章を受けた兵士が、豪州だけでなく世界的にも「異例」とされる歴史的な戦争犯罪事件の中心にいる。"
+    },
+    {
+      "id": "0050e4de2c40ec30e8028271a2801228",
+      "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+      "url": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-08T22:46:58.000Z",
+      "description": "A legal order seeking the golfer's medications - including dosage and warnings about driving on pill bottles - will be issued later this month, court record shows.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "フロリダでの逮捕後、検察官がタイガー・ウッズ選手の処方薬記録を請求",
+      "summary": "フロリダでの逮捕後、検察官がゴルフ選手タイガー・ウッズの処方薬記録（服用量や運転に関する警告を含む）の開示命令を今月後半に発行する予定だ。"
     },
     {
       "id": "1055d1be757efd3d598658dbae5c2e20",
@@ -50,7 +106,13 @@
       "description": "It follows similar moves in other European countries, including France and Spain.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "GR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "ギリシャ、来年から15歳未満のソーシャルメディア利用を禁止へ",
+      "summary": "ギリシャは、フランスやスペインなど他のヨーロッパ諸国と同様に、来年から15歳未満のソーシャルメディア利用を禁止する予定だ。"
     },
     {
       "id": "d8cc2cb310371d7149cad5ae93aceabd",
@@ -60,7 +122,29 @@
       "description": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 50,
+      "titleJa": "ドイツ、45歳未満男性の長期海外滞在軍事承認を停止",
+      "summary": "ドイツが、45歳未満の男性に対し、海外での長期滞在に必要な軍事承認の要件を停止した。"
+    },
+    {
+      "id": "49e235759b746fce35034cd5678c772a",
+      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+      "url": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-09T01:01:26.000Z",
+      "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NP",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 35,
+      "titleJa": "先駆的な野生動物カメラマン、ダグ・アラン氏がネパールで死去",
+      "summary": "「ブルー・プラネット」などのシリーズでエミー賞を8回受賞した先駆的な野生動物カメラマン、ダグ・アラン氏がネパールで死去した。"
     },
     {
       "id": "06ad9bbf5cad9461ad80f4614b53d374",
@@ -70,57 +154,77 @@
       "description": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "IR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "イランのホルムズ海峡警告が海運の不確実性を増大",
+      "summary": "イランがホルムズ海峡に関して警告を発し、米イラン停戦合意以来、海峡を通過した船舶が少ないことから、海運の不確実性が増している。"
     },
     {
-      "id": "ea33afbb571f13881c303938f269d86e",
-      "title": "Nigeria begins mass trial of 500 terrorism suspects",
-      "url": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T14:57:25.000Z",
-      "description": "Very few people are ever prosecuted following terror attacks with suspects often held without trial.",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "id": "ce6b683079e8e3a83fc01f772c87bc1e",
+      "title": "Iran threatens new hostilities as Israel pounds Lebanon",
+      "url": "https://www.dw.com/en/iran-threatens-new-hostilities-as-israel-pounds-lebanon/live-76715205?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-09T02:51:00.000Z",
+      "description": "The two-week truce between the US, Israel and Iran has started showing cracks as the sides disagreed on Lebanon's inclusion in the ceasefire agreement. Follow DW for more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イラン、イスラエルがレバノンを攻撃する中、新たな敵対行為を警告",
+      "summary": "米・イスラエル・イラン間の停戦に亀裂が生じ、イスラエルがレバノンを空爆。イランは新たな敵対行為を警告し、停戦におけるレバノンの扱いが焦点に。"
     },
     {
-      "id": "4ac13701ac650cf31f7f50fb069c0d0d",
-      "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
-      "url": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T13:07:57.000Z",
-      "description": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
-    },
-    {
-      "id": "99402a11a34035fbc9ee554f229702d7",
-      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-      "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-08T02:33:45.000Z",
-      "description": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World"
+      "id": "a0368611da8d70475347707fd32b4c05",
+      "title": "Trump criticizes NATO over Iran in meeting with Rutte",
+      "url": "https://www.dw.com/en/trump-criticizes-nato-over-iran-in-meeting-with-rutte/a-76715197?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-04-09T01:24:00.000Z",
+      "description": "President Donald Trump said NATO \"wasn't there\" after the US and Israel launched attacks on Iran. But NATO head Mark Rutte said \"a large majority of European countries\" lived up to their side of the deal.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "トランプ氏、ルッテ氏との会談でイラン巡りNATOを批判",
+      "summary": "トランプ大統領は、米国とイスラエルのイラン攻撃後、NATOが「そこにいなかった」と批判。NATO事務総長は欧州諸国が合意を履行したと反論した。"
     },
     {
       "id": "af9ccbc02b93373e5642407f16d2dd44",
-      "title": "Iran war: who gained ground, who lost influence",
+      "title": "Iran war: Who gained ground, who lost influence",
       "url": "https://www.dw.com/en/iran-war-who-gained-ground-who-lost-influence/a-76712134?maca=en-rss-en-top-1022-rdf",
       "published_at": "2026-04-08T18:36:00.000Z",
       "description": "While civilians in the region pay the highest price, the Iran war has reshaped power balances far beyond the Gulf. Some states have gained leverage. Others have lost influence.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "XX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "イラン戦争：誰が優位に立ち、誰が影響力を失ったか",
+      "summary": "イラン戦争は、湾岸地域をはるかに超えて力の均衡を再編した。民間人が高い代償を払う中、一部の国は影響力を強め、他国は失った。"
     },
     {
       "id": "214678eb45c1e32a75456c804190d2eb",
       "title": "Germany news: Lufthansa cabin crew to strike on Friday, UFO trade union says",
       "url": "https://www.dw.com/en/germany-news-lufthansa-cabin-crew-to-strike-on-friday-ufo-trade-union-says/live-76701957?maca=en-rss-en-top-1022-rdf",
       "published_at": "2026-04-08T17:03:00.000Z",
-      "description": "The latest strike to hit Germany's flagship carrier hails from the cabin crew union UFO. Meanwhile, Berlin is walking back a contentious plan about young men seeking permission to go abroad for long periods. DW has more.",
+      "description": "The latest strike to hit Germany's flagship carrier hails from the cabin crew union UFO. Meanwhile, Berlin is walking back a contentious plan about young men seeking permission to go abroad for long periods.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "ドイツニュース：ルフトハンザ航空の客室乗務員、金曜日にストライキ実施へ",
+      "summary": "ドイツのルフトハンザ航空の客室乗務員組合UFOが金曜日のストライキを発表。また、ベルリンは若者の長期海外渡航許可に関する計画を撤回している。"
     },
     {
       "id": "80972cb4a58abe8458c74c458663b197",
@@ -130,7 +234,13 @@
       "description": "A Swedish non-profit has filed a class action lawsuit against Norway's Telenor, accusing it of endangering customers in Myanmar by sharing their data with the junta. The company said it had no real choice.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "MM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ノルウェーのテレノール、ミャンマー顧客データ提供で軍事政権訴訟に直面",
+      "summary": "ノルウェーのテレノール社が、ミャンマーの顧客データを軍事政権に提供し顧客を危険に晒したとして、集団訴訟を起こされた。同社は選択の余地がなかったと主張。"
     },
     {
       "id": "5508fe356c3825f9d9f527021dc051be",
@@ -140,7 +250,13 @@
       "description": "Authorities in Nigeria's restive north put the death toll at three, but residents and humanitarians point to a higher toll. The attack occurred in an area where kidnapping gangs and Islamist militants are active.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "ナイジェリア：襲撃で少なくとも20人が死亡、住民が報告",
+      "summary": "ナイジェリア北部で襲撃があり、当局は死者3名と発表するも、住民らは少なくとも20名が死亡したと報告。誘拐集団やイスラム過激派が活動する地域での出来事。"
     },
     {
       "id": "290b4e132ca0865cf850054528674910",
@@ -150,7 +266,13 @@
       "description": "Iran has executed 14 individuals in recent weeks, with the hangings continuing unabated regardless of the US-Israeli military campaign against the country.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "イラン、米イスラエル戦争中に処刑を強化",
+      "summary": "イランは、米イスラエルによる軍事作戦中にもかかわらず、ここ数週間で14人の個人を処刑した。処刑は依然として継続中。"
     },
     {
       "id": "70dc5a533c04cb290009a27bf1c46c12",
@@ -160,7 +282,13 @@
       "description": "US Vice President JD Vance has criticized EU leaders and Ukraine's Volodymyr Zelenskyy during his visit to Hungary, echoing Prime Minister Viktor Orban's campaign messaging. The Kremlin chimed in from Moscow, too.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "JDヴァンス副大統領、ハンガリー訪問中にゼレンスキーとウクライナを批判",
+      "summary": "米副大統領JDヴァンスがハンガリー訪問中、オルバン首相の選挙活動を支持し、ゼレンスキーとウクライナ、EU指導者を批判。クレムリンもコメントした。"
     },
     {
       "id": "432d69fb9794b1e53bab8b3073530844",
@@ -170,7 +298,13 @@
       "description": "The US, Israel and Iran have agreed to cease hostilities for two weeks after Islamabad mediated a temporary truce. The deal is a major achievement for Pakistan, but what comes next is likely to be even more complicated.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "PK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "パキスタンはいかに米イラン停戦を仲介したか、そして次に来るもの",
+      "summary": "イスラマバードの仲介により、米国、イスラエル、イランが2週間の停戦に合意。これはパキスタンにとって大きな成果だが、今後の展開はさらに複雑になると予想される。"
     },
     {
       "id": "097522ddbee4a0b86a708485a9cb0e6f",
@@ -180,27 +314,13 @@
       "description": "The war in Iran has sparked a global fertilizer shortage and is threatening food security. What are farmers around the world doing to save their crops?",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
-    },
-    {
-      "id": "45a4c8a712cd69fa25b7aa6b2d4e1047",
-      "title": "India's digital census prompts fear of hidden agendas",
-      "url": "https://www.dw.com/en/india-s-digital-census-prompts-fear-of-hidden-agendas/a-76693150?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-08T10:22:00.000Z",
-      "description": "The world's most populous country has launched a fully digital census which involves millions of enumerators and also allows the people to report their own data — but many fear it will be used for political manipulation.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
-    },
-    {
-      "id": "bb39bfb4df5509ba8f09f204504ffc0f",
-      "title": "Taiwan opposition leader Cheng Li-wun makes rare China visit",
-      "url": "https://www.dw.com/en/taiwan-opposition-leader-cheng-li-wun-makes-rare-china-visit/a-76704627?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-08T10:06:00.000Z",
-      "description": "During a visit to a memorial for Taiwan's founding father in Nanjing, KMT leader Cheng Li-wun called for \"reconciliation and unity\" with Beijing. Taiwan's ruling democrats say China needs to stop its aggression.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
+      "region": "International & World",
+      "country": "XX",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "イラン戦争：肥料不足が深刻化する中、農家はいかに適応しているか",
+      "summary": "イラン戦争が世界的な肥料不足を引き起こし、食料安全保障を脅かしている。世界中の農家が作物を守るためにどう対応しているかを探る。"
     },
     {
       "id": "57608faf99fddaddb015afc724139976",
@@ -215,8 +335,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 70,
-      "titleJa": "米国、コスタリカとの新合意にもかかわらずキルマー・アブレゴ・ガルシア氏のリベリアへの国外追放を求める",
-      "summary": "米国政府は、誤ってエルサルバドルに強制送還されたキルマー・アブレゴ・ガルシア氏を、コスタリカとの新合意にもかかわらずリベリアへ送還する意向。彼の件は移民論争の焦点となっている。"
+      "titleJa": "米国、コスタリカとの新たな合意にもかかわらず、キルマル・アブレゴ・ガルシア氏をリベリアへ送還しようとする",
+      "summary": "米国政府は、誤ってエルサルバドルへ送還されたキルマル・アブレゴ・ガルシア氏を、コスタリカとの新たな送還合意があるにもかかわらず、リベリアへ送還する意向を示した。彼の事例は移民問題の焦点となっている。"
     },
     {
       "id": "ae1c02eea333ab9105bc0423313e9982",
@@ -230,9 +350,9 @@
       "country": "US",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 65,
-      "titleJa": "米国がエスワティニに強制送還したカンボジア人男性、「依然として適正な手続きを受ける権利がある」と訴える",
-      "summary": "米国によってエスワティニに強制送還されたカンボジア人男性が、適正な手続きを訴える。彼は故国ではなく、ほとんど知らないアフリカの国で投獄された。"
+      "importanceScore": 72,
+      "titleJa": "「我々には依然として適正な手続きを受ける権利がある」米国からエスワティニに強制送還されたカンボジア人男性が語る",
+      "summary": "米国からエスワティニに強制送還され刑務所に収監されたカンボジア人男性は、適正な手続きを訴える。彼は故国カンボジアではなく、ほとんど知らないアフリカの国へ送られた。"
     },
     {
       "id": "a4771a5a7dfc1da17b6d4784a6a900cb",
@@ -246,9 +366,9 @@
       "country": "BF",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 80,
-      "titleJa": "ブルキナファソの軍事政権指導者、国民は民主主義を忘れるべきだと発言",
-      "summary": "ブルキナファソの軍事政権指導者イブラヒム・トラオレは、民主主義はブルキナファソには向かないと国民に語った。彼は2022年のクーデターで政権を掌握し、反対勢力を抑圧している。"
+      "importanceScore": 85,
+      "titleJa": "ブルキナファソ国民は民主主義を忘れるべき、と軍事指導者が発言",
+      "summary": "ブルキナファソの軍事大統領イブラヒム・トラオレは、国民に対し民主主義を忘れるべきだと語った。彼は2022年のクーデターで権力を掌握し、反対派を抑圧している。"
     },
     {
       "id": "3692d28faca4d81d99e383b724bd3321",
@@ -259,12 +379,12 @@
       "source": "The Guardian – World",
       "sourceUrl": "https://www.theguardian.com/world/rss",
       "region": "International & World",
-      "country": "US",
+      "country": "UG",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "ウガンダ、第三国協定に基づく米国からの初の国外追放便を受け入れ",
-      "summary": "ドナルド・トランプ政権の政策により、米国からの国外追放者を乗せた便がウガンダに着陸。これは、移民を無関係な国に送るという米国戦略の一環。"
+      "importanceScore": 80,
+      "titleJa": "ウガンダ、第三国合意に基づき米国からの初の強制送還便を受け入れ",
+      "summary": "米国からの強制送還便がウガンダに到着し、第三国との合意に基づく最初の措置となった。この計画は「非人道的プロセス」と批判され、法的異議申し立てが予想される。"
     },
     {
       "id": "e86606d917d05b15b2d560dac88001c4",
@@ -279,8 +399,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 60,
-      "titleJa": "ソマリランドがイルハン・オマル議員の身柄引き渡しを要求したという報道は誤報",
-      "summary": "複数のニュースメディアが、非公式なXアカウントに基づき、ソマリランド政府がイルハン・オマル議員の身柄引き渡しを要求したと誤報した。これはJD・ヴァンスの告発に続くもの。"
+      "titleJa": "報道機関、ソマリランドがイルハン・オマル氏の身柄引き渡しを要求したと誤報",
+      "summary": "複数の報道機関が、ソマリランド政府がイルハン・オマル米下院議員の身柄引き渡しを要求したと誤報した。非公式なXアカウントの投稿に基づくもので、米国の政治的対立と情報操作の問題を浮き彫りにする。"
     },
     {
       "id": "194d97fe9936bd3e3e2bf92375594240",
@@ -294,9 +414,9 @@
       "country": "CL",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "チリの極右政権、ピノチェト拷問現場の記念碑計画を破棄",
-      "summary": "チリの新政権が、元ナチス党員パウル・シェーファーが設立したコロニア・ディグニダッドの拷問現場での記念碑建設計画を撤回。犠牲者への影響が懸念される。"
+      "importanceScore": 88,
+      "titleJa": "チリの極右政権、ピノチェト時代の拷問施設の記念碑計画を撤回",
+      "summary": "チリの極右政権が、元ナチス党員パウル・シェーファーが設立したコロニア・ディグニダードの記念碑建設計画を撤回。この場所はピノチェト独裁政権下の拷問施設として知られ、犠牲者への影響が懸念される。"
     },
     {
       "id": "4dae3c50a27a71558e031c18370f5d66",
@@ -310,9 +430,9 @@
       "country": "GB",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "コモンウェルス指導者たち、改革英国党のビザ停止計画後も賠償要求継続を誓う",
-      "summary": "改革英国党が賠償を求める国へのビザ発給を停止すると発表した後も、コモンウェルスの指導者たちは賠償要求を続けると誓った。これは英国を孤立させると警告されている。"
+      "importanceScore": 82,
+      "titleJa": "英国改革党のビザ停止計画後も賠償請求を継続すると英連邦首脳が表明",
+      "summary": "英国改革党が奴隷制度の賠償を求める国々へのビザを停止する計画を発表後、英連邦首脳は賠償請求を続けると表明。この政策は英国を孤立させると警告されている。"
     },
     {
       "id": "442f86cebcf988b30404b2d02202e2a0",
@@ -323,12 +443,12 @@
       "source": "The Guardian – World",
       "sourceUrl": "https://www.theguardian.com/world/rss",
       "region": "International & World",
-      "country": "XX",
+      "country": "US",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 50,
-      "titleJa": "コウノトリ注意報：ジャマイカ発ニューヨーク行きフライトで女性が機内で出産",
-      "summary": "ジャマイカ発ニューヨーク行きのフライト中に女性が出産。新生児の国籍を巡る複雑な状況が発生する可能性があり、注目されている。"
+      "importanceScore": 35,
+      "titleJa": "コウノトリ警報：ジャマイカからニューヨーク行きのフライトで女性が機内で出産",
+      "summary": "ジャマイカ発ニューヨーク行きの機内で女性が出産し、フライトに一人増えて着陸した。新生児の国籍が未定で、複雑な問題が生じる可能性がある。"
     },
     {
       "id": "252ea8c9fc7fb8204fb833d545dd0e6b",
@@ -342,9 +462,9 @@
       "country": "CA",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "先住民族がアルバータ州のカナダからの分離独立住民投票阻止を裁判所に要請",
-      "summary": "アルバータ州の先住民族が、カナダからの分離独立を目指す同州の住民投票を阻止するよう裁判所に要請。条約上の権利を侵害すると主張し、州の石油富裕の分配問題を巡る議論が続く。"
+      "importanceScore": 85,
+      "titleJa": "先住民、カナダからのアルバータ州分離独立に関する住民投票差し止めを裁判所に要求",
+      "summary": "アルバータ州の分離独立を巡る住民投票に対し、スタージョンレイク・クリー・ネイションが条約上の権利侵害を理由に裁判所へ差し止めを要求。カナダ国内の重要な政治問題となっている。"
     },
     {
       "id": "cb3fec82d9dfda8695354e5c9500ea24",
@@ -358,163 +478,169 @@
       "country": "CA",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 65,
-      "titleJa": "トロントの高級住宅街で「バーチャルゲーテッドコミュニティ」AI監視計画を巡り論争",
-      "summary": "カナダの裕福な地域トロントのローズデールで、AI監視システム「フロック」を導入し、国内初の「バーチャルゲーテッドコミュニティ」を創設する計画を巡り論争が勃発。プロパティ犯罪対策が目的。"
+      "importanceScore": 60,
+      "titleJa": "トロントの近隣地区で「仮想ゲーテッドコミュニティ」AI監視計画を巡り論争",
+      "summary": "トロントの裕福な地区で、財産犯罪対策としてAI搭載監視システム導入計画が浮上し、プライバシー侵害の懸念から論争になっている。これはカナダ初の「仮想ゲーテッドコミュニティ」となる可能性がある。"
     },
     {
-      "id": "b054c48c654f422ca73e3b966064618b",
-      "title": "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
-      "url": "https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-victory?traffic_source=rss",
-      "published_at": "2026-04-08T19:20:34.000Z",
-      "description": "Celebration and scepticism coexist in Tehran as ceasefire offers reprieve despite doubts about its durability.",
+      "id": "4ccd7f17df25680c5cb57bc69d5cf772",
+      "title": "Man rescued after two weeks trapped in collapsed Mexico mine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss",
+      "published_at": "2026-04-09T04:55:06.000Z",
+      "description": "A man trapped for nearly two weeks in a flooded gold mine in Sinaloa, Mexico, has been rescued by military divers.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
-      "country": "IR",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 85,
-      "titleJa": "イラン人、停戦に安堵の息。双方が勝利を主張",
-      "summary": "イランで停戦が成立し、安堵感が広がる一方、各方面が勝利を主張。耐久性には疑問も。"
+      "country": "MX",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 60,
+      "titleJa": "メキシコの崩壊した鉱山で2週間閉じ込められた男性が救出",
+      "summary": "メキシコ・シナロア州の浸水した金鉱で2週間近く閉じ込められていた男性が、軍のダイバーによって救出された。"
     },
     {
-      "id": "f1d2c67b2232b03a86c4b35c20e10664",
-      "title": "White House says Trump’s ‘red line’ against Iran nuclear enrichment remains",
-      "url": "https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains?traffic_source=rss",
-      "published_at": "2026-04-08T19:00:28.000Z",
-      "description": "Trump's spokesperson says Vice President JD Vance will lead US team for negotiations with Iran in Pakistan on Saturday.",
+      "id": "c07c821ea19b9cbf97f2f78317101cc7",
+      "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
+      "published_at": "2026-04-09T04:46:54.000Z",
+      "description": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
       "country": "US",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 90,
-      "titleJa": "ホワイトハウス、トランプ氏のイラン核濃縮に対する「レッドライン」維持を表明",
-      "summary": "ホワイトハウスは、イランの核濃縮に対するトランプ氏の「レッドライン」が維持されることを表明。"
+      "importanceScore": 85,
+      "titleJa": "トランプ氏、ルッテ首相と会談後、イラン巡りNATOを非難し、グリーンランドへの脅威を再表明",
+      "summary": "トランプ米大統領はNATO事務総長と会談し、加盟国がイランとの戦争を支持しないことに失望を表明、グリーンランドに関する脅威も再提起した。"
     },
     {
-      "id": "4d73f23bb425c9880bdf1ae7a1b55502",
-      "title": "JD Vance slams Zelenskyy comments on Orban ahead of Hungary election",
-      "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban?traffic_source=rss",
-      "published_at": "2026-04-08T18:34:41.000Z",
-      "description": "US vice president in Hungary calls Ukrainian leader's 'threatening' remarks 'completely scandalous'.",
+      "id": "f2f59b1497df9367081143975f3d4bbe",
+      "title": "13-year-old girl captures terrifying moment Israel bombed Beirut",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss",
+      "published_at": "2026-04-09T03:27:00.000Z",
+      "description": "A 13-year-old girl on Snapchat captured the moment Israel began its assault on Beirut.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
-      "country": "HU",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "13歳の少女がイスラエルによるベイルート爆撃の恐ろしい瞬間を捉える",
+      "summary": "13歳の少女がスナップチャットで、イスラエルがベイルートへの攻撃を開始した瞬間を撮影した。その映像は衝撃を与えている。"
+    },
+    {
+      "id": "524d2a3a7a07c3689a89448a62fc8709",
+      "title": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss",
+      "published_at": "2026-04-09T02:26:35.000Z",
+      "description": "Hundreds of vehicles have driven through Istanbul to condemn the ‘lawless aggression’ of the US and Israel.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "TR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "トルコの車列が米国とイスラエルの「不法な侵略」を非難",
+      "summary": "数百台の車両がイスタンブールを走行し、米国とイスラエルによる「不法な侵略」を非難する抗議活動を行った。"
+    },
+    {
+      "id": "9efdeb3821dddbbbb92faba628f3c5e3",
+      "title": "Protesters outside Israeli embassy in London condemn assault on Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss",
+      "published_at": "2026-04-09T01:23:41.000Z",
+      "description": "Protesters have blocked roads outside the Israeli embassy in London, condemning Israel’s violent strikes on Lebanon.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ロンドンのイスラエル大使館前で抗議活動、レバノン攻撃を非難",
+      "summary": "ロンドンのイスラエル大使館前で抗議者が道路を封鎖し、レバノンへのイスラエル軍の攻撃を非難した。国際的な非難が続く。"
+    },
+    {
+      "id": "8ff79a3d3cf86a33fb852e7b4a53596d",
+      "title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss",
+      "published_at": "2026-04-09T00:36:44.000Z",
+      "description": "US Vice President JD Vance says Lebanon is not part of the US-Iran ceasefire.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "米副大統領JD・ヴァンス、レバノンは米・イラン停戦に含まれないと発言",
+      "summary": "米国のJD・ヴァンス副大統領は、レバノンが米国とイランの停戦協定の対象外であると発言した。中東情勢の複雑さを浮き彫りにする。"
+    },
+    {
+      "id": "5ae63a59e04d1cbc93512e1e6ade8919",
+      "title": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss",
+      "published_at": "2026-04-09T00:00:00.000Z",
+      "description": "UN human rights chief Volker Turk describes Israel's attacks on Lebanon as 'horrific', coming so soon after ceasefire.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "XX",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イラン戦争速報：トランプ氏、テヘランが合意を遵守しなければ行動を脅迫",
+      "summary": "トランプ氏はイランが合意に違反すれば行動を起こすと警告。国連人権高等弁務官は、停戦直後のイスラエルによるレバノン攻撃を「恐ろしい」と非難した。"
+    },
+    {
+      "id": "449d5c1415f57cd744a90b7791a70f6f",
+      "title": "‘Israel must be restrained for US-Iran ceasefire to hold’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss",
+      "published_at": "2026-04-08T23:39:52.000Z",
+      "description": "Former US counterterrorism chief Joe Kent had warned Israel could ‘sabotage’ the US-Iran ceasefire.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "XX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "「米・イラン停戦を維持するにはイスラエルを抑制する必要がある」",
+      "summary": "元米国対テロ責任者のジョー・ケント氏は、イスラエルが米・イラン停戦を「妨害」する可能性があると警告した。停戦の行方に懸念が示されている。"
+    },
+    {
+      "id": "3799e18c1ed3b7545ccd76acbd01c78a",
+      "title": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
+      "url": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss",
+      "published_at": "2026-04-08T22:49:22.000Z",
+      "description": "Drug dealer who supplied dose that eventually led to Perry's death in 2023 pleaded guilty to five felony drug counts.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "マシュー・ペリーの死に関連する薬物供給に関与した女性に15年の刑",
+      "summary": "俳優マシュー・ペリーの死につながる薬物を供給したディーラーの女性が、5件の重罪薬物容疑を認め、15年の刑が言い渡された。"
+    },
+    {
+      "id": "ef7fb70fc99db2e98af775182dfd6f0c",
+      "title": "Americans question Trump’s instinct on Iran war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss",
+      "published_at": "2026-04-08T21:59:51.000Z",
+      "description": "Americans are split on whether to trust Donald Trump's instinct-driven approach to the Iran conflict.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 75,
-      "titleJa": "JDヴァンス、ハンガリー選挙を前にオルバンに関するゼレンスキー大統領の発言を非難",
-      "summary": "米副大統領JDヴァンスがハンガリー訪問中、ウクライナ大統領ゼレンスキーのオルバン首相への発言を非難した。"
-    },
-    {
-      "id": "5cf07b80ce4c23b956c7832c481ed047",
-      "title": "Trump backs Israel, says Lebanon a ‘separate skirmish’ after ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-backs-israel-says-lebanon-a-separate-skirmish-after-ceasefire?traffic_source=rss",
-      "published_at": "2026-04-08T18:30:33.000Z",
-      "description": "After Israeli strikes on Beirut, Donald Trump said Lebanon isn’t included in the Iran ceasefire.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "US",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 88,
-      "titleJa": "トランプ氏、停戦後もイスラエルを支持、「レバノンは別の小競り合い」と発言",
-      "summary": "停戦後、トランプ氏がイスラエルを支持し、レバノンは停戦対象外の「別の小競り合い」だと発言した。"
-    },
-    {
-      "id": "487733eb81c2e86a0d9a6e78d992d959",
-      "title": "How Trump’s promise to ‘wipe out’ Iran could backfire on US power",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/8/aje-onl-tt_irn_latestescalation_av_v2-080426?traffic_source=rss",
-      "published_at": "2026-04-08T18:24:57.000Z",
-      "description": "The world counts down to Trump’s threats of destruction.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "US",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 92,
-      "titleJa": "トランプ氏のイラン「一掃」宣言が米国パワーにどう裏目に出るか",
-      "summary": "トランプ氏のイラン「一掃」宣言が、米国の国際的な影響力にどう悪影響を及ぼすか考察。"
-    },
-    {
-      "id": "4b9b3515b677c856caaa12d4cc0757a5",
-      "title": "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss",
-      "published_at": "2026-04-08T18:08:00.000Z",
-      "description": "British Prime Minister Keir Starmer said more work is needed to reopen the Strait of Hormuz.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East"
-    },
-    {
-      "id": "0fd7e8a44ba5faea7048672abf2c7c37",
-      "title": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
-      "url": "https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments?traffic_source=rss",
-      "published_at": "2026-04-08T17:50:31.000Z",
-      "description": "The diplomatic manouevre is the latest sign of tension between right-wing Daniel Noboa and left-wing Gustavo Petro.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "EC",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 65,
-      "titleJa": "エクアドル、ホルヘ・グラス氏に関する発言を巡りコロンビアから大使を召還",
-      "summary": "エクアドルがホルヘ・グラス氏に関する発言を巡り、コロンビアから大使を召還。両国間の緊張が高まる。"
-    },
-    {
-      "id": "b6f784c7f9dc48942bc13f0dfc315615",
-      "title": "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen",
-      "url": "https://www.aljazeera.com/news/2026/4/8/why-my-child-yemens-taiz-mourns-snipers-killing-of-teen?traffic_source=rss",
-      "published_at": "2026-04-08T17:34:45.000Z",
-      "description": "Yemeni child killed by suspected Houthi sniper while heading to school in Taiz sparks grief and outrage among locals.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "YE",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 70,
-      "titleJa": "「なぜ私の子供が？」：イエメンのタイズで狙撃兵によるティーン殺害に悲しみが広がる",
-      "summary": "イエメンのタイズで、通学中のティーンが狙撃兵に殺害され、地元住民の間で悲しみと怒りが広がっている。"
-    },
-    {
-      "id": "1ba7f24009b2e7ee34dc5b707242a2b8",
-      "title": "Civilians under fire by gangs in Gaza: What happened in Maghazi?",
-      "url": "https://www.aljazeera.com/features/2026/4/8/civilians-under-fire-by-gangs-in-gaza-what-happened-in-maghazi?traffic_source=rss",
-      "published_at": "2026-04-08T17:10:19.000Z",
-      "description": "Armed men have raided Maghazi refugee camp in central Gaza, apparently with support from the Israeli army.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "PS",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "ガザで武装勢力による住民への銃撃：マガジでは何が起きたのか？",
-      "summary": "ガザ中央部のマガジ難民キャンプで武装集団が民間人を襲撃し、イスラエル軍の支援があったと報じられている。"
-    },
-    {
-      "id": "ce46e10983642fcc570a567572961924",
-      "title": "Trump claims victory in Iran — but is this really a win?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-claims-victory-in-iran-but-is-this-really-a?traffic_source=rss",
-      "published_at": "2026-04-08T17:07:04.000Z",
-      "description": "Before a single term has been negotiated, Trump is claiming total victory over Iran, but is this really a win?",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "US",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 87,
-      "titleJa": "トランプ氏、イランでの勝利を主張 — しかし本当に勝利なのか？",
-      "summary": "トランプ氏がイランでの完全な勝利を主張しているが、実際にそれが勝利と言えるのか疑問が呈されている。"
+      "titleJa": "イラン戦争に関するトランプ氏の直感にアメリカ国民が疑問",
+      "summary": "イラン紛争に対するドナルド・トランプ氏の直感的なアプローチを信頼するかどうかについて、アメリカ国民の間で意見が分かれている。"
     },
     {
       "id": "5d0cf140215c57f1ab2fb8dc76da2ac8",
@@ -528,9 +654,41 @@
       "country": "XX",
       "category": "Conflict",
       "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ボーエン氏：停戦は市民に一時的な休息をもたらすも、長くは続かない可能性",
+      "summary": "中東の戦争と和平交渉は地域を再形成しており、停戦は市民に一時的な休息を与えるものの、長くは続かない可能性があると報じられている。"
+    },
+    {
+      "id": "4e278b892fe569b2cbf8ebf8dd043e7f",
+      "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
+      "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-08T20:26:48.000Z",
+      "description": "A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
       "importanceScore": 80,
-      "titleJa": "ボーウェン：停戦は市民に一時的な安息をもたらすが、長くは続かないかもしれない",
-      "summary": "中東での停戦は市民に一時的な安息をもたらすものの、永続的な和平合意の可能性は不透明。戦争とその影響は中東の情勢を再形成している。"
+      "titleJa": "交渉担当者、イランの対立する和平案の隔たりを埋めるため困難な課題に直面",
+      "summary": "米国とイランの間で提示された和平案には大きな隔たりがあり、交渉担当者は合意形成に困難な課題を抱えていることが報じられた。"
+    },
+    {
+      "id": "bcd58167643d70c4593c481be46b4b8c",
+      "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
+      "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-08T22:09:26.000Z",
+      "description": "The Israeli prime minister's response to the ceasefire has been muted, in contrast to the triumphal statements from the US and Iran.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "イスラエルは米イラン停戦を支持するも、ネタニヤフ首相の戦争目標は未達成",
+      "summary": "イスラエルは米イラン停戦を支持しているが、ネタニヤフ首相の戦争目標は達成されておらず、その反応は控えめだったと報じられている。"
     },
     {
       "id": "45e6cef943ff35e181a9472d605c7d95",
@@ -544,9 +702,9 @@
       "country": "IR",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "米国との停戦合意がなぜイランの強硬派を動揺させたのか",
-      "summary": "米国との2週間の停戦合意は、直接対話の可能性を開いたが、イランの強硬派を激怒させ、国内に動揺を広げている。"
+      "importanceScore": 70,
+      "titleJa": "米国との停戦合意がイランの強硬派を動揺させている理由",
+      "summary": "米国との2週間の停戦合意は、直接対話の可能性を開いたが、イランの強硬派を激怒させている理由が報じられている。"
     },
     {
       "id": "dd437d839678a09f2234a5d0153bcf43",
@@ -557,12 +715,60 @@
       "source": "BBC – Middle East",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
       "region": "Middle East",
-      "country": "IR",
+      "country": "PK",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "パキスタンはいかにして米国とイラン間の脆弱な停戦確保に貢献したか",
-      "summary": "パキスタンは歴史的にイランと関係があるが、米国とイラン間の脆弱な停戦合意を確保する上で困難を乗り越え、その仲介役を果たした。"
+      "importanceScore": 75,
+      "titleJa": "パキスタンが米国とイラン間の不安定な停戦確保にどのように貢献したか",
+      "summary": "パキスタンが米国とイランの間の不安定な停戦を確保するために歴史的な関係を活かして仲介に貢献した経緯が報じられている。"
+    },
+    {
+      "id": "f6a3494b83c20f9ad7791de60a847c14",
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-08T20:15:35.000Z",
+      "description": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "XX",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "米イラン停戦計画を受け原油価格が急落し株価が急騰",
+      "summary": "米イラン間の停戦計画を受けて、原油価格が最大15%下落し、株価は上昇したが、価格は戦前よりも高い水準を維持している。"
+    },
+    {
+      "id": "83c030b21b0bb03be7ecf7d0eb617a97",
+      "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+      "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-08T01:44:26.000Z",
+      "description": "US officials say they are now \"working to support her safe departure from Iraq\".",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "米国人ジャーナリスト、シェリー・キットルソン氏がイラクでの誘拐後解放されたと当局が発表",
+      "summary": "イラクで誘拐された米国人ジャーナリスト、シェリー・キットルソン氏が解放され、米国当局が安全な出国を支援していると報じられた。"
+    },
+    {
+      "id": "bdb8a0077ef5bfabfd4796dd0115921b",
+      "title": "French couple leave Iran after more than three years in jail",
+      "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-07T19:18:08.000Z",
+      "description": "Cecile Kohler and Jacques Paris are on their way home after being allowed to leave the country, the French president says.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "フランス人カップル、3年以上収監後イランを出国",
+      "summary": "フランス人カップルがイランで3年以上投獄された後、出国が許可され帰国の途についているとフランス大統領が発表した。"
     },
     {
       "id": "2c3aa04f0ea1c1cff4824722e2c06507",
@@ -576,9 +782,9 @@
       "country": "TR",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 70,
-      "titleJa": "イスタンブールのイスラエル領事館で銃撃事件、銃撃犯1人死亡、2人負傷",
-      "summary": "イスタンブールのイスラエル領事館で銃撃事件が発生し、銃撃犯1人が死亡、2人が負傷。領事館は2年半前から空室で外交官は不在だった。"
+      "importanceScore": 65,
+      "titleJa": "イスタンブールのイスラエル領事館で銃撃、犯人1名死亡、2名負傷",
+      "summary": "イスタンブールのイスラエル領事館で銃撃事件が発生し、銃撃犯1名が死亡、2名が負傷したが、領事館は過去2年半空室だった。"
     },
     {
       "id": "9122b04ff7f02c547b8d758238faa9c6",
@@ -592,89 +798,9 @@
       "country": "PS",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "イスラエル軍による請負業者殺害後、WHOがガザでの医療避難を停止",
-      "summary": "イスラエル軍が「差し迫った脅威」とみなし発砲した車両のパレスチナ人運転手が死亡。これを受け、WHOはガザでの医療避難活動を停止した。"
-    },
-    {
-      "id": "4e29f188d1bdb34a104b969a349cd1ff",
-      "title": "Trump condemned over threat that Iran's 'civilisation will die'",
-      "url": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-07T21:56:02.000Z",
-      "description": "The UN's chief says he is \"deeply troubled\" by such statements, as the US president ramps up pressure on Iran to agree a deal to end the war.",
-      "source": "BBC – Middle East",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "region": "Middle East",
-      "country": "IR",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 90,
-      "titleJa": "トランプ氏、イランの「文明は死ぬだろう」との脅威で非難される",
-      "summary": "トランプ米大統領がイランの「文明は死ぬ」と脅威を与え非難される。国連事務総長は懸念を表明し、米国はイランへの戦争終結合意圧力を強化。"
-    },
-    {
-      "id": "169257045e825b4ad6e726ce28fc23e5",
-      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
-      "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-06T04:56:03.000Z",
-      "description": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
-      "source": "BBC – Middle East",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "region": "Middle East",
-      "country": "IR",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 95,
-      "titleJa": "トランプ氏、ホルムズ海峡封鎖巡りイランに暴言交じりの脅威",
-      "summary": "トランプ米大統領は、ホルムズ海峡が再開されなければ、イランの発電所や橋を破壊すると暴言交じりの脅威を発した。"
-    },
-    {
-      "id": "65f05be06abc29141305696203cccd74",
-      "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
-      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-06T00:23:16.000Z",
-      "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
-      "source": "BBC – Middle East",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "region": "Middle East",
-      "country": "IR",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 88,
-      "titleJa": "トランプ氏、救出作戦成功を宣言もイランでの米作戦には依然脅威",
-      "summary": "米軍の救出作戦成功をトランプ氏は勝利と宣言したが、イランでの米作戦、特に要衝占領や核施設制圧への脅威は依然残る。"
-    },
-    {
-      "id": "79d3a995ac2554a9b6dd5c5f1d37f4ff",
-      "title": "Little sign of breakthrough as Trump's Iran deadline nears ",
-      "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-06T23:04:23.000Z",
-      "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
-      "source": "BBC – Middle East",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "region": "Middle East",
-      "country": "IR",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "トランプ氏のイラン期限が迫る中、進展の兆しはほとんどなし",
-      "summary": "トランプ米大統領がイランにホルムズ海峡開通を迫る期限が迫る中、進展の兆しはほとんど見られない。大統領は微妙な政治的立場にある。"
-    },
-    {
-      "id": "8e8819d07c3019df05086debf2396f90",
-      "title": "How rescue of US airman in remote part of Iran unfolded",
-      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-06T21:31:24.000Z",
-      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-      "source": "BBC – Middle East",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "region": "Middle East",
-      "country": "IR",
-      "category": "Conflict",
-      "categoryJa": "紛争",
       "importanceScore": 80,
-      "titleJa": "イランの辺境地で米空軍兵救出作戦はいかに展開されたか",
-      "summary": "イランの敵対的な辺境地域で行われた米空軍兵の救出作戦は、複数の米政府機関が関与する非常に複雑なものであり、無事完了した。"
+      "titleJa": "WHO、イスラエル軍による請負業者殺害を受けガザの医療避難を一時停止",
+      "summary": "イスラエル軍が脅威と判断した車両のパレスチナ人運転手を射殺したため、WHOはガザからの医療避難を一時停止したと報じられている。"
     },
     {
       "id": "7deed360f116e0dadb2257fcbd4b16d7",
@@ -688,9 +814,9 @@
       "country": "ET",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 85,
-      "titleJa": "エチオピアで人身売買ネットワークの首謀者とされる人物が逮捕",
-      "summary": "エチオピアで、拷問を用いて数百万ドル規模の違法ビジネスを運営していた疑いのある人身売買ネットワークの首謀者が逮捕された。"
+      "importanceScore": 80,
+      "titleJa": "エチオピアで人身売買ネットワークの首謀者が逮捕",
+      "summary": "エチオピアで、数百万ドル規模の人身売買ネットワークを運営し、金銭のために拷問を使用していた疑いのある首謀者が逮捕されました。"
     },
     {
       "id": "c0e013f2a5e901c009632a2b2fe2725c",
@@ -704,9 +830,9 @@
       "country": "AO",
       "category": "Disaster",
       "categoryJa": "災害",
-      "importanceScore": 90,
+      "importanceScore": 85,
       "titleJa": "アンゴラで洪水による死者増加、数十人が死亡",
-      "summary": "アンゴラで洪水による犠牲者が増え、数十人が死亡。大統領は被災者の捜索が時間との戦いであると述べ、死者を悼んだ。"
+      "summary": "アンゴラで洪水により数十人が死亡し、大統領は被災者の捜索が時間との戦いであると述べ、犠牲者を悼みました。"
     },
     {
       "id": "15ff46988eae7c17c3d4d02b360c3ffe",
@@ -720,9 +846,9 @@
       "country": "NG",
       "category": "Entertainment",
       "categoryJa": "エンタメ",
-      "importanceScore": 60,
-      "titleJa": "ラゴスがカーニバル熱に包まれ、アフリカ・ブラジル系文化を祝う",
-      "summary": "ナイジェリアのラゴスで、数百年の歴史を持つファンティ・カーニバルが色彩豊かに復活し、地元住民がアフリカ・ブラジル系文化を祝った。"
+      "importanceScore": 30,
+      "titleJa": "アフロブラジル文化を祝うラゴスのカーニバル熱狂",
+      "summary": "ナイジェリアのラゴスで、数百年の歴史を持つファンティ・カーニバルが色鮮やかに開催され、地元住民がアフロブラジル文化を祝いました。"
     },
     {
       "id": "a063dda40375cd505f9e19086efdff4a",
@@ -736,9 +862,9 @@
       "country": "MW",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 70,
-      "titleJa": "「今では彼女を愛している」：支援が少ない国で、自閉症の子どもと共に生きることを学ぶ母親",
-      "summary": "マラウイのマーサ・オングワネさんは、娘の自閉症に苦しんだが、珍しい支援グループを見つけ、今では娘を愛するようになったと語る。"
+      "importanceScore": 60,
+      "titleJa": "「今では彼女を愛している」：支援の少ない国で自閉症の子供と生きる母親",
+      "summary": "マラウイのマーサ・オングワネさんは、娘の自閉症に苦しんでいましたが、稀な支援団体と出会い、娘と共に生きる道を見つけました。"
     },
     {
       "id": "a1798acd17f7ef7a603a0adb87301ec7",
@@ -752,9 +878,9 @@
       "country": "NG",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 80,
-      "titleJa": "「私たちの土地での発言権を求む」－ナイジェリアの首都建設のために立ち退かされた人々",
-      "summary": "ナイジェリアの首都建設のために立ち退きを強いられた住民たちが、政府が彼らへの約束を果たしていないと非難している。"
+      "importanceScore": 75,
+      "titleJa": "「我々の土地で声を上げたい」－ナイジェリアの首都建設で立ち退かされた人々",
+      "summary": "ナイジェリアの首都建設のために立ち退かされた人々が、政府が約束を履行しないと非難し、自分たちの土地での発言権を求めています。"
     },
     {
       "id": "a60cdc0407b251747a7bdd1427f3643c",
@@ -768,9 +894,9 @@
       "country": "KE",
       "category": "Environment",
       "categoryJa": "環境",
-      "importanceScore": 75,
-      "titleJa": "1匹220ドルのアリ：野生生物密売の新たなフロンティア",
-      "summary": "アリ収集の熱狂がケニアを驚かせ、密輸業者が利益を得ようと目をつけ、野生生物密売の新たな領域が生まれている。"
+      "importanceScore": 65,
+      "titleJa": "アリ一匹220ドル：野生生物密売の新たなフロンティア",
+      "summary": "アリ収集の人気が高まり、ケニアで密売人が利益を得るためにアリの密売を始め、野生生物密売の新たな領域となっています。"
     },
     {
       "id": "d2d4662a699b889a4f0881710179b6d1",
@@ -784,9 +910,9 @@
       "country": "XX",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 95,
+      "importanceScore": 85,
       "titleJa": "「人類に対する最も重大な犯罪」：国連の奴隷制度に関する投票は何を意味するのか？",
-      "summary": "アフリカとカリブ諸国は、奴隷制度から利益を得た国々に賠償を求めているが、その道のりは容易ではないとされている。"
+      "summary": "アフリカとカリブ諸国は、奴隷制度から利益を得た国々に補償を求めていますが、国連の投票がその実現を容易にするものではないと報じられています。"
     },
     {
       "id": "cf5447b51a24685884a958a43e1992ef",
@@ -797,12 +923,12 @@
       "source": "BBC – Africa",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "region": "Africa",
-      "country": "XX",
+      "country": "KE",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 85,
+      "importanceScore": 75,
       "titleJa": "女性たちが秘密裏に撮影され、オンラインで嘲笑・虐待される",
-      "summary": "ケニアとガーナの女性たちが、ロシア人男性に声をかけられ、後に同意なしに動画を投稿され、オンラインで嘲笑や虐待を受けた体験を語った。"
+      "summary": "ケニアとガーナの女性たちが、ロシア人男性に秘密裏に撮影され、同意なしに動画をオンラインに投稿され、嘲笑や虐待の被害を受けているとBBCに語りました。"
     },
     {
       "id": "156ff8e9cab18973e3e7fabad28d2ce8",
@@ -816,9 +942,9 @@
       "country": "XX",
       "category": "Economy",
       "categoryJa": "経済",
-      "importanceScore": 88,
-      "titleJa": "電力配給とガソリン希釈－アフリカ諸国がイラン戦争の影響にどう対処しているか",
-      "summary": "イラン戦争による原油供給の混乱がアフリカ諸国に不足と懸念を引き起こしており、各国は電力配給やガソリン希釈などで対応している。"
+      "importanceScore": 80,
+      "titleJa": "配給制の電力と薄められたガソリン – イラン戦争の影響にアフリカ諸国がどう対応しているか",
+      "summary": "イラン戦争による石油供給の混乱が、多くのアフリカ諸国で電力配給制やガソリン希釈といった対策を余儀なくさせ、懸念を引き起こしています。"
     },
     {
       "id": "4be9f6a88a4c6a8c0b185d576f5b204d",
@@ -832,9 +958,9 @@
       "country": "AO",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 90,
-      "titleJa": "アンゴラでの反政府抗議活動を扇動したとされるロシアの作戦の内幕",
-      "summary": "アンゴラで、反政府抗議活動を扇動したとして告発されたロシア人とアンゴラ人のグループが裁判にかけられているが、彼らは容疑を否認している。"
+      "importanceScore": 85,
+      "titleJa": "アンゴラでの反政府デモを扇動したとされるロシアの作戦の内幕",
+      "summary": "アンゴラで、反政府デモを扇動したとしてロシア人およびアンゴラ人のグループが裁判にかけられており、彼らは容疑を否認しています。"
     },
     {
       "id": "68f2dd2472f084f1dd949263ce1321c7",
@@ -948,9 +1074,9 @@
       "country": "HU",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "JDヴァンス氏、ブダペスト訪問でオルバン氏の再選を支持しEUを非難",
-      "summary": "米国副大統領JDヴァンス氏がブダペストを訪問し、オルバン氏の再選運動を強く支持するとともにEUを批判しました。"
+      "importanceScore": 80,
+      "titleJa": "JD・ヴァンス副大統領、ブダペスト訪問でオルバン氏の再選を支持しEUを非難",
+      "summary": "米副大統領がブダペストでオルバン氏の再選を公に支持し、EUを批判した。"
     },
     {
       "id": "c67676de8ed7012106580007fd597bec",
@@ -964,9 +1090,9 @@
       "country": "HU",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "16年間政権を握るハンガリー首相ヴィクトル・オルバンとは？",
-      "summary": "2010年以降、ハンガリーを「選挙独裁のハイブリッド体制」に変えたヴィクトル・オルバン首相の人物像と、長期政権の背景について解説しています。"
+      "importanceScore": 75,
+      "titleJa": "16年間政権を維持するハンガリーのオルバン首相とは？",
+      "summary": "2010年以降、オルバン首相はハンガリーを選挙的独裁制に変貌させ、欧州議会に非難されている。"
     },
     {
       "id": "b64b9e65e53d5f98e4288a12a69eec42",
@@ -981,8 +1107,8 @@
       "category": "Disaster",
       "categoryJa": "災害",
       "importanceScore": 60,
-      "titleJa": "フランスで列車がトラックと衝突、時速99マイル走行中に1人死亡",
-      "summary": "フランス北部で時速約160kmで走行中の列車がトラックと衝突し、列車運転士が死亡しました。トラック運転手は拘留されています。"
+      "titleJa": "フランスで時速99マイルの列車とトラックが衝突、1名死亡",
+      "summary": "フランス北部で列車とトラックが衝突し、列車運転士が死亡。トラック運転士は拘留された。"
     },
     {
       "id": "91810c2f0742c45a91672cc60a4bd90c",
@@ -998,7 +1124,7 @@
       "categoryJa": "社会",
       "importanceScore": 65,
       "titleJa": "カーボベルデで体調を崩した1,700人以上の英国人がTuiに対して訴訟参加",
-      "summary": "カーボベルデで病気になった1,700人以上の英国人観光客がTui社を相手取って訴訟に参加しました。Tuiは現在調査中と述べています。"
+      "summary": "カーボベルデで病気になった1,700人以上の英国人が旅行会社Tuiに対し訴訟に参加。Tuiは現在調査中。"
     },
     {
       "id": "4b5de99cb4c3da4655dda65f37b001f3",
@@ -1012,9 +1138,9 @@
       "country": "ES",
       "category": "Economy",
       "categoryJa": "経済",
-      "importanceScore": 70,
-      "titleJa": "スペインの巨大な豚肉産業、豚熱の脅威から救済を求める",
-      "summary": "世界中で輸入停止措置が取られる中、スペインの巨大な豚肉産業が豚熱の脅威に直面し、救済を求めています。"
+      "importanceScore": 75,
+      "titleJa": "スペインの巨大な豚肉産業、豚熱の脅威から救済を模索",
+      "summary": "スペインの豚肉産業が豚熱の脅威に直面。米国など各国が輸入停止しており、業界は救済策を求めている。"
     },
     {
       "id": "4333dff4b352e54de1105ead09e92225",
@@ -1028,9 +1154,9 @@
       "country": "BE",
       "category": "Sports",
       "categoryJa": "スポーツ",
-      "importanceScore": 60,
-      "titleJa": "ポガチャル選手、ツール・オブ・フランダース優勝で赤信号無視により罰金か",
-      "summary": "タデイ・ポガチャル選手がツール・オブ・フランダースで優勝しましたが、鉄道の踏切で赤信号を無視したため罰金を科される可能性があります。"
+      "importanceScore": 40,
+      "titleJa": "ポガチャル、フランドル勝利で赤信号無視の罰金に直面か",
+      "summary": "ポガチャルはフランドルを3度目の優勝で飾ったが、鉄道の踏切で赤信号を無視したため罰金を科される可能性がある。"
     },
     {
       "id": "6ab5631a272268b2c353f8dc3db7cf7d",
@@ -1044,9 +1170,9 @@
       "country": "VA",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 80,
-      "titleJa": "レオ教皇、初の復活祭ミサで世界の指導者に平和の選択を呼びかけ",
-      "summary": "レオ14世教皇が初の復活祭ミサで、サンピエトロ広場に集まった数千人の信者に対し、世界の指導者たちに平和を選択するよう呼びかけました。"
+      "importanceScore": 85,
+      "titleJa": "レオ法王、初のイースターミサで世界の指導者に平和の選択を呼びかけ",
+      "summary": "新法王レオ14世が初のイースターミサで、サンピエトロ広場に集まった数千人の信者に対し、世界の指導者たちに平和を選択するよう訴えた。"
     },
     {
       "id": "13e91dccdf8c4de11160815860d901f1",
@@ -1061,8 +1187,8 @@
       "category": "Conflict",
       "categoryJa": "紛争",
       "importanceScore": 90,
-      "titleJa": "ロシアのウクライナ市場攻撃で5人死亡",
-      "summary": "土曜日の朝、ロシアのドローンがウクライナ南部の賑やかな市場を攻撃し、5人が死亡、他に21人が負傷しました。"
+      "titleJa": "ロシアのウクライナ市場攻撃で5名死亡",
+      "summary": "土曜朝、ウクライナ南部の賑やかな市場がロシアのドローン攻撃を受け、5名が死亡し、21名が負傷した。"
     },
     {
       "id": "41a6cd2884197fcdcaa1eb6bf460ba98",
@@ -1078,7 +1204,7 @@
       "categoryJa": "政治",
       "importanceScore": 85,
       "titleJa": "ハンガリー、選挙前にガスパイプライン爆破計画を主張",
-      "summary": "投票日1週間前、ハンガリーがガスパイプライン爆破計画の存在を主張しました。これはウクライナのせいにされる偽旗作戦の警告に続くものです。"
+      "summary": "ハンガリーが選挙を1週間後に控え、ガスパイプライン爆破計画が存在すると主張。ウクライナに責任を負わせる偽旗作戦の警告後に発表された。"
     },
     {
       "id": "8df963ba8ef32b943c5b9732c7ea3ec5",
@@ -1092,9 +1218,9 @@
       "country": "HU",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "AI動画がレトリックを煽り、オルバン氏がハンガリーでさらに4年の続投を目指す",
-      "summary": "ハンガリーでオルバン首相が4期目の続投を目指す中、AI動画が彼の選挙ライバルを標的にし、政治的なレトリックを加速させています。"
+      "importanceScore": 70,
+      "titleJa": "ハンガリーのオルバン氏4期目を目指す中、AI動画がレトリックを煽る",
+      "summary": "ハンガリーのオルバン首相の選挙戦でAI動画が対立候補を標的にし、16年間の政権を揺るがす可能性が浮上している。"
     },
     {
       "id": "4033853c495172380bfbb31d5feae1a2",
@@ -1104,7 +1230,13 @@
       "description": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "CL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ピノチェト政権時代の誘拐で告発されたチリ人女性、身柄引き渡し裁判で敗訴",
+      "summary": "ピノチェト政権下の誘拐容疑で告発されたチリ人女性アドリアーナ・リバスが、オーストラリアでの身柄引き渡しをめぐる裁判に敗訴した。"
     },
     {
       "id": "6f1350e42dc98be2a6ae020c008e244f",
@@ -1114,7 +1246,13 @@
       "description": "Minnesota United deny rumours that midfielder James Rodriguez is suffering from a potentially life-threatening muscle-wasting condition.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "ミネソタ・ユナイテッド、コロンビア代表ロドリゲスが希少な筋萎縮症を患っているとの報道を否定",
+      "summary": "ミネソタ・ユナイテッドが、MFハメス・ロドリゲス選手が命にかかわる可能性のある筋萎縮症を患っているという噂を否定した。"
     },
     {
       "id": "7ef13bcc97a41d4ea36d661748ff6d9e",
@@ -1124,7 +1262,13 @@
       "description": "Her husband told authorities she fell out of their dinghy on Saturday night and was swept out to sea.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "BS",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 50,
+      "titleJa": "バハマ警察、ボートから転落したと報じられた米国人女性を捜索",
+      "summary": "バハマ警察は、ディンギーから転落し海に流されたと夫が通報した米国人女性の捜索活動を行っている。"
     },
     {
       "id": "356d41750edbe59f7cb5ab06edec721a",
@@ -1134,7 +1278,13 @@
       "description": "Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "ペルーでのサッカー集会で1人死亡、数十人負傷",
+      "summary": "ペルーでのサッカーの試合前集会で、ファン数百人が衝突し、1人が死亡、数十人が負傷する事態となった。"
     },
     {
       "id": "4700e9c883017eeb9b39d05a50908863",
@@ -1144,7 +1294,13 @@
       "description": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国の圧力が高まる中、キューバが2,000人以上の囚人を釈放開始",
+      "summary": "米国からの圧力が高まる中、キューバは政治的リーダーシップの変更を求める声に応じ、2,000人以上の囚人の釈放を開始した。"
     },
     {
       "id": "290ade395c83c46e556b80d7ca46470f",
@@ -1154,7 +1310,13 @@
       "description": "Chevron is now importing 250,000 barrels of crude per day from Venezuela.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "ベネズエラ産原油を処理する米国の製油所",
+      "summary": "米国の製油所が、ベネズエラから1日あたり25万バレルの原油輸入を開始し、処理を行っている。"
     },
     {
       "id": "6980eacdd0ca4bfc3751f320bc656e2f",
@@ -1164,7 +1326,13 @@
       "description": "Almost nothing was known about the Royal Hill casino until the Thai military took control of it in December.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "TH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "偽のオーストラリア、中国、ブラジルの警察署：BBCが押収された詐欺施設に潜入",
+      "summary": "タイ軍が昨年12月に押収した「ロイヤルヒルカジノ」内部から、偽の警察署が発見され、詐欺複合施設の実態が明らかになった。"
     },
     {
       "id": "4e938cd58c3e030cda44d0f4166cd61e",
@@ -1174,7 +1342,13 @@
       "description": "Ione Wells travels to Sucre, where a lack of investment has hampered locals' prospects.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "国で最も貧しい州の一つで、ベネズエラ国民はマドゥロ後景気回復を期待",
+      "summary": "ベネズエラのスクレ州では投資不足が住民の展望を阻害しており、マドゥロ大統領後の景気回復に期待が寄せられている。"
     },
     {
       "id": "3d071efa065d3fed4532df61e4e52664",
@@ -1184,7 +1358,13 @@
       "description": "Two pregnant women tell the BBC's Will Grant of their hopes and fears as their nation is mired in crisis.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "暗闇に包まれた国で出産に備えるキューバの妊婦たち",
+      "summary": "キューバは危機に陥っており、2人の妊婦が電力不足の中での出産に対する希望と不安をBBCに語った。"
     },
     {
       "id": "5026a5b3912b77aec136e0e7842b7f1e",
@@ -1194,7 +1374,13 @@
       "description": "The BBC was in the New York courtroom to watch the ex-Venezuelan leader argue for ability to fund his defence with Venezuelan government funds.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "マドゥロ元大統領の2回目の出廷で何が起こったのか",
+      "summary": "元ベネズエラ大統領のマドゥロ氏が、自身の弁護費用をベネズエラ政府資金で賄う能力について争うため、ニューヨークの法廷に出廷した。"
     },
     {
       "id": "440bc60ce3a6b41791fae2fc78466956",
@@ -1297,6 +1483,54 @@
       "region": "Latin America"
     },
     {
+      "id": "d85fc7a6184cbb3bc516e400fb96220c",
+      "title": "Key Indian state polls begin in test for Modi's party",
+      "url": "https://www.bbc.com/news/articles/c5yv8p4zvd0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-09T02:00:13.000Z",
+      "description": "Modi's Bharatiya Janata Party is trying to expand into regions where it has struggled to gain a foothold.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "インドの主要州議会選挙、モディ党にとって試練の開始",
+      "summary": "インドでモディ首相率いる人民党にとって重要となる州議会選挙が始まり、同党はこれまで足がかりを得られなかった地域への進出を目指す。"
+    },
+    {
+      "id": "1eb67bc6e069b2edbc592fad534e0939",
+      "title": "Is BTS losing its K-pop identity as it aims for a bigger world stage?",
+      "url": "https://www.bbc.com/news/articles/cg73dnz0l1xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-09T03:28:15.000Z",
+      "description": "BTS turned millions on to K-pop. But now it’s caught between Korea and the world.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "BTSはより大きな世界舞台を目指す中でK-POPとしてのアイデンティティを失っているのか？",
+      "summary": "K-POPを世界に広めたBTSが、韓国と世界の間で板挟みになり、K-POPとしてのアイデンティティを失う可能性について議論されている。"
+    },
+    {
+      "id": "57a85825cfce6f2189392ca2be52fdd0",
+      "title": "Chinese researcher's death after questioning in US prompts anger in Beijing",
+      "url": "https://www.bbc.com/news/articles/cge0xd4g21qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-09T03:07:03.000Z",
+      "description": "The semiconductor researcher was found dead after “hostile questioning” by US law enforcement.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国での尋問後の中国人研究者の死、北京で怒りを引き起こす",
+      "summary": "米国で半導体研究者が米法執行機関による「敵対的な尋問」後に死亡し、中国政府はこれに対し強い怒りを示している。"
+    },
+    {
       "id": "aed0bb85da07e22aed59db2b1e5f7aa4",
       "title": "British teen dies in reported Vietnam motorbike fall",
       "url": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss",
@@ -1304,7 +1538,13 @@
       "description": "Orla Wates is remembered by her mother as \"beautiful, independent and very funny\".",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
+      "region": "Asia",
+      "country": "VN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "ベトナムでのバイク転倒事故で英国人ティーンが死亡と報道",
+      "summary": "ベトナムで英国人ティーンのオーラ・ウェイツさんがバイク転倒事故で死亡したと報じられ、母親は彼女を「美しく、自立した、とても面白い」と偲んでいる。"
     },
     {
       "id": "bf9637035577451fd6920e3e93c27551",
@@ -1314,7 +1554,13 @@
       "description": "Vietnam's communist party chief is now also the country's president - an unusual concentration of power.",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
+      "region": "Asia",
+      "country": "VN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ベトナムのトー・ラム指導者、議会で満場一致の投票により権力を強化",
+      "summary": "ベトナムの共産党書記長であるトー・ラム氏が、異例の権力集中により同国の大統領も兼任し、権力を強化した。"
     },
     {
       "id": "fa976a0863feb3c8786011660f62c6e5",
@@ -1324,7 +1570,13 @@
       "description": "Wilson, whose term was set to end in 2027, will remain CEO and MD until a successor is appointed.",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
+      "region": "Asia",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "損失拡大を受け、エア・インディアCEOが早期退任",
+      "summary": "エア・インディアのCEOウィルソン氏が、損失の増加を受けて任期を前倒しで辞任するが、後任が指名されるまで職務を継続する。"
     },
     {
       "id": "1a6983d3b52ff4915eebd76e13d3b223",
@@ -1334,7 +1586,13 @@
       "description": "Experts say the court's decision will have far-reaching consequences for women's religious freedoms in India.",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "インド最高裁、女性の寺院入場に関する判決への異議を審理",
+      "summary": "インド最高裁は、女性の宗教的自由にとって大きな影響を与えるとされる、女性の寺院入場に関する以前の判決に対する異議申し立てを審理している。"
     },
     {
       "id": "cb6a80b8e792e2899aa967dc357dbf23",
@@ -1344,7 +1602,13 @@
       "description": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "インド、新型コロナ巡る拘留中の殺害で警官9人に死刑判決",
+      "summary": "インドで、新型コロナウイルス感染症のロックダウン規則違反容疑で逮捕された父子が拘留中に死亡した事件で、警官9人に死刑判決が下された。"
     },
     {
       "id": "ce88876655ecd82c1fe186fa5f062f92",
@@ -1354,27 +1618,13 @@
       "description": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
-    },
-    {
-      "id": "76eb3bee94fc3c3d1afbc66781e3ab2e",
-      "title": "Iconic 19th Century painting sets Indian art record with $17.9m sale",
-      "url": "https://www.bbc.com/news/articles/cje4l98wjzwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-02T12:30:04.000Z",
-      "description": "Yashoda and Krishna, painted by Raja Ravi Varma, beat a record set by an MF Husain work last year.",
-      "source": "BBC – Asia",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
-    },
-    {
-      "id": "2dc977db2cc26d789ce2b8286b2af09a",
-      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
-      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-02T04:00:48.000Z",
-      "description": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
-      "source": "BBC – Asia",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
+      "region": "Asia",
+      "country": "BD",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "バングラデシュで麻疹疑いで子供100人以上死亡後、緊急予防接種",
+      "summary": "バングラデシュで麻疹と疑われる病気により1ヶ月で100人以上の子供が死亡したことを受け、緊急予防接種が開始された。"
     },
     {
       "id": "123619177feda5cfd4a36ad5bc4583d9",
@@ -1384,17 +1634,13 @@
       "description": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
-    },
-    {
-      "id": "0b0ffe253ccfaad9a383f6b0a6986a79",
-      "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-      "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-04-05T22:07:40.000Z",
-      "description": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs.",
-      "source": "BBC – Asia",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia"
+      "region": "Asia",
+      "country": "XX",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏の期限が迫るも、アジア諸国は既にイランと取引",
+      "summary": "トランプ氏が設定した期限が迫る中、アジア諸国は中東のエネルギーに大きく依存しているため、既にイランとの間で取引を進めている。"
     },
     {
       "id": "0e2b3a62aa4f6f6e8f54d9796ab720c1",
