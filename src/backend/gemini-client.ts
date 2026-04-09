@@ -1,39 +1,37 @@
-import { GoogleGenerativeAI, GenerativeModel } from '@google/generative-ai';
+import { GoogleGenAI } from '@google/genai';
 import { Article } from './types';
 import dotenv from 'dotenv';
 dotenv.config();
 
 export class GeminiClient {
-    private model: GenerativeModel;
+    private ai: GoogleGenAI;
+    private modelName = 'gemini-2.5-flash';
 
     constructor() {
         const apiKey = process.env.GEMINI_API_KEY;
         if (!apiKey) {
             throw new Error('GEMINI_API_KEY is not defined');
         }
-        const genAI = new GoogleGenerativeAI(apiKey);
-        // Using the latest Gemini 2.5 Flash model for improved performance and reasoning
-        this.model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+        this.ai = new GoogleGenAI({ apiKey });
     }
 
-    // Rate Limiting helper: wait for ms (basic implementation)
     private async delay(ms: number) {
         return new Promise(resolve => setTimeout(resolve, ms));
     }
 
     public async validateConnection(): Promise<boolean> {
         try {
-            // Simple prompt to verify API access and Model existence
-            const model = this.model;
-            const result = await model.generateContent("ping");
-            return !!result.response.text();
+            const response = await this.ai.models.generateContent({
+                model: this.modelName,
+                contents: 'ping'
+            });
+            return !!response.text;
         } catch (error) {
             console.error("Gemini Connection Validation Failed:", error);
             return false;
         }
     }
 
-    // Batch processing to reduce API calls (e.g., process 10 articles at once)
     public async enrichBatch(articles: Article[]): Promise<Article[]> {
         const prompt = `
 You are a news classifier and translator. Format your response ONLY as a JSON array.
@@ -50,16 +48,15 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, description: a.d
       `;
 
         try {
-            // Dynamic delay: 10s is safe for 15 RPM if we do 1 call per minute effectively?
-            // If we do batch, we make fewer calls. 10s is safe enough.
-            // Tier 1: Low delay allowed (100ms)
             await this.delay(100);
-            const result = await this.model.generateContent(prompt);
-            const responseText = result.response.text();
+            const response = await this.ai.models.generateContent({
+                model: this.modelName,
+                contents: prompt
+            });
+            const responseText = response.text ?? '';
             const jsonStr = responseText.replace(/```json\n?|\n?```/g, '').trim();
             const enrichedData = JSON.parse(jsonStr);
 
-            // Merge enriched data back into articles
             const CATEGORY_JA_MAP: { [key: string]: string } = {
                 "Politics": "政治",
                 "Conflict": "紛争",
@@ -80,10 +77,10 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, description: a.d
                         ...article,
                         country: data.country,
                         category: data.category,
-                        categoryJa: catJa, // New Field
+                        categoryJa: catJa,
                         importanceScore: data.importanceScore,
                         titleJa: data.titleJa,
-                        summary: data.summary || data.descriptionJa // Fallback if AI uses old key
+                        summary: data.summary || data.descriptionJa
                     };
                 }
                 return article;
@@ -91,7 +88,6 @@ ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title, description: a.d
 
         } catch (error) {
             console.error(`Error enriching batch:`, error);
-            // Return original articles if batch fails (graceful degradation)
             return articles;
         }
     }
@@ -147,10 +143,13 @@ Format:
 
         try {
             await this.delay(5000);
-            const result = await this.model.generateContent(prompt);
-            return result.response.text();
+            const response = await this.ai.models.generateContent({
+                model: this.modelName,
+                contents: prompt
+            });
+            return response.text ?? '# Error generating summary';
         } catch (error) {
-            console.error('Error generating summary', error);
+            console.error('Error generating summary:', error);
             return "# Error generating summary";
         }
     }
