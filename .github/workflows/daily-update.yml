@@ -2,8 +2,8 @@ name: Daily News Update
 
 on:
   schedule:
-    # Run at 19:00 UTC (4:00 AM JST) every day
-    - cron: '0 19 * * *'
+    # Run at 10:00 UTC (19:00 JST) every day — avoids US peak hours
+    - cron: '0 10 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:

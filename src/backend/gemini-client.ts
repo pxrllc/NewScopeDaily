@@ -6,6 +6,7 @@ dotenv.config();
 export class GeminiClient {
     private ai: GoogleGenAI;
     private modelName = 'gemini-2.5-flash';
+    private fallbackModelName = 'gemini-2.0-flash';
 
     constructor() {
         const apiKey = process.env.GEMINI_API_KEY;
@@ -20,25 +21,34 @@ export class GeminiClient {
     }
 
     private async generateWithRetry(prompt: string, maxRetries = 3): Promise<string> {
-        for (let attempt = 1; attempt <= maxRetries; attempt++) {
-            try {
-                const response = await this.ai.models.generateContent({
-                    model: this.modelName,
-                    contents: prompt
-                });
-                return response.text ?? '';
-            } catch (error: any) {
-                const status = error?.status ?? error?.code;
-                const isRetryable = status === 'UNAVAILABLE' || status === 503 || status === 429;
-                if (isRetryable && attempt < maxRetries) {
-                    console.log(`API unavailable (attempt ${attempt}/${maxRetries}), waiting 60s...`);
-                    await this.delay(60000);
-                } else {
-                    throw error;
+        const models = [this.modelName, this.fallbackModelName];
+        for (const model of models) {
+            for (let attempt = 1; attempt <= maxRetries; attempt++) {
+                try {
+                    const response = await this.ai.models.generateContent({
+                        model,
+                        contents: prompt
+                    });
+                    if (model !== this.modelName) {
+                        console.log(`Used fallback model: ${model}`);
+                    }
+                    return response.text ?? '';
+                } catch (error: any) {
+                    const status = error?.status ?? error?.code;
+                    const isRetryable = status === 'UNAVAILABLE' || status === 503 || status === 429;
+                    if (isRetryable && attempt < maxRetries) {
+                        console.log(`[${model}] API unavailable (attempt ${attempt}/${maxRetries}), waiting 60s...`);
+                        await this.delay(60000);
+                    } else if (isRetryable) {
+                        console.log(`[${model}] All retries failed, trying next model...`);
+                        break; // 次のモデルへ
+                    } else {
+                        throw error; // リトライ不要なエラーはそのままthrow
+                    }
                 }
             }
         }
-        throw new Error('Max retries exceeded');
+        throw new Error('All models and retries exhausted');
     }
 
     public async validateConnection(): Promise<boolean> {
