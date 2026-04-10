@@ -1,153 +1,13 @@
 {
-  "US": {
-    "count": 6,
-    "hasCritical": false,
-    "topArticle": {
-      "id": "0885d3ebfbdecc892e5ebdbb3595ece6",
-      "title": "International development aid suffers unprecedented 2025 dip, led by Trump gutting USAID",
-      "url": "https://www.dw.com/en/international-development-aid-suffers-unprecedented-2025-dip-led-by-trump-gutting-usaid/a-76726606?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-09T18:02:00.000Z",
-      "description": "International development aid spending fell by more than one-fifth in real terms last year, the biggest dip on record. The US slashing its outlay by more than half set the tone, making Germany the largest overall donor.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "US",
-      "category": "Economy",
-      "categoryJa": "経済",
-      "importanceScore": 85,
-      "titleJa": "トランプ氏によるUSAID予算削減が主因、国際開発援助が2025年に前例のない落ち込み",
-      "summary": "国際開発援助支出が昨年、実質で5分の1以上減少し、過去最大の落ち込みを記録。米国による大幅な削減が主な原因で、ドイツが最大の援助国に浮上した。"
-    }
-  },
-  "UA": {
-    "count": 1,
-    "hasCritical": false,
-    "topArticle": {
-      "id": "7291ebb266044b59b134efdc7a3b23a8",
-      "title": "Ukraine and Syria tighten relations",
-      "url": "https://www.dw.com/en/ukraine-and-syria-tighten-relations/a-76727981?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-09T19:14:00.000Z",
-      "description": "Ukrainian President Volodymyr Zelenskyy’s visit to Syria was not only a diplomatic gesture but motivated by strategic considerations regarding Russia, once a strong supporter of the Middle Eastern state.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "UA",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 80,
-      "titleJa": "ウクライナとシリアが関係強化",
-      "summary": "ウクライナのゼレンスキー大統領がシリアを訪問。ロシアへの戦略的配慮から、外交的ジェスチャーに留まらない動きとして注目される。"
-    }
-  },
-  "IR": {
-    "count": 3,
-    "hasCritical": true,
-    "topArticle": {
-      "id": "a49452de96c4ba9e15028eada7be7f8a",
-      "title": "Iran war: Tehran claims victory but people fear what's next",
-      "url": "https://www.dw.com/en/iran-war-tehran-claims-victory-but-people-fear-what-s-next/a-76724635?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-09T17:30:00.000Z",
-      "description": "As a tenuous truce takes hold after over a month of bombing, Iranians fear a wounded yet surviving regime will clamp down even more harshly on its opponents at home.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "IR",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "イラン戦争：テヘランが勝利を主張するも、人々は次の展開を懸念",
-      "summary": "1ヶ月以上にわたる爆撃の後、不安定な休戦が続く中、イラン国民は、傷つきながらも生き残った政権が国内の反対派に対して一層厳しく締め付けを行うことを恐れている。"
-    }
-  },
-  "IL": {
-    "count": 1,
-    "hasCritical": true,
-    "topArticle": {
-      "id": "8fd4e47bbebbd817dc612fba07c8dfed",
-      "title": "Iran war: Israel says it will hold talks with Lebanon 'soon'",
-      "url": "https://www.dw.com/en/iran-war-israel-says-it-will-hold-talks-with-lebanon-soon/live-76715205?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-09T16:37:00.000Z",
-      "description": "Iran had accused Israel of violating the ceasefire by launching massive attacks on Lebanon on Wednesday. Meanwhile, Germany has said it is ready to re-engage with Tehran. Follow DW for more.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "IL",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "イラン戦争：イスラエル、レバノンと「近いうちに」協議開催と発表",
-      "summary": "イランがイスラエルによるレバノンへの大規模攻撃で停戦違反を非難する中、イスラエルはレバノンとの協議を間もなく開催すると表明した。"
-    }
-  },
-  "RU": {
-    "count": 1,
-    "hasCritical": false,
-    "topArticle": {
-      "id": "2172f435103e43f46e1254ab4acad981",
-      "title": "Russia labels human rights group Memorial 'extremist'",
-      "url": "https://www.dw.com/en/russia-labels-human-rights-group-memorial-extremist/a-76726398?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-09T15:54:00.000Z",
-      "description": "Russia's Supreme Court deemed the storied rights organization Memorial \"clearly anti-Russian\" in a closed-door ruling. Memorial said the decision marked a new phase of repression in Russia.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "RU",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "ロシア、人権団体メモリアルを「過激派」に指定",
-      "summary": "ロシア最高裁は、著名な人権団体メモリアルを「明らかに反ロシア的」と判断。メモリアルは、この決定がロシアにおける新たな弾圧の段階を示すものだと述べた。"
-    }
-  },
-  "HU": {
-    "count": 1,
-    "hasCritical": false,
-    "topArticle": {
-      "id": "9f58ce2a4058ec44cbcac19a79adb905",
-      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-09T14:45:00.000Z",
-      "description": "A new poll ahead of Hungary's election suggests that most voters want at least minor changes to ties with the EU. But it also found skepticism of financial support for Ukraine, and voters prioritizing domestic issues.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "HU",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "ハンガリー選挙：有権者はEUへの新たなアプローチを望むも、ウクライナには強硬な姿勢、世論調査で判明",
-      "summary": "ハンガリーの選挙を前にした世論調査によると、有権者の多くはEUとの関係に何らかの変化を求めているが、ウクライナへの財政支援には懐疑的であることが示された。"
-    }
-  },
-  "RS": {
-    "count": 1,
-    "hasCritical": false,
-    "topArticle": {
-      "id": "727acf5160cd7afbd3e372112b3698a9",
-      "title": "Fact check: Orban points to Ukraine over pipeline bomb",
-      "url": "https://www.dw.com/en/fact-check-orban-points-to-ukraine-over-pipeline-bomb/a-76690990?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-04-09T14:04:00.000Z",
-      "description": "Orban strongly suggests explosives found near a key gas pipeline in Serbia are evidence of Ukrainian sabotage. Serbia's intelligence chief publicly disagrees.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "RS",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "ファクトチェック：オルバン首相、パイプライン爆弾でウクライナを指摘",
-      "summary": "オルバン首相が、セルビアの主要ガスパイプライン近くで発見された爆発物はウクライナの妨害工作の証拠だと強く示唆。セルビアの情報機関トップは公にこれに異を唱えている。"
-    }
-  },
   "LB": {
-    "count": 2,
+    "count": 1,
     "hasCritical": true,
     "topArticle": {
-      "id": "138e557b9577aa03688bf2219e5efb5b",
-      "title": "Scale of Beirut destruction revealed after wave of Israeli strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/scale-of-beirut-destruction-revealed-after-wave-of-israeli-strikes?traffic_source=rss",
-      "published_at": "2026-04-09T18:55:46.000Z",
-      "description": "The damage from Israel’s devastating strikes on Beirut on Tuesday is coming into focus now that the smoke has cleared.",
+      "id": "e63ef752695f441cfdb1af4e8362a5e4",
+      "title": "Israel strikes residential areas, destroys homes in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon?traffic_source=rss",
+      "published_at": "2026-04-10T10:17:16.000Z",
+      "description": "Lebanon is seeing not just a displacement crisis but a rapidly developing food security crisis too, says UN.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
@@ -155,48 +15,168 @@
       "category": "Conflict",
       "categoryJa": "紛争",
       "importanceScore": 85,
-      "titleJa": "イスラエル軍の空爆後、ベイルートの破壊規模が明らかに",
-      "summary": "イスラエルによるベイルートへの壊滅的な攻撃後、被害の全貌が明らかになりつつある。"
+      "titleJa": "イスラエル、レバノン南部の住宅地を攻撃し家屋を破壊",
+      "summary": "イスラエル軍がレバノン南部の住宅地を攻撃し、家屋が破壊されました。国連は避難民の増加と食料危機の深刻化を警告しています。"
     }
   },
-  "GL": {
+  "SN": {
     "count": 1,
     "hasCritical": false,
     "topArticle": {
-      "id": "c7a98f53e726f04b4e5137163f8ae716",
-      "title": "‘Not some piece of ice’: Greenland hits back at Trump insult",
-      "url": "https://www.aljazeera.com/news/2026/4/9/not-some-piece-of-ice-greenland-hits-back-at-trump-insult?traffic_source=rss",
-      "published_at": "2026-04-09T18:22:55.000Z",
-      "description": "PM Nielsen calls Greenland a proud nation seeking to maintain global order, after US president calls it 'piece of ice'.",
+      "id": "771cf24c36ebcbbd444908cca159c79d",
+      "title": "Senegal PM labels Trump ‘agent of global destabilisation’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss",
+      "published_at": "2026-04-10T09:45:28.000Z",
+      "description": "Senegalese prime minister Ousmane Sonko accused Donald Trump of plunging the world into “chaos”.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
-      "country": "GL",
+      "country": "SN",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 60,
-      "titleJa": "「ただの氷ではない」：グリーンランド、トランプ氏の侮辱に反論",
-      "summary": "トランプ米大統領がグリーンランドを「氷のかけら」と呼んだ後、ニールセン首相はグリーンランドを誇り高き国家であり、国際秩序の維持に努めていると反論した。"
+      "importanceScore": 70,
+      "titleJa": "セネガル首相、トランプ氏を「世界の不安定化要因」と非難",
+      "summary": "セネガル首相ウスマン・ソンコ氏は、ドナルド・トランプ氏が世界を「混沌」に陥れていると強く非難しました。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3f7a463f5abfd324983539159572f38a",
+      "title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
+      "url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
+      "published_at": "2026-04-10T09:36:31.000Z",
+      "description": "Gaza's devastation grows as over 72,000 people killed and 172,000 injured amid Israeli violations of US-brokered truce.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "「停戦」から6ヶ月、ガザはイスラエルの執拗な攻撃に苦しむ",
+      "summary": "「停戦」から6ヶ月が経ったガザでは、イスラエルによる攻撃が続き、7万人以上が死亡、17万人以上が負傷しています。人道危機が深刻化しています。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3850f070178e6f9da80db36f3dcf4308",
+      "title": "Torpedo-like object discovered by Indonesian fisherman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss",
+      "published_at": "2026-04-10T09:15:55.000Z",
+      "description": "A fisherman in Indonesia discovered a torpedo-like object near the Lombok Strait, a waterway between Bali and Lombok.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ID",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 45,
+      "titleJa": "インドネシアの漁師が魚雷のような物体を発見",
+      "summary": "インドネシアの漁師がロンボク海峡付近で魚雷のような未確認物体を発見しました。詳細は不明です。"
+    }
+  },
+  "DJ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "007a365246948f7f38209c09ca7906f4",
+      "title": "Djibouti votes as long-time leader seeks sixth presidential term",
+      "url": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
+      "published_at": "2026-04-10T08:30:59.000Z",
+      "description": "Politicians scrapped the presidential age limit last year, allowing Ismail Omar Guelleh to run yet again.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "DJ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ジブチで投票、長年の指導者が6期目の大統領任期を狙う",
+      "summary": "ジブチで大統領選挙が行われ、大統領の年齢制限が撤廃された後、長年の指導者イスマイル・オマル・ゲレ氏が6期目を目指しています。"
+    }
+  },
+  "IR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bc0d07831375aa68d71903e1467ad465",
+      "title": "Iran war: What is happening on day 42 of US-Israeli attacks?",
+      "url": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks?traffic_source=rss",
+      "published_at": "2026-04-10T06:14:38.000Z",
+      "description": "A Pakistan-brokered US-Iran ceasefire has taken effect but disputes over its scope are fuelling regional tensions.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イラン戦争：米・イスラエル攻撃42日目の状況は？",
+      "summary": "パキスタンが仲介した米・イラン停戦が発効しましたが、その範囲を巡る紛争が地域全体の緊張を高めています。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c4af0499cbceeb1f146b6ea3f8da9c17",
+      "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss",
+      "published_at": "2026-04-10T07:54:09.000Z",
+      "description": "Moscow and Kyiv signal a short Easter truce as diplomacy stalls and war pressures mount.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシアとウクライナ、正教会のイースター期間に32時間の停戦で合意",
+      "summary": "ロシアとウクライナが正教会のイースターを前に32時間の短期停戦に合意しました。外交交渉は停滞し、戦争の圧力は高まっています。"
+    }
+  },
+  "MM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e9f373f1540eb406abfdc2f262a08f1f",
+      "title": "Myanmar’s coup leader Min Aung Hlaing sworn in as president",
+      "url": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president?traffic_source=rss",
+      "published_at": "2026-04-10T07:36:09.000Z",
+      "description": "Min Aung Hlaing seeks to 'enhance' international relations and ties with ASEAN after coup plunged Myanmar into chaos.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "MM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ミャンマーのクーデター指導者ミン・アウン・ライン氏が大統領に就任",
+      "summary": "ミャンマーのクーデター指導者ミン・アウン・ライン氏が大統領に就任。ASEANとの関係強化など国際関係の改善を目指します。"
     }
   },
   "GB": {
     "count": 1,
     "hasCritical": false,
     "topArticle": {
-      "id": "a24ee09a96438d9632fcd8819dd13f15",
-      "title": "UK says three Russian submarines tracked during ‘covert’ operation",
-      "url": "https://www.aljazeera.com/news/2026/4/9/uk-says-three-russian-submarines-tracked-during-covert-operation?traffic_source=rss",
-      "published_at": "2026-04-09T18:20:57.000Z",
-      "description": "British defence minister says the operation did not find evidence that Russia had damaged undersea infrastructure.",
+      "id": "fadd842f9bec81e998a0f3294fde8305",
+      "title": "Tyson Fury insists he’s ‘still got it’ ahead of Makhmudov comeback fight",
+      "url": "https://www.aljazeera.com/sports/2026/4/10/tyson-fury-insists-ive-still-go-it-ahead-of-makhmudov-comeback-fight?traffic_source=rss",
+      "published_at": "2026-04-10T06:15:37.000Z",
+      "description": "While eyeing a fight with Anthony Joshua, Fury first faces a Russian-born heavyweight who wrestled a bear for fun.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
       "country": "GB",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "英国、ロシア潜水艦3隻を「秘密作戦」で追跡したと発表",
-      "summary": "英国防相は、秘密作戦中にロシア潜水艦3隻を追跡したが、ロシアが海底インフラを損傷した証拠は見つからなかったと発表した。"
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "タイソン・フューリー、マフムドフ戦を前に「まだやれる」と断言",
+      "summary": "タイソン・フューリーはマフムドフとの復帰戦を控え、自信を表明。アンソニー・ジョシュアとの対戦も視野に入れています。"
     }
   }
 }
