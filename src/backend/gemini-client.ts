@@ -6,7 +6,7 @@ dotenv.config();
 export class GeminiClient {
     private ai: GoogleGenAI;
     private modelName = 'gemini-2.5-flash';
-    private fallbackModelName = 'gemini-1.5-flash';
+    private fallbackModelName = 'gemini-2.5-flash-lite';
 
     constructor() {
         const apiKey = process.env.GEMINI_API_KEY;
