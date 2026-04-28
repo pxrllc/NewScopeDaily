@@ -1,0 +1,962 @@
+{
+  "US": {
+    "count": 9,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "79ead8b54bc30d07d66dd93a2fa57099",
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner ",
+      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T00:41:48.000Z",
+      "description": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "トランプ氏のワシントン晩餐会での暗殺未遂容疑で起訴",
+      "summary": "ワシントンでの晩餐会で、トランプ氏の暗殺を試みた容疑者が起訴された。カリフォルニア州の男は、高官らをできるだけ多く殺害しようと企てたという。"
+    }
+  },
+  "RU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e66a75afb016e2f9182351cf2d341f5",
+      "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
+      "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-24T05:00:29.000Z",
+      "description": "Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "スティーブ・ローゼンバーグ：クレムリンによるインターネット規制強化がロシア国民の不満を煽る",
+      "summary": "ロシアのクレムリンがインターネット規制を強化し、国民の不満が高まっている。政府は安全目的と主張するが、企業や市民が影響を受ける。"
+    }
+  },
+  "AT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "87749106525f68dcd203e9c3bae75ccc",
+      "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+      "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T10:08:01.000Z",
+      "description": "The state prosecutor told the court that police found an almost completed bomb in a search of the man's house.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AT",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "テイラー・スウィフトのウィーン公演襲撃を計画した男が自白",
+      "summary": "ウィーンで開催されるテイラー・スウィフトのコンサート襲撃を計画していた男が、罪を認めた。警察は男の家からほぼ完成した爆弾を発見したという。"
+    }
+  },
+  "ID": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e9c338e18cac3d01db6a9c7fa558f6a2",
+      "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
+      "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T04:18:54.000Z",
+      "description": "Two trains collided on the outskirts of the Indonesian capital on Monday, killing at least 15 people.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ID",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "インドネシアでの死亡事故後、列車内に閉じ込められた生存者の救出活動が急ピッチで進む",
+      "summary": "インドネシアの首都郊外で列車が衝突し、少なくとも15人が死亡した。救助隊が、列車内に閉じ込められた生存者の救出に全力を挙げている。"
+    }
+  },
+  "NG": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "036aec8af4fa93622bfb859fe5456c28",
+      "title": "Unpacking the political complexities of the Benue killings in Nigeria",
+      "url": "https://globalvoices.org/2026/03/26/unpacking-the-political-complexities-to-the-benue-killings-in-nigeria",
+      "published_at": "2026-03-26T19:00:03.000Z",
+      "description": "What we are dealing with here in Benue is a calculated, well planned, full-scale genocidal invasion and land grabbing campaign by Herder terrorists and bandits, which ... is worsening every year.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ナイジェリア、ベヌエ州における殺害事件の政治的複雑性を解き明かす",
+      "summary": "ナイジェリアのベヌエ州で発生している殺害事件は、フーラ族のテロリストと武装集団による計画的なジェノサイド的侵略と土地強奪であり、毎年悪化している。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "332d1a8a25dea740bbaf15ab60376bec",
+      "title": "Venice opera house drops incoming music director after nepotism remarks",
+      "url": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T17:13:35.000Z",
+      "description": "Beatrice Venezi's appointment had been marred in controversy since being announced last September, prompting orchestra members to go on strike.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 50,
+      "titleJa": "ベネチアの歌劇場、縁故主義発言後に次期音楽監督を解任",
+      "summary": "ベネチアの歌劇場が、縁故主義に関する発言を受けて、就任予定だった音楽監督を解任した。この任命は論争の的となり、楽団員がストライキを行った。"
+    }
+  },
+  "AF": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4169aff591d497d702ab44c3c4342a42",
+      "title": "Pakistan accused of attacking Afghan university",
+      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T16:54:13.000Z",
+      "description": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AF",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "パキスタンがアフガニスタンの大学を攻撃したと非難される",
+      "summary": "パキスタンがアフガニスタンのクナール州にある大学を空爆し、少なくとも7人が死亡、75人が負傷したと報じられている。越境攻撃が国際的な緊張を高める。"
+    }
+  },
+  "CO": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1262f624b66e055ac1be43b26ecaba04",
+      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T11:42:59.000Z",
+      "description": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "コロンビア、致命的な爆弾テロの責任を負う反乱軍指導者に過去最高の140万ドル報酬を提供",
+      "summary": "コロンビア政府は、20人が死亡した爆弾攻撃の責任者とされる反乱軍指導者「マーロン」に対し、史上最高額となる140万ドルの報奨金を設定した。"
+    }
+  },
+  "ML": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2fdca8237faab9f0c7599e7386f1ac10",
+      "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
+      "url": "https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
+      "published_at": "2026-04-27T11:44:31.000Z",
+      "description": "Military intelligence chief reportedly also killed in sweeping attacks by jihadists and separatist rebels\n\nMali’s militant attacks expose limits of Putin’s power in Africa\n\nMali has been left reeling from sweeping attacks by jihadists and separatist rebels who seized several towns and military bases and killed the defence minister and military intelligence chief.\nThe weekend assault on the west African state’s security architecture was coordinated by al-Qaida-affiliated Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and the separatist Tuareg-led movement Azawad Liberation Front (FLA) – former foes with distinct agendas.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "過激派が複数の町を制圧し国防相が死亡、マリは混乱に陥る",
+      "summary": "マリで、イスラム過激派と分離主義反乱分子による大規模攻撃が発生。国防相らが死亡し、複数の町と軍事基地が制圧された。"
+    }
+  },
+  "EG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8c8dfe6759aca56c0e3cbec4c1ff1093",
+      "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
+      "url": "https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
+      "published_at": "2026-04-27T17:26:07.000Z",
+      "description": "Man, 57, was watching snake-charming show when reptile crawled into his trousers, say German police\nA German tourist has died after a snake crawled into his trousers and bit him as he watched a show in Egypt on a family holiday, police in Germany have said.\nThe 57-year-old man was watching the snake-charming show at a hotel in Hurghada, a popular beach holiday destination on the Red Sea, in early April.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "エジプトでの家族旅行中にヘビのショーで噛まれ、ドイツ人観光客が死亡",
+      "summary": "エジプトのホテルで、ヘビ使いのショーを見ていたドイツ人観光客（57歳）がヘビに噛まれ死亡。休暇中の悲劇。"
+    }
+  },
+  "MX": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c90b28de0d76ef4afd0a0c9dcb565c09",
+      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-25T17:40:51.000Z",
+      "description": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "メキシコ、死亡した米国の工作員に活動許可はなかったと発表",
+      "summary": "メキシコは、麻薬製造所の破壊作戦後に交通事故で死亡したとされるCIA所属の米国人2名について、国内での活動許可がなかったと発表した。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7ef40b84384049055e59cf3ebcbfd547",
+      "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
+      "url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
+      "published_at": "2026-04-25T14:00:47.000Z",
+      "description": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires\nAs wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the woods.\nAs the situation deteriorated, authorities turned the request into a prohibition: anyone caught hiking under the shade of the forest canopy faced a C$25,000 fine – a figure more than half the average worker’s yearly salary.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 50,
+      "titleJa": "「森」とは何か？ 判事が山火事拡大抑制の禁止令を却下、常識的な定義に反する",
+      "summary": "カナダ・ノバスコシア州の裁判官が、山火事拡大防止のため施行されていた「森への立ち入り禁止令」を却下。常識的な定義に反するとの判断。"
+    }
+  },
+  "DZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f17b85c72a3f51596bbb5d4ddf78324f",
+      "title": "Algeria’s Luca Zidane doubtful for World Cup after chin and jaw fracture",
+      "url": "https://www.aljazeera.com/sports/2026/4/28/algerias-luca-zidane-doubtful-for-world-cup-after-chin-and-jaw-fracture?traffic_source=rss",
+      "published_at": "2026-04-28T10:58:32.000Z",
+      "description": "Algera's first-choice goalkeeper collided with a player during a Spanish league match, breaking his jaw and chin.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "DZ",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "アルジェリアのルカ・ジダン、顎と下顎骨折でワールドカップ出場が危ぶまれる",
+      "summary": "アルジェリア代表の正ゴールキーパーがスペインリーグの試合で選手と衝突し、顎と下顎を骨折。ワールドカップ出場が危ぶまれている。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aa00dc3983f0d9215ae8a96d6832fcbe",
+      "title": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
+      "url": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war?traffic_source=rss",
+      "published_at": "2026-04-28T10:52:51.000Z",
+      "description": "Gaza’s youngest survivors face lifelong disabilities from toxic gas and burns as the healthcare system collapses.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イスラエルによるジェノサイドの中で生まれたガザの幼い生存者たち、戦争の傷跡を負う",
+      "summary": "ガザの幼い生存者たちは、毒ガスと火傷による生涯にわたる障害に直面しており、医療システムは崩壊している。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "58eff9c1bbb3a5322449664524cffd61",
+      "title": "Paris and Lyon prepare as Nice mayor opposes 2030 Olympics ice hockey venue",
+      "url": "https://www.aljazeera.com/sports/2026/4/28/paris-and-lyon-readied-as-nice-mayor-opposes-winter-olympic-ice-hockey-plan?traffic_source=rss",
+      "published_at": "2026-04-28T10:47:17.000Z",
+      "description": "French organisers consider Lyon or Paris for ice hockey due to political impasse in Nice over its stadium plan.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "FR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "パリとリヨンが準備、ニース市長が2030年オリンピックのアイスホッケー会場に反対",
+      "summary": "ニースでのスタジアム計画を巡る政治的行き詰まりにより、フランスの主催者はアイスホッケーの会場をリヨンまたはパリで検討している。"
+    }
+  },
+  "IN": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6e36599beb7ee0cefff9730d2cc012f7",
+      "title": "Kashmir seminary declared unlawful under Indian law, sparks outcry",
+      "url": "https://www.aljazeera.com/news/2026/4/28/kashmir-seminary-declared-unlawful-under-anti-terror-law-sparks-outcry?traffic_source=rss",
+      "published_at": "2026-04-28T09:31:56.000Z",
+      "description": "Kashmiri political and religious leaders denounced the move as part of a broader pattern of New Delhi’s overreach.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "カシミールの神学校がインド法により違法と宣言され、反発が広がる",
+      "summary": "インド法に基づきカシミールの神学校が違法と宣言され、ニューデリーの越権行為の一環として、カシミールの政治・宗教指導者らが非難した。"
+    }
+  },
+  "IQ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a9f7997032de23dd090f896145fbb439",
+      "title": "Iraq appoints new prime minister-designate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/iraq-appoints-new-prime-minister-designate?traffic_source=rss",
+      "published_at": "2026-04-28T09:30:06.000Z",
+      "description": "Iraq appoints new prime minister-designate",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "イラク、新首相候補を任命",
+      "summary": "イラクが新たな首相候補を任命した。"
+    }
+  },
+  "HR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2902f090212b318fda8f57de766e2a75",
+      "title": "Croatia’s Modric undergoes facial surgery but aims to be fit for World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/4/28/croatias-modric-undergoes-facial-surgery-but-aims-to-be-fit-for-world-cup?traffic_source=rss",
+      "published_at": "2026-04-28T09:18:47.000Z",
+      "description": "Luka Modric suffered a facial ⁠fracture in AC Milan's game against Juventus and underwent surgery the following day.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "HR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "クロアチアのモドリッチが顔面手術を受けるも、ワールドカップ出場に意欲",
+      "summary": "ルカ・モドリッチ選手がACミラン対ユベントス戦で顔面を骨折し手術を受けたが、ワールドカップ出場に向けてフィットネス維持を目指している。"
+    }
+  },
+  "LB": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "54b44d3e1893864417907a741a5c9a59",
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-26T00:34:21.000Z",
+      "description": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ネタニヤフ首相、レバノンのヒズボラを「強力に攻撃」するよう軍に命令",
+      "summary": "イスラエルのネタニヤフ首相は、停戦が延長されたにもかかわらず、レバノンのヒズボラを「強力に攻撃」するよう軍に指示した。"
+    }
+  },
+  "IR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "32533984bc25e196152fbda55f4b1533",
+      "title": "Who is making decisions in Iran?",
+      "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-24T16:38:51.000Z",
+      "description": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "イランでは誰が意思決定をしているのか？",
+      "summary": "イランでは新しい最高指導者が最終決定権を持つとされているが、実際には状況はより不透明である。"
+    }
+  },
+  "SY": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ef841d9c02c1bdfd2417853080cce18c",
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-24T10:41:32.000Z",
+      "description": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "シリア内戦中の悪名高いタダモン虐殺の主要容疑者が逮捕",
+      "summary": "シリア内戦中の2013年4月にダマスカスのタダモン地区で起きた盲目市民の大量殺害の主要容疑者が逮捕された。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "666621c2e182259a09b98fa97c40f392",
+      "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
+      "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-24T16:20:10.000Z",
+      "description": "The British Israeli man says he was detained after someone took offence at his kippah embroidered with Israeli and Palestinian flags.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "イスラエル警察、警官が頭蓋骨帽から「パレスチナ国旗を切り取った」として捜査",
+      "summary": "イスラエル警察は、警官が英イスラエル人男性のキッパからパレスチナ国旗を切り取ったとされる件について捜査している。"
+    }
+  },
+  "KE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "668c4e0d5d14667099f693e4e7817e87",
+      "title": "'They told me he was dead': Children born near Kenyan army base learn truth about UK soldier dads",
+      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-19T23:07:52.000Z",
+      "description": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "「彼は死んだと聞かされた」：ケニアの陸軍基地近くで生まれた子供たちが英国兵の父親について真実を知る",
+      "summary": "ケニアの軍事基地近くで生まれた20人の子供たちの父親を特定するためのDNAおよび法的プロジェクトが実施され、英国兵士との関係が明らかになりました。"
+    }
+  },
+  "BW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0067bd73abab9a81745139aff2eb1e3b",
+      "title": "Museum announces return of artefacts to Botswana",
+      "url": "https://www.bbc.com/news/articles/ckgwg4j2gzlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T12:43:06.000Z",
+      "description": "The artefacts will be returned and displayed in an exhibition in Serowe opening on 27 May.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "BW",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "博物館がボツワナへの遺物返還を発表",
+      "summary": "博物館はボツワナへの遺物返還を発表しました。これらの遺物は5月27日にセロウェで開かれる展覧会で展示されます。"
+    }
+  },
+  "ZM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ef853c1d3e54d5ce262fc00ab376daa5",
+      "title": "A nation built on pan-African principles faces questions about racism",
+      "url": "https://www.bbc.com/news/articles/cq5700w7zx7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-24T23:08:18.000Z",
+      "description": "Several black Zambians tell the BBC they sometimes feel like they are second-class citizens in their own country.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZM",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "パンアフリカ主義に基づいて建国された国家が人種差別問題に直面",
+      "summary": "パンアフリカ主義を掲げるザンビアで、複数の黒人ザンビア人が自国で二級市民のように感じるとBBCに語り、人種差別に関する問題が浮上しています。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c4ab3a4e82a416ffa9c123ef74e77d8a",
+      "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "url": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-18T23:09:49.000Z",
+      "description": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "「武器の音は大きかったが、いつも音楽があった」：戦争中も演奏し続けるスーダンのバンド",
+      "summary": "スーダンで最も人気のあるバンドの一つ、アスワット・アルマディナが、3年前に戦争が勃発した際にスタジオにいた時の状況を振り返りました。"
+    }
+  },
+  "CD": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5ff3718ac12683c5aff15286e4321674",
+      "title": "When climate change impairs beekeeping in the Democratic Republic of the Congo",
+      "url": "https://globalvoices.org/2026/04/14/when-climate-change-impairs-beekeeping-in-the-democratic-republic-of-the-congo",
+      "published_at": "2026-04-14T07:00:17.000Z",
+      "description": "Climate change negatively impacts human, animal, and plant species. In the Democratic Republic of the Congo (DRC), this crisis is leading beehives, which are vital to food security, to run dry.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "気候変動がコンゴ民主共和国の養蜂を阻害するとき",
+      "summary": "コンゴ民主共和国（DRC）では気候変動により、食料安全保障に不可欠なミツバチの巣が乾燥し、養蜂業が深刻な影響を受けている。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7809091b16dc816f94a3364d012f91c1",
+      "title": "Cameroonian rice farmers caught between national ambition and rural realities",
+      "url": "https://globalvoices.org/2026/03/24/cameroonian-rice-farmers-caught-between-national-ambition-and-rural-realities",
+      "published_at": "2026-03-24T20:00:29.000Z",
+      "description": "The Cameroonian government’s rice self-sufficiency policy has sparked enthusiasm among the country’s rice farmers. In the northwest, rice farmers combine courage with determination every day to fulfil these national promises.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "カメルーンの米農家、国家の野望と地方の現実の間で",
+      "summary": "カメルーン政府の米自給自足政策は農家の熱意を呼んでいるが、地方の米農家は国家の約束を果たすため、日々の努力と困難な現実の間で奮闘している。"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "332005e4b20a137ffb54dc755b6e3183",
+      "title": "Lamine Yamal and Chris Martin help Polish influencer raise more than £50m for cancer patients",
+      "url": "https://www.bbc.com/news/articles/c2evelkm2g1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T15:18:43.000Z",
+      "description": "The YouTuber, Piotr Hancke, had celebrity backing for his nine-day, non-stop livestream.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ラミン・ヤマルとクリス・マーティンがポーランドのインフルエンサーによるがん患者支援のために5000万ポンド以上を集める",
+      "summary": "ポーランドのYouTuberが、有名人の協力を得てがん患者支援のために5000万ポンド以上を募金した。9日間の連続ライブストリームで成功し、大きな社会的貢献となった。"
+    }
+  },
+  "SG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cb5acb4c81d78e6953ba2b1feba0f295",
+      "title": "French teen who licked vending machine straw faces jail in Singapore",
+      "url": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T06:40:22.000Z",
+      "description": "The teen, who posted on social media a video of himself licking the straw, could be jailed for more than two years.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "SG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "自動販売機のストローをなめたフランス人ティーン、シンガポールで刑務所行きに直面",
+      "summary": "シンガポールで、自動販売機のストローをなめる動画をSNSに投稿したフランス人ティーンが禁固刑に直面。公衆衛生と法執行を巡る社会的問題として注目されている。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c873035d481eff096bd01f6d2e3c30b4",
+      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-25T19:22:31.000Z",
+      "description": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "オルバン氏、地滑り的敗北を受けハンガリー議会から辞任",
+      "summary": "ハンガリーのオルバン首相が選挙での大敗を受け議会から辞任を表明。彼の党は野党に転落し、ハンガリー政治に大きな転換期が訪れた。"
+    }
+  },
+  "UA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f83663dca2e306abc56022b01deebffc",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-25T12:29:37.000Z",
+      "description": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシアによるウクライナへの大規模攻撃で7人死亡",
+      "summary": "ロシアによるウクライナへの大規模攻撃で7人死亡。ドニプロ市が特に被害を受け、住宅攻撃で4人が犠牲に。紛争の深刻さを示す出来事である。"
+    }
+  },
+  "VE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e77ef86bf5200c1086ab8948ff286c18",
+      "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+      "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-25T17:36:58.000Z",
+      "description": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ベネズエラの囚人釈放計画が「終わりに近づく」と人権団体が批判",
+      "summary": "ベネズエラで政治犯釈放計画が終了に向かう中、人権団体が批判。恩赦法導入後も500人以上の政治犯が投獄されているとみられる。"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e667649ae3a53e5b28659e9ec8749d4f",
+      "title": "How far-right ‘fear tactics’ affect girls seeking legal abortion in Brazil",
+      "url": "https://globalvoices.org/2026/03/07/how-far-right-fear-tactics-affect-girls-seeking-legal-abortion-in-brazil",
+      "published_at": "2026-03-07T11:11:58.000Z",
+      "description": "Fighting a resolution to ensure access to legal abortion for girls under 14 is the latest example of abortion rights being used as a political tool by conservatives in the country",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ブラジルで右翼の「恐怖戦術」が合法的な中絶を求める少女たちにどう影響するか",
+      "summary": "ブラジルにおいて、14歳未満の少女が合法的な中絶を利用するための決議案に対する闘いは、中絶の権利が保守派によって政治的な道具として利用されている最新の例である。"
+    }
+  },
+  "SV": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dc3f6c2e8803735acbeaa6a64887045a",
+      "title": "AI hype narrative reaches the public healthcare system in El Salvador",
+      "url": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador",
+      "published_at": "2026-04-28T06:01:51.000Z",
+      "description": "This time we take you to El Salvador, examining government claims that an AI-supported transformation of the public healthcare system will make it the most advanced in the world.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "エルサルバドルの公衆衛生システムにAIブームが到来",
+      "summary": "エルサルバドル政府がAIを活用した公衆衛生システムの変革により、世界で最も先進的なシステムになると主張していることを検証する。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "440bc60ce3a6b41791fae2fc78466956",
+      "title": "Community micro-hydropower plants revolutionise isolated areas of the Dominican Republic",
+      "url": "https://globalvoices.org/2026/03/29/community-micro-hydropower-plants-revolutionise-isolated-areas-of-the-dominican-republic",
+      "published_at": "2026-03-29T09:00:44.000Z",
+      "description": "Community micro-hydropower projects in the DR rely on local leadership to deliver energy from renewable sources to isolated areas excluded from national distribution systems, contributing to reduced greenhouse gas emissions.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ドミニカ共和国の孤立地域を改革するコミュニティ小水力発電所",
+      "summary": "ドミニカ共和国の孤立地域で、地域主導の小水力発電プロジェクトが再生可能エネルギーを供給し、温室効果ガス排出削減に貢献している。"
+    }
+  },
+  "PR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "27b6623ae7393cbeee4d449edb5e7cc3",
+      "title": "How Bad Bunny brought the issue of Puerto Rico’s power grid into world view",
+      "url": "https://globalvoices.org/2026/03/22/how-bad-bunny-brought-the-issue-of-puerto-ricos-power-grid-into-world-view",
+      "published_at": "2026-03-22T06:30:47.000Z",
+      "description": "Puerto Rico’s electricity system has faced repeated crises since 2017’s Hurricane Maria, which destroyed much of the grid and triggered the longest blackout in modern U.S. history; outages remain routine.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "バッド・バニーがプエルトリコの電力網問題を世界に知らしめた経緯",
+      "summary": "プエルトリコの電力システムはハリケーン・マリア以来繰り返し危機に直面しており、停電が日常化している問題がバッド・バニーによって注目された。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08e6a3c1befbbb07884571be27a51d68",
+      "title": "Ecuador’s Netanyahu and Trump supporters target Ecuadorian–Iranian Cultural Center",
+      "url": "https://globalvoices.org/2026/03/21/ecuadors-netanyahu-and-trump-supporters-target-ecuadorian-iranian-cultural-center",
+      "published_at": "2026-03-21T06:00:20.000Z",
+      "description": "Wars no longer have defined frontlines. Battlefields can be anywhere those in power decide that a neighbor, due to their faith, ethnicity, or background, is an enemy.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "エクアドルのネタニヤフとトランプ支持者がエクアドル・イラン文化センターを標的に",
+      "summary": "エクアドルで、ネタニヤフとトランプの支持者がエクアドル・イラン文化センターを標的にしており、紛争の戦線が日常の中に広がっていることを示唆している。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4034cd9d4b6fe41802e9efe50143da39",
+      "title": "Concerns grow as Jamaica ends Cuban medical programme",
+      "url": "https://globalvoices.org/2026/03/14/concerns-grow-as-jamaica-ends-cuban-medical-programme",
+      "published_at": "2026-03-14T13:00:17.000Z",
+      "description": "Terminating the decades-old programme that brought hundreds of Cuban medical personnel to its shores is an unusual move, especially for a programme that had been running smoothly for 50 years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ジャマイカがキューバとの医療プログラム終了で懸念高まる",
+      "summary": "ジャマイカが50年間続いたキューバの医療プログラムを終了したことで懸念が広がっている。このプログラムは数百人のキューバ人医療従事者をジャマイカに派遣していた。"
+    }
+  },
+  "NZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6828e29b9e9e36cc6b15a84f5bb30f83",
+      "title": "NZ axes plan for WW2 sex slaves statue after Japan protest",
+      "url": "https://www.bbc.com/news/articles/c62r8g6m541o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T08:03:51.000Z",
+      "description": "Tokyo had warned that installing the structure in Auckland could jeopardise diplomatic relations.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ニュージーランド、日本の抗議を受け第二次世界大戦の性奴隷像設置計画を中止",
+      "summary": "ニュージーランドが日本の抗議を受け、オークランドでの第二次世界大戦性奴隷像設置計画を中止。外交関係に影響の可能性があった。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "88ed3dc7d4fdd1fc98f5a3085526b6d7",
+      "title": "Japan Airlines trials humanoid robots as ground handlers",
+      "url": "https://www.bbc.com/news/articles/cpwp87j1llvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T10:03:46.000Z",
+      "description": "These robots may in future help clean cabins and operate ground support equipment.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 55,
+      "titleJa": "日本航空、地上係員として人型ロボットを試験導入",
+      "summary": "日本航空が地上業務に人型ロボットの試験導入を開始。将来的には客室清掃や地上支援機器の操作も期待される。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c4f1df55f48658e7e3f13c3e307a8536",
+      "title": "Executions in North Korea ramped up significantly during pandemic - report",
+      "url": "https://www.bbc.com/news/articles/c202r5d5pzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-28T03:31:10.000Z",
+      "description": "Some of the offences were related to culture - including the consumption of K-dramas and K-pop.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "北朝鮮、パンデミック中に処刑が大幅増加との報告",
+      "summary": "報告によると、北朝鮮ではパンデミック中に処刑が著しく増加。KドラマやKポップ視聴などの文化的違反も対象となった。"
+    }
+  },
+  "AU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "24bef197e61df7ef9be3466ef1839068",
+      "title": "Missing 5-year-old girl likely abducted from Outback home, police say",
+      "url": "https://www.bbc.com/news/articles/cgrlr18e29ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T02:06:04.000Z",
+      "description": "Police are searching for a man recently released from prison over her disappearance.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "5歳女児がアウトバックの自宅から誘拐された可能性、警察が発表",
+      "summary": "アウトバックの自宅から5歳女児が失踪、警察は誘拐の可能性が高いと発表。最近出所した男を捜索中。"
+    }
+  },
+  "LK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "516e57e4b793920292ff745304f355b2",
+      "title": "Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage",
+      "url": "https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-27T12:13:58.000Z",
+      "description": "Officials say each monk was found with around 5kg of Kush - a particularly potent form of the drug - hidden within \"false walls\" in their luggage.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "LK",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "スリランカの僧侶ら、手荷物から110kgの大麻発見で逮捕",
+      "summary": "スリランカの僧侶らが手荷物の隠し壁から合計110kgの大麻を発見され逮捕された。各僧侶から約5kgの強力なクッシュが見つかった。"
+    }
+  },
+  "JO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0f19476b2bc6d242d1bf2eb5b7bd1f07",
+      "title": "Forty-six women-led businesses in Jordan to benefit from WEIDE digital trade programme",
+      "url": "https://www.wto.org/english/news_e/news26_e/women_23apr26_368_e.htm",
+      "published_at": "2026-04-23T00:00:00.000Z",
+      "description": "Forty-six women-led businesses in Jordan have been selected as beneficiaries of the Women Exporters in the Digital Economy (WEIDE) Fund, allowing them to begin a year-long programme to strengthen their participation in international trade. The announcement was made in Amman on 23 April at a launch event hosted by the Jordan Enterprise Development Corporation (JEDCO), WEIDE's partner business support organization in the country.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "JO",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "ヨルダンの女性経営企業46社がWEIDEデジタル貿易プログラムの恩恵を受ける",
+      "summary": "ヨルダンの女性経営企業46社がWEIDE基金からデジタル貿易プログラムの恩恵を受け、国際貿易への参加を強化します。"
+    }
+  },
+  "MO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "59bc2a997380e31f45ace258a5a61608",
+      "title": "DG Okonjo-Iweala welcomes Chief Executive Sam Hou Fai of Macao, China to the WTO",
+      "url": "https://www.wto.org/english/news_e/news26_e/dgno_23apr26_373_e.htm",
+      "published_at": "2026-04-23T00:00:00.000Z",
+      "description": "Director-General Ngozi Okonjo-Iweala met with the Chief Executive of Macao, China, Sam Hou Fai on 23 April at the WTO. They discussed the active role Macao, China plays at the WTO and its strong support for the multilateral trading system. As trade openness and transparency are key to Macao, China's strong economic performance, both leaders highlighted the importance of the WTO for supporting the ongoing contribution of Macao, China to the global economy.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "MO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "オコンジョ＝イウェアラ事務局長、マカオ・中国のサム・ホウ・ファイ行政長官をWTOに歓迎",
+      "summary": "WTO事務局長はマカオ・中国の行政長官と会談し、マカオのWTOにおける役割と多角的貿易システムへの支持について協議しました。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b35d2ec9501ce5e4663407053676fd09",
+      "title": "Ethiopia steps up domestic reforms to advance WTO accession negotiations",
+      "url": "https://www.wto.org/english/news_e/news26_e/acc_22apr26_376_e.htm",
+      "published_at": "2026-04-22T00:00:00.000Z",
+      "description": "Speaking at a meeting of the Working Party on Ethiopia's accession to the WTO held on 22 and 23 April, Ethiopia's Minister of Trade and Regional Integration and Chief Trade Negotiator, Kassahun Gofe Balami, informed members of several key decisions taken by the Ethiopian Government in response to members' requests. He reported that the negotiations have \"reached a decisive juncture\" and reiterated Ethiopia's commitment to engage constructively and substantively to advance and finalize the accession process.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "エチオピア、WTO加盟交渉を推進するため国内改革を加速",
+      "summary": "エチオピアはWTO加盟交渉を進めるため、国内改革を加速させています。政府は加盟プロセスを最終化する強いコミットメントを示しました。"
+    }
+  },
+  "MG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "846cd9b4d2279c3a1e179b288e3b9bd6",
+      "title": "Madagascar launches safeguard investigation on certain tableware, kitchenware, and household and packaging articles",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_mdg_17apr26_365_e.htm",
+      "published_at": "2026-04-17T00:00:00.000Z",
+      "description": "On 17 April 2026, Madagascar notified the WTO’s Committee on Safeguards that it had initiated on 15 April 2026 a safeguard investigation on imports of certain tableware, kitchenware, and household and packaging articles, of plastics.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "MG",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 50,
+      "titleJa": "マダガスカル、特定の食卓用品、台所用品、家庭用品および包装用品に対するセーフガード調査を開始",
+      "summary": "マダガスカルは2026年4月17日、特定のプラスチック製食卓用品などの輸入についてセーフガード調査を開始したことをWTOに通知しました。"
+    }
+  }
+}
