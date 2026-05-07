@@ -1,0 +1,942 @@
+{
+  "US": {
+    "count": 16,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4bf46705c28cbc2442fa929623a7fbd2",
+      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T02:18:45.000Z",
+      "description": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 88,
+      "titleJa": "トランプ大統領、米軍によるホルムズ海峡での船舶誘導作戦を一時停止すると発表",
+      "summary": "トランプ大統領は、イランとの合意に向けて進展があったため、月曜に開始された『自由作戦』を停止すると述べた。"
+    }
+  },
+  "AU": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4d134d1fac5fab54ecc4e7e07df5d6a1",
+      "title": "IS families in Syria have booked tickets home to Australia, minister says",
+      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T01:47:48.000Z",
+      "description": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "シリアのIS関係者家族、オーストラリアへの帰国チケットを予約と大臣が発表",
+      "summary": "イスラム国に関連する女性4人、子供9人がシリアのキャンプで数年過ごした後、オーストラリアへ帰国する予定と大臣が発表した。"
+    }
+  },
+  "CN": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "eca873ec77c7fbe9d30e8de56d4c8f9f",
+      "title": "What is China’s anti-sanctions law and how does it work?",
+      "url": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
+      "published_at": "2026-05-07T09:50:50.000Z",
+      "description": "Beijing's order blocking US sanctions on five oil refineries marks first invocation of 2021 law.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "中国の対抗制裁法とは何か、どのように機能するのか？",
+      "summary": "中国が米国による5つの石油精製企業への制裁を阻止する命令を出した。これは2021年の対抗制裁法の初適用となる。"
+    }
+  },
+  "LB": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "49d0ffffb90013b430d5d7b07a1e4c08",
+      "title": "Israel strikes Beirut for first time since ceasefire, reportedly killing Hezbollah commander",
+      "url": "http://www.euronews.com/2026/05/07/israel-strikes-beirut-for-first-time-since-ceasefire-reportedly-killing-hezbollah-commande",
+      "published_at": "2026-05-07T11:07:34.000Z",
+      "description": "Beirut and its southern suburbs had been spared Israeli attacks since 8 April, when massive Israeli strikes across the country killed more than 350 people.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イスラエル、停戦後初めてベイルートを攻撃、ヒズボラ司令官を殺害か",
+      "summary": "イスラエルが停戦以来初めてベイルートを攻撃し、報道によるとヒズボラの司令官が殺害された模様。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "015572a4a044a115ae224aca50705b0a",
+      "title": "Germany's golden years are over, Reinhold Würth warns",
+      "url": "http://www.euronews.com/my-europe/2026/05/07/germanys-golden-years-are-over-reinhold-wurth-warns",
+      "published_at": "2026-05-07T10:28:10.000Z",
+      "description": "Reinhold Würth, who has made the Würth Group the global market leader in the trade of assembly and fastening materials for trade and industry, sees an opportunity above all in the fields of electronics, IT and artificial intelligence.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "ラインホルト・ヴュルト氏が警告、「ドイツの黄金時代は終わった」",
+      "summary": "ヴュルト・グループのラインホルト・ヴュルト氏が、ドイツの黄金時代は終わったと警告し、電子機器、IT、AI分野に機会を見出す。"
+    }
+  },
+  "CD": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5ff3718ac12683c5aff15286e4321674",
+      "title": "When climate change impairs beekeeping in the Democratic Republic of the Congo",
+      "url": "https://globalvoices.org/2026/04/14/when-climate-change-impairs-beekeeping-in-the-democratic-republic-of-the-congo",
+      "published_at": "2026-04-14T07:00:17.000Z",
+      "description": "Climate change negatively impacts human, animal, and plant species. In the Democratic Republic of the Congo (DRC), this crisis is leading beehives, which are vital to food security, to run dry.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 92,
+      "titleJa": "気候変動がコンゴ民主共和国の養蜂業を阻害するとき",
+      "summary": "コンゴ民主共和国で気候変動が深刻化し、食料安全保障に不可欠な養蜂業が脅かされ、ミツバチの巣が枯渇している現状を報告する。"
+    }
+  },
+  "IE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d5dd751281bdfc5e8468bfd6d490cd33",
+      "title": "'Dark patterns': Investigating online manipulation",
+      "url": "https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-07T07:28:00.000Z",
+      "description": "Ireland's media regulator is investigating Facebook and Instagram on suspicion that so-called dark patterns are used to manipulate users.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "「ダークパターン」：オンライン操作の調査",
+      "summary": "アイルランドのメディア規制当局は、FacebookとInstagramが「ダークパターン」と呼ばれる手法でユーザーを操作している疑いについて調査中である。"
+    }
+  },
+  "GB": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "04804fb5e934696a3954ed6ffe38d0e0",
+      "title": "UK votes in key local and regional elections",
+      "url": "https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-07T07:16:00.000Z",
+      "description": "Prime Minister Keir Starmer's Labour Party is expected to face major losses, perhaps spelling the end of his premiership. Reform, the Greens, Plaid Cymru and the SNP are all hoping to make gains.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "英国、重要な地方・地域選挙で投票",
+      "summary": "英国で重要な地方・地域選挙が行われ、スターマー首相率いる労働党が大幅に議席を失い、首相の任期が終了する可能性も指摘されている。"
+    }
+  },
+  "IN": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "433544d1adf7aa9969e97e6745b563eb",
+      "title": "India: Modi vows to 'defeat terrorism' on anniversary of India-Pakistan conflict",
+      "url": "https://www.dw.com/en/india-modi-vows-to-defeat-terrorism-on-anniversary-of-india-pakistan-conflict/live-77073167?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-07T07:09:00.000Z",
+      "description": "Indian Prime Minister Narendra Modi said Operation Sindoor showcased the country's military strength and resolved against terrorism after last year's deadly Pahalgam attack. DW has the latest.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "インド：モディ首相、印パ紛争記念日に「テロを打ち破る」と誓う",
+      "summary": "インドのモディ首相は、昨年発生したパハルガム攻撃の後、国の軍事力とテロに対する決意を示す「シンドール作戦」を称え、テロ撲滅を誓った。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b132da4025db222cb1753386c5efb610",
+      "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "published_at": "2026-05-07T09:00:45.000Z",
+      "description": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government\nA woman being held in prison in Somalia for taking part in peaceful protests has described how she was tortured by her guards.\nSadia Moalim Ali, 27, told the Guardian she was stripped naked by two male guards in a room monitored by CCTV, kicked, beaten with a baton and left for two days in a small cell without food.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ソマリアで平和的抗議運動により投獄された女性が「裸にされ、蹴られ、殴られた」",
+      "summary": "ソマリアで政府への平和的抗議活動に参加した27歳の女性が逮捕され、刑務所で看守から裸にされ、蹴られ、警棒で殴打されるなどの拷問を受けたと告白した。"
+    }
+  },
+  "ES": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d45ac0042c6a98f4d808305634c24a68",
+      "title": "Injury row, Sardinia trip, petition - Kylian Mbappé faces growing backlash from Real Madrid fans",
+      "url": "http://www.euronews.com/2026/05/07/injury-row-sardinia-trip-petition-kylian-mbappe-faces-growing-backlash-from-real-madrid-fa",
+      "published_at": "2026-05-07T11:14:19.000Z",
+      "description": "Injured Real Madrid striker Kylian Mbappé has sparked backlash from some fans after taking a holiday in Sardinia ahead of Sunday’s Clasico against Barcelona.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "負傷問題、サルデーニャ旅行、請願 - キリアン・エムバペ、レアル・マドリードファンから反発強まる",
+      "summary": "負傷中のレアル・マドリードFWキリアン・エムバペが、クラシコ前にサルデーニャで休暇を取ったことでファンから批判を浴びている。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "37c9f8a9a979f40461d13be4ec781f41",
+      "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+      "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-03T06:57:44.000Z",
+      "description": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ケニア、政治的暴力の懸念が高まる中、「暴徒と銃」を阻止しようと奮闘",
+      "summary": "ケニアでは100以上のギャングが全国で活動し、政治的暴徒の利用が増加しているため、選挙暴力の懸念が高まっている。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "96845668e0db3f38b7467b061d1b07f3",
+      "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
+      "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
+      "published_at": "2026-05-07T10:00:46.000Z",
+      "description": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it\nWalking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cathedral, with its soaring spires, slumps in one direction. An attached church, known as the Metropolitan Sanctuary, tilts in the other. The nearby National Palace also seems off-kilter.\nThe teetering of many of the capital’s historic buildings is the most visible sign of a phenomenon that has been ongoing for more than a century: Mexico City is sinking at an alarming rate.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "月に2cm：メキシコシティが地盤沈下、NASAが追跡",
+      "summary": "メキシコシティは月に最大2cmのペースで地盤沈下しており、歴史的建造物が傾いている。NASAのレーダーシステムが新たなデータを提供し、この現象への注目を集めている。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b828f5f162694720b82971670a90ea53",
+      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+      "published_at": "2026-05-07T01:53:51.000Z",
+      "description": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region\nOfficials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise ship, amid reports that a number of passengers have already returned to their home countries.\nArgentina, where the cruise to Antarctica departed, is consistently ranked by the World Health Organization (WHO) as having the highest incidence of the rare, rodent-borne disease in Latin America. Investigators there are working to contact trace the source of contamination.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "AR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "アルゼンチン、クルーズ船ハンタウイルス発生源の特定急ぐ、一部乗客は米国へ帰国報道",
+      "summary": "アルゼンチンが、MV Hondiusでのハンタウイルス発生源が自国かどうかを調査中。ラテンアメリカで発生率が最も高く、一部乗客は既に米国へ帰国したと報じられている。"
+    }
+  },
+  "CR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b08a03b4c73603a01d41ffd21dfe04c3",
+      "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+      "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+      "published_at": "2026-05-06T13:13:47.000Z",
+      "description": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ \nThe US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La Nación, which has been a critical voice against the country’s president, Rodrigo Chaves, an ally of Donald Trump.\nDuring Chaves’s 2022 presidential campaign, La Nación published several articles documenting allegations of sexual harassment against him that had forced him out of his job at the World Bank. The paper also reported on allegations of illegal campaign financing, which Chaves denied.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国、トランプ同盟国を批判するコスタリカ紙役員のビザを取り消し",
+      "summary": "米国務省が、トランプ同盟国のコスタリカ大統領を批判する主要紙ラ・ナシオンの役員らのビザを取り消した。同紙はこれを「報道の自由への間接的な攻撃」と呼んでいる。"
+    }
+  },
+  "VA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c5afd93deab5fe2c21f098d4e9528d60",
+      "title": "Pope Leo XIV swears in 28 new Swiss Guards in Vatican ceremony",
+      "url": "http://www.euronews.com/video/2026/05/07/pope-leo-xiv-swears-in-28-new-swiss-guards-in-vatican-ceremony",
+      "published_at": "2026-05-07T11:19:28.000Z",
+      "description": "Twenty-eight new recruits were formally sworn into the Swiss Guards at Vatican City on Wednesday during a ceremony presided over by Pope Leo XIV.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "VA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "ローマ教皇レオ14世、バチカン式典で28人の新スイス衛兵を宣誓",
+      "summary": "ローマ教皇レオ14世がバチカン市国で執り行われた式典で、28人の新スイス衛兵の宣誓式を主宰した。"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0ff54cada1e48f6b96f351c668512a5a",
+      "title": "‘Sunbed wars’: German tourist wins €900 payout after 6 am towel dash ruined Greek holiday",
+      "url": "http://www.euronews.com/travel/2026/05/07/sunbed-wars-german-tourist-wins-900-payout-after-6-am-towel-dash-ruined-greek-holiday",
+      "published_at": "2026-05-07T10:31:06.000Z",
+      "description": "A tourist has won compensation after claiming towel-hogging guests made sun loungers impossible to use on a Greek holiday – and the ruling could spell trouble for resorts that fail to tackle the “sunbed wars”.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "GR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 30,
+      "titleJa": "「サンベッド戦争」：ドイツ人観光客、午前6時のタオル確保でギリシャ休暇が台無しになり900ユーロの賠償金獲得",
+      "summary": "ドイツ人観光客が、ギリシャでの休暇中にサンベッドが使えなかったとして900ユーロの賠償金を獲得した。"
+    }
+  },
+  "IL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "697cac0e393e2ae67c9d6e9c993f952d",
+      "title": "Nobel Laureate JM Coetzee refuses to attend Jerusalem writers festival over Israel’s actions in Gaza",
+      "url": "http://www.euronews.com/culture/2026/05/07/nobel-laureate-jm-coetzee-refuses-to-attend-jerusalem-writers-festival-over-israels-action",
+      "published_at": "2026-05-07T10:12:22.000Z",
+      "description": "Coetzee is the latest literary figure to call out Israel’s actions against Gaza, with several other film actors and authors also having declined working with Israeli institutions in the past few years.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ノーベル賞受賞者JMクッツェー、イスラエルのガザでの行動を理由にエルサレム文学祭への参加を拒否",
+      "summary": "ノーベル賞受賞者JMクッツェー氏が、イスラエルのガザにおける行動を理由に、エルサレムの文学祭への参加を拒否した。"
+    }
+  },
+  "IR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fd868b544fe129743cbae413499a0adc",
+      "title": "What are US proposals to end war, and will Iran agree to them?",
+      "url": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them?traffic_source=rss",
+      "published_at": "2026-05-07T10:45:29.000Z",
+      "description": "Iran says it is reviewing a US proposal to end the US-Israel war on it that has caused a global crisis.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米国が提示する戦争終結案とは何か、イランは同意するか？",
+      "summary": "イランは、世界的な危機を引き起こしている米国・イスラエルによるイランへの戦争を終結させるための米国提案を検討していると発表した。"
+    }
+  },
+  "BR": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b8c3037ea2f8531393560f0f28f94e88",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T05:58:20.000Z",
+      "description": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ブラジル議会、ボルソナーロ前大統領の刑期大幅短縮計画を承認",
+      "summary": "ブラジル議会は、選挙敗北後にクーデターを企てたとして27年の刑を宣告されたボルソナーロ前大統領の刑期を大幅に短縮する計画を承認しました。"
+    }
+  },
+  "FR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d71acb852d0b276fe9d83b58e18c2520",
+      "title": "French warship moves towards Hormuz for possible defensive mission",
+      "url": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+      "published_at": "2026-05-07T08:36:21.000Z",
+      "description": "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "FR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "フランス軍艦、ホルムズへ向かう：防衛任務の可能性",
+      "summary": "フランスの軍艦が防衛任務の可能性のためホルムズ海峡へ移動。同時に、イランが米国からの戦争終結案を検討中との報道もある。"
+    }
+  },
+  "CV": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6d50a4745c4ee50f04dcfc1d6f64e317",
+      "title": "Cruise passengers tell of life on board ship stranded off Cape Verde after hantavirus outbreak",
+      "url": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T11:52:42.000Z",
+      "description": "While passengers onboard the MV Hondius say the situation is calm, they face days at sea as officials warn the disease may have spread.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CV",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 60,
+      "titleJa": "クルーズ船乗客、ハンタウイルス発生でカーボベルデ沖に足止めされた船内での生活を語る",
+      "summary": "ハンタウイルス発生のためカーボベルデ沖で立ち往生したクルーズ船MV Hondiusの乗客が、船内の状況について語る。当局は感染拡大の可能性を警告しており、乗客は数日間海上での生活を強いられている。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d466d7273fdef71af55f294bd2020a64",
+      "title": "Sudan accuses Ethiopia and UAE of orchestrating drone attacks on airport",
+      "url": "https://www.bbc.com/news/articles/clype712r3qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T10:38:17.000Z",
+      "description": "Sudan's foreign minister says Ethiopia and UAE has chosen the \"wrong path\" and would regret it.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "スーダン、空港へのドローン攻撃をエチオピアとUAEが画策したと非難",
+      "summary": "スーダンの外務大臣は、エチオピアとアラブ首長国連邦が空港へのドローン攻撃を画策したと非難し、両国が「誤った道」を選んだと警告した。"
+    }
+  },
+  "ML": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "584ce5372825edb4978506c0ab4cf21e",
+      "title": "Russian paramilitary carried out air strikes in Mali as rebels advanced, footage shows",
+      "url": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-29T11:24:47.000Z",
+      "description": "Last weekend's attacks came as the Africa Corps withdrew from a key base in northern Mali.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ML",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ロシアの準軍事組織がマリで反乱軍前進中に空爆を実施、映像が示す",
+      "summary": "映像によると、ロシアの準軍事組織がマリで反乱軍が前進する中で空爆を行った。これはアフリカ軍団がマリ北部にある主要基地から撤退した直後の出来事。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "caa70be8d9663db12cff9012e17faf09",
+      "title": "Before the algorithm decides: Queer storytelling as resistance in Nigeria",
+      "url": "https://globalvoices.org/2026/04/30/before-the-algorithm-decides-queer-storytelling-as-resistance-in-nigeria",
+      "published_at": "2026-04-30T11:10:56.000Z",
+      "description": "The stories that are publicly available and widely circulated are the ones most likely to be captured in the datasets that train AI systems.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 78,
+      "titleJa": "アルゴリズムが決定する前に：ナイジェリアにおけるクィアのストーリーテリングと抵抗",
+      "summary": "ナイジェリアで、AIシステムが訓練するデータセットに偏りが生じる前に、クィアのストーリーテリングが抵抗の形として重要であることを論じる。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6f4c61e363ebf23f129baa2333536b73",
+      "title": "The invisible migration: How urban refugees are powering Uganda’s economy",
+      "url": "https://globalvoices.org/2026/05/06/the-invisible-migration-how-urban-refugees-are-powering-ugandas-economy",
+      "published_at": "2026-05-06T08:00:30.000Z",
+      "description": "As Paul Kithima and the entrepreneurs in Makindye demonstrate, when refugees are given the tools to succeed, they don’t just survive, they build the future of the country that welcomed them.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "見えない移住：都市部の難民がウガンダ経済を動かす方法",
+      "summary": "ウガンダの都市部で、難民が起業家として成功し、国の経済成長に貢献している現状を説明する。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "57c1782ca62c29fc493aeac2aeadb750",
+      "title": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
+      "url": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-02T04:02:24.000Z",
+      "description": "Oral history traces a family's roots to a tree planted in the 13th Century in a Ghanaian fishing town.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 30,
+      "titleJa": "「この木は数百年前、私の祖先によって植えられ、私の家族はここに定住した」",
+      "summary": "ガーナの漁村で、口述歴史が家族のルーツを13世紀に植えられた木にまで遡る。地域社会の深い歴史と文化を伝える物語。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "996b7513dd6e995aa3d342038ab77aaa",
+      "title": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her death?",
+      "url": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death",
+      "published_at": "2026-05-05T01:00:21.000Z",
+      "description": "An Ethiopian creator who built her audience in Afan Oromo died by suicide on April 29. Her farewell post and video remain on Facebook today. Platforms missed every signal",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "エチオピアのTikTok、人気クリエイターの死を悼む。TikTokとMetaは彼女の死に加担したのか？",
+      "summary": "エチオピアの人気TikTokクリエイターが自殺した件で、ソーシャルメディアプラットフォームのTikTokとMetaがその死に責任があるのではないかと問う記事。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "91600990559dadabe6aa526e03ec6e0c",
+      "title": "Ukraine is a global surrogacy hub - but that could be about to end",
+      "url": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-07T05:02:12.000Z",
+      "description": "Ukraine is considering a law that would effectively ban foreigners from accessing surrogacy in the country.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ウクライナは世界の代理出産拠点だが、それが終わりを迎える可能性",
+      "summary": "ウクライナが外国人向け代理出産を事実上禁止する法案を検討中。世界的な代理出産拠点としての地位が終焉を迎える可能性がある。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7d7efdffb81cfd35db24fe4ba55618db",
+      "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+      "url": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T21:29:18.000Z",
+      "description": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 55,
+      "titleJa": "「ショーを楽しめ。戦争は無視しろ」：ヴェネツィア・ビエンナーレ、ロシア招致で反発",
+      "summary": "ヴェネツィア・ビエンナーレがウクライナ侵攻以来初めてロシアを招致し、芸術祭で抗議活動が発生している。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f88a9cb71b5e2492d6774054b8be11fa",
+      "title": "Two Portuguese police chiefs detained as abuse scandal escalates, reports say",
+      "url": "https://www.bbc.com/news/articles/c0r2zq9wg9xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-06T19:32:56.000Z",
+      "description": "The case first emerged last year, involving allegations of torture, rape and abuse of power.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ポルトガル警察署長2名が拘束、虐待スキャンダルが拡大",
+      "summary": "ポルトガルで警察署長2名が拘束され、拷問や性的暴行、権力乱用などの疑惑を含む虐待スキャンダルが拡大している。"
+    }
+  },
+  "RO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "12cc5a0721dc7606bc14c791f0654723",
+      "title": "Romanian PM ousted in no-confidence vote",
+      "url": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T14:05:11.000Z",
+      "description": "Ilie Bolojan lost the vote after the largest party in his coalition joined the far-right opposition to depose him.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ルーマニア首相、不信任投票で失脚",
+      "summary": "ルーマニアのイリエ・ボロジャン首相が不信任投票で敗北し失脚。連立最大与党が極右野党と合流し首相を解任した。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "73c6aaee662c92510a7a007ed818ed35",
+      "title": "Finding soldier Tom: Solving family mystery of WW2 Soviet prisoner of war",
+      "url": "https://www.bbc.com/news/articles/cdjpdzvzy41o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T23:24:33.000Z",
+      "description": "He was saved by a Jersey family after escaping a Nazi labour camp, but after the war he disappeared in the Soviet Union.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "兵士トムを探して：第二次世界大戦ソ連捕虜の家族の謎を解く",
+      "summary": "ナチス労働キャンプから脱走しジャージー島の家族に救われたソ連兵が、戦後ソビエト連邦で消息を絶った家族の謎を追う物語。"
+    }
+  },
+  "CO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "36a127c59aae21bbd0ab9d23776d4275",
+      "title": "Nine coal miners die in gas explosion in Colombia",
+      "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T10:09:23.000Z",
+      "description": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "コロンビアでガス爆発により9人の炭鉱労働者が死亡",
+      "summary": "コロンビアの炭鉱でガス爆発が発生し、9人の鉱山労働者が死亡しました。2023年にも同地で同様の事故が起きています。"
+    }
+  },
+  "CU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "70dc81f605c03731159b88e3258fe350",
+      "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
+      "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-02T04:57:02.000Z",
+      "description": "The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "キューバ、新たな米国の制裁を「違法かつ虐待的」と非難",
+      "summary": "キューバ政府は、米国による新たな制裁を「違法で虐待的」と非難しました。この措置は、キューバの停電や燃料不足を引き起こす石油封鎖に追加されるものです。"
+    }
+  },
+  "FK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1902dd99de4fdd2b9a0c9897149a40e2",
+      "title": "Rubio downplays reports US could review UK's claim to Falklands",
+      "url": "https://www.bbc.com/news/articles/c809r2721ymo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-04-30T21:15:12.000Z",
+      "description": "The US secretary of state says a leaked memo suggesting America's position on the territory could be changed \"was just an email\".",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "FK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ルビオ氏、米国がフォークランド諸島の英国領有権主張を見直す可能性の報道を軽視",
+      "summary": "米国務長官は、米国がフォークランド諸島の英国領有権主張に関する立場を変更する可能性を示唆する漏洩メモを「単なるメール」と軽視しました。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e706fbe268aa89c774a1455c59bf0101",
+      "title": "The ordeal of an undocumented Haitian migrant in the Dominican Republic",
+      "url": "https://globalvoices.org/2026/05/07/the-ordeal-of-an-undocumented-haitian-migrant-in-the-dominican-republic",
+      "published_at": "2026-05-07T08:00:25.000Z",
+      "description": "Regaining hope and confidence rests on finding a pathway to a country where he can regain his freedom and dignity, since persistent gang violence makes a return to Haiti impossible.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ドミニカ共和国における、身分を証明できないハイチ移民の苦境",
+      "summary": "ギャングの暴力によりハイチへの帰還が不可能な中、ドミニカ共和国で尊厳と自由を求める身分証明書のないハイチ移民の困難な状況を伝える。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dc3f6c2e8803735acbeaa6a64887045a",
+      "title": "AI hype narrative reaches the public healthcare system in El Salvador",
+      "url": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador",
+      "published_at": "2026-04-28T06:01:51.000Z",
+      "description": "This time we take you to El Salvador, examining government claims that an AI-supported transformation of the public healthcare system will make it the most advanced in the world.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "AIブームの言説がエルサルバドルの公衆衛生システムに到達",
+      "summary": "エルサルバドル政府がAIによる公衆衛生システムの変革を世界最先端と謳う中、その実態と政府の主張を検証する。"
+    }
+  },
+  "PR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "27b6623ae7393cbeee4d449edb5e7cc3",
+      "title": "How Bad Bunny brought the issue of Puerto Rico’s power grid into world view",
+      "url": "https://globalvoices.org/2026/03/22/how-bad-bunny-brought-the-issue-of-puerto-ricos-power-grid-into-world-view",
+      "published_at": "2026-03-22T06:30:47.000Z",
+      "description": "Puerto Rico’s electricity system has faced repeated crises since 2017’s Hurricane Maria, which destroyed much of the grid and triggered the longest blackout in modern U.S. history; outages remain routine.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "バッド・バニーがいかにプエルトリコの電力網問題を世界に知らしめたか",
+      "summary": "ハリケーン・マリア以来、プエルトリコの電力システムが危機に直面し、停電が常態化する中、バッド・バニーがこの問題を世界に提起した経緯を解説。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "08e6a3c1befbbb07884571be27a51d68",
+      "title": "Ecuador’s Netanyahu and Trump supporters target Ecuadorian–Iranian Cultural Center",
+      "url": "https://globalvoices.org/2026/03/21/ecuadors-netanyahu-and-trump-supporters-target-ecuadorian-iranian-cultural-center",
+      "published_at": "2026-03-21T06:00:20.000Z",
+      "description": "Wars no longer have defined frontlines. Battlefields can be anywhere those in power decide that a neighbor, due to their faith, ethnicity, or background, is an enemy.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "エクアドルのネタニヤフおよびトランプ支持者がエクアドル・イラン文化センターを標的に",
+      "summary": "エクアドルでネタニヤフおよびトランプの支持者がエクアドル・イラン文化センターを標的とする事態が発生し、政治的・思想的な対立が浮き彫りになる。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4034cd9d4b6fe41802e9efe50143da39",
+      "title": "Concerns grow as Jamaica ends Cuban medical programme",
+      "url": "https://globalvoices.org/2026/03/14/concerns-grow-as-jamaica-ends-cuban-medical-programme",
+      "published_at": "2026-03-14T13:00:17.000Z",
+      "description": "Terminating the decades-old programme that brought hundreds of Cuban medical personnel to its shores is an unusual move, especially for a programme that had been running smoothly for 50 years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ジャマイカがキューバ医療プログラムを終了、懸念が高まる",
+      "summary": "長年続いてきたキューバ人医療従事者を受け入れるプログラムをジャマイカが終了したことで、その決定の背景と国内の医療体制への影響について懸念が広がっている。"
+    }
+  },
+  "KP": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f72ebbe71151acc5344e3618a88d28ef",
+      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
+      "url": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-05T22:44:35.000Z",
+      "description": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "金主愛の服装が示唆するもの：北朝鮮の次期指導者像",
+      "summary": "金主愛氏の服装の変化は、彼女が北朝鮮の次期指導者として育成されている兆候の一つと報じられている。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e6638668a47444d60d5460a48f08b1c1",
+      "title": "Samsung family pays off record $8bn inheritance tax bill",
+      "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-04T04:24:22.000Z",
+      "description": "The bill is tied to the estate left by the firm's late chairman Lee Kun-hee, who died in  October 2020.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "サムスン一家、過去最高の80億ドルの相続税を完済",
+      "summary": "サムスングループの故李健熙会長の遺産にかかる過去最高の80億ドル（約1兆2500億円）の相続税を家族が完済した。"
+    }
+  },
+  "MM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5848c19c6d6c0a678f44a0ea825f2172",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-01T04:11:53.000Z",
+      "description": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "MM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ミャンマーの元指導者アウンサンスーチー氏、自宅軟禁に移行と軍が発表",
+      "summary": "2021年のクーデターで失脚後、拘束されていたノーベル平和賞受賞者のアウンサンスーチー氏が自宅軟禁に移されたと軍が発表した。"
+    }
+  },
+  "BZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a7b350ec82e639389edab28960a2af56",
+      "title": "Trade Policy Review: Belize",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_blz_04may26_e.htm",
+      "published_at": "2026-05-04T00:00:00.000Z",
+      "description": "The fourth review of the trade policies and practices of Belize takes place on 4 and 6 May 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Belize.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "BZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "貿易政策レビュー：ベリーズ",
+      "summary": "WTOは2026年5月4日と6日にベリーズの貿易政策と慣行に関する第4回レビューを実施。レビューはWTO事務局とベリーズ政府の報告書に基づいて行われる。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5e534c52abba2fe9065b4fb89b3fcdb1",
+      "title": "Canada commits CAD 500,000 to strengthen food safety and plant and animal health capacity",
+      "url": "https://www.wto.org/english/news_e/news26_e/sps_28apr26_378_e.htm",
+      "published_at": "2026-04-28T00:00:00.000Z",
+      "description": "Canada is providing CAD 500,000 (approximately CHF 286,000) to the Standards and Trade Development Facility (STDF) to strengthen sanitary and phytosanitary (SPS) capacity of public and private sector stakeholders in developing and least-developed countries. The contribution will support STDF activities that help countries meet international food safety and plant and animal health standards and facilitate safe trade, based on the STDF Strategy for 2025-2030.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "CA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "カナダ、食料安全と植物・動物衛生能力強化に50万カナダドルを拠出",
+      "summary": "カナダは、開発途上国および後発開発途上国のSPS能力強化のため、STDFに50万カナダドルを拠出。これにより、食料安全、植物・動物衛生基準の遵守、安全な貿易が促進される。"
+    }
+  },
+  "EU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "849591318e203889402f89f26f9b2235",
+      "title": "WTO members review safeguard actions, exchange views on measures affecting steel products",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_27apr26_380_e.htm",
+      "published_at": "2026-04-27T00:00:00.000Z",
+      "description": "At a meeting on 27 April, the WTO Committee on Safeguards reviewed safeguard actions covering 38 products, 12 of which were steel/metal products. These actions were notified by members since the Committee's last meeting in October 2025. Several members expressed their views on the European Union's and the United Kingdom's actions concerning steel products. The EU investigation on grain-oriented electrical steel and measure on ferro-alloying elements also generated interventions by several members. The outgoing Chair, Ms Milagros Miranda Rojas (Peru), thanked members for their participation in the Committee.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "EU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "WTO加盟国、セーフガード措置をレビュー、鉄鋼製品に影響を与える措置について意見交換",
+      "summary": "WTOセーフガード委員会は4月27日に開催され、38製品のセーフガード措置をレビュー。欧州連合と英国の鉄鋼製品に関する措置について意見交換が行われ、特にEUの調査と措置が注目された。"
+    }
+  }
+}
