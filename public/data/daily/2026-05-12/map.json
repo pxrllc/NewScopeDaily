@@ -1,0 +1,882 @@
+{
+  "IR": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ce22c3f286565ed6518942dbba7732b1",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-12T00:59:12.000Z",
+      "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏、イラン停戦は「大規模な延命治療中」と発言",
+      "summary": "米国大統領がイランとの停戦状況を批判し、1ヶ月間の停戦が「信じられないほど弱い」と述べた。"
+    }
+  },
+  "UG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f7a0119fad0fcb7707d00da4024738ef",
+      "title": "Uganda's president sworn in for record seventh term",
+      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-12T11:33:19.000Z",
+      "description": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ウガンダ大統領、史上7期目の就任",
+      "summary": "ヨウェリ・ムセベニ大統領（81歳）が、物議を醸した選挙を経て40年の統治を延長し、史上7期目の就任を果たした。"
+    }
+  },
+  "US": {
+    "count": 13,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c31de8411f450ed0f10e372fee1f0062",
+      "title": "United States notifies import surcharges, ready for WTO consultations",
+      "url": "https://www.wto.org/english/news_e/news26_e/bop_05may26_385_e.htm",
+      "published_at": "2026-05-05T00:00:00.000Z",
+      "description": "At a meeting of the Committee on Balance-of-Payments Restrictions held on 5 May, WTO members discussed the United States’ new notification regarding the imposition of import surcharges to address the country’s serious balance-of-payments deficits. The United States said the surcharges took effect on 24 February 2026 and will expire on 24 July 2026, unless extended by an act of Congress. Members welcomed the transparency of the United States and its readiness to engage in consultations in line with WTO rules.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "US",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "米国、輸入課徴金を通知、WTO協議の準備完了",
+      "summary": "米国が深刻な国際収支赤字対策として輸入課徴金を導入し、WTOに通知。WTO加盟国は米国の透明性と協議への意欲を歓迎した。"
+    }
+  },
+  "FR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06128af9a3f0f777e87a61ceaf51e6a5",
+      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
+      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-12T11:13:54.000Z",
+      "description": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "フランス、ケニアでアフリカ首脳と会談し植民地時代の関係からの脱却を図る",
+      "summary": "1970年代以来初の試みとして、フランスがアフリカ諸国の首脳とケニアで会談。これはフランスの対アフリカ政策の変化を示すもの。"
+    }
+  },
+  "AF": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1f1f74e55fe82d3d342a1e7d33990eda",
+      "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
+      "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-12T07:31:14.000Z",
+      "description": "There are calls to investigate the 16 March airstrike - which the UN says likely killed more - as a war crime.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AF",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "パキスタンがリハビリ施設を攻撃し、アフガン人269人が死亡。家族は真相究明を求める",
+      "summary": "パキスタンがリハビリ施設を空爆し、269人のアフガン人が死亡。国連はさらに多い可能性を示唆し、戦争犯罪として調査を求める声が上がっている。"
+    }
+  },
+  "CN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "474d5924fa6615b4b256f3e904d038c8",
+      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-11T23:20:53.000Z",
+      "description": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "トランプ・習近平首脳会談がいかにして超大国間の関係を今後何年にもわたって決定づけるか",
+      "summary": "トランプ大統領の中国電撃訪問は近年で最も重要なものであり、米中間の超大国関係を今後何年にもわたって形作る可能性を秘めている。"
+    }
+  },
+  "LB": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b66425082a1878608243fde870f1b049",
+      "title": "Israeli military kills six in Lebanon, issues more displacement threats",
+      "url": "https://www.aljazeera.com/news/2026/5/12/israeli-military-kills-six-in-lebanon-issues-more-displacement-threats?traffic_source=rss",
+      "published_at": "2026-05-12T09:40:29.000Z",
+      "description": "The deadly air attack comes just days before Israeli and Lebanese officials are due to meet in Washington.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イスラエル軍、レバノンで6人殺害、さらなる避難を警告",
+      "summary": "イスラエル軍がレバノンで空爆により6人を殺害し、さらに避難の脅威を発令した。この致命的な攻撃は、イスラエルとレバノンの当局者がワシントンで会談する直前の出来事だった。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "404fbc5820b916de6cf7b47bbebec6ea",
+      "title": "Germany news: Merz booed as he advocates economic reform",
+      "url": "https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-12T09:56:00.000Z",
+      "description": "Chancellor Friedrich Merz says Germany must buckle down to ensure economic renewal, amid geopolitical turmoil. Meanwhile, inflation is up again with energy prices a key driver pushing up costs. DW has the latest.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "ドイツニュース：メルツ首相、経済改革を提唱しブーイング",
+      "summary": "ドイツのメルツ首相は経済再生を訴えるがブーイングを受け、地政学的混乱の中、エネルギー価格高騰でインフレが再燃している。"
+    }
+  },
+  "GB": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aec5d0839b39dcbf691e168fbb2531bc",
+      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as first junior minister resigns",
+      "url": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-first-junior-minister-resigns/a-77129695?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-12T09:45:00.000Z",
+      "description": "British Prime Minister Keir Starmer is meeting with his Cabinet amid continued pressure after election losses. A set piece speech yesterday failed to calm the waters, and a junior minister resigned early on Tuesday.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "英国：キア・スターマー、閣僚に続投を表明、初の若手閣僚が辞任",
+      "summary": "英国のキア・スターマー首相は選挙での敗北後も圧力が続く中、閣議で続投を表明。一方、初の若手閣僚が辞任した。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3ce9691b99df9530427060f36dea85a1",
+      "title": "India: New Tamil Nadu Chief Minister Vijay cracks down on state-run TASMAC liquor shops",
+      "url": "https://www.dw.com/en/india-new-tamil-nadu-chief-minister-vijay-cracks-down-on-state-run-tasmac-liquor-shops/a-77128244?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-12T08:28:00.000Z",
+      "description": "In his first major decision since becoming the chief minister of Tamil Nadu, Vijay has ordered 717 state-run TASMAC liquor stores near religious places and schools to shut down.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "インド：タミル・ナードゥ州新首相ヴィジャイ、州営TASMAC酒類販売店を一掃",
+      "summary": "タミル・ナードゥ州の新首相ヴィジャイが初の主要決定として、宗教施設や学校近くの州営酒類販売店717店舗の閉鎖を命じた。"
+    }
+  },
+  "BA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d08d1c92268a8d92c934ae2932efbd34",
+      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
+      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-11T13:14:30.000Z",
+      "description": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "BA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ボスニアの強力な平和特使が辞任、役割の将来に疑問符",
+      "summary": "ボスニアの強力な平和特使クリスチャン・シュミット氏が辞任し、その役割の将来について疑問が提起されている。"
+    }
+  },
+  "UA": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "54be398618965d87d66a854684df977f",
+      "title": "Ukraine: Russia breaks ceasefire overnight, Zelenskyy says",
+      "url": "https://www.dw.com/en/ukraine-russia-breaks-ceasefire-overnight-zelenskyy-says/a-77128198?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-12T08:02:00.000Z",
+      "description": "Ukrainian President Zelenskyy has said that Moscow launched some 200 drone strikes in a single night, bringing an end to a temporary truce. Moscow meanwhile said it intercepted 27 Ukrainian drones overnight.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ウクライナ：ロシアが夜間に停戦を破ったとゼレンスキー大統領が発言",
+      "summary": "ゼレンスキー大統領は、ロシアが夜間にドローン約200機で攻撃し、一時的な停戦が終了したと発表。ロシア側もウクライナのドローンを27機迎撃したと述べた。"
+    }
+  },
+  "BW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d210984df6d7db3793097c0148bd34b8",
+      "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
+      "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
+      "published_at": "2026-05-12T07:17:30.000Z",
+      "description": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat\nIt was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surged past South Africa’s Zakithi Nene to win the men’s 4x400m relay for Botswana. The home crowd, a sea of light blue, went wild.\n“It means so many things to us,” Letsile Tebogo, 22, the reigning 200m Olympic champion, who ran the second leg, told reporters afterwards. “Not just the team … but for the people that always cheer for us behind the TV. Now they had that experience to see first-hand how much effort, how much pressure, how much we give for them.”\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BW",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "ハボローネのゴールドラッシュ：ボツワナが男子短距離走のトップに躍り出た経緯",
+      "summary": "ボツワナが若いアスリートへの投資により、男子短距離走で世界トップレベルに浮上。世界リレーでは4x400mリレーで優勝し、国民に大きな喜びをもたらした。"
+    }
+  },
+  "MA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4b14bfda35c977104cb159a4f26a24b3",
+      "title": "Body of US soldier who went missing in Morocco has been found and identified",
+      "url": "https://www.bbc.com/news/articles/cvgz7p5ggg7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-10T20:07:30.000Z",
+      "description": "A search is still ongoing for the second US soldier who went missing during a multinational military training exercise in Morocco.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "モロッコで行方不明の米兵の遺体を発見、身元特定",
+      "summary": "モロッコでの多国籍軍事演習中に行方不明となっていた米兵の遺体が発見され、身元が特定された。もう一人の捜索が続いている。"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ec1ea5e8e3d8a565f6764c8038d7e83a",
+      "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+      "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
+      "published_at": "2026-05-09T13:00:57.000Z",
+      "description": "Africa is leading a change in news consumption habits  – and transforming the lives of current affairs enthusiasts\nLast year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days.\nThis breakout video enabled Jaxa to pivot from being a marketing and restaurant entrepreneur to a “professional yapper and current affairs enthusiast”, part of a group of content creators explaining the news to young South Africans who, like many of their global peers, are eschewing traditional news in favour of social media.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "「私たちを見るのはいとこを見るようなもの」：アフリカのニュースエコシステムを再構築するオンラインクリエイターたち",
+      "summary": "アフリカ、特に南アフリカでオンラインクリエイターがニュース消費習慣を再構築。若者はソーシャルメディアを通じて時事問題に触れ、伝統的ニュースから離れる傾向にある。"
+    }
+  },
+  "BS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2a4dacd317603849f493495dd65721a3",
+      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+      "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
+      "published_at": "2026-05-12T09:00:43.000Z",
+      "description": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters\nVoters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates such as the former basketball champion Rick Fox.\nVoters in the Caribbean archipelago are divided over concerns about immigration, especially from neighbouring Haiti, and the rising cost of living, with significant spikes in gas prices caused by war in the Middle East.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "バハマで総選挙、移民問題が主要争点となる三つ巴の戦い",
+      "summary": "バハマで総選挙が行われ、移民問題と生活費の高騰が主要な争点となっている。過去最高の有権者数が見込まれる中で、激戦が予想される。"
+    }
+  },
+  "MX": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "586b2603b2a37de451e889b46e3dfa37",
+      "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
+      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
+      "published_at": "2026-05-11T18:15:20.000Z",
+      "description": "Violence in Guerrero state has driven as many as 1,000 households from their homes, rights group says\nHundreds of Indigenous families have been forced to flee their homes in the mountains of central Mexico by intense attacks from a local criminal group, including drone bombings, an Indigenous rights organisation said on Monday.\nA gang known as Los Ardillos has been carrying out attacks in Guerrero state for years, but they started to intensify last week. Villages were subjected to eight hours of bombings on Saturday, the National Indigenous Congress said, forcing between 800 to 1,000 families to flee to other towns.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "メキシコで麻薬組織の襲撃により「数百の先住民族家族が避難を強いられる」",
+      "summary": "メキシコ中部ゲレロ州で麻薬組織「ロス・アルディージョス」による激しい攻撃が激化。ドローン爆撃などにより、数百の先住民族家族が家を追われ避難している。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d78122cb6dfb6e8813339619def76fb6",
+      "title": "Sharp drop in ‘forever chemicals’ in seabird eggs hailed as win for regulation",
+      "url": "https://www.theguardian.com/environment/2026/may/11/pfas-seabird-eggs-forever-chemicals",
+      "published_at": "2026-05-11T12:00:54.000Z",
+      "description": "Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of study\nLevels of some of the most dangerous Pfas compounds have dramatically fallen in Canadian seabird eggs, which the authors of a new peer-reviewed study say illustrates how regulations are effective.\nResearchers looked at Pfas levels in the eggs of northern gannets in the St Lawrence Seaway basin over a 55-year period. Pfas levels shot up from the 1960s through the peak of the chemicals’ use in the late 1990s and early aughts, then fell.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "カナダの海鳥の卵から「永遠の化学物質」が大幅減少、規制の勝利と評価",
+      "summary": "カナダの海鳥の卵から検出されたPFAS（永遠の化学物質）レベルが55年間で最大74%減少。規制の有効性を示す勝利として評価されている。"
+    }
+  },
+  "TR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2429d1229044a473382d4ba809df3c76",
+      "title": "Religious restrictions: Nearly renovated Theological School of Halki faces fight to reopen",
+      "url": "http://www.euronews.com/culture/2026/05/12/religious-restrictions-nearly-renovated-theological-school-of-halki-faces-fight-to-reopen",
+      "published_at": "2026-05-12T11:37:14.000Z",
+      "description": "The Ecumenical Patriarchate has announced that the school's renovation works will be completed in September but it is still awaiting permission from Turkey to reopen the facility after its forced closure in 1971.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "TR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "宗教的制限：ほぼ改修が完了したハルキ神学校、再開へ向けた闘いに直面",
+      "summary": "改修工事が9月に完了するハルキ神学校は、1971年の閉鎖以来、トルコからの再開許可を待ち続けている。再開に向けた動きが活発化している。"
+    }
+  },
+  "PK": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ff25266408a41f736fe0a5b692f4d275",
+      "title": "Over 370 Afghans killed in Pakistan conflict in first 3 months of 2026: UN",
+      "url": "https://www.aljazeera.com/news/2026/5/12/over-370-afghans-killed-in-pakistan-conflict-in-first-3-months-of-2026-un?traffic_source=rss",
+      "published_at": "2026-05-12T10:48:16.000Z",
+      "description": "Fighting between the Taliban and Pakistani forces intensified in February, with many civilians killed in air raids.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PK",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "2026年最初の3ヶ月で370人以上のアフガニスタン人がパキスタンの紛争で死亡：国連",
+      "summary": "国連によると、2026年最初の3ヶ月間でパキスタンの紛争により370人以上のアフガニスタン人が死亡。タリバンとパキスタン軍の戦闘が激化し、空爆で多くの民間人が犠牲になった。"
+    }
+  },
+  "IE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "51c58d70ce6a8b759974c129cb5efc3b",
+      "title": "Ireland hopes new Budapest government will facilitate Ukraine's EU membership ",
+      "url": "http://www.euronews.com/my-europe/2026/05/12/ireland-hopes-new-budapest-government-will-facilitate-ukraines-eu-membership",
+      "published_at": "2026-05-12T10:00:52.000Z",
+      "description": "Ireland's Minister of State for European Affairs and Defence Thomas Byrne said the European Union must continue increasing pressure on Russia through sanctions, military support and diplomatic efforts.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "アイルランド、ブダペスト新政府がウクライナのEU加盟を促進することに期待",
+      "summary": "アイルランドは、ブダペストの新政府がウクライナのEU加盟を円滑に進めることを期待している。EUはロシアへの圧力を維持すべきとアイルランド大臣は述べた。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2acd47cc932708cb4400928059f38227",
+      "title": "The crisis is Sudan is much worse than what is acknowledged",
+      "url": "https://www.aljazeera.com/opinions/2026/5/12/the-crisis-is-sudan-is-much-worse-than-what-is-acknowledged?traffic_source=rss",
+      "published_at": "2026-05-12T10:54:27.000Z",
+      "description": "Even in Khartoum, where there is no longer fighting, the humanitarian situation is dire.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "スーダン危機、認識されている以上に深刻",
+      "summary": "戦闘がないハルツームでさえ人道状況は悲惨で、スーダンの危機は公式に認められているよりもはるかに深刻化している。"
+    }
+  },
+  "AR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bd43be51a82ae7ed5d37dbaef6a965c9",
+      "title": "Will Messi play? Argentina answer fan queries in 55-man World Cup squad",
+      "url": "https://www.aljazeera.com/sports/2026/5/12/will-messi-play-argentina-answer-fan-queries-in-55-man-world-cup-squad?traffic_source=rss",
+      "published_at": "2026-05-12T10:07:44.000Z",
+      "description": "Argentina captain is named in the preliminary squad for the FIFA World Cup 2026 but has not confirmed his participation.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "メッシは出場するか？アルゼンチン、W杯55人招集メンバーでファンの疑問に答える",
+      "summary": "FIFAワールドカップ2026の予備登録メンバーにアルゼンチン代表キャプテンのメッシが選出されたが、本人の出場は未確認。ファンからの出場可否の問い合わせにアルゼンチン代表が答えた。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ec157d214e1037b5583c59481217a2b4",
+      "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+      "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-10T19:56:45.000Z",
+      "description": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "父親が埋葬されたばかり。その後、ヨルダン川西岸の入植者が遺体を掘り起こさせた",
+      "summary": "ヨルダン川西岸で、パレスチナ人男性が父親を埋葬した直後、入植者たちに遺体を掘り起こすよう強制された。国連人権事務所が非難。"
+    }
+  },
+  "JO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "24c28e03232690e3c11ecdd497403ac9",
+      "title": "Social media becomes a ‘goldmine’ for fraudsters in Jordan",
+      "url": "https://www.aljazeera.com/economy/2026/5/12/social-media-becomes-a-goldmine-for-fraudsters-in-jordan?traffic_source=rss",
+      "published_at": "2026-05-12T09:44:41.000Z",
+      "description": "Jordanians looking for a bargain are being scammed with false promises of cheap gold in a growing trend of online fraud.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "JO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ヨルダンでSNSが詐欺師の「金鉱」に",
+      "summary": "ヨルダンでは、ソーシャルメディアが詐欺師にとって「金鉱」となり、安価な金の虚偽の約束でジョーダン人が詐欺の被害に遭うオンライン詐欺の傾向が拡大している。"
+    }
+  },
+  "IQ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5dc699a3b38c7cd9a1f7f46713b46e2b",
+      "title": "BBC unmasks key people smuggler in network behind most small boat crossings",
+      "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-12T11:01:34.000Z",
+      "description": "The 28-year-old Iraqi Kurd has evaded arrest by operating under the alias “Kardo Ranya”.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "BBCが小型ボートによる密航の背後にいる主要な人身売買業者を特定",
+      "summary": "BBCは、小型ボートによる多数の密航に関与したイラク系クルド人の主要な人身売買業者「カルド・ラニア」の正体を暴いた。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6f3822c39e5d34e256df79d368f616ff",
+      "title": "Israel deports two activists detained on board Gaza flotilla",
+      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-10T11:55:09.000Z",
+      "description": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "イスラエル、ガザ支援船で拘束した活動家2人を国外追放",
+      "summary": "イスラエルは、ガザに向かう支援船で拘束されたスペイン国籍とブラジル国籍の活動家2人を国外追放した。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9ce28b4ae223bd54425937d05f3ca2be",
+      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-11T16:30:04.000Z",
+      "description": "A fishermen's leader tells the BBC that 40 people are feared dead  - either in the strikes or drowning as they tried to flee.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "チャド空爆後、ナイジェリア人漁師数十人がボコ・ハラムによって死亡と懸念",
+      "summary": "チャドがボコ・ハラムに対し空爆を行い、ナイジェリア人漁師40人が死亡したと懸念されている。逃亡中に溺死した可能性もある。"
+    }
+  },
+  "KE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "37c9f8a9a979f40461d13be4ec781f41",
+      "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+      "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-03T06:57:44.000Z",
+      "description": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ケニア、政治的暴力の懸念高まる中、「ごろつきと銃」阻止に奮闘",
+      "summary": "ケニアでは100以上のギャングが活動し、政治的暴徒の使用が増加しており、選挙関連の暴力への懸念が高まっている。"
+    }
+  },
+  "ET": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "996b7513dd6e995aa3d342038ab77aaa",
+      "title": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her death?",
+      "url": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death",
+      "published_at": "2026-05-05T01:00:21.000Z",
+      "description": "An Ethiopian creator who built her audience in Afan Oromo died by suicide on April 29. Her farewell post and video remain on Facebook today. Platforms missed every signal",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "エチオピアのTikTokが人気クリエイターの死を悼む。TikTokとMetaは彼女の死に加担したか？",
+      "summary": "エチオピアの人気TikTokクリエイターが自殺で亡くなり、彼女の最後の投稿がプラットフォーム上に残っていることから、TikTokとMetaの責任が問われています。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "57c1782ca62c29fc493aeac2aeadb750",
+      "title": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
+      "url": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-02T04:02:24.000Z",
+      "description": "Oral history traces a family's roots to a tree planted in the 13th Century in a Ghanaian fishing town.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "「この木は数百年前、私の祖先が植え、家族がここに定住した」",
+      "summary": "ガーナの漁村で、ある家族のルーツが13世紀に植えられた一本の木にまで遡るという口承歴史が伝えられている。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7ff50efe44db29cefdec58baca5c8f85",
+      "title": "Buea, Cameroon is facing recurring floods despite a lack of rain",
+      "url": "https://globalvoices.org/2026/05/07/buea-cameroon-is-facing-recurring-floods-despite-the-lack-of-rain",
+      "published_at": "2026-05-07T16:00:34.000Z",
+      "description": "Experts say lahars happen because loose material on the slopes of an inactive but still changing volcano is washed down after prolonged dryness.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 65,
+      "titleJa": "カメルーンのブエアでは雨不足にもかかわらず洪水が頻発している",
+      "summary": "カメルーンのブエアでは、雨が少ないにもかかわらず洪水が繰り返されており、火山斜面の緩い物質が長期間の乾燥後に洗い流されることが原因と指摘されています。"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "859da1fe4ad3a649fc754d84335620f0",
+      "title": "No summer border delays for Brits, Greek tourism minister says",
+      "url": "https://www.bbc.com/news/articles/cn5pxyr9xr7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-10T23:33:43.000Z",
+      "description": "Olga Kefalogianni says the Greek government doesn't want visitors to be \"burdened\" by biometric checks.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "英国人観光客の夏の国境遅延なし、ギリシャ観光大臣が発言",
+      "summary": "ギリシャの観光大臣は、英国人観光客に対し夏の国境での遅延はないと述べ、生体認証チェックによる負担を軽減したい意向を示した。"
+    }
+  },
+  "CW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9491c7bcb302ed0e22c9fb811ed73934",
+      "title": "Advocaat open to return as Curacao boss resigns",
+      "url": "https://www.bbc.com/sport/football/articles/c4g82zl84z2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-11T18:00:18.000Z",
+      "description": "Dick Advocaat could make a surprise return as head coach of the Curacao national team after his successor Fred Rutten resigned from the role just a month out from their World Cup debut.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "CW",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 40,
+      "titleJa": "アドフォカート氏、キュラソー代表監督辞任で復帰に前向き",
+      "summary": "フレデリック・ルッテン氏の辞任を受け、ディック・アドフォカート氏がキュラソー代表チームの監督に復帰する可能性が浮上している。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9d7b940366e55586eee01875008565db",
+      "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+      "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-09T17:25:53.000Z",
+      "description": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power internationally.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "スティーブ・ローゼンバーグ：今年のモスクワ戦勝記念日パレードは非常に異なっていた",
+      "summary": "ロシアの戦勝記念日パレードが例年とは異なり、軍事装備の展示が少ない控えめなものになったと報じられている。"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4d85ed71031a6b58dde9e21bdb28f65c",
+      "title": "Brazil opens investigation on Google over its AI’s impact on the journalism industry",
+      "url": "https://globalvoices.org/2026/05/11/brazil-opens-investigation-on-google-over-its-ais-impact-on-the-journalism-industry",
+      "published_at": "2026-05-11T14:30:00.000Z",
+      "description": "Commissioner Diogo Thomson considered that the insertion of generative AI has “significantly altered the dynamics of access, visibility, and monetization of journalistic content in the digital environment.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ブラジル、GoogleのAIがジャーナリズム業界に与える影響について調査を開始",
+      "summary": "ブラジル政府が、Googleの生成AIがジャーナリズム業界におけるコンテンツへのアクセス、可視性、収益化のダイナミクスを大きく変えたとして調査を開始した。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e706fbe268aa89c774a1455c59bf0101",
+      "title": "The ordeal of an undocumented Haitian migrant in the Dominican Republic",
+      "url": "https://globalvoices.org/2026/05/07/the-ordeal-of-an-undocumented-haitian-migrant-in-the-dominican-republic",
+      "published_at": "2026-05-07T08:00:25.000Z",
+      "description": "Regaining hope and confidence rests on finding a pathway to a country where he can regain his freedom and dignity, since persistent gang violence makes a return to Haiti impossible.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ドミニカ共和国におけるハイチの不法移民の苦難",
+      "summary": "ギャングの暴力によりハイチへの帰国が不可能なため、ドミニカ共和国にいる不法移民のハイチ人が自由と尊厳を取り戻せる国を探している。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dc3f6c2e8803735acbeaa6a64887045a",
+      "title": "AI hype narrative reaches the public healthcare system in El Salvador",
+      "url": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador",
+      "published_at": "2026-04-28T06:01:51.000Z",
+      "description": "This time we take you to El Salvador, examining government claims that an AI-supported transformation of the public healthcare system will make it the most advanced in the world.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "エルサルバドル、AI誇大広告が公共医療システムに到達",
+      "summary": "エルサルバドル政府がAIによる公共医療システムの変革を主張しており、世界で最も進んだ医療システムになると宣伝されている。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e66498671efdfbd766ddd3203915f155",
+      "title": "The technological transformation of Colombia's armed conflict",
+      "url": "https://globalvoices.org/2026/04/25/the-technological-transformation-of-colombias-armed-conflict",
+      "published_at": "2026-04-25T06:00:57.000Z",
+      "description": "More than simply a uniform adoption of artificial intelligence, a technological innovation has emerged that is transforming the battlefield, decision-making processes, local narratives, and forms of social control.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "コロンビアの武力紛争における技術的変革",
+      "summary": "コロンビアの武力紛争において、AIを含む技術革新が戦場、意思決定プロセス、地域社会の物語、社会統制の形態を変革している。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e21d860fd79013b1afeafd68f45babc3",
+      "title": "Indigenous Australians win record A$150m after billionaire mined without permission",
+      "url": "https://www.bbc.com/news/articles/cgkp3z1p7zdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-12T09:07:54.000Z",
+      "description": "The Yindjibarndi people had sought A$1.8bn compensation for cultural damage and economic loss.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "オーストラリア先住民、無許可採掘の億万長者から過去最高額の1億5000万豪ドルを獲得",
+      "summary": "先住民Yindjibarndiの人々が、文化的な損害と経済的損失に対し、無許可採掘を行った億万長者から記録的な1億5000万豪ドルの賠償金を獲得した。"
+    }
+  },
+  "ID": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b7cd07f40c69a925b78375689e256ab0",
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-08T11:54:14.000Z",
+      "description": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "インドネシアの島で火山が噴火し、3人が死亡",
+      "summary": "インドネシアの島で火山が噴火し、3人が死亡した。当局は以前から活動中の火山への登山に警告を出していた。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b8a693fe36b655f93db29e73a5f0c69d",
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-11T09:28:53.000Z",
+      "description": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "フィリピンのサラ・ドゥテルテ副大統領、2度目の弾劾訴追",
+      "summary": "フィリピンのサラ・ドゥテルテ副大統領が2度目の弾劾訴追を受けた。上院での有罪判決となれば、大統領選への出馬資格を失う。"
+    }
+  },
+  "LK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0dac57be9bd906ba6d1a2b8c3a6d1a9b",
+      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+      "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-10T03:09:45.000Z",
+      "description": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "LK",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "スリランカで仏教僧が10代少女への性的暴行容疑で逮捕",
+      "summary": "スリランカで、仏教界で最も尊敬される地位の一つにある僧侶が、10代少女への性的暴行容疑で逮捕された。"
+    }
+  },
+  "BZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a7b350ec82e639389edab28960a2af56",
+      "title": "Trade Policy Review: Belize",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_blz_04may26_e.htm",
+      "published_at": "2026-05-04T00:00:00.000Z",
+      "description": "The fourth review of the trade policies and practices of Belize takes place on 4 and 6 May 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Belize.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "BZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "貿易政策審査：ベリーズ",
+      "summary": "WTOがベリーズの貿易政策と慣行に関する第4回審査を2026年5月に実施。WTO事務局とベリーズ政府の報告書が基盤となる。"
+    }
+  }
+}
