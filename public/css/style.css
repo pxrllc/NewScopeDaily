@@ -873,3 +873,76 @@ body {
     margin-top: 0;
     font-size: 0.85rem;
 }
+
+/* Feed Subscription Controls */
+.feed-control {
+    position: relative;
+}
+
+.feed-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 5px;
+    background: #1f2937;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 0.5rem;
+    width: 170px;
+    z-index: 200;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.feed-dropdown.hidden {
+    display: none;
+}
+
+.feed-link-item {
+    display: flex;
+    align-items: center;
+    padding: 0.4rem;
+    color: var(--text-secondary);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.2s, color 0.2s;
+    font-size: 0.85rem;
+}
+
+.feed-link-item:hover {
+    background: #2d3748;
+    color: #fff;
+}
+
+.feed-badge {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-right: 8px;
+    text-transform: uppercase;
+    display: inline-block;
+    min-width: 42px;
+    text-align: center;
+}
+
+.feed-badge.rss {
+    background-color: rgba(242, 101, 34, 0.15);
+    color: #f26522;
+    border: 1px solid rgba(242, 101, 34, 0.3);
+}
+
+.feed-badge.atom {
+    background-color: rgba(45, 137, 239, 0.15);
+    color: #2d89ef;
+    border: 1px solid rgba(45, 137, 239, 0.3);
+}
+
+.feed-badge.json {
+    background-color: rgba(144, 19, 254, 0.15);
+    color: #b050ff;
+    border: 1px solid rgba(144, 19, 254, 0.3);
+}

@@ -1,0 +1,974 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NewsScope Daily",
+    "home_page_url": "https://pxrllc.github.io/NewScopeDaily/",
+    "feed_url": "https://pxrllc.github.io/NewScopeDaily/feed.json",
+    "description": "世界各地のニュースソースから情報を自動収集し、AIで要約・分類した日本語ニュースフィード",
+    "icon": "https://pxrllc.github.io/NewScopeDaily/favicon.png",
+    "author": {
+        "name": "NewsScope Daily",
+        "url": "https://pxrllc.github.io/NewScopeDaily/"
+    },
+    "items": [
+        {
+            "id": "2295d7a75be5436137cf77f829bd77e6",
+            "content_html": "\n                <p>フランスの裁判所は、228人が死亡した2009年の航空機墜落事故について、エールフランスとエアバスに過失致死罪の有罪判決を下した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> FR<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+            "title": "エールフランスとエアバス、2009年飛行機墜落事故で過失致死罪に問われる",
+            "summary": "フランスの裁判所は、228人が死亡した2009年の航空機墜落事故について、エールフランスとエアバスに過失致死罪の有罪判決を下した。",
+            "date_modified": "2026-05-21T12:31:04.000Z"
+        },
+        {
+            "id": "a00d983ee2a4c8b889fb7af4d2e36764",
+            "content_html": "\n                <p>保健機関の報告によると、検査と予防の不足により、欧州で淋病と梅毒の感染者数が記録的な水準に急増している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> EU<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss",
+            "title": "欧州で淋病と梅毒が過去最高水準に達する",
+            "summary": "保健機関の報告によると、検査と予防の不足により、欧州で淋病と梅毒の感染者数が記録的な水準に急増している。",
+            "date_modified": "2026-05-21T12:19:15.000Z"
+        },
+        {
+            "id": "bbcb6857d743ef6a82810d7603886cdd",
+            "content_html": "\n                <p>マリのイスラム過激派が封鎖を実施し、数十台の車両が焼かれた。マリは内陸国で、隣国からの燃料輸送に大きく依存している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> ML<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss",
+            "title": "マリの聖戦士が封鎖を強化し、数十台の車両が焼かれる",
+            "summary": "マリのイスラム過激派が封鎖を実施し、数十台の車両が焼かれた。マリは内陸国で、隣国からの燃料輸送に大きく依存している。",
+            "date_modified": "2026-05-21T12:10:21.000Z"
+        },
+        {
+            "id": "7fe255d287ebe3175db1906ede67a9bc",
+            "content_html": "\n                <p>パリの控訴裁判所は、2009年のエールフランス447便墜落事故における過失致死罪でエアバスとエールフランスに有罪判決を下した。この事故では乗員乗客全員が死亡した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> FR<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-top-1022-rdf",
+            "title": "フランスの裁判所、2009年墜落事故でエアバスとエールフランスを有罪と判断",
+            "summary": "パリの控訴裁判所は、2009年のエールフランス447便墜落事故における過失致死罪でエアバスとエールフランスに有罪判決を下した。この事故では乗員乗客全員が死亡した。",
+            "date_modified": "2026-05-21T12:06:00.000Z"
+        },
+        {
+            "id": "a614a4e08cf49696521d7c46e1f84e31",
+            "content_html": "\n                <p>パレスチナの姉妹が、爆撃されたガザの自宅の瓦礫を再利用可能なレンガに変え、「アースプライズ」を受賞。創造的な環境活動として注目されている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> PS<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/gaza-sisters-win-earth-prize-for-turning-war-rubble-into-bricks?traffic_source=rss",
+            "title": "ガザの姉妹、戦争の瓦礫をレンガに変え地球賞を受賞",
+            "summary": "パレスチナの姉妹が、爆撃されたガザの自宅の瓦礫を再利用可能なレンガに変え、「アースプライズ」を受賞。創造的な環境活動として注目されている。",
+            "date_modified": "2026-05-21T12:05:03.000Z"
+        },
+        {
+            "id": "0aa0b5110dd717779b89b5ec6db6529b",
+            "content_html": "\n                <p>DRコンゴでのエボラ出血熱の発生は稀な株によるもので、紛争の影響を受けている地域で起きているため、封じ込めが非常に困難となっている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 88\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+            "title": "エボラとは何か、そして最新の発生を止めるのがなぜこれほど難しいのか？",
+            "summary": "DRコンゴでのエボラ出血熱の発生は稀な株によるもので、紛争の影響を受けている地域で起きているため、封じ込めが非常に困難となっている。",
+            "date_modified": "2026-05-21T12:02:43.000Z"
+        },
+        {
+            "id": "f1a260a8da375d98a8bf2428250e6668",
+            "content_html": "\n                <p>ドイツのフリードリヒ・メルツ首相は、ウクライナに議決権のない暫定的なEU加盟を提案した。最終的には「完全な加盟国」となることを望んでいると強調した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> DE<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.dw.com/en/germany-s-merz-pitches-associate-eu-membership-for-ukraine/a-77236052?maca=en-rss-en-top-1022-rdf",
+            "title": "ドイツのメルツ氏、ウクライナの「準」EU加盟を提案",
+            "summary": "ドイツのフリードリヒ・メルツ首相は、ウクライナに議決権のない暫定的なEU加盟を提案した。最終的には「完全な加盟国」となることを望んでいると強調した。",
+            "date_modified": "2026-05-21T11:39:00.000Z"
+        },
+        {
+            "id": "c4dd0e114614c611e64fc962a60e6b3f",
+            "content_html": "\n                <p>イスラエル国家安全保障大臣のベングビール氏が、逮捕された活動家をからかう動画を公開し、非難が殺到している。政治的な波紋を広げている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> IL<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/news/2026/5/21/outrage-over-israels-ben-gvir-flotilla-abuse-video-what-we-know?traffic_source=rss",
+            "title": "イスラエルのベングビール大臣の船団虐待動画を巡る怒り：何が判明したか",
+            "summary": "イスラエル国家安全保障大臣のベングビール氏が、逮捕された活動家をからかう動画を公開し、非難が殺到している。政治的な波紋を広げている。",
+            "date_modified": "2026-05-21T11:28:39.000Z"
+        },
+        {
+            "id": "0c41340990b8a6c0fdde3a7bab9b52c6",
+            "content_html": "\n                <p>キューバ元指導者が起訴されたことを受け、中国は米国に対し、キューバへの「脅迫」をやめるよう求めた。これは米国がキューバ政権に圧力をかける最新の動きに続くもの。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+            "title": "中国、キューバ元指導者起訴を受け米国に「脅迫」停止を要求",
+            "summary": "キューバ元指導者が起訴されたことを受け、中国は米国に対し、キューバへの「脅迫」をやめるよう求めた。これは米国がキューバ政権に圧力をかける最新の動きに続くもの。",
+            "date_modified": "2026-05-21T11:22:18.000Z"
+        },
+        {
+            "id": "e1beaa63608a4e2a5bcaa3c830779af7",
+            "content_html": "\n                <p>国際サッカーから引退して2年、マヌエル・ノイアー選手がドイツの2026年ワールドカップ代表チームに復帰した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> DE<br/>\n                    <strong>カテゴリ:</strong> スポーツ<br/>\n                    <strong>重要度スコア:</strong> 50\n                </p>\n            ",
+            "url": "https://www.dw.com/en/germany-2026-world-cup-squad-announcement-neuer-returns/a-77212854?maca=en-rss-en-top-1022-rdf",
+            "title": "ドイツの2026年ワールドカップ代表メンバー発表：ノイアーが復帰",
+            "summary": "国際サッカーから引退して2年、マヌエル・ノイアー選手がドイツの2026年ワールドカップ代表チームに復帰した。",
+            "date_modified": "2026-05-21T11:19:00.000Z"
+        },
+        {
+            "id": "ab144c8d7f9a47078ba41b7f591ad1a8",
+            "content_html": "\n                <p>ゴキブリにちなんだ風刺団体がインドで短期間に数百万人のフォロワーを獲得し、新たな政治現象となっている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> IN<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cz72y11jjq1o?at_medium=RSS&at_campaign=rss",
+            "title": "インドに新たな政治のスーパースターが誕生 - ゴキブリ",
+            "summary": "ゴキブリにちなんだ風刺団体がインドで短期間に数百万人のフォロワーを獲得し、新たな政治現象となっている。",
+            "date_modified": "2026-05-21T11:12:53.000Z"
+        },
+        {
+            "id": "c87a18393a3361a5cba51bb239d34c0b",
+            "content_html": "\n                <p>チップ大手NVIDIAは素晴らしい業績を報告したが、競争激化の中で成長ペースを維持できるかという投資家の懸念から、株価は時間外取引で下落した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> US<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
+            "title": "NVIDIAの最新の記録的業績、投資家の心をつかめず",
+            "summary": "チップ大手NVIDIAは素晴らしい業績を報告したが、競争激化の中で成長ペースを維持できるかという投資家の懸念から、株価は時間外取引で下落した。",
+            "date_modified": "2026-05-21T11:05:18.000Z"
+        },
+        {
+            "id": "da05654a7ed0896198ae23f4d1305738",
+            "content_html": "\n                <p>イージージェットは燃料問題がないと述べたが、イラン戦争の不確実性により予約が遅れていると指摘。夏の運航への影響はない見込み。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 50\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+            "title": "イージージェット最高経営責任者、夏のフライトはジェット燃料不足の影響を受けないと語る",
+            "summary": "イージージェットは燃料問題がないと述べたが、イラン戦争の不確実性により予約が遅れていると指摘。夏の運航への影響はない見込み。",
+            "date_modified": "2026-05-21T11:03:00.000Z"
+        },
+        {
+            "id": "e879385229573af70f002914b9818eeb",
+            "content_html": "\n                <p>カナダが、��ザ紛争のイスラエル批判者に国境で尋問、ビザ取り消し、入国拒否を行っているとの批判が高まっている。政治的自由への懸念が浮上。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> CA<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/opinions/2026/5/21/canada-is-using-its-borders-to-police-palestine-solidarity?traffic_source=rss",
+            "title": "カナダ、国境を利用してパレスチナ連帯を監視",
+            "summary": "カナダが、��ザ紛争のイスラエル批判者に国境で尋問、ビザ取り消し、入国拒否を行っているとの批判が高まっている。政治的自由への懸念が浮上。",
+            "date_modified": "2026-05-21T11:02:41.000Z"
+        },
+        {
+            "id": "a9174cb327912c7f1d83a22cdc3239fb",
+            "content_html": "\n                <p>ウクライナの監視団体によると、十数社の中国企業がロシア占領下のドネツクとルハンシクで事業を展開し、利益を得ている。紛争地帯の経済活動が注目される。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> UA<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/news/2026/5/21/how-chinese-iranian-companies-profit-in-russia-occupied-ukrainian-regions?traffic_source=rss",
+            "title": "中国、イラン企業がロシア占領下のウクライナ地域でいかに利益を得ているか",
+            "summary": "ウクライナの監視団体によると、十数社の中国企業がロシア占領下のドネツクとルハンシクで事業を展開し、利益を得ている。紛争地帯の経済活動が注目される。",
+            "date_modified": "2026-05-21T10:52:18.000Z"
+        },
+        {
+            "id": "3509bc04cacd8346387d422df880e806",
+            "content_html": "\n                <p>気候変動活動の世界的リーダーであるコロンビアは、大統領選を控え岐路に立つ。米国の影響により、鉱業やフラッキングの未来へ向かう可能性が懸念されている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> CO<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
+            "title": "コロンビアの気候変動の岐路：トランプ主義が大統領選に影を落とす",
+            "summary": "気候変動活動の世界的リーダーであるコロンビアは、大統領選を控え岐路に立つ。米国の影響により、鉱業やフラッキングの未来へ向かう可能性が懸念されている。",
+            "date_modified": "2026-05-21T10:41:10.000Z"
+        },
+        {
+            "id": "9b6f59071b326addd1141c391a0be176",
+            "content_html": "\n                <p>コンゴ民主共和国は、139人の死者を出したとされる珍しいエボラ出血熱の発生を受け、ワールドカップのトレーニングキャンプを中止した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+            "title": "コンゴ民主共和国、エボラ出血熱発生でワールドカップ合宿を中止",
+            "summary": "コンゴ民主共和国は、139人の死者を出したとされる珍しいエボラ出血熱の発生を受け、ワールドカップのトレーニングキャンプを中止した。",
+            "date_modified": "2026-05-21T10:41:09.000Z"
+        },
+        {
+            "id": "526aa2854fcc04c624c4d7f94684ad77",
+            "content_html": "\n                <p>タイでは季節性のスモッグが深刻な公衆衛生問題となっており、長らく遅れていた法案が、大気汚染を未然に防ぐことを目指しているが、施行には課題がある。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> TH<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-top-1022-rdf",
+            "title": "タイ、有害なスモッグを解消するための法案を再始動",
+            "summary": "タイでは季節性のスモッグが深刻な公衆衛生問題となっており、長らく遅れていた法案が、大気汚染を未然に防ぐことを目指しているが、施行には課題がある。",
+            "date_modified": "2026-05-21T10:34:00.000Z"
+        },
+        {
+            "id": "ccbcf5cb6ef3d4a51fa0bdbeb6caeb58",
+            "content_html": "\n                <p>フィリピンの司法長官は、国際刑事裁判所（ICC）が指名手配するロナルド・デラ・ローサ上院議員の逮捕を命じた。逃亡支援者には厳罰が科される見込み。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> PH<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/news/2026/5/21/philippines-orders-arrest-of-fugitive-senator-wanted-by-icc?traffic_source=rss",
+            "title": "フィリピン、ICCが指名手配中の逃亡上院議員の逮捕を命令",
+            "summary": "フィリピンの司法長官は、国際刑事裁判所（ICC）が指名手配するロナルド・デラ・ローサ上院議員の逮捕を命じた。逃亡支援者には厳罰が科される見込み。",
+            "date_modified": "2026-05-21T10:16:26.000Z"
+        },
+        {
+            "id": "2bf5c3376ca528c225816e311cd0c78f",
+            "content_html": "\n                <p>米国のキューバ軍事作戦が差し迫っている可能性が指摘される中、アナリストはハバナが無防備ではないと主張。キューバの防衛戦略に焦点が当てられている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> CU<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/features/2026/5/21/homeland-or-death-how-cuba-would-defend-itself-against-a-us-attack?traffic_source=rss",
+            "title": "「祖国か死か」：キューバはいかにして米国の攻撃から身を守るのか",
+            "summary": "米国のキューバ軍事作戦が差し迫っている可能性が指摘される中、アナリストはハバナが無防備ではないと主張。キューバの防衛戦略に焦点が当てられている。",
+            "date_modified": "2026-05-21T10:04:32.000Z"
+        },
+        {
+            "id": "eb8ba0bc5de27cd9ca81c48bd7f2899e",
+            "content_html": "\n                <p>2026年ワールドカップ代表から外れたイランのフォワード、サルダール・アズムンが、チームへの応援と祖国への愛を表明した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> IR<br/>\n                    <strong>カテゴリ:</strong> スポーツ<br/>\n                    <strong>重要度スコア:</strong> 40\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/sports/2026/5/21/dropped-sardar-azmoun-asserts-his-love-for-iran-backs-world-cup-squad?traffic_source=rss",
+            "title": "落選したサルダール・アズムン、イランへの愛を表明しW杯代表を支持",
+            "summary": "2026年ワールドカップ代表から外れたイランのフォワード、サルダール・アズムンが、チームへの応援と祖国への愛を表明した。",
+            "date_modified": "2026-05-21T10:03:57.000Z"
+        },
+        {
+            "id": "3efcd2a1805c801f1e25ce9038a6afbd",
+            "content_html": "\n                <p>専門家らは、米国の公衆衛生予算削減により、コンゴ民主共和国で広がるエボラ出血熱の流行に対し米国が十分な対応をしていないと指摘。特に希少な変異株に対する国際協力の欠如を批判している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
+            "title": "米国、公衆衛生予算の大幅削減後、エボラ流行を「単純に止めないことを選択」していると専門家",
+            "summary": "専門家らは、米国の公衆衛生予算削減により、コンゴ民主共和国で広がるエボラ出血熱の流行に対し米国が十分な対応をしていないと指摘。特に希少な変異株に対する国際協力の欠如を批判している。",
+            "date_modified": "2026-05-21T10:00:08.000Z"
+        },
+        {
+            "id": "018f23fa009a6c9d94d73f62d7aa9623",
+            "content_html": "\n                <p>ドナルド・トランプ氏が台湾総統と米国製兵器購入につ���て協議すると発言。これは40年以上の外交慣例を破り、中国を激怒させる可能性のある動きだ。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> TW<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 90\n                </p>\n            ",
+            "url": "https://www.dw.com/en/taiwan-trump-prods-china-with-offer-of-direct-taipei-talks/a-77238712?maca=en-rss-en-top-1022-rdf",
+            "title": "台湾：トランプ氏、台北との直接会談を提案し中国をけん制",
+            "summary": "ドナルド・トランプ氏が台湾総統と米国製兵器購入につ���て協議すると発言。これは40年以上の外交慣例を破り、中国を激怒させる可能性のある動きだ。",
+            "date_modified": "2026-05-21T09:57:00.000Z"
+        },
+        {
+            "id": "ca98216214fb682860efb80370c67ae8",
+            "content_html": "\n                <p>米国とイランが、現在進行中の紛争を終結させるためにどのような選択肢が残されているのか、その可能性について議論されている。国際情勢の焦点となっている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 95\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
+            "title": "米国とイランが戦争を終結させるために残された選択肢とは？",
+            "summary": "米国とイランが、現在進行中の紛争を終結させるためにどのような選択肢が残されているのか、その可能性について議論されている。国際情勢の焦点となっている。",
+            "date_modified": "2026-05-21T09:54:51.000Z"
+        },
+        {
+            "id": "07ed71da60865f9ca331f645af0361b2",
+            "content_html": "\n                <p>再生可能エネルギーの急速な導入により排出量トレンドは変化しつつあるが、国連が各国のコミットメント強化を求める中、予想される気温上昇は依然として高い。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.dw.com/en/worst-case-climate-scenario-off-the-table-but-warming-is-not/a-77238401?maca=en-rss-en-top-1022-rdf",
+            "title": "最悪の気候シナリオは回避も、温暖化は進む",
+            "summary": "再生可能エネルギーの急速な導入により排出量トレンドは変化しつつあるが、国連が各国のコミットメント強化を求める中、予想される気温上昇は依然として高い。",
+            "date_modified": "2026-05-21T09:51:00.000Z"
+        },
+        {
+            "id": "2596b0c7ef59eb6d90f127f327d16255",
+            "content_html": "\n                <p>ガザの子どもたちからのメッセージと署名が書かれた凧が、登山家によってエベレストの頂上へと運ばれた。平和と希望を象徴する出来事として注目されている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> PS<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 55\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss",
+            "title": "パレスチナの子どもたちのメッセージを乗せた凧、エベレスト山頂に到達",
+            "summary": "ガザの子どもたちからのメッセージと署名が書かれた凧が、登山家によってエベレストの頂上へと運ばれた。平和と希望を象徴する出来事として注目されている。",
+            "date_modified": "2026-05-21T09:49:49.000Z"
+        },
+        {
+            "id": "6f7aa85802802120b1ebfc7206c1e947",
+            "content_html": "\n                <p>中国南部を襲った洪水により、多くの自動車が流され、橋が破壊されるなど甚大な被害が出ている。地元住民は避難を強いられている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Al Jazeera – All<br/>\n                    <strong>対象国:</strong> CN<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flooding-in-southern-china-washes-away-cars-and-destroys-bridge?traffic_source=rss",
+            "title": "中国南部で洪水が発生、自動車が流され橋が破壊",
+            "summary": "中国南部を襲った洪水により、多くの自動車が流され、橋が破壊されるなど甚大な被害が出ている。地元住民は避難を強いられている。",
+            "date_modified": "2026-05-21T09:36:53.000Z"
+        },
+        {
+            "id": "5ef29c62b34084e38cc375e0967ef5e5",
+            "content_html": "\n                <p>イヴ・サキラ氏（35歳）がダブリンの繁華街で死亡したとされる事件を受け、抗議者たちがアイルランド議会前でデモを行う準備を進めている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> IE<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 45\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cq6pv70e24no?at_medium=RSS&at_campaign=rss",
+            "title": "イヴ・サキラの「不穏な」死を巡り、抗議者がアイルランド議会に集結する準備",
+            "summary": "イヴ・サキラ氏（35歳）がダブリンの繁華街で死亡したとされる事件を受け、抗議者たちがアイルランド議会前でデモを行う準備を進めている。",
+            "date_modified": "2026-05-21T09:30:46.000Z"
+        },
+        {
+            "id": "3ef5e7ae671798750500ada421e0f785",
+            "content_html": "\n                <p>イランのメディアによると、パキスタン陸軍参謀長アジム・ムニール氏が和平仲介者としてイランを訪問する予定。テヘランは戦争終結に向けた米国の最新提案を検討中だ。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> IR<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.dw.com/en/iran-war-updates-pakistan-s-army-chief-to-visit-tehran/live-77237954?maca=en-rss-en-top-1022-rdf",
+            "title": "イラン戦争最新情報：パキスタン陸軍参謀長がテヘランを訪問へ",
+            "summary": "イランのメディアによると、パキスタン陸軍参謀長アジム・ムニール氏が和平仲介者としてイランを訪問する予定。テヘランは戦争終結に向けた米国の最新提案を検討中だ。",
+            "date_modified": "2026-05-21T09:11:00.000Z"
+        },
+        {
+            "id": "f7ba9efb2747ba9980551cd97f9f1082",
+            "content_html": "\n                <p>イスラエル極右大臣���イスラエルの港で拘束されたガザ支援船活動家を手錠をかけたまま嘲笑する動画に対し、フランスやイタリアなど複数国が非難を表明した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> IL<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+            "title": "イスラエル極右大臣、手錠をかけられたガザ支援船活動家を嘲笑し非難される",
+            "summary": "イスラエル極右大臣���イスラエルの港で拘束されたガザ支援船活動家を手錠をかけたまま嘲笑する動画に対し、フランスやイタリアなど複数国が非難を表明した。",
+            "date_modified": "2026-05-21T08:48:00.000Z"
+        },
+        {
+            "id": "4ea9e2241443e9eef938388a158051b0",
+            "content_html": "\n                <p>ドイツ政府が定年年齢の引き上げを検討しているとの報道が批判を浴びている。一方、メルツ首相はウクライナに特別地位を付与したい意向だ。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> DE<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.dw.com/en/germany-news-govt-reportedly-mulls-change-to-retirement-age/live-77237513?maca=en-rss-en-top-1022-rdf",
+            "title": "ドイツのニュース：政府が定年年齢の変更を検討との報道",
+            "summary": "ドイツ政府が定年年齢の引き上げを検討しているとの報道が批判を浴びている。一方、メルツ首相はウクライナに特別地位を付与したい意向だ。",
+            "date_modified": "2026-05-21T08:07:00.000Z"
+        },
+        {
+            "id": "3fba310f81dfd1aa03b4d4868e5c87aa",
+            "content_html": "\n                <p>ブラジルでは、過去10年間でトランスフォビアが誤情報の拡散の主要なツールとなり、多くの場合は政治家によって広められている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> BR<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/21/attacks-on-trans-identities-become-a-strategic-trump-for-political-success-in-brazil",
+            "title": "トランスジェンダーのアイデンティティへの攻撃がブラジルで戦略的政治ツールに",
+            "summary": "ブラジルでは、過去10年間でトランスフォビアが誤情報の拡散の主要なツールとなり、多くの場合は政治家によって広められている。",
+            "date_modified": "2026-05-21T08:00:45.000Z"
+        },
+        {
+            "id": "81cd7da7d3b50b56fe3eb1c8c90b013c",
+            "content_html": "\n                <p>トランプ氏が慣例を破り台湾総統と会談すると発言。米国が台湾への140億ドルの武器売却を検討する中で、中国が領有権を主張する台湾を巡る動き。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> TW<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
+            "title": "トランプ氏、慣例を破り台湾総統と会談すると表明",
+            "summary": "トランプ氏が慣例を破り台湾総統と会談すると発言。米国が台湾への140億ドルの武器売却を検討する中で、中国が領有権を主張する台湾を巡る動き。",
+            "date_modified": "2026-05-21T07:35:49.000Z"
+        },
+        {
+            "id": "88a28c6a3c97ac6042e871bc797c6943",
+            "content_html": "\n                <p>フィリピンは、数千人が死亡したドゥテルテ政権下の「麻薬戦争」で最高執行者だったロナルド・「バト」・デラ・ロサ上院議員の逮捕を命じた。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> PH<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.dw.com/en/philippines-orders-arrest-of-senator-over-icc-war-on-drugs-charges/a-77236603?maca=en-rss-en-top-1022-rdf",
+            "title": "フィリピン、ICC「麻薬戦争」疑惑で上院議員の逮捕を命じる",
+            "summary": "フィリピンは、数千人が死亡したドゥテルテ政権下の「麻薬戦争」で最高執行者だったロナルド・「バト」・デラ・ロサ上院議員の逮捕を命じた。",
+            "date_modified": "2026-05-21T06:56:00.000Z"
+        },
+        {
+            "id": "877155ea2fd2d82938aea4803ee2311f",
+            "content_html": "\n                <p>何百万も���インドの若者がインスタグラムの「ゴキブリ人民党」アカウントをフォローしており、現在の政治システムへの不満の高まりを象徴している。一方、デリーでは気温が46度に達している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> DW – Top Stories<br/>\n                    <strong>対象国:</strong> IN<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.dw.com/en/india-news-cockroaches-overtake-modi-s-bjp-on-instagram/live-77236328?maca=en-rss-en-top-1022-rdf",
+            "title": "インドのニュース：インスタグラムで「ゴキブリ」がモディ首相のBJPをしのぐ",
+            "summary": "何百万も���インドの若者がインスタグラムの「ゴキブリ人民党」アカウントをフォローしており、現在の政治システムへの不満の高まりを象徴している。一方、デリーでは気温が46度に達している。",
+            "date_modified": "2026-05-21T06:37:00.000Z"
+        },
+        {
+            "id": "fe6402abb729041628c4d4c6404e8034",
+            "content_html": "\n                <p>リバプール所属のフォワード、モハメド・サラーがエジプト代表のワールドカップ暫定メンバーに選出され、今月中に最終調整が行われる。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> EG<br/>\n                    <strong>カテゴリ:</strong> スポーツ<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.bbc.com/sport/football/articles/cpwpnjkjl94o?at_medium=RSS&at_campaign=rss",
+            "title": "サラー、ワールドカップでエジプト代表の主将に就任へ",
+            "summary": "リバプール所属のフォワード、モハメド・サラーがエジプト代表のワールドカップ暫定メンバーに選出され、今月中に最終調整が行われる。",
+            "date_modified": "2026-05-21T06:26:51.000Z"
+        },
+        {
+            "id": "8a187f4e4c08240ee1015b57d820a487",
+            "content_html": "\n                <p>ソーシャルメディア大手Xがオーストラリアの児童保護法に違反したとして、65万豪ドルと訴訟費用を支払うことで3年間の法廷闘争が終結した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> AU<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c626njg32n5o?at_medium=RSS&at_campaign=rss",
+            "title": "イーロン・マスク氏のX、オーストラリアの児童保護法違反で罰金",
+            "summary": "ソーシャルメディア大手Xがオーストラリアの児童保護法に違反したとして、65万豪ドルと訴訟費用を支払うことで3年間の法廷闘争が終結した。",
+            "date_modified": "2026-05-21T06:04:48.000Z"
+        },
+        {
+            "id": "d92c8953cc21390d23b89e526bf1e921",
+            "content_html": "\n                <p>メルボルン空港の国内線ターミナルで、不審物（レーザー脱毛器）発見により数時間閉鎖される騒ぎが発生した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> AU<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 40\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c9q3p50d14jo?at_medium=RSS&at_campaign=rss",
+            "title": "メルボルン空港でレーザー脱毛器が爆弾騒ぎを引き起こす",
+            "summary": "メルボルン空港の国内線ターミナルで、不審物（レーザー脱毛器）発見により数時間閉鎖される騒ぎが発生した。",
+            "date_modified": "2026-05-21T05:36:41.000Z"
+        },
+        {
+            "id": "99f4b3e4deb33a8c442793318bccd138",
+            "content_html": "\n                <p>ロシアの全面侵攻から4年、ウクライナは空襲への対処に成功。AIや迎撃機を導入し、空域のドローン対策を強化している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> UA<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
+            "title": "AIから迎撃機まで、ウクライナは空をドローンから守ろうとしている",
+            "summary": "ロシアの全面侵攻から4年、ウクライナは空襲への対処に成功。AIや迎撃機を導入し、空域のドローン対策を強化している。",
+            "date_modified": "2026-05-21T05:04:08.000Z"
+        },
+        {
+            "id": "711b05aecc2c7619dd236f4939727fbc",
+            "content_html": "\n                <p>米国は1996年の航空機撃墜事件に関し、キューバのラウル・カストロ前国家評議会議長を殺人罪で起訴。キューバ現大統領はこれを「政治的策略」と非難している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> CU<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+            "title": "米国、1996年航空機撃墜事件でキューバのラウル・カストロを殺人罪で起訴",
+            "summary": "米国は1996年の航空機撃墜事件に関し、キューバのラウル・カストロ前国家評議会議長を殺人罪で起訴。キューバ現大統領はこれを「政治的策略」と非難している。",
+            "date_modified": "2026-05-21T03:01:15.000Z"
+        },
+        {
+            "id": "ec7eae9831016ad526456523703e2792",
+            "content_html": "\n                <p>バーブーダ、グレナダ、ジャマイカの活動家たちが、外国人開発業者によるビーチ購入により海岸線にアクセスできなくなったと訴えている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c62jp09p0l4o?at_medium=RSS&at_campaign=rss",
+            "title": "カリブ海のビーチを買い占める外国人開発業者との闘い",
+            "summary": "バーブーダ、グレナダ、ジャマイカの活動家たちが、外国人開発業者によるビーチ購入により海岸線にアクセスできなくなったと訴えている。",
+            "date_modified": "2026-05-20T23:19:14.000Z"
+        },
+        {
+            "id": "d8d9f21fcbcbf6b0fb7c2db18e434237",
+            "content_html": "\n                <p>米国は、キューバのラウル・カストロ前大統領と他5名を刑事告発。マイアミで米国市民殺害の共謀などの罪で起訴され、トランプ政権のキューバ体制打倒運動をエスカレートさせている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> US<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
+            "title": "米国、体制打倒を目指しキューバのラウル・カストロ前大統領を起訴",
+            "summary": "米国は、キューバのラウル・カストロ前大統領と他5名を刑事告発。マイアミで米国市民殺害の共謀などの罪で起訴され、トランプ政権のキューバ体制打倒運動をエスカレートさせている。",
+            "date_modified": "2026-05-20T22:40:24.000Z"
+        },
+        {
+            "id": "5afc42cb2f4ee6779fb58168f2c2133a",
+            "content_html": "\n                <p>インドでは、食品安全への懸念が高まっており、拡散する動画や検査不合格が国民の不信感を深めている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> IN<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c232mjxpx8no?at_medium=RSS&at_campaign=rss",
+            "title": "インドには食品安全法がある。ではなぜ安全な食品を保証できないのか？",
+            "summary": "インドでは、食品安全への懸念が高まっており、拡散する動画や検査不合格が国民の不信感を深めている。",
+            "date_modified": "2026-05-20T22:17:12.000Z"
+        },
+        {
+            "id": "52694742b088e418ff7a231c4d40a3c7",
+            "content_html": "\n                <p>ボリビアの首都ラパスで抗議活動と警察の衝突が2週目に突入し、中道右派の大統領を揺るがしている。米国は「クーデター」の可能性について警告を発した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> BO<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+            "title": "米国が「クーデター」と警告する中、ボリビアが抗議活動で揺れる",
+            "summary": "ボリビアの首都ラパスで抗議活動と警察の衝突が2週目に突入し、中道右派の大統領を揺るがしている。米国は「クーデター」の可能性について警告を発した。",
+            "date_modified": "2026-05-20T20:28:28.000Z"
+        },
+        {
+            "id": "ff7ac4753e5873697be4a436cc9e19ea",
+            "content_html": "\n                <p>カナダで血漿献血後の若い女性の死亡を受け、安全プロトコルの不備や訓練不足のスタッフに対する調査が求められている。擁護者らは、国内の献血施設における「組織的課題」を指摘。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> CA<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/20/canada-plasma-death",
+            "title": "カナダ、血漿献血後の女性死亡巡り調査を求める声",
+            "summary": "カナダで血漿献血後の若い女性の死亡を受け、安全プロトコルの不備や訓練不足のスタッフに対する調査が求められている。擁護者らは、国内の献血施設における「組織的課題」を指摘。",
+            "date_modified": "2026-05-20T19:06:51.000Z"
+        },
+        {
+            "id": "926ac301576388ef1c76ca711556b7b8",
+            "content_html": "\n                <p>ラウル・カストロが軍事大臣だった頃に起きた、亡命キューバ人運営の民間機2機撃墜事件に関する起訴のニュース。この攻撃が事件の中心にある。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> CU<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cp3pz43k99xo?at_medium=RSS&at_campaign=rss",
+            "title": "カストロ氏の起訴の中心にある致命的な飛行機攻撃",
+            "summary": "ラウル・カストロが軍事大臣だった頃に起きた、亡命キューバ人運営の民間機2機撃墜事件に関する起訴のニュース。この攻撃が事件の中心にある。",
+            "date_modified": "2026-05-20T18:14:10.000Z"
+        },
+        {
+            "id": "4401eaa1f11dfdc7cefa9ff9f4bfadae",
+            "content_html": "\n                <p>ドナルド・トランプ氏の不法移民取り締まりの一環として、米国から追放された9人がシエラレオネに到着した。同国は米国からの追放者を受け入れる最新のアフリカ国となる。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> SL<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cn9pzjvly53o?at_medium=RSS&at_campaign=rss",
+            "title": "シエラレオネ、米国からの追放者を受け入れる最新のアフリカ国に",
+            "summary": "ドナルド・トランプ氏の不法移民取り締まりの一環として、米国から追放された9人がシエラレオネに到着した。同国は米国からの追放者を受け入れる最新のアフリカ国となる。",
+            "date_modified": "2026-05-20T17:05:17.000Z"
+        },
+        {
+            "id": "08564bccc910d2eba9bbf6e84d75f13e",
+            "content_html": "\n                <p>Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – World News<br/>\n                    <strong>対象国:</strong> 不明<br/>\n                    <strong>カテゴリ:</strong> 未分類<br/>\n                    <strong>重要度スコア:</strong> N/A\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+            "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+            "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
+            "date_modified": "2026-05-20T16:34:40.000Z"
+        },
+        {
+            "id": "8c54adf6058b4cc7e67cd86224d3f8ff",
+            "content_html": "\n                <p>北朝鮮の女子サッカーチームが韓国で試合を行い、約8年ぶりに北朝鮮のアスリートが国境を越えたことで、両国関係軟化への期待が高まっている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> KR<br/>\n                    <strong>カテゴリ:</strong> スポーツ<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
+            "title": "サッカーの試合は北朝鮮と韓国の関係を軟化させることができるか？",
+            "summary": "北朝鮮の女子サッカーチームが韓国で試合を行い、約8年ぶりに北朝鮮のアスリートが国境を越えたことで、両国関係軟化への期待が高まっている。",
+            "date_modified": "2026-05-20T15:58:01.000Z"
+        },
+        {
+            "id": "3061bbd28a9201c03feba3967a4d3bbb",
+            "content_html": "\n                <p>ドミニカの生態学者らが、生態系の保護、資源の保全、持続可能性の推進が、地域社会や生物多様性を守る愛国的な行為であると論じる。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> DO<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/20/dominican-republic-is-protecting-your-environment-a-way-to-love-your-country",
+            "title": "ドミニカ共和国：環境保護は国を愛する方法なのか？",
+            "summary": "ドミニカの生態学者らが、生態系の保護、資源の保全、持続可能性の推進が、地域社会や生物多様性を守る愛国的な行為であると論じる。",
+            "date_modified": "2026-05-20T15:00:31.000Z"
+        },
+        {
+            "id": "9808e7d309021e375938bf2ae2174e6a",
+            "content_html": "\n                <p>東サセックス出身の英国人夫婦が、イランの刑務所で数日間にわたり食料を拒否するハンガーストライキを開始した��家族が述べた。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> IR<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&at_campaign=rss",
+            "title": "英人夫婦、イランの刑務所で再びハンガーストライキ実施と家族が発表",
+            "summary": "東サセックス出身の英国人夫婦が、イランの刑務所で数日間にわたり食料を拒否するハンガーストライキを開始した��家族が述べた。",
+            "date_modified": "2026-05-20T14:44:24.000Z"
+        },
+        {
+            "id": "b312eb5ea76b6e1b04c13b29d339b071",
+            "content_html": "\n                <p>1976年にDRコンゴで初めて発見されたエボラ出血熱が、現在同国で17回目の発生に直面している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/videos/cvgz1mv78myo?at_medium=RSS&at_campaign=rss",
+            "title": "DRコンゴでエボラ出血熱が繰り返し発生する理由とは？",
+            "summary": "1976年にDRコンゴで初めて発見されたエボラ出血熱が、現在同国で17回目の発生に直面している。",
+            "date_modified": "2026-05-20T14:29:25.000Z"
+        },
+        {
+            "id": "f66294b57099d5c4cde6674d37a9b2b4",
+            "content_html": "\n                <p>ホルムズ海峡の事実上の封鎖により特定の燃料供給に懸念が高まり、英国はロシア産原油に対する制裁措置を一部緩和した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> GB<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+            "title": "燃料価格高騰を受け、英国が新たなロシア石油制裁を緩和",
+            "summary": "ホルムズ海峡の事実上の封鎖により特定の燃料供給に懸念が高まり、英国はロシア産原油に対する制裁措置を一部緩和した。",
+            "date_modified": "2026-05-20T13:45:49.000Z"
+        },
+        {
+            "id": "73d1974727c9dce03dd4ab872627c21d",
+            "content_html": "\n                <p>中国の習近平国家主席がロシアのプーチン大統領を、先週のトランプ氏とほぼ同じ儀式で歓迎し、国際的な注目を集めた。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> CN<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss",
+            "title": "動画：トランプ氏とプーチン氏、中国で同じ待遇を受けたのか？",
+            "summary": "中国の習近平国家主席がロシアのプーチン大統領を、先週のトランプ氏とほぼ同じ儀式で歓迎し、国際的な注目を集めた。",
+            "date_modified": "2026-05-20T12:44:56.000Z"
+        },
+        {
+            "id": "2e4dbbeba9e228dc47820a73eb3ff71f",
+            "content_html": "\n                <p>コンゴ民主共和国でエボラ出血熱に感染した米国人医師が、妻と4人の子供と共に治療のためドイツへ移送された。WHOは流行の「規模と速度」に懸念を示している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
+            "title": "コンゴ民主共和国でエボラに感染した米国人医師、治療のためドイツへ空輸",
+            "summary": "コンゴ民主共和国でエボラ出血熱に感染した米国人医師が、妻と4人の子供と共に治療のためドイツへ移送された。WHOは流行の「規模と速度」に懸念を示している。",
+            "date_modified": "2026-05-20T12:28:43.000Z"
+        },
+        {
+            "id": "cfebf6b07a69035496e430723bc806c0",
+            "content_html": "\n                <p>習近平国家主席は、トランプ大統領に続きプーチン大統領を数日後に迎え入れ、世界に対し誰とでも話し、誰にも縛られない姿勢を示している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> CN<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 90\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+            "title": "習近平、トランプに続きプーチンを迎え、脚光を浴びる",
+            "summary": "習近平国家主席は、トランプ大統領に続きプーチン大統領を数日後に迎え入れ、世界に対し誰とでも話し、誰にも縛られない姿勢を示している。",
+            "date_modified": "2026-05-20T11:42:44.000Z"
+        },
+        {
+            "id": "a3f0a2f3101f4f58437922a6ced84a99",
+            "content_html": "\n                <p>コロンビアを代表する歌手で、クンビア音楽を世界に広めた伝説的なトト・ラ・モムポシーナ氏が85歳で死去。家族が心臓発作によるものと発表した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> CO<br/>\n                    <strong>カテゴリ:</strong> エンタメ<br/>\n                    <strong>重要度スコア:</strong> 30\n                </p>\n            ",
+            "url": "https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85",
+            "title": "コロンビア音楽の伝説、歌手トト・ラ・モムポシーナ氏が85歳で死去",
+            "summary": "コロンビアを代表する歌手で、クンビア音楽を世界に広めた伝説的なトト・ラ・モムポシーナ氏が85歳で死去。家族が心臓発作によるものと発表した。",
+            "date_modified": "2026-05-20T11:39:49.000Z"
+        },
+        {
+            "id": "6fc9725cf0e295e0d881a5dc048b534c",
+            "content_html": "\n                <p>レバノン国営通信は、イスラエルによる空爆で子供3人を含む21人が死亡したと報じた。1回の攻撃で住宅が直撃され、12人が犠牲になった。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> LB<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
+            "title": "レバノン、イスラエル空爆で子供含む21人死亡と発表",
+            "summary": "レバノン国営通信は、イスラエルによる空爆で子供3人を含む21人が死亡したと報じた。1回の攻撃で住宅が直撃され、12人が犠牲になった。",
+            "date_modified": "2026-05-20T10:42:03.000Z"
+        },
+        {
+            "id": "c3cfa7cb9eddd12b9a693cf6169ae62b",
+            "content_html": "\n                <p>元電力大臣が今月初めに汚職で欠席裁判にて75年の実刑判決を受け、潜伏中にナイジェリア当局に逮捕された。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> NG<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
+            "title": "ナイジェリア、汚職で有罪判決を受けた元閣僚を潜伏先で逮捕",
+            "summary": "元電力大臣が今月初めに汚職で欠席裁判にて75年の実刑判決を受け、潜伏中にナイジェリア当局に逮捕された。",
+            "date_modified": "2026-05-20T08:04:03.000Z"
+        },
+        {
+            "id": "a0ced0f1419e377521052e219fb5a627",
+            "content_html": "\n                <p>ノルウェー人記者がインドのモディ首相に対し、なぜ記者からの質問を受け付けないのかと尋ねたことで、オンライン上で激しい反発が巻き起こった。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> IN<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cwy2w9w9n80o?at_medium=RSS&at_campaign=rss",
+            "title": "ノルウェー人記者のインドのモディ首相への質問がオンラインで反発を招く",
+            "summary": "ノルウェー人記者がインドのモディ首相に対し、なぜ記者からの質問を受け付けないのかと尋ねたことで、オンライン上で激しい反発が巻き起こった。",
+            "date_modified": "2026-05-20T08:00:08.000Z"
+        },
+        {
+            "id": "d5c861a5119d5da691307b7f5f494dc3",
+            "content_html": "\n                <p>中国商務省は、トランプ・習近平首脳会談後、ボーイング機200機の購入を確定し、10月に合意した関税休戦の延長にも取り組むと発表した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> CN<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
+            "title": "中国、トランプ・習近平首脳会談後にボーイング機200機購入を確定",
+            "summary": "中国商務省は、トランプ・習近平首脳会談後、ボーイング機200機の購入を確定し、10月に合意した関税休戦の延長にも取り組むと発表した。",
+            "date_modified": "2026-05-20T04:59:40.000Z"
+        },
+        {
+            "id": "130ae5db3f53aea5da0f7836c50a3d00",
+            "content_html": "\n                <p>ジェフ・ランドリー氏のグリーンランド訪問は、一部のグリーンランド住民の感情を逆なでし、米国の外交任務は困難に直面している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> GL<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 40\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+            "title": "トランプのグリーンランド特使、「友人を作る」任務で苦戦",
+            "summary": "ジェフ・ランドリー氏のグリーンランド訪問は、一部のグリーンランド住民の感情を逆なでし、米国の外交任務は困難に直面している。",
+            "date_modified": "2026-05-20T03:49:24.000Z"
+        },
+        {
+            "id": "ed90d782756cd4200cf9950db6d48c5b",
+            "content_html": "\n                <p>2016年から2024年の間に約2,000件のインターネット遮断が記録されており、ジャーナリストが情報遮断時にどのように活動するかを解説。社会の情報アクセスと報道の課題について言及。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/19/reporting-when-the-internet-goes-dark-how-journalists-find-workarounds-when-cut-off",
+            "title": "インターネットが停止したときの報道：ジャーナリストはいかにして遮断された状況を乗り越えるか",
+            "summary": "2016年から2024年の間に約2,000件のインターネット遮断が記録されており、ジャーナリストが情報遮断時にどのように活動するかを解説。社会の情報アクセスと報道の課題について言及。",
+            "date_modified": "2026-05-19T20:37:08.000Z"
+        },
+        {
+            "id": "ceda0d805f7368ff45d09463a0f18f6b",
+            "content_html": "\n                <p>グローバル・スムード船団は、イスラエル軍特殊部隊が月曜日以降、ガザの海上封鎖を破ろうとした50隻以上の船を阻止したと述べた。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> PS<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+            "title": "イスラエル軍がキプロス沖でガザ行き船団に乗り込んだと活動家が主張",
+            "summary": "グローバル・スムード船団は、イスラエル軍特殊部隊が月曜日以降、ガザの海上封鎖を破ろうとした50隻以上の船を阻止したと述べた。",
+            "date_modified": "2026-05-19T20:27:54.000Z"
+        },
+        {
+            "id": "8b9e62b4e65c8868a2f88e1888cfecb9",
+            "content_html": "\n                <p>マルコ・ルビオ米国務長官は、WHOがコンゴ民主共和国とウガンダでのエボラ出血熱流行の特定に「少し遅れた」と批判。米国は公衆衛生への大規模な予算削減を継続している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> US<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
+            "title": "ルビオ議員、米国の公衆衛生予算削減が続く中、WHOのエボラ対応を批判",
+            "summary": "マルコ・ルビオ米国務長官は、WHOがコンゴ民主共和国とウガンダでのエボラ出血熱流行の特定に「少し遅れた」と批判。米国は公衆衛生への大規模な予算削減を継続している。",
+            "date_modified": "2026-05-19T18:44:54.000Z"
+        },
+        {
+            "id": "969845a20e5300a280d9f81e40588e41",
+            "content_html": "\n                <p>致死性のウイルスが拡散し、DRコンゴ東部が恐怖に包まれる中、保健大臣は医療従事者がウイルス検出の遅れを認めた。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 90\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+            "title": "「エボラは私たちを苦しめてきた」：死のウイルスが広がり、DRコンゴ東部が恐怖に包まれる",
+            "summary": "致死性のウイルスが拡散し、DRコンゴ東部が恐怖に包まれる中、保健大臣は医療従事者がウイルス検出の遅れを認めた。",
+            "date_modified": "2026-05-19T18:05:26.000Z"
+        },
+        {
+            "id": "868b14a470c74920c697fa47616c36e5",
+            "content_html": "\n                <p>イスラエル人閣僚が、国際刑事裁判所の検察官から逮捕状を請求されていると述べた。ハーグを拠点とする同裁判所はコメントを差し控えている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> IL<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&at_campaign=rss",
+            "title": "イスラエル閣僚スモトリッチ氏、ICC検察官が逮捕状を請求と発言",
+            "summary": "イスラエル人閣僚が、国際刑事裁判所の検察官から逮捕状を請求されていると述べた。ハーグを拠点とする同裁判所はコメントを差し控えている。",
+            "date_modified": "2026-05-19T17:31:54.000Z"
+        },
+        {
+            "id": "4e4c9af7793ce7fff5b96c99908ef089",
+            "content_html": "\n                <p>BBCが身元を特定した後、主要な人身密輸業者が逮捕された。28歳のこの人物のネットワークは、数千人の不法移民を英国に輸送したとみられている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> GB<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+            "title": "BBCが正体を暴いた後、主要な人身密輸業者が逮捕される",
+            "summary": "BBCが身元を特定した後、主要な人身密輸業者が逮捕された。28歳のこの人物のネットワークは、数千人の不法移民を英国に輸送したとみられている。",
+            "date_modified": "2026-05-19T17:05:41.000Z"
+        },
+        {
+            "id": "11ca1a0a88516d0879226220d803af16",
+            "content_html": "\n                <p>タイは、英国を含む90カ国以上の旅行者に対し、ビザなし滞在期間を60日から30日に短縮する措置を発表した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Asia<br/>\n                    <strong>対象国:</strong> TH<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
+            "title": "タイ、英国を含む90カ国以上へのビザなし滞在期間を短縮",
+            "summary": "タイは、英国を含む90カ国以上の旅行者に対し、ビザなし滞在期間を60日から30日に短縮する措置を発表した。",
+            "date_modified": "2026-05-19T16:34:21.000Z"
+        },
+        {
+            "id": "68d4d672cf1d27fba74f19aa2f89aeb1",
+            "content_html": "\n                <p>WHO事務局長は、コンゴ民主共和国でのエボラ出血熱の急速な拡大に深い懸念を表明。500件以上の症例と130人の死者が報告され、組織は実験的ワクチンや治療薬の使用を検討している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 科学<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
+            "title": "WHO、コンゴ民主共和国でエボラ出血熱の症例と死者が増加する中、実験的ワクチンの使用を検討",
+            "summary": "WHO事務局長は、コンゴ民主共和国でのエボラ出血熱の急速な拡大に深い懸念を表明。500件以上の症例と130人の死者が報告され、組織は実験的ワクチンや治療薬の使用を検討している。",
+            "date_modified": "2026-05-19T16:06:56.000Z"
+        },
+        {
+            "id": "37137710a1db7bee9dc5d3116c4b9658",
+            "content_html": "\n                <p>WHOがコンゴ民主共和国のエボラ流行に警鐘を鳴らす中、紛争、不信、遅延検出が対応を複雑化させる可能性を指摘。過去の教訓を活かし、感染制御と接触者追跡の強化が求められている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> The Guardian – World<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
+            "title": "WHOがコンゴ民主共和国のエボラに警鐘を鳴らす中、過去の流行から何を学ぶべきか？",
+            "summary": "WHOがコンゴ民主共和国のエボラ流行に警鐘を鳴らす中、紛争、不信、遅延検出が対応を複雑化させる可能性を指摘。過去の教訓を活かし、感染制御と接触者追跡の強化が求められている。",
+            "date_modified": "2026-05-19T12:51:20.000Z"
+        },
+        {
+            "id": "a29c7f455f3ff46b83f370b613ae8c9d",
+            "content_html": "\n                <p>薬物密売で服役中にトランプ大統領から恩赦を受けたホンジュラス元大統領フアン・オーランド・ヘルナンデス氏がBBCの取材に応じた。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> HN<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/clyp36dwnezo?at_medium=RSS&at_campaign=rss",
+            "title": "トランプ氏が物議を醸す恩赦を与えたホンジュラス元大統領がBBCに語る",
+            "summary": "薬物密売で服役中にトランプ大統領から恩赦を受けたホンジュラス元大統領フアン・オーランド・ヘルナンデス氏がBBCの取材に応じた。",
+            "date_modified": "2026-05-19T11:46:11.000Z"
+        },
+        {
+            "id": "33a9accaf0e3b84949df7b9202de2e90",
+            "content_html": "\n                <p>数週間にわたる混乱の後、大統領辞任を求めるデモ隊と警察がボリビアで衝突している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> BO<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss",
+            "title": "ボリビアで反政府デモ隊と警察が衝突",
+            "summary": "数週間にわたる混乱の後、大統領辞任を求めるデモ隊と警察がボリビアで衝突している。",
+            "date_modified": "2026-05-19T11:37:51.000Z"
+        },
+        {
+            "id": "54d2bd8caf79626bdae7665c8b8bbaf4",
+            "content_html": "\n                <p>ロシアに投獄されている英国の元兵士ヘイデン・デイヴィス氏がBBCに送った手紙で、英国当局との連絡が全く取れていないと明かした。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> UA<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss",
+            "title": "ロシアに投獄された英国の元兵士、占領下のウクライナで孤立感",
+            "summary": "ロシアに投獄されている英国の元兵士ヘイデン・デイヴィス氏がBBCに送った手紙で、英国当局との連絡が全く取れていないと明かした。",
+            "date_modified": "2026-05-18T23:09:42.000Z"
+        },
+        {
+            "id": "e291de8f31b3d95e52913e7f6a500820",
+            "content_html": "\n                <p>力の不均衡があるにもかかわらず、中露関係は両国にとって極めて重要であり、失敗することは許されないという認識のもと、関係は持続している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
+            "title": "中国とロシアを本当に結びつけているもの",
+            "summary": "力の不均衡があるにもかかわらず、中露関係は両国にとって極めて重要であり、失敗することは許されないという認識のもと、関係は持続している。",
+            "date_modified": "2026-05-18T23:06:55.000Z"
+        },
+        {
+            "id": "f83614fa0482032c0c85533b5969d052",
+            "content_html": "\n                <p>The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> 不明<br/>\n                    <strong>カテゴリ:</strong> 未分類<br/>\n                    <strong>重要度スコア:</strong> N/A\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+            "title": "Trump says he called off new Iran attack at request of Gulf states",
+            "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
+            "date_modified": "2026-05-18T22:30:58.000Z"
+        },
+        {
+            "id": "3576d4e6bd574e7a4ca6c12157932372",
+            "content_html": "\n                <p>イスラエルとレバノンの紛争で死者数が3,000人を超え、悲劇的な節目に。3月以降、名目上の停戦にもかかわらずヒズボラとの衝突が続いている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> LB<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 95\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+            "title": "イスラエルによるレバノン空爆の死者数が3,000人超と当局が発表",
+            "summary": "イスラエルとレバノンの紛争で死者数が3,000人を超え、悲劇的な節目に。3月以降、名目上の停戦にもかかわらずヒズボラとの衝突が続いている。",
+            "date_modified": "2026-05-18T16:16:38.000Z"
+        },
+        {
+            "id": "f8380433fcddc4abbd35a68cd48daf8e",
+            "content_html": "\n                <p>コロンビア人歌手シャキーラがスペイン政府から5000万ポンドの税金還付を受け、自身が有罪であるという「物語」は崩れたと語った。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> ES<br/>\n                    <strong>カテゴリ:</strong> エンタメ<br/>\n                    <strong>重要度スコア:</strong> 55\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+            "title": "シャキーラがスペイン政府から5000万ポンドの税金還付を勝ち取る",
+            "summary": "コロンビア人歌手シャキーラがスペイン政府から5000万ポンドの税金還付を受け、自身が有罪であるという「物語」は崩れたと語った。",
+            "date_modified": "2026-05-18T15:08:40.000Z"
+        },
+        {
+            "id": "100e0fe1693923932231c83acf196003",
+            "content_html": "\n                <p>トランプ大統領は、イランの平和交渉停滞に対し「時間は刻々と迫っている」と警告。イランは最新の米国提案に回答し、ワシントンとの協議継続を発表した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> IR<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+            "title": "トランプ氏、イランの平和進展停滞で「時間は刻々と迫っている」と警告",
+            "summary": "トランプ大統領は、イランの平和交渉停滞に対し「時間は刻々と迫っている」と警告。イランは最新の米国提案に回答し、ワシントンとの協議継続を発表した。",
+            "date_modified": "2026-05-18T09:58:35.000Z"
+        },
+        {
+            "id": "e4dbd7f7fbabd4181da7b22386c75e38",
+            "content_html": "\n                <p>米国とイスラエルがイランを攻撃して以来、イランでは政治的処刑が急増している。国連は、少なくとも32人の政治犯の処刑を確認したと発表した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> IR<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 88\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+            "title": "「これが私の声を聞く最後の機会かもしれない」：戦争開始以来イランで政治的処刑が急増",
+            "summary": "米国とイスラエルがイランを攻撃して以来、イランでは政治的処刑が急増している。国連は、少なくとも32人の政治犯の処刑を確認したと発表した。",
+            "date_modified": "2026-05-17T23:02:56.000Z"
+        },
+        {
+            "id": "848b13b0f61a7d9224d996249e806ff0",
+            "content_html": "\n                <p>ウクライナ最前線では、機械が人間を置き換えつつあるが、領土防衛には依然として兵士が不可欠。新兵器が戦況を変えている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> UA<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
+            "title": "ウクライナ最前線の「キルゾーン」内部、新兵器が戦争を一変",
+            "summary": "ウクライナ最前線では、機械が人間を置き換えつつあるが、領土防衛には依然として兵士が不可欠。新兵器が戦況を変えている。",
+            "date_modified": "2026-05-17T23:02:15.000Z"
+        },
+        {
+            "id": "0104819883d7e767f57ae720ff0f628d",
+            "content_html": "\n                <p>アフリカで最も影響力のある政治家の一人であるシエラレオネのファーストレディーのプライベートな世界がBBCワールドサービスで独占公開された。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> SL<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss",
+            "title": "児童婚から逃れ「老いぼれ変質者」を避け、シエラレオネのファーストレディーに",
+            "summary": "アフリカで最も影響力のある政治家の一人であるシエラレオネのファーストレディーのプライベートな世界がBBCワールドサービスで独占公開された。",
+            "date_modified": "2026-05-17T23:01:51.000Z"
+        },
+        {
+            "id": "2b0d9a9713cd6da32aa5a0bca5112609",
+            "content_html": "\n                <p>UAEがアブダビ原子力発電所付近で攻撃があったと報告。同国はこの攻撃を「危険なエスカレーション」と呼び、攻撃源を調査中である。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Middle East<br/>\n                    <strong>対象国:</strong> AE<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 90\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+            "title": "UAE、アブダビ原子力発電所付近での攻撃を報告",
+            "summary": "UAEがアブダビ原子力発電所付近で攻撃があったと報告。同国はこの攻撃を「危険なエスカレーション」と呼び、攻撃源を調査中である。",
+            "date_modified": "2026-05-17T20:53:45.000Z"
+        },
+        {
+            "id": "69c9d133b5b1411c4acc9594334507ba",
+            "content_html": "\n                <p>DRコンゴでのエボラ出血熱の発生は公衆衛生上の緊急事態と宣言され、およそ250件の疑い例が報告されている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 95\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+            "title": "DRコンゴでのエボラ出血熱の発生はどの程度懸念されるのか？",
+            "summary": "DRコンゴでのエボラ出血熱の発生は公衆衛生上の緊急事態と宣言され、およそ250件の疑い例が報告されている。",
+            "date_modified": "2026-05-17T18:06:31.000Z"
+        },
+        {
+            "id": "06b3f8aa316fafb2965ec6c53f2b0287",
+            "content_html": "\n                <p>ラテンアメリカ全域でメーデーの抗議活動が行われ、経済的困難、労働の不安定さ、ジェンダー不平等、政府への不満が露呈した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/16/across-latin-america-may-day-protests-highlight-workers-struggles-and-solidarity",
+            "title": "ラテンアメリカ各地でメーデーの抗議活動が労働者の苦闘と連帯を浮き彫りに",
+            "summary": "ラテンアメリカ全域でメーデーの抗議活動が行われ、経済的困難、労働の不安定さ、ジェンダー不平等、政府への不満が露呈した。",
+            "date_modified": "2026-05-16T14:00:33.000Z"
+        },
+        {
+            "id": "c89748dbfdc2f0667b1418d48fa52b55",
+            "content_html": "\n                <p>メンゲレは戦後ヨーロッパを逃亡したが、長年スイスで過ごしたという噂があった。スイス政府は彼の秘密ファイルを公開する。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Europe<br/>\n                    <strong>対象国:</strong> CH<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 55\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+            "title": "スイス、アウシュヴィッツの「死の天使」メンゲレに関する秘密ファイルを公開へ",
+            "summary": "メンゲレは戦後ヨーロッパを逃亡したが、長年スイスで過ごしたという噂があった。スイス政府は彼の秘密ファイルを公開する。",
+            "date_modified": "2026-05-15T23:04:33.000Z"
+        },
+        {
+            "id": "aff5a9c90ed8456cbc0a27198bfa9911",
+            "content_html": "\n                <p>反政府勢力とルワンダ軍が、12月にDRコンゴの都市ウビラを占領した後、残虐行為を行ったとして非難されている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> CD<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 95\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+            "title": "「彼らは私の隣人の頭を撃った」― 戦争でトラウマを負った湖畔の都市",
+            "summary": "反政府勢力とルワンダ軍が、12月にDRコンゴの都市ウビラを占領した後、残虐行為を行ったとして非難されている。",
+            "date_modified": "2026-05-14T05:09:04.000Z"
+        },
+        {
+            "id": "bb520ba2215ef60578a8d7cfa6228fa0",
+            "content_html": "\n                <p>ロシア連邦は、ユーラシア経済連合の関税地域に輸入される自動車用空気入りタイヤに対するセーフガード調査の開始をWTOに通知した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> RU<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/safe_rus_14may26_389_e.htm",
+            "title": "ロシア連邦、自動車用空気入りタイヤに対するセーフガード調査開始を通知",
+            "summary": "ロシア連邦は、ユーラシア経済連合の関税地域に輸入される自動車用空気入りタイヤに対するセーフガード調査の開始をWTOに通知した。",
+            "date_modified": "2026-05-14T00:00:00.000Z"
+        },
+        {
+            "id": "8f4bf8872808d123e1416369f53c11b9",
+            "content_html": "\n                <p>キューバは豊かな生物多様性を持つが、気候変動や人間活動、保護の不備に直面。科学者や活動家が絶滅危惧種の保全に努める。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> CU<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/13/who-is-defending-cubas-threatened-species",
+            "title": "キューバの絶滅危惧種を守るのは誰か？",
+            "summary": "キューバは豊かな生物多様性を持つが、気候変動や人間活動、保護の不備に直面。科学者や活動家が絶滅危惧種の保全に努める。",
+            "date_modified": "2026-05-13T14:00:59.000Z"
+        },
+        {
+            "id": "5bc18e44c6434b5fedcddf28e1069ae8",
+            "content_html": "\n                <p>イギリス、アメリカ、EUが、ウイルスに感染したMVホンディウス号から帰国する国民に約6週間の自己隔離を求めている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 科学<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
+            "title": "各国はハンタウイルスにどう対応しているのか？",
+            "summary": "イギリス、アメリカ、EUが、ウイルスに感染したMVホンディウス号から帰国する国民に約6週間の自己隔離を求めている。",
+            "date_modified": "2026-05-13T08:36:54.000Z"
+        },
+        {
+            "id": "06128af9a3f0f777e87a61ceaf51e6a5",
+            "content_html": "\n                <p>1970年代に始まった会合以来初めて、フランスが��ニアでアフリカ首脳と会談。これはフランスの思考の変化を反映している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> KE<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+            "title": "フランス、ケニアでアフリカ首脳と会談し、植民地時代の関係からの脱却を図る",
+            "summary": "1970年代に始まった会合以来初めて、フランスが��ニアでアフリカ首脳と会談。これはフランスの思考の変化を反映している。",
+            "date_modified": "2026-05-12T11:13:54.000Z"
+        },
+        {
+            "id": "57c53e4ab2b676fbea8edf1dd9dbd126",
+            "content_html": "\n                <p>ハンタウイルスに感染した可能性のある乗客が帰国しており、一般市民へのリスクについてどの程度心配すべきかを探る。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 科学<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
+            "title": "ハンタウイルスについて、どの程度心配すべきか？",
+            "summary": "ハンタウイルスに感染した可能性のある乗客が帰国しており、一般市民へのリスクについてどの程度心配すべきかを探る。",
+            "date_modified": "2026-05-12T10:01:52.000Z"
+        },
+        {
+            "id": "e67be9eafe2d4795d71fdd0fb375b81b",
+            "content_html": "\n                <p>気候変動の不公平に直面するアフリカが、COP31で明確な交渉力を確立し、具体的な資金調達を要求し、適応を優先すべきことを訴える。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/12/climate-change-what-africa-must-demand-at-cop31-in-antalya",
+            "title": "気候変動：アンタルヤで開催されるCOP31でアフリカは何を要求すべきか",
+            "summary": "気候変動の不公平に直面するアフリカが、COP31で明確な交渉力を確立し、具体的な資金調達を要求し、適応を優先すべきことを訴える。",
+            "date_modified": "2026-05-12T08:00:08.000Z"
+        },
+        {
+            "id": "4d85ed71031a6b58dde9e21bdb28f65c",
+            "content_html": "\n                <p>ブラジルは、生成AIがジャーナリズムコンテンツのアクセス、可視性、収益化を大きく変えたとして、Googleに対する調査を開始。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> BR<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/11/brazil-opens-investigation-on-google-over-its-ais-impact-on-the-journalism-industry",
+            "title": "ブラジル、GoogleのAIがジャーナリズム業界に与える影響について調査を開始",
+            "summary": "ブラジルは、生成AIがジャーナリズムコンテンツのアクセス、可視性、収益化を大きく変えたとして、Googleに対する調査を開始。",
+            "date_modified": "2026-05-11T14:30:00.000Z"
+        },
+        {
+            "id": "98f83bb49c3cce2d126a673b5239c4c7",
+            "content_html": "\n                <p>不安定な電力供給のため、ナイジェリアでは特に夜間の猛暑への対処が困難。人々の生活への深刻な影響を報じる。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> NG<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/11/how-nigerians-are-coping-with-heat-waves-amid-crippling-power-outages",
+            "title": "深刻な停電の中、ナイジェリア人は猛暑にどう対処しているか",
+            "summary": "不安定な電力供給のため、ナイジェリアでは特に夜間の猛暑への対処が困難。人々の生活への深刻な影響を報じる。",
+            "date_modified": "2026-05-11T08:00:40.000Z"
+        },
+        {
+            "id": "578055f451b7606dfbffc75e4a4e4f55",
+            "content_html": "\n                <p>WTO原産地規則委員会で、メンバー国は透明性向上作業を進め、途上国向け特恵原産地規則の方向性や貿易円滑化との関連を議論した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/roi_11may26_388_e.htm",
+            "title": "メンバー国、原産地規則の透明性向上作業を進め、貿易円滑化との関連を探る",
+            "summary": "WTO原産地規則委員会で、メンバー国は透明性向上作業を進め、途上国向け特恵原産地規則の方向性や貿易円滑化との関連を議論した。",
+            "date_modified": "2026-05-11T00:00:00.000Z"
+        },
+        {
+            "id": "b7f9c94055923f73a8d21899df4402cd",
+            "content_html": "\n                <p>アフリカ最大の映画とファッションの祭典で、500個のパンから作られたドレスがセレブ、映画製作者、クリエイターを驚かせた。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Africa<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> エンタメ<br/>\n                    <strong>重要度スコア:</strong> 45\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
+            "title": "500個のパンで作られたドレスがアフリカ映画祭で度肝を抜く",
+            "summary": "アフリカ最大の映画とファッションの祭典で、500個のパンから作られたドレスがセレブ、映画製作者、クリエイターを驚かせた。",
+            "date_modified": "2026-05-10T14:29:45.000Z"
+        },
+        {
+            "id": "51b22d67d6f62a8ed6718a359fc87fa6",
+            "content_html": "\n                <p>...[T]he promise of a digital future may come at the same heavy cost to human rights and environmental justice as the floral exports that preceded it.</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> 不明<br/>\n                    <strong>カテゴリ:</strong> 未分類<br/>\n                    <strong>重要度スコア:</strong> N/A\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect",
+            "title": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effect’?",
+            "summary": "...[T]he promise of a digital future may come at the same heavy cost to human rights and environmental justice as the floral exports that preceded it.",
+            "date_modified": "2026-05-08T18:00:41.000Z"
+        },
+        {
+            "id": "d65a86bce56acfe885bf7e2d8789aef9",
+            "content_html": "\n                <p>トランプ米大統領とルーラ・ブラジル大統領の私的な執務室会談は、両国間の緊張が残る中でも対立を避ける努力があったことを示唆する。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> US<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
+            "title": "トランプ氏とルーラ氏の私的な執務室会談は、残る緊張と対立回避の努力を示す",
+            "summary": "トランプ米大統領とルーラ・ブラジル大統領の私的な執務室会談は、両国間の緊張が残る中でも対立を避ける努力があったことを示唆する。",
+            "date_modified": "2026-05-08T03:45:06.000Z"
+        },
+        {
+            "id": "22d03e54c8e0b11abfa877c435c2d76c",
+            "content_html": "\n                <p>スウェーデンは、WTOのグローバル信託基金に200万SEKを拠出し、途上国の政府職員向け技術支援・研修プログラムの資金として活用される。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> SE<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/pres26_e/pr995_387_e.htm",
+            "title": "スウェーデン、WTO能力構築活動に200万スウェーデン・クローナを拠出",
+            "summary": "スウェーデンは、WTOのグローバル信託基金に200万SEKを拠出し、途上国の政府職員向け技術支援・研修プログラムの資金として活用される。",
+            "date_modified": "2026-05-08T00:00:00.000Z"
+        },
+        {
+            "id": "7ff50efe44db29cefdec58baca5c8f85",
+            "content_html": "\n                <p>カメルーンのブエアでは、長期間の乾燥後に火山斜面の不安定な物質が流されるラハール現象により、雨不足でも洪水が頻発している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> CM<br/>\n                    <strong>カテゴリ:</strong> 災害<br/>\n                    <strong>重要度スコア:</strong> 65\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/07/buea-cameroon-is-facing-recurring-floods-despite-the-lack-of-rain",
+            "title": "雨不足にもかかわらず、カメルーンのブエアは繰り返す洪水に直面している",
+            "summary": "カメルーンのブエアでは、長期間の乾燥後に火山斜面の不安定な物質が流されるラハール現象により、雨不足でも洪水が頻発している。",
+            "date_modified": "2026-05-07T16:00:34.000Z"
+        },
+        {
+            "id": "6f4c61e363ebf23f129baa2333536b73",
+            "content_html": "\n                <p>ウガンダでは、難民が成功の機会を与えられることで、経済に貢献し、受け入れ国の未来を築いている実例を紹介。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> UG<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/06/the-invisible-migration-how-urban-refugees-are-powering-ugandas-economy",
+            "title": "見えない移住：都市部の難民がいかにしてウガンダ経済を動かしているか",
+            "summary": "ウガンダでは、難民が成功の機会を与えられることで、経済に貢献し、受け入れ国の未来を築いている実例を紹介。",
+            "date_modified": "2026-05-06T08:00:30.000Z"
+        },
+        {
+            "id": "493f251a21a7be1025f91324f7cd2f33",
+            "content_html": "\n                <p>WTO一般理事会は、第14回閣僚会議後の議論継続の次なるステップを協議。トルコが電子商取引のモラトリアム延長に加わる意向を表明した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/gc_06may26_386_e.htm",
+            "title": "一般理事会議長、第14回閣僚会議の勢いを活かす次なるステップを提示",
+            "summary": "WTO一般理事会は、第14回閣僚会議後の議論継続の次なるステップを協議。トルコが電子商取引のモラトリアム延長に加わる意向を表明した。",
+            "date_modified": "2026-05-06T00:00:00.000Z"
+        },
+        {
+            "id": "996b7513dd6e995aa3d342038ab77aaa",
+            "content_html": "\n                <p>エチオピアの人気TikTokクリエイターが自殺。Facebookに遺書投稿が残され、プラットフォームの責任が問われている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> ET<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death",
+            "title": "エチオピアのTikTokが人気クリエイターの死を悼む。TikTokとMetaは彼女の死に加担しているのか？",
+            "summary": "エチオピアの人気TikTokクリエイターが自殺。Facebookに遺書投稿が残され、プラットフォームの責任が問われている。",
+            "date_modified": "2026-05-05T01:00:21.000Z"
+        },
+        {
+            "id": "c31de8411f450ed0f10e372fee1f0062",
+            "content_html": "\n                <p>米国は、深刻な国際収支赤字に対処するため輸入課徴金を課すことをWTOに通知し、WTO規則に沿った協議に応じる用意があると表明した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> US<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/bop_05may26_385_e.htm",
+            "title": "米国、輸入課徴金を通知しWTO協議の用意があることを表明",
+            "summary": "米国は、深刻な国際収支赤字に対処するため輸入課徴金を課すことをWTOに通知し、WTO規則に沿った協議に応じる用意があると表明した。",
+            "date_modified": "2026-05-05T00:00:00.000Z"
+        },
+        {
+            "id": "b6cc9f0def2d8f7a6e71ff8e115bbab1",
+            "content_html": "\n                <p>アフリカ諸国がAI戦略を発表する一方で、信頼できる電力もない数百万世帯が存在し、アフリカにおけるAIアクセスの格差を問う。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 科学<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/05/04/sub-saharan-africa-why-do-less-than-12-percent-of-africans-have-ai-access",
+            "title": "サブサハラアフリカ：なぜアフリカ人の12%未満しかAIにアクセスできないのか？",
+            "summary": "アフリカ諸国がAI戦略を発表する一方で、信頼できる電力もない数百万世帯が存在し、アフリカにおけるAIアクセスの格差を問う。",
+            "date_modified": "2026-05-04T07:48:39.000Z"
+        },
+        {
+            "id": "4e61a374c76f7c3ecf6412cbdce18966",
+            "content_html": "\n                <p>WTOメンバーは、第14回閣僚会議後における綿花セクターの動向と将来の行動計画を議論し、アフリカ諸国への投資の重要性を強調した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/cott_04may26_384_e.htm",
+            "title": "WTOメンバー、MC14後の綿花セクター行動計画を議論",
+            "summary": "WTOメンバーは、第14回閣僚会議後における綿花セクターの動向と将来の行動計画を議論し、アフリカ諸国への投資の重要性を強調した。",
+            "date_modified": "2026-05-04T00:00:00.000Z"
+        },
+        {
+            "id": "a7b350ec82e639389edab28960a2af56",
+            "content_html": "\n                <p>ベリーズの第4回貿易政策審査が、WTO事務局とベリーズ政府の報告書に基づき2026年5月4日と6日に実施される。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> BZ<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 55\n                </p>\n            ",
+            "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_blz_04may26_e.htm",
+            "title": "貿易政策審査：ベリーズ",
+            "summary": "ベリーズの第4回貿易政策審査が、WTO事務局とベリーズ政府の報告書に基づき2026年5月4日と6日に実施される。",
+            "date_modified": "2026-05-04T00:00:00.000Z"
+        },
+        {
+            "id": "eefa805bfbba3094d13997ddd05f071a",
+            "content_html": "\n                <p>WTOメンバーは、漁業補助金に関する協定の実施に向けた画期的な一歩として、第1回漁業補助金委員会の議事規則を採択した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 75\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/fish_01may26_382_e.htm",
+            "title": "メンバー国、初となる漁業補助金委員会の議事規則を採択",
+            "summary": "WTOメンバーは、漁業補助金に関する協定の実施に向けた画期的な一歩として、第1回漁業補助金委員会の議事規則を採択した。",
+            "date_modified": "2026-05-01T00:00:00.000Z"
+        },
+        {
+            "id": "caa70be8d9663db12cff9012e17faf09",
+            "content_html": "\n                <p>ナイジェリアでクィアの物語語りが、広く流通することでAIのデータセットに取り込まれる可能性に言及し、レジスタンスとしての役割を考察。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> NG<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/04/30/before-the-algorithm-decides-queer-storytelling-as-resistance-in-nigeria",
+            "title": "アルゴリズムが決定する前に：ナイジェリアにおけるクィアの物語語りがレジスタンスとして",
+            "summary": "ナイジェリアでクィアの物語語りが、広く流通することでAIのデータセットに取り込まれる可能性に言及し、レジスタンスとしての役割を考察。",
+            "date_modified": "2026-04-30T11:10:56.000Z"
+        },
+        {
+            "id": "149c918872df56f1b08fed7fd1d4e9e7",
+            "content_html": "\n                <p>WTO補助金及び相殺措置委員会は、補助金通知の適時かつ完全な提出を通じた透明性の向上が、委員会の中心課題であることを強調した。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/scm_30apr26_383_e.htm",
+            "title": "補助金の透明性、SCM委員会の中心的な焦点であり続ける",
+            "summary": "WTO補助金及び相殺措置委員会は、補助金通知の適時かつ完全な提出を通じた透明性の向上が、委員会の中心課題であることを強調した。",
+            "date_modified": "2026-04-30T00:00:00.000Z"
+        },
+        {
+            "id": "14e3af9d63a1460a86de17c1bdc19c1e",
+            "content_html": "\n                <p>WTOは、9月15日から17日に開催される「未来を動かす」と題した2026年公共フォーラムのオンライン登録と提案募集を開始した。今年はサービス貿易が焦点となる。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> WTO – Latest News<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 経済<br/>\n                    <strong>重要度スコア:</strong> 50\n                </p>\n            ",
+            "url": "https://www.wto.org/english/news_e/news26_e/pfor_30apr26_370_e.htm",
+            "title": "WTO、2026年公共フォーラムのオンライン登録を開始し、提案を募集",
+            "summary": "WTOは、9月15日から17日に開催される「未来を動かす」と題した2026年公共フォーラムのオンライン登録と提案募集を開始した。今年はサービス貿易が焦点となる。",
+            "date_modified": "2026-04-30T00:00:00.000Z"
+        },
+        {
+            "id": "161747fc13c3b30f6fa90115a8525911",
+            "content_html": "\n                <p>ラテンアメリカの複数の国で、AI駆動型データセンター開発に地域社会が反発しており、その人道的コストが問題となっている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 78\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/04/29/the-human-cost-of-the-data-center-push-in-latin-america",
+            "title": "ラテンアメリカにおけるデータセンター推進の人道的コスト",
+            "summary": "ラテンアメリカの複数の国で、AI駆動型データセンター開発に地域社会が反発しており、その人道的コストが問題となっている。",
+            "date_modified": "2026-04-29T21:00:35.000Z"
+        },
+        {
+            "id": "c428a7a8462b687212627918598698df",
+            "content_html": "\n                <p>昨年、熱帯雨林の減少は緩やかになったが、科学者たちは依然として急速に失われていると警告しており、エルニーニョによる火災が懸念される。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 環境<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss",
+            "title": "世界の森林減少は減速するも、エルニーニョによる火災がその進展を脅かす可能性",
+            "summary": "昨年、熱帯雨林の減少は緩やかになったが、科学者たちは依然として急速に失われていると警告しており、エルニーニョによる火災が懸念される。",
+            "date_modified": "2026-04-29T13:26:08.000Z"
+        },
+        {
+            "id": "058cebdad799569100dfa5618b792138",
+            "content_html": "\n                <p>AIや新技術がもたらす監視、乱用、権力集中に懸念がある一方で、市民社会の活動には希望も見出されることを論じる。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Africa (Sub-Saharan)<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/04/29/new-tech-new-rules-narrative-and-civil-society-in-the-age-of-ai-and-algorithms",
+            "title": "新技術、新ルール：AIとアルゴリズムの時代における物語と市民社会",
+            "summary": "AIや新技術がもたらす監視、乱用、権力集中に懸念がある一方で、市民社会の活動には希望も見出されることを論じる。",
+            "date_modified": "2026-04-29T03:21:48.000Z"
+        },
+        {
+            "id": "3491e72470a21cfa3795402211562c48",
+            "content_html": "\n                <p>機密情報を利用して40万ドルを稼いだとして起訴された米陸軍将校が、マドゥロ氏追放に賭け、また高評価のAirbnb不動産投資家という別の顔を持つ。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>\n                    <strong>対象国:</strong> US<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
+            "title": "マドゥロ氏追放に賭けた疑惑の米兵のもう一つの顔",
+            "summary": "機密情報を利用して40万ドルを稼いだとして起訴された米陸軍将校が、マドゥロ氏追放に賭け、また高評価のAirbnb不動産投資家という別の顔を持つ。",
+            "date_modified": "2026-04-28T19:23:17.000Z"
+        },
+        {
+            "id": "122fef45187b2dc97a9d502964855e0a",
+            "content_html": "\n                <p>ブラジルで、AIとディープフェイクがオンラインでのジェンダー暴力のリスクを高め、女性と少女に過度な危険をもたらす可能性が警告された。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> BR<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 80\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/04/28/brazil-a-warning-on-how-ai-and-deepfakes-can-become-an-excessive-risk-to-women-and-girls",
+            "title": "ブラジル：AIとディープフェイクが女性と少女にとって「過度なリスク」となる可能性への警告",
+            "summary": "ブラジルで、AIとディープフェイクがオンラインでのジェンダー暴力のリスクを高め、女性と少女に過度な危険をもたらす可能性が警告された。",
+            "date_modified": "2026-04-28T12:55:57.000Z"
+        },
+        {
+            "id": "dc3f6c2e8803735acbeaa6a64887045a",
+            "content_html": "\n                <p>エルサルバドルで、政府がAI活用による公衆衛生システムの変革で世界最先端になると主張。その実態が検証されている。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> SV<br/>\n                    <strong>カテゴリ:</strong> 政治<br/>\n                    <strong>重要度スコア:</strong> 70\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador",
+            "title": "エルサルバドルの公衆衛生システムにAIの誇大宣伝が到達",
+            "summary": "エルサルバドルで、政府がAI活用による公衆衛生システムの変革で世界最先端になると主張。その実態が検証されている。",
+            "date_modified": "2026-04-28T06:01:51.000Z"
+        },
+        {
+            "id": "e66498671efdfbd766ddd3203915f155",
+            "content_html": "\n                <p>コロンビアの武力紛争では、AIなどの技術革新が戦場、意思決定、地域の物語、社会統制の形態を変革している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> CO<br/>\n                    <strong>カテゴリ:</strong> 紛争<br/>\n                    <strong>重要度スコア:</strong> 85\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/04/25/the-technological-transformation-of-colombias-armed-conflict",
+            "title": "コロンビアの武力紛争における技術的変革",
+            "summary": "コロンビアの武力紛争では、AIなどの技術革新が戦場、意思決定、地域の物語、社会統制の形態を変革している。",
+            "date_modified": "2026-04-25T06:00:57.000Z"
+        },
+        {
+            "id": "34b785cdfe231a71d50975f9153460ee",
+            "content_html": "\n                <p>活発な国際移動の時代、受け入れ地域社会での権利と経験の不均衡は、精査を要する権力と特権の力学を反映している。</p>\n                <hr/>\n                <p>\n                    <strong>配信元:</strong> Global Voices – Americas<br/>\n                    <strong>対象国:</strong> XX<br/>\n                    <strong>カテゴリ:</strong> 社会<br/>\n                    <strong>重要度スコア:</strong> 60\n                </p>\n            ",
+            "url": "https://globalvoices.org/2026/04/21/when-dry-season-never-ends",
+            "title": "乾季が終わらないとき",
+            "summary": "活発な国際移動の時代、受け入れ地域社会での権利と経験の不均衡は、精査を要する権力と特権の力学を反映している。",
+            "date_modified": "2026-04-21T08:00:17.000Z"
+        }
+    ]
+}

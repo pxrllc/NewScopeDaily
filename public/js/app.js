@@ -175,6 +175,28 @@ window.toggleArchive = function () {
     }
 };
 
+window.toggleFeedDropdown = function () {
+    const el = document.getElementById('feed-dropdown');
+    el.classList.toggle('hidden');
+
+    // Close archive if open
+    const archiveEl = document.getElementById('archive-dropdown');
+    if (archiveEl && !archiveEl.classList.contains('hidden')) {
+        archiveEl.classList.add('hidden');
+    }
+
+    // Close on click outside
+    if (!el.classList.contains('hidden')) {
+        const closeHandler = (e) => {
+            if (!e.target.closest('.feed-control')) {
+                el.classList.add('hidden');
+                document.removeEventListener('click', closeHandler);
+            }
+        };
+        setTimeout(() => document.addEventListener('click', closeHandler), 0);
+    }
+};
+
 // Rendering
 function renderSummary() {
     const container = document.getElementById('summary-container');

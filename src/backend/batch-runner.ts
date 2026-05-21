@@ -135,12 +135,11 @@ async function main() {
         const droppedCount = articles.length - finalArticles.length;
         if (droppedCount > 0) {
             console.log(`Dropped ${droppedCount} raw articles to ensure quality.`);
-        }
-
-        generator.generateFeedJson(date, finalArticles);
+        }        generator.generateFeedJson(date, finalArticles);
         generator.generateMapJson(date, processedArticles);
         generator.saveSummaries(date, worldSummary, regionalSummary);
         generator.generateSourcesJson(finalArticles);
+        generator.generateFeeds(finalArticles);
 
 
         // 5. Generate Date Manifest for Frontend Navigation

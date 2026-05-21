@@ -2,6 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { Article, DayData, GeoStats } from './types';
 import { marked } from 'marked';
+import { Feed } from 'feed';
 
 export class DataGenerator {
     private outputDir: string;
@@ -83,5 +84,72 @@ export class DataGenerator {
         };
 
         fs.writeFileSync(sourcesPath, JSON.stringify(data, null, 2));
+    }
+
+    // Generate RSS, Atom, and JSON Feeds in public/ directory
+    public generateFeeds(articles: Article[]) {
+        const publicDir = path.join(this.outputDir, '..');
+        
+        // Sort articles by publication date descending (newest first)
+        const sortedArticles = [...articles].sort((a, b) => {
+            return new Date(b.published_at).getTime() - new Date(a.published_at).getTime();
+        });
+
+        const feed = new Feed({
+            title: "NewsScope Daily",
+            description: "世界各地のニュースソースから情報を自動収集し、AIで要約・分類した日本語ニュースフィード",
+            id: "https://pxrllc.github.io/NewScopeDaily/",
+            link: "https://pxrllc.github.io/NewScopeDaily/",
+            language: "ja",
+            image: "https://pxrllc.github.io/NewScopeDaily/favicon.png",
+            favicon: "https://pxrllc.github.io/NewScopeDaily/favicon.png",
+            copyright: `All rights reserved ${new Date().getFullYear()}, NewsScope Daily`,
+            updated: new Date(),
+            generator: "NewsScope Daily Feed Generator",
+            feedLinks: {
+                rss: "https://pxrllc.github.io/NewScopeDaily/feed.xml",
+                atom: "https://pxrllc.github.io/NewScopeDaily/atom.xml",
+                json: "https://pxrllc.github.io/NewScopeDaily/feed.json"
+            },
+            author: {
+                name: "NewsScope Daily",
+                link: "https://pxrllc.github.io/NewScopeDaily/"
+            }
+        });
+
+        sortedArticles.forEach(article => {
+            const title = article.titleJa || article.title;
+            const description = article.summary || article.description;
+            const categoryName = article.categoryJa || article.category || "未分類";
+            
+            // Generate detailed HTML content for feed readers
+            const content = `
+                <p>${description}</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> ${article.source}<br/>
+                    <strong>対象国:</strong> ${article.country || '不明'}<br/>
+                    <strong>カテゴリ:</strong> ${categoryName}<br/>
+                    <strong>重要度スコア:</strong> ${article.importanceScore || 'N/A'}
+                </p>
+            `;
+
+            feed.addItem({
+                title: title,
+                id: article.id,
+                link: article.url,
+                description: description,
+                content: content,
+                date: new Date(article.published_at),
+                image: article.imageUrl
+            });
+        });
+
+        // Write files
+        fs.writeFileSync(path.join(publicDir, 'feed.xml'), feed.rss2());
+        fs.writeFileSync(path.join(publicDir, 'atom.xml'), feed.atom1());
+        fs.writeFileSync(path.join(publicDir, 'feed.json'), feed.json1());
+        
+        console.log("Feeds generated (feed.xml, atom.xml, feed.json).");
     }
 }

@@ -13,6 +13,11 @@
         rel="stylesheet">
     <!-- App CSS -->
     <link rel="stylesheet" href="css/style.css">
+    
+    <!-- Feeds -->
+    <link rel="alternate" type="application/rss+xml" title="NewsScope Daily RSS" href="./feed.xml" />
+    <link rel="alternate" type="application/atom+xml" title="NewsScope Daily Atom" href="./atom.xml" />
+    <link rel="alternate" type="application/json" title="NewsScope Daily JSON Feed" href="./feed.json" />
     <style>
         .about-container {
             max-width: 800px;
@@ -71,6 +76,19 @@
                 we provide a daily digest that highlights diverse viewpoints from the "Global South" alongside Western
                 perspectives.
             </p>
+        </section>
+
+        <section class="about-section">
+            <h2>Feed Subscription</h2>
+            <p>
+                NewsScope Daily で要約された最新ニュースは、各種フィードリーダーや外部サービスで購読可能です。
+                用途に合わせて以下のフィードをご利用ください。
+            </p>
+            <ul>
+                <li>📡 <strong><a href="./feed.xml" target="_blank">RSS 2.0 フィード</a></strong> (一般的なフィードリーダー、Slack/Discord連携など)</li>
+                <li>📡 <strong><a href="./atom.xml" target="_blank">Atom フィード</a></strong> (開発環境や厳格なXML規格が必要なツールなど)</li>
+                <li>📡 <strong><a href="./feed.json" target="_blank">JSON Feed 1.1</a></strong> (API連携、独自のJavaScript/TypeScriptアプリケーションなど)</li>
+            </ul>
         </section>
 
         <section class="about-section">
