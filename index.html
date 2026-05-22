@@ -20,6 +20,11 @@
 
     <!-- App CSS -->
     <link rel="stylesheet" href="css/style.css">
+
+    <!-- Feeds -->
+    <link rel="alternate" type="application/rss+xml" title="NewsScope Daily RSS" href="./feed.xml" />
+    <link rel="alternate" type="application/atom+xml" title="NewsScope Daily Atom" href="./atom.xml" />
+    <link rel="alternate" type="application/json" title="NewsScope Daily JSON Feed" href="./feed.json" />
 </head>
 
 <body class="dark-theme">
@@ -51,6 +56,14 @@
                     <div class="share-controls">
                         <button class="share-btn" onclick="sharePage('x')" aria-label="Share on X">𝕏</button>
                         <button class="share-btn" onclick="sharePage('copy')" aria-label="Copy Link">📋</button>
+                    </div>
+                    <div class="feed-control">
+                        <button id="feed-btn" class="nav-btn feed-trigger" onclick="toggleFeedDropdown()" title="フィード購読" aria-label="Feed Subscription">📡</button>
+                        <div id="feed-dropdown" class="feed-dropdown hidden">
+                            <a href="./feed.xml" target="_blank" class="feed-link-item"><span class="feed-badge rss">RSS</span>RSS 2.0</a>
+                            <a href="./atom.xml" target="_blank" class="feed-link-item"><span class="feed-badge atom">Atom</span>Atom 1.0</a>
+                            <a href="./feed.json" target="_blank" class="feed-link-item"><span class="feed-badge json">JSON</span>JSON Feed</a>
+                        </div>
                     </div>
                     <a href="about.html" class="about-link">About / License</a>
                 </div>
