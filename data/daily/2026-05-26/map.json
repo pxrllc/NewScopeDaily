@@ -1,0 +1,962 @@
+{
+  "IR": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c9ad45b6d706337eab4a6bbab0d0eb98",
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T09:44:58.000Z",
+      "description": "US Central Command says the strikes were taken in \"self-defence\", while Iran reports it downed a US drone that entered its airspace.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米国、イランへの新たな攻撃を開始、ミサイル基地と船舶を標的に",
+      "summary": "米国がイランのミサイル基地などを攻撃し、イランは自国の領空に侵入した米国のドローンを撃墜したと報告。地域情勢の緊張が高まっている。"
+    }
+  },
+  "BE": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0ff3e9cc36e3018d0ca70cc6e29bae33",
+      "title": "Belgium: Train collides with school bus, several dead",
+      "url": "https://www.dw.com/en/belgium-train-collides-with-school-bus-several-dead/a-77296681?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-26T10:53:00.000Z",
+      "description": "A train has crashed into a school bus near a town close to Brussels, killing at least four people, including two children.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "BE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ベルギー：列車とスクールバスが衝突、複数名が死亡",
+      "summary": "ブリュッセル近郊の町で列車がスクールバスと衝突し、子供2人を含む少なくとも4人が死亡した。"
+    }
+  },
+  "LB": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7de43f886f6ee935abbfb943d243befd",
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T12:44:57.000Z",
+      "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イスラエル攻撃激化、レバノン村で11人死亡",
+      "summary": "イスラエルがレバノンでの攻撃を激化させ、ヒズボラの施設や戦闘員を攻撃。レバノンの村では11人が死亡したと報じられている。"
+    }
+  },
+  "CD": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "41ece54e1f0361d21bc3b3d987330534",
+      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
+      "url": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T11:22:04.000Z",
+      "description": "The governor of Ituri said the more time they lose, the closer the province is to disaster.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CD",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "エボラ、壊滅的状況回避には迅速な対応が必要とDRコンゴ知事",
+      "summary": "コンゴ民主共和国のイトゥリ州知事は、エボラ出血熱の壊滅的状況を防ぐためには迅速な対応が不可欠であると警告した。"
+    }
+  },
+  "UA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "af6e7b64aaf5babb025285da27de2f80",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T03:06:06.000Z",
+      "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ロシア、キーウへのさらなる攻撃を威嚇し外国人に退去を促す",
+      "summary": "ロシアがウクライナ首都キーウへの攻撃強化を予告し、外国人に退去を勧告した。これに先立ち、キーウは大規模な空爆を受けていた。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4d43d635f99d569cb7423645725da392",
+      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
+      "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T07:09:38.000Z",
+      "description": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "オーストラリア、数十年来最悪の流行で初のジフテリア死亡例確認",
+      "summary": "オーストラリアで数十年来最悪のジフテリア流行の中、初の死亡例が確認された。北部準州を中心に複数の州で感染が拡大している。"
+    }
+  },
+  "CN": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "af7ca82d1d55b886b563f46e66da44e6",
+      "title": "Moment of gas explosion at China coal mine",
+      "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T10:20:57.000Z",
+      "description": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "中国の炭鉱でガス爆発の瞬間、82人以上が死亡",
+      "summary": "中国北部の炭鉱でガス爆発が発生し、少なくとも82人が死亡、2人が行方不明となっている。"
+    }
+  },
+  "SN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "01b012b93490c8c7f07237df73cd84c0",
+      "title": "Senegal's sacked PM Sonko elected parliamentary Speaker in challenge to president",
+      "url": "https://www.bbc.com/news/articles/cg4pppq12nvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T11:21:52.000Z",
+      "description": "As speaker, Sonko could use his position to challenge the policies of the president, his one-time ally.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "SN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "セネガル、解任されたソンコ元首相が議会議長に選出、大統領への挑戦に",
+      "summary": "セネガルで解任されたソンコ元首相が議会議長に選出され、かつての盟友である大統領の政策に挑戦する可能性が浮上した。"
+    }
+  },
+  "LA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9b1c6508cf64c7181a71cb5caa4d66b7",
+      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
+      "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-26T01:48:34.000Z",
+      "description": "A team of experts who helped free a teen football team from a Thai cave in 2018 are among the rescuers.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "LA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "ラオスで洪水に見舞われた洞窟に閉じ込められた7人の救出活動が続く",
+      "summary": "ラオスで洪水により洞窟に閉じ込められた7人の救出活動が進行中。2018年のタイ洞窟救出に携わった専門家チームも参加している。"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "462f593eec0247951991b5b18c912fdc",
+      "title": "Ferrari unveils its first all-electric car, the 4-door Luce",
+      "url": "https://www.dw.com/en/ferrari-unveils-its-first-all-electric-car-the-4-door-luce/a-77297459?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-26T13:24:00.000Z",
+      "description": "The Italian supercar giant has released images of what will be both its first ever pure EV, and its first car that can seat five people. The Luce eyes a younger clientele and the increasingly competitive Chinese market.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "フェラーリが初の全電気自動車4ドア「ルーチェ」を発表",
+      "summary": "イタリアのスーパーカー大手フェラーリが、初の純粋なEVとなる4ドア車「ルーチェ」を発表。若年層と中国市場をターゲットとしている。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "371ff408759138f1076054d229ecd9f8",
+      "title": "Marco Rubio's India visit signals effort to steady ties",
+      "url": "https://www.dw.com/en/marco-rubio-s-india-visit-signals-effort-to-steady-ties/a-77297978?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-26T12:17:00.000Z",
+      "description": "The US secretary of state's visit to New Delhi comes after months of tension between the US and India. Underlying disputes over trade, energy and strategy show trust remains fragile.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "マルコ・ルビオ国務長官のインド訪問、関係安定化の努力を示す",
+      "summary": "米国務長官のニューデリー訪問は、米国とインド間の数ヶ月にわたる緊張の後に行われた。貿易、エネルギー、戦略を巡る根深い紛争が、信頼関係の脆弱さを示している。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3d5180aa5dd062c5594b2d0362d0d756",
+      "title": "How jazz became an act of defiance in Nazi Germany",
+      "url": "https://www.dw.com/en/how-jazz-became-an-act-of-defiance-in-nazi-germany/a-77143547?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-26T12:02:00.000Z",
+      "description": "The Nazis denounced jazz music as \"degenerate art,\" despite its widespread popularity in Germany. Amid crackdowns on freedom of expression, groups of jazz-loving teenagers formed the Swing Youth in rebellion.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ナチス・ドイツにおいてジャズがいかに反抗の行為となったか",
+      "summary": "ナチスはジャズを「退廃芸術」と非難したが、ドイツでは広く人気があった。表現の自由が弾圧される中、ジャズ愛好の若者たちがスウィング・ユースを結成し反抗した。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "969600298efc385c8c6eaececf14448b",
+      "title": "Putin offers debt relief to new recruits for Ukraine war",
+      "url": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-05-26T11:58:00.000Z",
+      "description": "New recruits for Russia's war in Ukraine will have debts up to 10 million rubles canceled under a presidential decree. Another new law reportedly foresees the use of Russian armed forces to protect citizens abroad.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "プーチン大統領、ウクライナ戦争の新規兵士に債務救済を提案",
+      "summary": "ロシアのプーチン大統領が、ウクライナ戦争の新規兵士に対し、最大1000万ルーブルの債務を免除する大統領令を出した。また、ロシア軍を海外市民保護に使う新法も報じられている。"
+    }
+  },
+  "US": {
+    "count": 8,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ddf58af09d5eb6bc2c1740d1fc202773",
+      "title": "Can the US and India repair ties over trade and China?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
+      "published_at": "2026-05-26T11:23:17.000Z",
+      "description": "Rubio's visit to India comes as Washington seeks closer ties with New Delhi amid trade tensions and energy politics.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "米国とインドは貿易と中国を巡る関係を修復できるか？",
+      "summary": "ルビオ氏のインド訪問は、貿易摩擦とエネルギー政策を巡る中で、米国がニューデリーとの緊密な関係を求める中で行われた。"
+    }
+  },
+  "TR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f606738dd68dac9b5394be77c2ade0a1",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T19:49:39.000Z",
+      "description": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "TR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "トルコの機動隊、指導者追放後、野党事務所に突入",
+      "summary": "トルコの機動隊が、指導者追放の裁判所命令に反発した野党事務所に強制的に突入した。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5a41ce8a35ce54fe4e16dfcff2a25572",
+      "title": "South Korea overpass collapse kills three in Seoul",
+      "url": "http://www.euronews.com/video/2026/05/26/south-korea-overpass-collapse-kills-three-in-seoul",
+      "published_at": "2026-05-26T13:06:27.000Z",
+      "description": "South Korea authorities launched an investigation after part of a decades-old overpass collapsed in Seoul on 26 May. The accident killed three people and disrupted rail traffic near the capital’s main station.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "KR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "韓国ソウルで陸橋崩落、3人死亡",
+      "summary": "ソウルで数十年前の陸橋の一部が崩落し、3人が死亡した。当局は調査を開始し、首都の主要駅近くの鉄道交通に影響が出た。"
+    }
+  },
+  "GB": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7bf9c3467f7fc70a717eec0dabbb2831",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-22T15:03:51.000Z",
+      "description": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GB",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 80,
+      "titleJa": "英国の科学者、数ヶ月以内に治験可能となるエボラワクチンを開発中",
+      "summary": "英国の科学者たちが、致死率が約3分の1に達し、まだ確立されたワクチンがない稀な種であるブンディブギョ型エボラのワクチン開発を進めており、数ヶ月以内に治験が可能となる見込みだ。"
+    }
+  },
+  "FR": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bbab3dca5a66440f6893f9062bf138b5",
+      "title": "French Open: Sabelenka storms to opening win against Bouzas Maneiro",
+      "url": "https://www.aljazeera.com/sports/2026/5/26/french-open-sabelenka-storms-to-opening-win-against-bouzas-maneiro?traffic_source=rss",
+      "published_at": "2026-05-26T12:57:05.000Z",
+      "description": "Aryna Sabalenka powered into the French Open second round, defying her world number 50 opponent and searing Paris heat.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "FR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "全仏オープン：サバレンカ、ブザス・マネイロ戦で快勝",
+      "summary": "アリーナ・サバレンカは全仏オープン2回戦へ進出し、対戦相手とパリの猛暑をものともせず力強い勝利を収めた。"
+    }
+  },
+  "AZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6fd32f0ea5d93a569074eaba4b68677b",
+      "title": "African cities sound alarm on climate and housing at Baku urban forum",
+      "url": "http://www.euronews.com/business/2026/05/26/african-cities-sound-alarm-on-climate-and-housing-at-baku-urban-forum",
+      "published_at": "2026-05-26T12:12:54.000Z",
+      "description": "From flooding in Addis Ababa to housing deficits in Luanda, African officials at the World Urban Forum in Baku say climate change and rapid urbanisation are outpacing their ability to respond — and the money to fix it is not there.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AZ",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "アフリカの都市がバクー都市フォーラムで気候変動と住宅問題に警鐘",
+      "summary": "バクーで開催された世界都市フォーラムで、アフリカ諸国の当局者が気候変動と急速な都市化が対応能力を超えており、資金不足を訴えた。"
+    }
+  },
+  "EE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7a544306c9b2ed53affb22f88518e05d",
+      "title": "Direct talks with Russia would make EU a 'neutral mediator', Estonia warns",
+      "url": "http://www.euronews.com/my-europe/2026/05/26/direct-talks-with-russia-would-make-eu-a-neutral-mediator-estonia-warns",
+      "published_at": "2026-05-26T12:10:37.000Z",
+      "description": "\"This is not the right time to rush into any kind of talks\" with Russia, Estonian Foreign Minister Margus Tsahkna has said as debate over how to end the invasion of Ukraine continues.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "EE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ロシアとの直接対話はEUを「中立的な仲介者」にする、とエストニアが警告",
+      "summary": "エストニア外相は、ロシアとの直接対話はEUを中立的な仲介者にするとして、今は急いで対話に臨むべき時ではないと警告した。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e7a81df70c8fcf6e7de72185e300f398",
+      "title": "Israeli air attacks kill seven Palestinians in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
+      "published_at": "2026-05-26T12:34:20.000Z",
+      "description": "At least five Palestinians killed in Israeli attack on a refugee camp in central Gaza, officials said.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イスラエルによる空爆でガザのパレスチナ人7人死亡",
+      "summary": "ガザ中央部の難民キャンプに対するイスラエル軍の攻撃により、少なくともパレスチナ人5人が死亡したと当局が発表した。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a4d785c8a0d1709b9bf9cca6ba9b9a88",
+      "title": "‘United’ Spain first as Barcelona top absent Real Madrid in World Cup squad",
+      "url": "https://www.aljazeera.com/sports/2026/5/26/united-spain-first-as-barcelona-top-absent-real-madrid-in-world-cup-squad?traffic_source=rss",
+      "published_at": "2026-05-26T12:12:42.000Z",
+      "description": "Real's absence from Spain's World Cup squad, while Barca dominate picks, explained by coach as 'united nation' first.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 68,
+      "titleJa": "「団結した」スペイン、ワールドカップ代表でバルセロナが不在のレアル・マドリードを上回る",
+      "summary": "スペインのワールドカップ代表選考で、レアル・マドリード選手不在の中、バルセロナ選手が多数選出。監督は「団結した国家」を優先したと説明した。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e5b38df4af73bf4f5d265ae8525c43c9",
+      "title": "Libyan forces detain Gaza land convoy activists at Sirte checkpoint",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss",
+      "published_at": "2026-05-26T11:37:07.000Z",
+      "description": "Forces loyal to Libyan commander Khalifa Haftar have detained members of a land convoy trying to bring aid to Gaza.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "リビア軍、ガザ陸路支援隊の活動家をシルト検問所で拘束",
+      "summary": "リビアのハリファ・ハフタル司令官に忠実な部隊が、ガザへ援助物資を届けようとしていた陸路支援隊のメンバーを拘束した。"
+    }
+  },
+  "SA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f6b2769be2a483a2a980561f296f24b2",
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T01:08:39.000Z",
+      "description": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "サウジアラビアの浪費はどのようにして限界に達したか",
+      "summary": "サウジアラビアの「ビジョン2030」プロジェクトはかつてSFのようだったが、現実の壁に直面し、大規模な浪費が限界に達した状況を探る。"
+    }
+  },
+  "IL": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "70fc12c648119ff90f7f85c4721870b0",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T16:36:30.000Z",
+      "description": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "ヒズボラのドローン攻撃映像はイスラエルに対する戦術の進化を示す",
+      "summary": "BBC Verifyがレバノンの武装組織ヒズボラによる対イスラエル向け光ファイバードローン攻撃の映像を多数分析し、戦術の進化を示している。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "51b22d67d6f62a8ed6718a359fc87fa6",
+      "title": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effect’?",
+      "url": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect",
+      "published_at": "2026-05-08T18:00:41.000Z",
+      "description": "...[T]he promise of a digital future may come at the same heavy cost to human rights and environmental justice as the floral exports that preceded it.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "花からデータへ：ケニアのデータセンターブームは「温室効果」を繰り返すのか？",
+      "summary": "ケニアのデータセンター急増は、花の輸出産業と同様に人権と環境正義に大きな代償を払う可能性。デジタル化が新たな問題を引き起こす懸念がある。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dec44f519fb0f081262eb0d68ab3602a",
+      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+      "url": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T23:13:50.000Z",
+      "description": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 45,
+      "titleJa": "モロッコ、西サハラへの観光客誘致を目指す。一部では支配強化との声も",
+      "summary": "モロッコ政府は領有を主張する西サハラへの欧米からの観光客誘致を計画している。しかし、一部からはこれが支配強化の動きだと批判する声も上がっている。"
+    }
+  },
+  "SL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0104819883d7e767f57ae720ff0f628d",
+      "title": "From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady",
+      "url": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-17T23:01:51.000Z",
+      "description": "The private world of one of Africa's most powerful political women is revealed in a BBC World Service exclusive.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 35,
+      "titleJa": "児童婚からの脱却、「老いた変質者」を避け、シエラレオネのファーストレディに",
+      "summary": "アフリカで最も影響力のある政治家の一人であるシエラレオネのファーストレディが、児童婚を逃れ、現在の地位に至るまでの私的な道のりをBBCワールドサービス独占取材で明らかにした。"
+    }
+  },
+  "NE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "61edaba2b95c2802dd8257b330afd063",
+      "title": "For most Nigeriens, France has no place in Niger",
+      "url": "https://globalvoices.org/2026/05/24/for-most-nigeriens-france-has-no-place-in-niger",
+      "published_at": "2026-05-24T08:00:02.000Z",
+      "description": "The coup d'état on July 26, 2023, which ousted President Mohamed Bazoum, confirmed the Nigeriens’ resolve to sever all ties with France.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ほとんどのニジェール人にとって、フランスはニジェールに居場所がない",
+      "summary": "2023年7月のクーデターでバズーム大統領が失脚して以来、ニジェール国民の多くはフランスとの関係を断ち切ることを強く決意。政治的独立と主権回復への動きを示している。"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "98f83bb49c3cce2d126a673b5239c4c7",
+      "title": "How Nigerians are coping with heat waves amid crippling power outages",
+      "url": "https://globalvoices.org/2026/05/11/how-nigerians-are-coping-with-heat-waves-amid-crippling-power-outages",
+      "published_at": "2026-05-11T08:00:40.000Z",
+      "description": "Due to epileptic nature of the power supply, it is difficult to cope with the heat, especially during nighttime when the heat is intense.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "深刻な停電の中、ナイジェリア人は猛暑にどう対処しているか",
+      "summary": "深刻な電力供給の不安定さにより、ナイジェリアでは特に夜間の猛暑に耐えることが困難。住民の生活に深刻な影響を与えており、対策が急務となっている。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7ff50efe44db29cefdec58baca5c8f85",
+      "title": "Buea, Cameroon is facing recurring floods despite a lack of rain",
+      "url": "https://globalvoices.org/2026/05/07/buea-cameroon-is-facing-recurring-floods-despite-the-lack-of-rain",
+      "published_at": "2026-05-07T16:00:34.000Z",
+      "description": "Experts say lahars happen because loose material on the slopes of an inactive but still changing volcano is washed down after prolonged dryness.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 65,
+      "titleJa": "カメルーンのブエアでは雨不足にもかかわらず洪水が頻発",
+      "summary": "カメルーンのブエアでは雨不足にもかかわらず洪水が頻発。専門家は、長期乾燥後に火山斜面の物質が洗い流されるラハールが原因と指摘している。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6f4c61e363ebf23f129baa2333536b73",
+      "title": "The invisible migration: How urban refugees are powering Uganda’s economy",
+      "url": "https://globalvoices.org/2026/05/06/the-invisible-migration-how-urban-refugees-are-powering-ugandas-economy",
+      "published_at": "2026-05-06T08:00:30.000Z",
+      "description": "As Paul Kithima and the entrepreneurs in Makindye demonstrate, when refugees are given the tools to succeed, they don’t just survive, they build the future of the country that welcomed them.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "見えない移住：都市部の難民がいかにウガンダ経済を支えているか",
+      "summary": "ウガンダでは、都市部の難民が起業家として経済に貢献。適切な支援があれば、彼らは単に生き残るだけでなく、受入国の未来を築く力となることが示されている。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "996b7513dd6e995aa3d342038ab77aaa",
+      "title": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her death?",
+      "url": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death",
+      "published_at": "2026-05-05T01:00:21.000Z",
+      "description": "An Ethiopian creator who built her audience in Afan Oromo died by suicide on April 29. Her farewell post and video remain on Facebook today. Platforms missed every signal",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "エチオピアのTikTokが人気クリエイターの死を悼む。TikTokとMetaは彼女の死に加担しているのか？",
+      "summary": "エチオピアの人気TikTokクリエイターが自殺で死去。彼女の遺書や動画がFacebookに残され、ソーシャルメディアプラットフォームが警告信号を見逃した責任が問われている。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2f149d0e92935d26081d9590a34927f3",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-23T14:24:48.000Z",
+      "description": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "フランス人母親とパートナー、ポルトガルで息子たちを道端に放置後、裁判まで勾留",
+      "summary": "ポルトガル南部で息子たちを道端に放置したとされるフランス人母親とそのパートナーが、裁判まで勾留されることになった。"
+    }
+  },
+  "VE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4c278426fc03bdc39c1ef7006feca509",
+      "title": "The death of a relentless mother reopens the wound of Venezuela’s political repression",
+      "url": "https://globalvoices.org/2026/05/25/the-death-of-a-relentless-mother-reopens-the-wound-of-venezuelas-political-repression",
+      "published_at": "2026-05-25T01:00:25.000Z",
+      "description": "Carmen Navas’s passing reveals alleged institutional coverups, deepening concerns about repression, impunity, and Venezuela’s ongoing democratic collapse.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "粘り強い母親の死がベネズエラの政治的抑圧の傷を再燃させる",
+      "summary": "カルメン・ナバスの死は、ベネズエラにおける制度的隠蔽疑惑を明らかにし、政治的抑圧、不処罰、そして進行中の民主主義の崩壊への懸念を深めている。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3e64a0edec05d42d9c44885c92791a92",
+      "title": "Three arrested over burglaries against high-profile athletes",
+      "url": "https://www.bbc.com/news/articles/c0m22vdwrr9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-25T14:51:28.000Z",
+      "description": "The Chilean nationals were arrested in Argentina on suspicion of targeting stars including Travis Kelce.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "高名なアスリートに対する強盗容疑で3名が逮捕",
+      "summary": "チリ国籍の3名が、トラビス・ケルシーを含む著名なアスリートを標的とした強盗の疑いでアルゼンチンで逮捕された。"
+    }
+  },
+  "BO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "20012083a3cdb4e14cb7d8a27949b0ee",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T11:42:48.000Z",
+      "description": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ボリビア人大臣の車列、道路封鎖解除を監督中に待ち伏せ攻撃を受ける",
+      "summary": "ボリビアで、経済政策への抗議による道路封鎖解除を監督していた大臣の車列が待ち伏せ攻撃を受けた。治安部隊も抵抗に遭った。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7fd51e34ef97f2236b02126ef2fe5704",
+      "title": "Jamaica's Jackson smashes meeting record to win 200m",
+      "url": "https://www.bbc.com/sport/athletics/articles/c052v54ejmro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-23T12:30:46.000Z",
+      "description": "Two-time 200m world champion Shericka Jackson produces a dominant display to win the 200m Diamond League event in Xiamen.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "ジャマイカのジャクソン選手、200mで大会記録を破り優勝",
+      "summary": "2度の200m世界チャンピオンであるシェリカ・ジャクソン選手（ジャマイカ）が、厦門で開催されたダイヤモンドリーグ200m種目で圧倒的な走りを見せ優勝し、大会記録を更新した。"
+    }
+  },
+  "CU": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "04ee2c9aa00c8cfa7aed1b5c8c5746f4",
+      "title": "Will US invade? Three ways Cuba crisis could play out now",
+      "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-21T18:40:12.000Z",
+      "description": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米国は侵攻するのか？キューバ危機の3つの展開シナリオ",
+      "summary": "トランプ政権がキューバの共産主義政府に経済的圧力を強めている中、米国によるキューバへの侵攻の可能性とその展開シナリオが議論されている。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "122fef45187b2dc97a9d502964855e0a",
+      "title": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to women and girls",
+      "url": "https://globalvoices.org/2026/04/28/brazil-a-warning-on-how-ai-and-deepfakes-can-become-an-excessive-risk-to-women-and-girls",
+      "published_at": "2026-04-28T12:55:57.000Z",
+      "description": "A technical note by research center Internetlab points out that advances in synthetic image creators increase the risks of gender violence online and talks about platforms’ accountability",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 85,
+      "titleJa": "ブラジル：AIとディープフェイクがいかに女性と少女にとって「過度なリスク」となり得るかの警告",
+      "summary": "ブラジルの調査機関が、AIとディープフェイクの進歩がオンラインでのジェンダー暴力のリスクを高め、プラットフォームの責任を問うと警告している。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3061bbd28a9201c03feba3967a4d3bbb",
+      "title": "Dominican Republic: Is protecting your environment a way to love your country?",
+      "url": "https://globalvoices.org/2026/05/20/dominican-republic-is-protecting-your-environment-a-way-to-love-your-country",
+      "published_at": "2026-05-20T15:00:31.000Z",
+      "description": "Three Dominican ecologists and environmental managers explore how protecting ecosystems, conserving resources, and promoting sustainability represent meaningful acts of patriotism that safeguard communities, biodiversity, and future generations across the nation.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ドミニカ共和国：環境を保護することは祖国を愛する方法なのか？",
+      "summary": "ドミニカ共和国の生態学者らが、生態系保護と持続可能性が、コミュニティ、生物多様性、未来の世代を守る愛国的な行為であると論じている。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dc3f6c2e8803735acbeaa6a64887045a",
+      "title": "AI hype narrative reaches the public healthcare system in El Salvador",
+      "url": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador",
+      "published_at": "2026-04-28T06:01:51.000Z",
+      "description": "This time we take you to El Salvador, examining government claims that an AI-supported transformation of the public healthcare system will make it the most advanced in the world.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 68,
+      "titleJa": "エルサルバドルの公衆衛生システムにAIの誇大宣伝が到達",
+      "summary": "エルサルバドルで、AIを活用した公衆衛生システムの変革により、世界最先端になるとの政府の主張が検証されている。"
+    }
+  },
+  "PK": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ffdd4d4623036fa7138a6589460ced01",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T22:11:51.000Z",
+      "description": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PK",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "パキスタンで列車を狙った爆発、少なくとも20人死亡",
+      "summary": "パキスタンで軍人を輸送中の列車が武装分離主義者により攻撃され、爆発で少なくとも20人が死亡した。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d304d33b8dfb64ae074906e94168d819",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T14:25:00.000Z",
+      "description": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "フィリピンで建物崩壊、1名死亡、多数が閉じ込められた恐れ",
+      "summary": "マニラ近郊で建物が崩壊し、マレーシア人男性1名が死亡、約20名が瓦礫の下に閉じ込められている恐れがあると報じられた。"
+    }
+  },
+  "AF": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "82a6f228ed1acfe54d53fb1b2794003e",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-24T21:02:08.000Z",
+      "description": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AF",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "女子の教育が禁止された国で結婚を強いられ、タクシーで逃亡",
+      "summary": "女子教育が禁止されているアフガニスタンで結婚を強いられた女性がタクシーで逃亡した。多くの若い女性が夢を諦めているという。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "01f2a0e01b845d4983345ca5597ab1e1",
+      "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
+      "url": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-23T23:44:22.000Z",
+      "description": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "日本で離婚が親子を分断。法改正で単独親権は終わるか？",
+      "summary": "日本では離婚後の単独親権制度が見直され、民法改正により共同親権が初めて認められる可能性がある。"
+    }
+  },
+  "SE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "22d03e54c8e0b11abfa877c435c2d76c",
+      "title": "Sweden contributes SEK 2 million to WTO capacity-building activities",
+      "url": "https://www.wto.org/english/news_e/pres26_e/pr995_387_e.htm",
+      "published_at": "2026-05-08T00:00:00.000Z",
+      "description": "Sweden has given SEK 2 million (just under CHF 170,000) to the WTO's Global Trust Fund for 2026 to finance technical assistance and training programmes for government officials from developing economies and least-developed countries (LDCs). The contribution was confirmed at a signing ceremony on 8 May at the WTO attended by Ambassador Nina Tornberg of Sweden and the WTO's Director of the Finance and Corporate Services Division, Andrew Rizk.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "SE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "スウェーデン、WTOの能力構築活動に200万スウェーデン・クローナを拠出",
+      "summary": "スウェーデンは、途上国および後発開発途上国政府関係者向けの技術支援・研修プログラムのため、WTOのグローバル信託基金に200万クローナを拠出した。"
+    }
+  },
+  "BZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a7b350ec82e639389edab28960a2af56",
+      "title": "Trade Policy Review: Belize",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_blz_04may26_e.htm",
+      "published_at": "2026-05-04T00:00:00.000Z",
+      "description": "The fourth review of the trade policies and practices of Belize takes place on 4 and 6 May 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Belize.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "BZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 50,
+      "titleJa": "貿易政策レビュー：ベリーズ",
+      "summary": "ベリーズの貿易政策と慣行に関する第4回レビューが5月4日と6日に実施され、WTO事務局とベリーズ政府の報告書がレビューの基礎となる。"
+    }
+  }
+}
