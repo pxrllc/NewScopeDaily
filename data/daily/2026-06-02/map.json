@@ -1,0 +1,942 @@
+{
+  "IR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4beda47eed3c8c7caf3b1b38162610c5",
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T05:33:18.000Z",
+      "description": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "戦争開始以来、イランの攻撃で米軍施設20カ所が損傷したことが衛星画像で判明",
+      "summary": "衛星画像は、イランの攻撃により戦争開始以来20カ所の米軍施設が損傷したことを示している。テヘランの攻撃は公表よりも広範囲だったとアナリストは指摘。"
+    }
+  },
+  "IL": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7166cc2fe503e2bc22d8c0e556a4ade8",
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T14:13:53.000Z",
+      "description": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イスラエル首相、ヒズボラとの紛争激化を受けベイルート郊外への攻撃を命令",
+      "summary": "イスラエル首相は、イスラエル市民への攻撃報復として、ヒズボラの拠点であるベイルート郊外ダーヒエへの攻撃を命じたと発表。紛争は激化している。"
+    }
+  },
+  "MM": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "38126ab08f361845183797737715accf",
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T06:23:59.000Z",
+      "description": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "MM",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "ミャンマーの反政府勢力支配村で大規模爆発、数十人死亡",
+      "summary": "ミャンマーの反政府勢力支配村で大規模爆発が起き、数十人が死亡した。反政府勢力は、中国国境付近での採掘用爆発物が原因だと発表している。"
+    }
+  },
+  "CD": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "969845a20e5300a280d9f81e40588e41",
+      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+      "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-19T18:05:26.000Z",
+      "description": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 90,
+      "titleJa": "「エボラに苦しめられてきた」：致死性ウイルスの拡散でDRコンゴ東部に恐怖が広がる",
+      "summary": "DRコンゴ東部で致死性エボラウイルスの拡散が続き、地域に恐怖が広がっている。保健相は検知の遅れを認めた。"
+    }
+  },
+  "FR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a10c7212c5fb9a103dbae3cb31853a24",
+      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T11:53:26.000Z",
+      "description": "A British helicopter provided support during the operation on Sunday, the UK ministry of defence says.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "フランス、英国の協力で制裁対象のロシア石油タンカーを拿捕とマクロン大統領が発表",
+      "summary": "フランスのマクロン大統領は、英国の協力で制裁対象のロシア石油タンカーを拿捕したと発表。英国防省も作戦へのヘリコプター支援を確認した。"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06d1b0f058c2cc413f64819199082548",
+      "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
+      "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T03:19:57.000Z",
+      "description": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 35,
+      "titleJa": "ポーランドの物議を醸す「地獄へのハイウェイ」666番バスが復活",
+      "summary": "ポーランドの「ヘル」と呼ばれる海辺のリゾート地で、キリスト教団体からの以前の反対にもかかわらず、666番バスサービスが復活することになった。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "828a08b1d0f6ed5ffd73d582c735674d",
+      "title": "Nigeria police warn against reprisal attacks against South Africans",
+      "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T10:02:49.000Z",
+      "description": "Tensions have been rising in South Africa in recent weeks following several anti-migrant protests.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ナイジェリア警察、南アフリカ人に対する報復攻撃を警告",
+      "summary": "南アフリカでの反移民デモで緊張が高まる中、ナイジェリア警察は南アフリカ人に対する報復攻撃について警告を発した。"
+    }
+  },
+  "JP": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "745fef1529cb80a900715f39d5835cce",
+      "title": "Trade Policy Review: Japan",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_jpn_27may26_e.htm",
+      "published_at": "2026-05-27T00:00:00.000Z",
+      "description": "The sixteenth review of the trade policies and practices of Japan takes place on 27 and 29 May 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Japan.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "JP",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "貿易政策審査：日本",
+      "summary": "日本の貿易政策と慣行に関する第16回審査が実施され、WTO事務局と日本政府の報告書に基づいて行われる。"
+    }
+  },
+  "ET": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e95874c7c9607dae63b0a5305aa04e18",
+      "title": "Voting suspended in parts of Ethiopia over security concerns ",
+      "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T14:35:36.000Z",
+      "description": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エチオピアの一部地域で治安上の懸念から投票停止",
+      "summary": "治安上の懸念により、エチオピアの一部地域で投票が停止。紛争が続く中、アビー・アハメド首相の党が選挙で優勢となる見込み。"
+    }
+  },
+  "GB": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0edfbe32542db4f69410aec1923347d4",
+      "title": "UK wins court case over canceled plan to deport asylum seekers to Rwanda",
+      "url": "https://www.dw.com/en/uk-wins-court-case-over-canceled-plan-to-deport-asylum-seekers-to-rwanda/a-77379092?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-01T15:29:00.000Z",
+      "description": "An international court has rejected a Rwandan claim for millions in damages over a scrapped deal to send asylum seekers to the East African nation.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "英国、ルワンダへの亡命希望者送還計画中止を巡る訴訟で勝訴",
+      "summary": "英国は、亡命希望者をルワンダへ送還する計画の中止を巡るルワンダからの数百万ドル規模の損害賠償請求訴訟で、国際裁判所により勝訴した。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c70c962e9a8a11874d1b41359dcc81e2",
+      "title": "Germany news: Migration to Germany falls sharply in 2025",
+      "url": "https://www.dw.com/en/germany-news-migration-to-germany-falls-sharply-in-2025/live-77373791?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-01T09:56:00.000Z",
+      "description": "Fewer migrants are making their way to Germany, with net migration dropping to nearly half what is was. Meanwhile, a court in Düsseldorf has sentenced a man to life in prison over an Islamist attack. DW has the latest.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ドイツのニュース：2025年にドイツへの移民が大幅減少",
+      "summary": "ドイツへの純移住者数が半減し、一方でデュッセルドルフの裁判所ではイスラム過激派による攻撃の男に終身刑が言い渡された。"
+    }
+  },
+  "HU": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bea3b6a9c0429786e9ee5c93d4e043e8",
+      "title": "Hungary's Péter Magyar heads to Berlin and Paris to seal EU reset",
+      "url": "http://www.euronews.com/my-europe/2026/06/01/hungarys-peter-magyar-heads-to-berlin-and-paris-to-seal-eu-reset",
+      "published_at": "2026-06-01T15:25:25.000Z",
+      "description": "Hungary's PM Péter Magyar heads to Germany and France this week as part of his push to return Budapest to the European mainstream. The trip follows a deal with Brussels to unlock €16.4bn in frozen EU funds.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ハンガリーのペーテル・マジャル氏、EU関係再構築のためベルリンとパリへ",
+      "summary": "ハンガリーのペーテル・マジャル首相が、EU主流派への復帰と凍結されたEU資金の解除を巡り、ドイツとフランスを訪問する。"
+    }
+  },
+  "IN": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "af2b6ae8a2cad4408a94d60426e57c2d",
+      "title": "Mother-in-law of Indian bride whose death set off media frenzy arrested",
+      "url": "https://www.bbc.com/news/articles/c2e2lw0pv7zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-29T06:47:39.000Z",
+      "description": "Twisha Sharma's death on 12 May has sparked rival claims of murder and suicide and dominated headlines.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "死亡がメディアを騒がせたインド人花嫁の義母が逮捕される",
+      "summary": "インド人花嫁のトウィーシャ・シャルマさんの死を巡り殺人か自殺かでメディアが騒然とする中、義母が逮捕された。"
+    }
+  },
+  "TW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "58b3ecdb4dd92deeb71cf4eef710d4cf",
+      "title": "Taiwan opposition leader heads to US",
+      "url": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-01T10:56:00.000Z",
+      "description": "KMT leader Cheng Li-wun is traveling to the US for a two-week visit. She has indicated she is \"very interested\" in meeting President Donald Trump but could face a grilling over her stance on China relations.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "TW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "台湾野党指導者が米国へ向かう",
+      "summary": "台湾の国民党指導者、鄭麗文が米国を訪問し、トランプ前大統領との会談に意欲を見せるが、中国関係に関する立場について追及される可能性もある。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a5a1ccbc461d6605c3f2f97e13297aa3",
+      "title": "Mozambique: Are 'death squads' targeting the opposition?",
+      "url": "https://www.dw.com/en/mozambique-are-death-squads-targeting-the-opposition/a-77324093?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-01T10:06:00.000Z",
+      "description": "Deadly violence against opposition politicians has shaken Mozambique. While the government has called the incidents isolated cases, opposition and civil society warn of a pattern of politically motivated assassinations.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "MZ",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "モザンビーク：「死の部隊」が野党を標的にしているのか？",
+      "summary": "モザンビークで野党政治家に対する致死的な暴力が相次ぎ、政府は個別の事件とするが、野党や市民社会は政治的動機による暗殺のパターンだと警鐘を鳴らす。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "84c6a108929c7a80f1500a9afc83e01b",
+      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "published_at": "2026-06-01T11:59:11.000Z",
+      "description": "Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama\nGhana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping bill that criminalises the promotion of LGBTQ+ activities and identifying as lesbian, gay, bisexual, transgender or queer, rights groups have warned.\nThe legislation, which was passed on Friday, mandates prison sentences of three to 10 years.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "ガーナでLGBTQ+活動を犯罪とする包括的法律が可決され、人々は「パニック」に陥っている",
+      "summary": "ガーナでLGBTQ+活動を犯罪とする広範な法律が議会を通過。コミュニティは家や職、医療アクセスを失うことを恐れ、パニックに陥っていると人権団体が警告。"
+    }
+  },
+  "IE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d3a3ce7acc4e15249bdd52ce582a0d98",
+      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
+      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
+      "published_at": "2026-05-31T13:59:34.000Z",
+      "description": "Yves Sakila died after being restrained by security guards ‘in broad daylight’\nIrish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street, prompting an outcry and comparisons to the death of George Floyd.\nA forensic pathologist from England is to conduct an independent postmortem this week on Yves Sakila, 35, an alleged shoplifter who was pursued and pinned to the ground in the city centre on 15 May. The police force, An Garda Síochána, is investigating.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "IE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "コンゴ人男性の死がアイルランドにおける人種関係の精査を再燃させる",
+      "summary": "ダブリンで警備員に拘束されたコンゴ人男性の死が、アイルランドの人種関係に対する監視を強めている。当局は再検視に同意し、ジョージ・フロイドの死との比較も。"
+    }
+  },
+  "CO": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "be412b3f66a2df08250f4ccf83e60b90",
+      "title": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
+      "url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
+      "published_at": "2026-06-01T10:35:40.000Z",
+      "description": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks\nThe far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election on Sunday and will face senator Iván Cepeda, the candidate backed by leftwing president Gustavo Petro, in the runoff.\nWith 100% of ballots counted, the outsider and Donald Trump admirer De la Espriella secured 43.7% of the vote – just over 10.3m votes – compared with 40.9% (about 9.6m votes) for Cepeda, a philosopher and human rights activist who has served as a senator since 2014.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 88,
+      "titleJa": "コロンビアの極右大統領候補デラエスプリエラ氏、決選投票を前に第1回投票で勝利",
+      "summary": "コロンビア大統領選の第1回投票で、極右弁護士のアベラルド・デラエスプリエラ氏が勝利し、左派のイバン・セペダ上院議員と決選投票で対決することに。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "210bf283a1be3c86509a6efceb28b74f",
+      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+      "published_at": "2026-05-29T17:33:35.000Z",
+      "description": "Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of voters\n\nSign up for the Breaking News US newsletter email\n\nAmid fierce criticism from opposition groups, Mexico’s senate has passed ‌a constitutional amendment to include “foreign interference” as grounds to annul election results in the country.\nThe bill, which was presented by the country’s president, Claudia Sheinbaum, defines foreign interference as “illicit financing, propaganda, the systematic ⁠dissemination of misinformation, digital manipulation, and ⁠the intervention of foreign governments ⁠or agencies”.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 82,
+      "titleJa": "メキシコ、選挙を「外国の干渉」で無効にできる法案に警鐘",
+      "summary": "メキシコ上院が「外国の干渉」を理由に選挙結果を無効にできる憲法改正案を可決。野党は与党が有権者の意思を覆す全権を持つと懸念を表明。"
+    }
+  },
+  "US": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "04ee2c9aa00c8cfa7aed1b5c8c5746f4",
+      "title": "Will US invade? Three ways Cuba crisis could play out now",
+      "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-21T18:40:12.000Z",
+      "description": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "米国は侵攻するのか？キューバ危機の3つの展開シナリオ",
+      "summary": "トランプ政権がキューバの共産主義政府に経済的圧力を強める中、キューバ危機の潜在的な3つの展開が議論されています。"
+    }
+  },
+  "SE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6b0ad1ce6c34da4ea40f8092591c08a5",
+      "title": "Sweden eases rules for teenage migrants facing deportation, migration minister says",
+      "url": "http://www.euronews.com/my-europe/2026/06/01/sweden-eases-rules-for-teenage-migrants-facing-deportation-migration-minister-says",
+      "published_at": "2026-06-01T14:15:45.000Z",
+      "description": "Following a large influx of asylum seekers in Sweden in 2015, successive left- and right-wing governments have tightened asylum rules.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "SE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "スウェーデン、国外追放の危機に瀕する未成年移民の規則を緩和",
+      "summary": "スウェーデン政府は、国外追放の対象となる未成年移民への規則を緩和すると移民大臣が発表した。2015年の大量の亡命申請者流入以来、亡命規則は厳格化されていた。"
+    }
+  },
+  "LB": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "110080f9ead8d3e05a77436dddda9ed3",
+      "title": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss",
+      "published_at": "2026-06-01T12:22:53.000Z",
+      "description": "Videos show gridlocked traffic in the southern suburbs of Beirut as residents rushed to evacuate the Dahiyeh area.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "イスラエルが攻撃を命じ、ベイルート南部郊外の住民が避難",
+      "summary": "イスラエルが攻撃を命じたことを受け、ベイルート南部郊外の住民がダヒエ地区から避難を急ぎ、交通渋滞が発生している様子が動画で報じられた。"
+    }
+  },
+  "EG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9e3d66eaeb816c70c360a9d57399397f",
+      "title": "The schoolgirl who became world champion at 14",
+      "url": "https://www.bbc.com/sport/modern-pentathlon/articles/clyp8gy7vn9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-01T12:03:24.000Z",
+      "description": "Egypt's Farida Khalil beat competitors twice her age to become world champion in modern pentathlon at the age of 14 after the sport was revamped.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "EG",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "14歳で世界チャンピオンになった女子学生",
+      "summary": "エジプトのファリダ・ハリル選手が14歳で近代五種競技の世界チャンピオンに輝き、年上の選手を打ち破った。"
+    }
+  },
+  "MT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "365381f8c1a8c345bbd1ba0a9cf21955",
+      "title": "Huge explosion at Malta fireworks factory",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/huge-explosion-at-malta-fireworks-factory?traffic_source=rss",
+      "published_at": "2026-06-01T14:23:01.000Z",
+      "description": "A large explosion has torn through a fireworks factory in northern Malta, damaging buildings several kilometres away.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "MT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "マルタの花火工場で大規模爆発",
+      "summary": "マルタ北部にある花火工場で大規模な爆発が発生。数キロ離れた建物にも被害が及んだ。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "99600de8d73845066c688a360ada087c",
+      "title": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
+      "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
+      "published_at": "2026-06-01T13:27:32.000Z",
+      "description": "As the conflict destroys local production, Sudanese patients are forced to rely on expensive, smuggled medicines.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "「劣化したインスリン」：スーダン紛争が医薬品供給を混乱させ密輸を助長",
+      "summary": "スーダン紛争により国内生産が破壊され、スーダン人患者は高価な密輸薬に頼らざるを得ず、劣化したインスリンなども流通している。"
+    }
+  },
+  "PS": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "57cd1704a96c73e99b6d256e83a6a352",
+      "title": "How the world failed Ryan and Yaman",
+      "url": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss",
+      "published_at": "2026-06-01T12:58:03.000Z",
+      "description": "An Israeli strike killed my children. What pains me is not just their loss but also the normalisation of their murder.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "世界はどのようにライアンとヤマンを見捨てたか",
+      "summary": "イスラエルによる攻撃で子供たちを亡くした親の視点から、子供たちの死の痛みだけでなく、その殺害が常態化していることへの苦痛を語る。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4731dd8125b2881ea29ec0717796c912",
+      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-30T01:34:38.000Z",
+      "description": "BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ウクライナ、AIドローンを使いロシア軍の重要輸送隊を攻撃",
+      "summary": "ウクライナがAI搭載ドローンを用いて、ロシア軍への弾薬・燃料・食料供給を行う重要輸送隊を攻撃している。これは戦争における新たな技術の活用を示す。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "98f83bb49c3cce2d126a673b5239c4c7",
+      "title": "How Nigerians are coping with heat waves amid crippling power outages",
+      "url": "https://globalvoices.org/2026/05/11/how-nigerians-are-coping-with-heat-waves-amid-crippling-power-outages",
+      "published_at": "2026-05-11T08:00:40.000Z",
+      "description": "Due to epileptic nature of the power supply, it is difficult to cope with the heat, especially during nighttime when the heat is intense.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ナイジェリア人が壊滅的な停電の中、熱波にどう対処しているか",
+      "summary": "壊滅的な停電により、ナイジェリア人は特に夜間の激しい熱波に対処するのに苦労している。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b26267da3467152defb4f300f14cc265",
+      "title": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
+      "url": "https://globalvoices.org/2026/05/28/somalia-drought-fuel-prices-and-conflicts-heighten-famine-risk",
+      "published_at": "2026-05-28T16:00:40.000Z",
+      "description": "According to the Integrated Food Security Phase Classification, in May 2026, Somalia is facing one of the worst food crises in its history.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "ソマリア：干ばつ、燃料価格、紛争が飢餓リスクを高める",
+      "summary": "ソマリアは2026年5月に史上最悪の食料危機に直面。干ばつ、燃料価格高騰、紛争が飢餓リスクを深刻化させている。"
+    }
+  },
+  "NE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "61edaba2b95c2802dd8257b330afd063",
+      "title": "For most Nigeriens, France has no place in Niger",
+      "url": "https://globalvoices.org/2026/05/24/for-most-nigeriens-france-has-no-place-in-niger",
+      "published_at": "2026-05-24T08:00:02.000Z",
+      "description": "The coup d'état on July 26, 2023, which ousted President Mohamed Bazoum, confirmed the Nigeriens’ resolve to sever all ties with France.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "多くのニジェール人にとって、フランスはニジェールに居場所がない",
+      "summary": "2023年7月26日のクーデターにより、ニジェールはフランスとの関係を断ち切る決意を固めた。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "51b22d67d6f62a8ed6718a359fc87fa6",
+      "title": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effect’?",
+      "url": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect",
+      "published_at": "2026-05-08T18:00:41.000Z",
+      "description": "...[T]he promise of a digital future may come at the same heavy cost to human rights and environmental justice as the floral exports that preceded it.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "花からバイトへ：ケニアのデータセンターブームは「温室効果」を繰り返すのか？",
+      "summary": "ケニアのデータセンターブームは、デジタルな未来を約束する一方で、人権と環境正義に花卉輸出と同様の大きな代償をもたらす可能性がある。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7ff50efe44db29cefdec58baca5c8f85",
+      "title": "Buea, Cameroon is facing recurring floods despite a lack of rain",
+      "url": "https://globalvoices.org/2026/05/07/buea-cameroon-is-facing-recurring-floods-despite-the-lack-of-rain",
+      "published_at": "2026-05-07T16:00:34.000Z",
+      "description": "Experts say lahars happen because loose material on the slopes of an inactive but still changing volcano is washed down after prolonged dryness.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 60,
+      "titleJa": "カメルーンのブエアでは雨不足にもかかわらず洪水が頻発",
+      "summary": "カメルーンのブエア市では、長期間の乾燥後に火山斜面の緩い物質が流れ出すラハールにより、雨不足にもかかわらず洪水が頻発している。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6f4c61e363ebf23f129baa2333536b73",
+      "title": "The invisible migration: How urban refugees are powering Uganda’s economy",
+      "url": "https://globalvoices.org/2026/05/06/the-invisible-migration-how-urban-refugees-are-powering-ugandas-economy",
+      "published_at": "2026-05-06T08:00:30.000Z",
+      "description": "As Paul Kithima and the entrepreneurs in Makindye demonstrate, when refugees are given the tools to succeed, they don’t just survive, they build the future of the country that welcomed them.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "見えない移住：都市難民はいかにウガンダ経済を活性化しているか",
+      "summary": "ウガンダの都市難民は、成功のための手段を与えられれば、国の未来を築き、経済に貢献している。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "64809f36b919cb71ed70a20ef6523d98",
+      "title": "How Putin became master of the image",
+      "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-30T23:17:26.000Z",
+      "description": "From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "プーチンがいかにしてイメージの達人となったか",
+      "summary": "KGBエージェント時代から戦時下の指導者まで、プーチンが自身のイメージをいかに繰り返し再構築してきたかを探る記事。彼の人物像と政治戦略の一端を明らかにする。"
+    }
+  },
+  "RO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "99200d0bad001aa52eea7861eb302188",
+      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-29T17:27:09.000Z",
+      "description": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "NATOとEU、ルーマニアの住宅ブロックにドローンが命中したことを受けロシアを非難",
+      "summary": "ルーマニアの住宅ブロックにドローンが命中したことを受け、NATOとEUがロシアを非難。ルーマニアは、このロシアのドローンがウクライナ上空で防空システムに撃墜され、軌道が逸れたと述べている。"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0742cf973a578d3e9090e9d6775d1509",
+      "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+      "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-30T22:23:32.000Z",
+      "description": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "フェラーリはルーチェで中国製EVに対抗しようとしたが、反発が始まった",
+      "summary": "フェラーリ初のEV「ルーチェ」が、中国製EVに対抗しようとしたものの、ブランドのルーツを放棄したとの批判を受け、大きな反発に直面している。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3f41827139c0c3e8e0c46d9709aa0ac2",
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-28T23:36:01.000Z",
+      "description": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PT",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 85,
+      "titleJa": "ポルトガルが5月の最高気温記録を更新、ヨーロッパは熱波にうだる",
+      "summary": "ポルトガルが5月の最高気温記録を更新し、ヨーロッパ全土が熱波に見舞われている。フランスの学生は暑い学校で試験を受け、イタリアでは赤色警報が発令されている。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bf350457fd4edb13a7a008bf9b374e1a",
+      "title": "Caribbean hot sauce producers warn of shortages and higher prices",
+      "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-31T23:19:32.000Z",
+      "description": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "カリブ海のホットソース生産者が不足と価格高騰を警告",
+      "summary": "ジャマイカのホットソース製造業者が、主要な唐辛子の供給不足とそれに伴う価格高騰を警告しています。"
+    }
+  },
+  "CU": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "926ac301576388ef1c76ca711556b7b8",
+      "title": "The deadly plane attack at the centre of Castro's indictment",
+      "url": "https://www.bbc.com/news/articles/cp3pz43k99xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-20T18:14:10.000Z",
+      "description": "Raúl Castro was armed forces minister when Cuban military jets shot down two civilian planes operated by exiles of the communist country.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "カストロ氏起訴の中心となった致命的な航空機攻撃",
+      "summary": "ラウル・カストロ氏の起訴の核心は、彼が国防相だった頃にキューバ軍用機が亡命者の民間機2機を撃墜した事件です。"
+    }
+  },
+  "BO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f250b727cbb1c31df7701f1a9dc910b9",
+      "title": "Bolivian Congress allows deployment of troops to quell protests",
+      "url": "https://www.bbc.com/news/articles/c8932y4d4w7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-27T11:34:27.000Z",
+      "description": "Lawmakers who back the measure say it is key to restoring normality after four weeks of road blocks.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ボリビア議会、抗議活動鎮圧のための軍隊派遣を許可",
+      "summary": "ボリビア議会は、4週間にわたる道路封鎖などの抗議活動による混乱を収拾するため、軍隊の派遣を承認しました。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3fba310f81dfd1aa03b4d4868e5c87aa",
+      "title": "Attacks on trans identities become a strategic political tool in Brazil",
+      "url": "https://globalvoices.org/2026/05/21/attacks-on-trans-identities-become-a-strategic-trump-for-political-success-in-brazil",
+      "published_at": "2026-05-21T08:00:45.000Z",
+      "description": "In the last decade in Brazil, transphobia has become one of the main tools for disseminating misinformation. In many cases, it is spread by elected politicians with millions of followers",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 77,
+      "titleJa": "トランスジェンダーのアイデンティティへの攻撃がブラジルで戦略的な政治的道具に",
+      "summary": "過去10年間、ブラジルではトランスフォビアが誤情報の拡散の主要な手段となり、多くの場合は数百万人のフォロワーを持つ選出された政治家によって広められている。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ac68623dd8f0481572639d1acc0befd0",
+      "title": "Who is talking about artificial intelligence in Ecuador?",
+      "url": "https://globalvoices.org/2026/05/30/who-is-talking-about-artificial-intelligence-in-ecuador",
+      "published_at": "2026-05-30T04:00:00.000Z",
+      "description": "Ecuador is debating how to regulate artificial intelligence:, institutional gaps, and tensions between innovation, surveillance, education, inclusion, and responsible public governance are at the center of the conversation.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エクアドルでは誰が人工知能について語っているのか？",
+      "summary": "エクアドルで人工知能の規制に関する議論が進行中。技術革新、監視、教育、包摂、責任ある公共ガバナンスの間の緊張が論点となっている。"
+    }
+  },
+  "VE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4c278426fc03bdc39c1ef7006feca509",
+      "title": "The death of a relentless mother reopens the wound of Venezuela’s political repression",
+      "url": "https://globalvoices.org/2026/05/25/the-death-of-a-relentless-mother-reopens-the-wound-of-venezuelas-political-repression",
+      "published_at": "2026-05-25T01:00:25.000Z",
+      "description": "Carmen Navas’s passing reveals alleged institutional coverups, deepening concerns about repression, impunity, and Venezuela’s ongoing democratic collapse.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "執拗な母親の死がベネズエラの政治的抑圧の傷を再び開く",
+      "summary": "カルメン・ナバスの死により、ベネズエラの政治的抑圧、不処罰、民主主義の崩壊に関する懸念が再燃。政府機関による隠蔽疑惑が明らかになった。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3061bbd28a9201c03feba3967a4d3bbb",
+      "title": "Dominican Republic: Is protecting your environment a way to love your country?",
+      "url": "https://globalvoices.org/2026/05/20/dominican-republic-is-protecting-your-environment-a-way-to-love-your-country",
+      "published_at": "2026-05-20T15:00:31.000Z",
+      "description": "Three Dominican ecologists and environmental managers explore how protecting ecosystems, conserving resources, and promoting sustainability represent meaningful acts of patriotism that safeguard communities, biodiversity, and future generations across the nation.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ドミニカ共和国：環境を守ることは国を愛する方法なのか？",
+      "summary": "ドミニカ共和国のエコロジストたちが、生態系保護、資源保全、持続可能性の推進が、地域社会や生物多様性、未来の世代を守る愛国的な行為であると論じている。"
+    }
+  },
+  "CN": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1a08515dc936a063131f23168bf2f06d",
+      "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+      "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-31T23:32:04.000Z",
+      "description": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "秘密のトンネルと未登録労働者：中国の炭鉱災害は暗い時代を想起させる",
+      "summary": "中国で15年ぶりの最悪の炭鉱災害が発生。グリーンエネルギーへの転換が進む中で、秘密のトンネルや未登録労働者が問題視されている。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "413a7bd15de936d759567462cb524e86",
+      "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
+      "url": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-29T22:13:54.000Z",
+      "description": "Only licensed doctors were allowed to ink tattoos in Korea - breaking the law could lead to heavy fines or jail.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "数十年間の逮捕リスクを経て、韓国のタトゥーアーティストが脚光を浴びる",
+      "summary": "韓国で長年逮捕のリスクを冒してきたタトゥーアーティストたちが、法的制限が緩和され、ようやく公に活動できるようになり脚光を浴びている。"
+    }
+  },
+  "NZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cb770315abbd2b5c31a2e1b2bf0c42af",
+      "title": "New Zealand launches safeguard investigation on certain aluminium extrusions",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_nzl_28may26_394_e.htm",
+      "published_at": "2026-05-28T00:00:00.000Z",
+      "description": "On 27 May 2026, New Zealand notified the WTO’s Committee on Safeguards of the initiation on 28 May 2026 of a safeguard investigation on imports of certain aluminium extrusions.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "NZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "ニュージーランド、特定のアルミニウム押出材に対するセーフガード調査を開始",
+      "summary": "ニュージーランドは、特定のアルミニウム押出材の輸入に対するセーフガード調査の開始をWTOのセーフガード委員会に通知した。"
+    }
+  }
+}
