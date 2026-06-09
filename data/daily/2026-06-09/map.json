@@ -1,0 +1,882 @@
+{
+  "IR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "29a58af34f48880aa329e37742a86604",
+      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T05:07:44.000Z",
+      "description": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イスラエルとイランの衝突激化がテヘランの交渉力を強化する可能性",
+      "summary": "イスラエルとイラン間の衝突激化が、イランの交渉における優位性を高める可能性があると報じられている。"
+    }
+  },
+  "PH": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "00e4c227fb6f5d27934dd9a306120cb4",
+      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T07:36:15.000Z",
+      "description": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PH",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "フィリピンで数百回の余震、死者数はさらに増加の見込み",
+      "summary": "フィリピン南部での地震後、数百回の余震が続き、数十人が死亡、数百人が負傷しており、死者数増加が懸念されている。"
+    }
+  },
+  "US": {
+    "count": 11,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fa9e454e6d45927851d13279daf31d2b",
+      "title": "US puts Alibaba, BYD and Baidu on Chinese military blacklist ",
+      "url": "http://www.euronews.com/next/2026/06/09/us-puts-alibaba-byd-and-baidu-on-chinese-military-blacklist",
+      "published_at": "2026-06-09T12:06:18.000Z",
+      "description": "The Pentagon has added 188 Chinese companies to its military blacklist — its biggest ever expansion — in a move that targets household names far beyond the defence sector.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "米国、アリババ、BYD、百度を中国軍事ブラックリストに追加",
+      "summary": "米国防総省は、アリババやBYD、百度など中国企業188社を軍事ブラックリストに追加。過去最大の規模で、防衛産業以外の有名企業も対象となっている。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "682e0bdeea7845b553d91bf599e0d83b",
+      "title": "Man accused of killing mother-in-law with poison-laced satay",
+      "url": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T10:09:04.000Z",
+      "description": "Indonesia police allege the man killed the woman as he felt disrespected by her.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ID",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 30,
+      "titleJa": "サテに毒を仕込み義母を殺害した男を起訴",
+      "summary": "インドネシアで、男性が義母から軽んじられたと感じ、毒入りのサテで殺害したとして警察に逮捕された。"
+    }
+  },
+  "KP": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "74d44ba9f23ca18922ba28f599f0df7b",
+      "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T07:08:52.000Z",
+      "description": "Xi has wrapped up a two-day visit to Pyongyang, his first official trip to North Korea since 2019.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "習近平氏と金正恩氏、北朝鮮訪問を終え関係強化を誓う",
+      "summary": "習近平国家主席が北朝鮮への2日間の訪問を終え、金正恩総書記と共に両国の関係強化を誓った。"
+    }
+  },
+  "KE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "307a9194014534ca5ae3e2743836a791",
+      "title": "Kenya police fire tear gas at protest against US Ebola center",
+      "url": "https://www.dw.com/en/kenya-police-fire-tear-gas-at-protest-against-us-ebola-center/a-77469392?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-09T09:04:00.000Z",
+      "description": "Plans to open a quarantine center for American citizens exposed to Ebola are facing local resistance. Some Kenyans accuse the US government of outsourcing health risks.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ケニア警察、米国エボラセンター反対デモに催涙ガスを発射",
+      "summary": "ケニアで、米国市民向けのエボラ隔離センター開設計画に対し地元住民が抗議。一部のケニア人は米国政府が健康リスクを外部委託していると非難し、警察は催涙ガスを発射しました。"
+    }
+  },
+  "JP": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4d408622d3c11b88194f1cf88ad67ba2",
+      "title": "Bear captured after roaming through Japanese city",
+      "url": "http://www.euronews.com/video/2026/06/09/bear-captured-after-roaming-through-japanese-city",
+      "published_at": "2026-06-09T11:06:29.000Z",
+      "description": "Authorities in Utsunomiya, north of Tokyo, captured a bear after a multi-day search linked to several sightings. Security camera footage showed the animal running through a shopping arcade, prompting school closures and safety warnings.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "JP",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 55,
+      "titleJa": "日本の都市を徘徊したクマが捕獲される",
+      "summary": "東京北部の宇都宮市で、数日間の捜索の末、市街地を徘徊していたクマが捕獲された。学校が休校になり安全警告も出される事態となった。"
+    }
+  },
+  "LB": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a2cf0e8d3b2c4b1df4e7f679879241dd",
+      "title": "Hundred days of Israel’s latest war on Lebanon",
+      "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
+      "published_at": "2026-06-09T10:37:40.000Z",
+      "description": "Israel's second intensification of its war on Lebanon within two years has reached 100 days, killing thousands.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イスラエルによるレバノン戦争が100日目に",
+      "summary": "イスラエルがレバノンに対する戦争を再激化させてから100日が経過し、数千人が死亡している。"
+    }
+  },
+  "CD": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d8839b975c146871229d89d08d5fefb8",
+      "title": "Fall in official Ebola numbers appears to be good news but it's not that simple",
+      "url": "https://www.bbc.com/news/articles/c0q2q4y09elo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-05T21:48:31.000Z",
+      "description": "There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "公式エボラ患者数の減少は良い知らせに見えるが、そう単純ではない",
+      "summary": "DRコンゴのエボラ確定患者数が初期推計より大幅に低い380人になったが、事態は単純ではないと報じられている。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6dba48351aa41a988b476d7f43844051",
+      "title": "German industrial output rises for the first time this year but is still 'too little'",
+      "url": "http://www.euronews.com/business/2026/06/09/german-industrial-output-rises-for-the-first-time-this-year-but-is-still-too-little",
+      "published_at": "2026-06-09T10:53:42.000Z",
+      "description": "An uptick of 0.4% in Germany's April factory output and a rise in exports offer little cause for celebration as new orders collapse, energy prices soar and Europe's largest economy continues to struggle to find solid footing.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ドイツの鉱工業生産が今年初めて上昇するも、依然『不十分』",
+      "summary": "ドイツの4月鉱工業生産が今年初めて上昇を記録。しかし、新規受注の減少やエネルギー価格高騰により、ヨーロッパ最大の経済は依然として厳しい状況にあり、回復には程遠い。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a44c48b5d5088880dac042806d9f0b22",
+      "title": "India slams Pakistan at UN over 'Fitna al Hindustan' label",
+      "url": "https://www.dw.com/en/india-slams-pakistan-at-un-over-fitna-al-hindustan-label/live-77468319?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-09T08:00:00.000Z",
+      "description": "India lambasted Pakistan at the UN General Assembly over its anti-India rhetoric and its strikes on Afghanistan, which killed hundreds of civilians. Follow DW for more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "インド、国連でパキスタンを「Fitna al Hindustan」という呼称で非難",
+      "summary": "インドは国連総会でパキスタンの反インドレトリックと、数百人の市民が死亡したアフガニスタンへの攻撃についてパキスタンを強く非難しました。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1f9bca00086f6abefbb74dbc0ca1de79",
+      "title": "Snorting sawdust: Chile seizes wood laced with 'historic' 100 tons of drugs",
+      "url": "https://www.dw.com/en/snorting-sawdust-chile-seizes-wood-laced-with-historic-100-tons-of-drugs/a-77467556?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-09T05:16:00.000Z",
+      "description": "Chile has announced its largest-ever drug seizure. About 1,080 tons of wood were found laced with illegal drugs — mostly cocaine and ketamine — headed to Europe.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "チリ、歴史的な100トンの薬物入り木材を押収",
+      "summary": "チリが史上最大の薬物押収を発表しました。ヨーロッパへ向かう約1,080トンの木材に、主にコカインとケタミンなどの違法薬物が仕込まれていました。"
+    }
+  },
+  "SO": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b26267da3467152defb4f300f14cc265",
+      "title": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
+      "url": "https://globalvoices.org/2026/05/28/somalia-drought-fuel-prices-and-conflicts-heighten-famine-risk",
+      "published_at": "2026-05-28T16:00:40.000Z",
+      "description": "According to the Integrated Food Security Phase Classification, in May 2026, Somalia is facing one of the worst food crises in its history.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "ソマリア：干ばつ、燃料価格、紛争が飢餓のリスクを高める",
+      "summary": "2026年5月、ソマリアは干ばつ、燃料価格高騰、紛争により、史上最悪の食料危機に直面している。"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9a17aed3ab9b6dc2db40d7649f0ec059",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "published_at": "2026-06-08T22:13:44.000Z",
+      "description": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say\nArmed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting the region’s worsening security.\nAccording to local police, 39 people were seized on Sunday during a meeting in the forest near Magamin Diddi village in the Maradun municipality of north-west Zamfara state. But some residents and officials believe the number of those abducted could be as high as 50.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "北西ナイジェリアで、平和交渉を話し合うために招いた村人を盗賊が誘拐",
+      "summary": "ナイジェリア北西部のザムファラ州で、武装盗賊が平和交渉のためと称して招いた村人39人を誘拐。地域の治安悪化を示す事件。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "79ed41419c4b022f2e77a19b3a854b2c",
+      "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
+      "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
+      "published_at": "2026-06-08T08:55:31.000Z",
+      "description": "African migrants say legal status offers little protection as rallies against illegal immigration gain momentum\nAfrican migrants in South Africa say they are living in fear after a series of marches calling for illegal immigrants to leave reignited long-held xenophobic sentiment in the country.\nMarch & March, a campaign group at the forefront of recent protests, has given people living illegally in the country until 30 June to leave, without specifying what will happen to those who do not.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "南アフリカで排外主義的な反発が広がり、移民の間に「極度の恐怖」",
+      "summary": "南アフリカで不法移民退去を求めるデモが激化し、アフリカ系移民は外国人嫌悪感情の再燃に「極度の恐怖」を感じている。合法的な滞在者も保護が不十分と訴える。"
+    }
+  },
+  "MX": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5391213844e8b27ff23129f00a9d2cd7",
+      "title": "The criminal cartels cashing in on the World Cup – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/jun/09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast",
+      "published_at": "2026-06-09T02:00:41.000Z",
+      "description": "Football fans are celebrating the tournament coming to Guadalajara. But with a brutal crime syndicate holding sway there, what are the risks for fans – and the government?\nExcitement is mounting in Mexico as the World Cup opens in Mexico City, then heads to the city of Guadalajara.\nMexican journalist Leon Krauze is a fan. He was there the last time the World Cup came to Mexico and will be watching again. The city of Guadalajara has a mythical footballing past: “Pele’s Brazil played there in 1970, then Zico and Socrates played there in 1986. There is a real football memory there, a love affair between Guadalajara and football in general, and I expect it to be a wonderful party.”\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ワールドカップで利益を得る犯罪カルテル – ポッドキャスト",
+      "summary": "ワールドカップ開催を祝うメキシコのグアダラハラだが、残忍な犯罪カルテルが支配しており、ファンや政府にとってのリスクが懸念される。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3061bbd28a9201c03feba3967a4d3bbb",
+      "title": "Dominican Republic: Is protecting your environment a way to love your country?",
+      "url": "https://globalvoices.org/2026/05/20/dominican-republic-is-protecting-your-environment-a-way-to-love-your-country",
+      "published_at": "2026-05-20T15:00:31.000Z",
+      "description": "Three Dominican ecologists and environmental managers explore how protecting ecosystems, conserving resources, and promoting sustainability represent meaningful acts of patriotism that safeguard communities, biodiversity, and future generations across the nation.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ドミニカ共和国：環境保護は祖国を愛する方法か？",
+      "summary": "ドミニカの専門家たちが、環境保護が国土、生物多様性、未来世代を守る愛国的な行為であることを論じる。"
+    }
+  },
+  "PE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e3d23cd66ca3ddf8d980cb9f8148ae5a",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-06T23:17:43.000Z",
+      "description": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ペルーの大統領選、不安定な情勢が有権者の動機に",
+      "summary": "10年間で8人の大統領が交代したペルーでは、有権者が安定を求め、犯罪や不平等の解決に注力できる次期大統領を選ぼうとしている。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ec1ef8d0c4de4f8e6ea8f02f9cfe297f",
+      "title": "Canada formally requests 16-year renewal of North American free trade pact",
+      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-03T01:40:44.000Z",
+      "description": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "カナダ、北米自由貿易協定の16年間更新を正式に要請",
+      "summary": "カナダ貿易担当大臣は北米のカウンターパートに対し、USMCA貿易協定の16年間更新を正式に要請した。これは3カ国間の経済関係に影響を与える。"
+    }
+  },
+  "BR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3fba310f81dfd1aa03b4d4868e5c87aa",
+      "title": "Attacks on trans identities become a strategic political tool in Brazil",
+      "url": "https://globalvoices.org/2026/05/21/attacks-on-trans-identities-become-a-strategic-trump-for-political-success-in-brazil",
+      "published_at": "2026-05-21T08:00:45.000Z",
+      "description": "In the last decade in Brazil, transphobia has become one of the main tools for disseminating misinformation. In many cases, it is spread by elected politicians with millions of followers",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "トランスジェンダーのアイデンティティへの攻撃がブラジルで戦略的な政治的道具となる",
+      "summary": "ブラジルでは過去10年間、トランスフォビアが誤情報の主要な拡散手段となり、政治家によって利用されている。"
+    }
+  },
+  "AL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0b3ff779ab91d84abad9c2934da0acd9",
+      "title": "Amid widespread protests, Albanian island project also sparks flood of fake claims",
+      "url": "http://www.euronews.com/my-europe/2026/06/09/amid-widespread-protests-albanian-island-project-also-sparks-flood-of-fake-claims",
+      "published_at": "2026-06-09T12:08:40.000Z",
+      "description": "The heated controversy surrounding the multi-billion-euro property development project across various Albanian beauty spots has triggered a stream of misleading online claims.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "広範な抗議活動の中、アルバニアの島プロジェクトが偽情報の洪水も引き起こす",
+      "summary": "アルバニアの数十億ユーロ規模の不動産開発を巡る論争が激化し、誤解を招くオンライン情報が大量に発生。各地で抗議活動が広がっている。"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8d4ed03ee67e11cb9bbda28cbb9398ee",
+      "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
+      "url": "https://www.aljazeera.com/news/2026/6/9/italys-foreign-minister-slams-israels-ben-gvir-over-flip-flop-comments?traffic_source=rss",
+      "published_at": "2026-06-09T12:00:18.000Z",
+      "description": "The row erupted after Italy said it was investigating the far-right minister over treatment of Gaza flotilla activists.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "イタリア外相、イスラエルのベン・グヴィル氏の「態度豹変」発言を非難",
+      "summary": "イタリアはガザ船団活動家への対応を巡り極右大臣を調査すると発表後、イタリア外相がベン・グヴィル氏の発言を非難し論争が勃発した。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e3aa0a6ae23332915624689268344b2f",
+      "title": "He told us we were slaves - The fight  for justice on a Scottish fishing trawler",
+      "url": "https://www.bbc.com/news/articles/cvg7d83nl7no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-09T05:15:10.000Z",
+      "description": "The migrant fishermen who waited nine years to give evidence about the company that exploited them.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GB",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "「お前たちは奴隷だ」スコットランド漁船での正義を求める闘い",
+      "summary": "スコットランドの漁船で奴隷のように扱われた移民漁師たちが、虐待した企業に対する証言のために9年間も待った闘いの物語。"
+    }
+  },
+  "IS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06e11c19fd74ba16b97c226c577f6d23",
+      "title": "Icelandair has found the 'world's worst photographer' - and is paying her $50,000",
+      "url": "http://www.euronews.com/culture/2026/06/09/icelandair-has-found-the-worlds-worst-photographer-and-is-paying-her-50000",
+      "published_at": "2026-06-09T10:42:35.000Z",
+      "description": "A woman named Blanche Mortemard has just been told she is the worst photographer in the world - out of 127,642 people who tried very hard to be exactly that.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IS",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 30,
+      "titleJa": "アイスランド航空が「世界最悪の写真家」を発見し、5万ドルを支払う",
+      "summary": "アイスランド航空は、12万人以上の応募者の中から「世界最悪の写真家」を選出し、ブランシュ・モルトマールさんに5万ドルを授与。ユニークな視点が評価された。"
+    }
+  },
+  "UA": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f51bcfe05ded3f4bef0530df069ed421",
+      "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+      "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss",
+      "published_at": "2026-06-09T10:18:17.000Z",
+      "description": "Ukraine's president hopes to reinvigorate diplomacy after 'very positive' talks with US envoys and European leaders.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "ロシアの攻撃でウクライナで5人死亡、ゼレンスキー大統領は米国特使との会談を評価",
+      "summary": "ウクライナでロシアの攻撃により5人が死亡する中、ゼレンスキー大統領は米国特使との「非常に前向きな」会談を評価し、外交の再活性化を期待している。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b3e5987e203de10113619afa232eb0af",
+      "title": "One dead, five injured after shooting in Israel",
+      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-07T15:40:49.000Z",
+      "description": "The suspect opened fire from a car in several locations before being shot dead.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "イスラエルで銃撃事件、1人死亡、5人負傷",
+      "summary": "イスラエルで銃撃事件が発生し、容疑者が車から発砲後、射殺された。この事件で1人が死亡、5人が負傷した。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3317090311f6f5d478987786015084db",
+      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-06T19:57:42.000Z",
+      "description": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "イスラエル兵に射殺された乳児の葬儀、占領下のヨルダン川西岸で執り行われる",
+      "summary": "占領下のヨルダン川西岸で、イスラエル兵に射殺された生後7か月の乳児の葬儀がパレスチナ旗に包まれ執り行われた。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4a98966073059ab0f9358af3b7ea094b",
+      "title": "Zverev beats Cobolli in tense Paris final for first Grand Slam",
+      "url": "https://www.bbc.com/sport/tennis/articles/c992081nnpko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-07T18:19:17.000Z",
+      "description": "Alexander Zverev finally lands the Grand Slam title that threatened to elude him after overcoming Flavio Cobolli and his own nerves to win the French Open.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "ズベレフ、パリ決勝でコボッリを破り初のグランドスラム優勝",
+      "summary": "アレクサンダー・ズベレフが緊迫したパリ決勝でフラビオ・コボッリを破り、念願のグランドスラム初タイトルを獲得した。"
+    }
+  },
+  "AF": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8aabdb582bd0f89532d48ccd42e47800",
+      "title": "How AI is upgrading African dictatorship",
+      "url": "https://globalvoices.org/2026/05/22/how-ai-is-upgrading-african-dictatorship",
+      "published_at": "2026-05-22T08:00:30.000Z",
+      "description": "A March 2026 study by the Institute of Development Studies (IDS) and the African Digital Rights Network found that 11 African governments had collectively spent more than USD 2 billion on AI-powered surveillance systems.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "AF",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "AIがいかにアフリカの独裁政権を強化しているか",
+      "summary": "2026年3月の調査で、アフリカ11カ国政府がAI監視システムに20億ドル以上を費やし、独裁政治を強化していることが判明した。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2de2352410b733978292508aeedb16f2",
+      "title": "Rubbish as a resource: How communities in Mozambique transform waste into climate solutions",
+      "url": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions",
+      "published_at": "2026-06-02T18:00:51.000Z",
+      "description": "Faced with rapid urbanization, fragile waste management systems, youth unemployment and growing climate vulnerability, artists, activists, musicians, and community entrepreneurs in Mozambique develop local responses to address an environmental crisis.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ゴミを資源として：モザンビークのコミュニティはいかにして廃棄物を気候変動対策に変えるか",
+      "summary": "モザンビークのコミュニティは、都市化や脆弱な廃棄物管理に直面しながらも、ゴミを気候変動対策として活用する取り組みを進めている。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5328388f40ecf592dad1f1a0f860afcb",
+      "title": "Ugandan activists make the case for ecofeminism",
+      "url": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism",
+      "published_at": "2026-06-01T18:00:17.000Z",
+      "description": "In this edition of Undertones, we explore a narrative calling for women to play a central role in climate-related decision-making in Uganda.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ウガンダの活動家たちがエコフェミニズムを提唱",
+      "summary": "ウガンダで、女性が気候関連の意思決定において中心的な役割を果たすことを求めるエコフェミニズムの議論が展開されている。"
+    }
+  },
+  "NE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "61edaba2b95c2802dd8257b330afd063",
+      "title": "For most Nigeriens, France has no place in Niger",
+      "url": "https://globalvoices.org/2026/05/24/for-most-nigeriens-france-has-no-place-in-niger",
+      "published_at": "2026-05-24T08:00:02.000Z",
+      "description": "The coup d'état on July 26, 2023, which ousted President Mohamed Bazoum, confirmed the Nigeriens’ resolve to sever all ties with France.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ほとんどのニジェール人にとって、フランスはニジェールに居場所がない",
+      "summary": "2023年7月のクーデターは、ニジェールがフランスとのあらゆる関係を断ち切るという決意を明確にしたことを示している。"
+    }
+  },
+  "AM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1bf4374edd18b31f6088fefd3d467d0a",
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-08T10:28:40.000Z",
+      "description": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "アルメニアの親欧米政権、ロシアの圧力にもかかわらず選挙で勝利",
+      "summary": "ニコル・パシニャン首相の市民契約党が約50％の票を獲得し、ロシアの圧力を乗り越えて選挙に勝利した。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "742eb37d8b4fa4fcf03ae15291fa3ae6",
+      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+      "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-07T23:01:04.000Z",
+      "description": "The European country had 9.1 million international visitors in April, the most ever for that month.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "中東を避ける観光客によりスペインの訪問者数が過去最高を記録",
+      "summary": "中東情勢を避ける観光客が増加し、スペインは4月に過去最多となる910万人の外国人観光客を受け入れた。"
+    }
+  },
+  "MT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e0834bce5f817936250e3411d405ed04",
+      "title": "Ten dead after migrant boat capsizes near Malta, Italian coastguard says",
+      "url": "https://www.bbc.com/news/articles/cvgerxnq0kgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-08T03:54:00.000Z",
+      "description": "At least 10 bodies have been recovered after a migrant boat carrying about 60 people capsized near Malta , the Italian coastguard says.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "MT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "マルタ沖で移民船が転覆、10人死亡とイタリア沿岸警備隊が発表",
+      "summary": "マルタ沖で約60人が乗った移民船が転覆し、少なくとも10人の遺体が収容されたとイタリア沿岸警備隊が発表した。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8c7b488878f5f8337c26acc245329349",
+      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-07T23:03:23.000Z",
+      "description": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "「行き止まりなし」：オランダから学ぶ若年失業対策",
+      "summary": "オランダは16歳から24歳のNEET率が世界で最も低い国の一つであり、その若年失業対策が注目されている。"
+    }
+  },
+  "DK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d7093935fded853602e07a8f1456847c",
+      "title": "Eriksen conscious after collapsing in Denmark game",
+      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-07T18:31:56.000Z",
+      "description": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DK",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "エリクセン選手、デンマークの試合中に倒れるも意識回復",
+      "summary": "デンマーク代表のクリスティアン・エリクセン選手がウクライナとの親善試合中に倒れたが、意識は回復したとデンマークサッカー協会が発表した。"
+    }
+  },
+  "VE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4c278426fc03bdc39c1ef7006feca509",
+      "title": "The death of a relentless mother reopens the wound of Venezuela’s political repression",
+      "url": "https://globalvoices.org/2026/05/25/the-death-of-a-relentless-mother-reopens-the-wound-of-venezuelas-political-repression",
+      "published_at": "2026-05-25T01:00:25.000Z",
+      "description": "Carmen Navas’s passing reveals alleged institutional coverups, deepening concerns about repression, impunity, and Venezuela’s ongoing democratic collapse.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "執拗な母親の死がベネズエラの政治的抑圧の傷を再び開く",
+      "summary": "カルメン・ナバス氏の死は、ベネズエラにおける抑圧、免責、民主主義の崩壊に対する懸念を深める。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ac68623dd8f0481572639d1acc0befd0",
+      "title": "Who is talking about artificial intelligence in Ecuador?",
+      "url": "https://globalvoices.org/2026/05/30/who-is-talking-about-artificial-intelligence-in-ecuador",
+      "published_at": "2026-05-30T04:00:00.000Z",
+      "description": "Ecuador is debating how to regulate artificial intelligence:, institutional gaps, and tensions between innovation, surveillance, education, inclusion, and responsible public governance are at the center of the conversation.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "エクアドルで人工知能について語っているのは誰か？",
+      "summary": "エクアドルではAI規制を巡る議論が活発化しており、イノベーション、監視、教育、包摂、ガバナンスの間の緊張が論点となっている。"
+    }
+  },
+  "BO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a6578dd7b4fbe47133401eeb48625137",
+      "title": "Rosa Pachurí Paraba: How Monkox indigenous women are leading Bolivia’s response to wildfires",
+      "url": "https://globalvoices.org/2026/05/22/rosa-pachuri-paraba-how-indigenous-women-are-leading-bolivias-response-to-wildfires",
+      "published_at": "2026-05-22T15:00:05.000Z",
+      "description": "Bolivia’s 2024 wildfires devastated Santa Cruz, but Indigenous Chiquitano and Monkox communities led recovery through collective organization, ancestral knowledge and fire management strategies, and revived food systems amid delayed state response.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "ロサ・パチュリ・パラバ：モンコックス先住民女性がいかにボリビアの山火事対応を主導しているか",
+      "summary": "ボリビアの山火事後、モンコックス先住民女性が組織力と伝統知識で復興を主導。国の遅延対応に対し、食料システムを再建した。"
+    }
+  },
+  "CU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8f4bf8872808d123e1416369f53c11b9",
+      "title": "Who is defending Cuba’s threatened species?",
+      "url": "https://globalvoices.org/2026/05/13/who-is-defending-cubas-threatened-species",
+      "published_at": "2026-05-13T14:00:59.000Z",
+      "description": "Cuba hosts some of the world’s richest biodiversity but faces the impacts of climate change, human activity and weak protections. Scientists and activists strive to preserve endangered wildlife and ecosystems.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "キューバの絶滅危惧種を守っているのは誰か？",
+      "summary": "世界有数の生物多様性を誇るキューバは、気候変動や人為的活動による脅威に直面。科学者や活動家が種と生態系の保全に努めている。"
+    }
+  },
+  "AU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fa0d7ea44e685b9b9ad8db4a28a5bc09",
+      "title": "Australian doctor who underwent world-first brain tumour treatment dies",
+      "url": "https://www.bbc.com/news/articles/c14yz5jg476o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-07T20:54:45.000Z",
+      "description": "The melanoma doctor's brain cancer treatment experiment has sparked hope for a breakthrough.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 65,
+      "titleJa": "世界初の脳腫瘍治療を受けたオーストラリア人医師が死去",
+      "summary": "世界で初めて脳腫瘍の治療を受けたオーストラリア人医師が死去した。彼の治療実験は脳がん治療に新たな希望をもたらした。"
+    }
+  },
+  "NP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9e944a9ae28dad32c46ec53bdf7446ef",
+      "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
+      "url": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-05T19:53:51.000Z",
+      "description": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NP",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "エベレストのガイド、チョコレートと「氷を噛んで」6日間の試練を生き抜く",
+      "summary": "エベレストのガイドが遭難し、チョコレートと氷で6日間を生き延びた。彼は清掃隊に発見され、生還した。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d88b1b3032494f09126efa80f0387edf",
+      "title": "Tough cookies: How pop group Le Sserafim overcame band tensions and internet trolls",
+      "url": "https://www.bbc.com/news/articles/c7752znyle6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-04T22:22:56.000Z",
+      "description": "The K-pop band say accepting their flaws and embracing humour took them to a new level of success.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 45,
+      "titleJa": "タフなクッキーたち：K-POPグループLE SSERAFIMがいかにしてバンド内の緊張とネット荒らしを乗り越えたか",
+      "summary": "K-POPグループLE SSERAFIMは、内紛やネット荒らしを乗り越え、自分たちの欠点を受け入れ、ユーモアを取り入れることで新たな成功を収めたと語る。"
+    }
+  }
+}
