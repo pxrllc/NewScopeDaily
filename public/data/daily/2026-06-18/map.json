@@ -1,0 +1,882 @@
+{
+  "IR": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bc346b2f2ffcb625c2422f8dc0df1467",
+      "title": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
+      "url": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss",
+      "published_at": "2026-06-18T11:50:22.000Z",
+      "description": "The memorandum of understanding covers 14 points but leaves many crucial questions unanswered.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "トランプ・イラン合意、レバノン、ホルムズ、ウランについて何を語るか",
+      "summary": "トランプ政権とイランの間の覚書は、レバノン、ホルムズ海峡、ウランに関する14項目を網羅しているが、多くの重要な疑問が未解決のままであることが指摘されている。"
+    }
+  },
+  "RU": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bbe2b4911b5b906c9155717b6d0b76fd",
+      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T09:47:47.000Z",
+      "description": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシアの本格的戦争開始以来、モスクワがウクライナによる最大規模の攻撃を受ける",
+      "summary": "ロシアの首都モスクワ南東部が約200機のウクライナ製ドローンに攻撃され、製油所とショッピングセンターが炎上した。"
+    }
+  },
+  "EC": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ac68623dd8f0481572639d1acc0befd0",
+      "title": "Who is talking about artificial intelligence in Ecuador?",
+      "url": "https://globalvoices.org/2026/05/30/who-is-talking-about-artificial-intelligence-in-ecuador",
+      "published_at": "2026-05-30T04:00:00.000Z",
+      "description": "Ecuador is debating how to regulate artificial intelligence:, institutional gaps, and tensions between innovation, surveillance, education, inclusion, and responsible public governance are at the center of the conversation.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "エクアドルで人工知能について語る者は誰か？",
+      "summary": "エクアドルがAI規制を巡り議論。イノベーション、監視、教育、包摂、公共ガバナンスの間で生じる緊張が論争の中心となっている。"
+    }
+  },
+  "NE": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fc8071e4773470f84534159bb0c72756",
+      "title": "Gunfire and explosions heard at Niger capital's airport",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T10:06:47.000Z",
+      "description": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ニジェールの首都空港で銃声と爆発音",
+      "summary": "長年イスラム過激派の反乱と戦うニジェールの首都空港で銃声と爆発音が報告された。1月にも同空港が攻撃された経緯がある。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c3b7fd488c54b35181072b8a143bcd0b",
+      "title": "Real Madrid sign Ibrahima Konate to multi-year deal from Liverpool",
+      "url": "https://www.aljazeera.com/sports/2026/6/18/real-madrid-sign-ibrahima-konate-to-multi-year-deal-from-liverpool?traffic_source=rss",
+      "published_at": "2026-06-18T11:21:18.000Z",
+      "description": "Acquisition of the French defender, who is currently at the World Cup, is a key signing by new Real coach Jose Mourinho.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "レアル・マドリード、イブラヒマ・コナテとリヴァプールから複数年契約",
+      "summary": "レアル・マドリードがリヴァプールからフランス人DFイブラヒマ・コナテを獲得し、複数年契約を結んだ。ワールドカップ出場中の彼が、新監督ジョゼ・モウリーニョにとって重要な補強となる。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d8457a5029f9cff017d722748b06885e",
+      "title": "Lawyer in high-profile Ugandan treason case charged with related offence",
+      "url": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T09:35:29.000Z",
+      "description": "Uganda's military chief had boasted of \"the hurt and pain\" he would inflict on Erias Lukwago, who was arrested earlier this week.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ウガンダの注目される反逆罪事件の弁護士が関連する罪で起訴される",
+      "summary": "ウガンダで、軍幹部から脅迫を受けていた注目事件の弁護士が新たな罪で起訴された。人権問題への懸念が高まっている。"
+    }
+  },
+  "JP": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e1d3ac7702e8ba9ba96a03a247da551d",
+      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T22:36:13.000Z",
+      "description": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "防衛相小泉氏、日本の防衛強化は戦争防止に「極めて重要」とBBCに語る",
+      "summary": "小泉防衛相はBBCに対し、日本が戦後以来の平和主義的姿勢を見直し、防衛力を強化することが戦争防止に不可欠であると語った。"
+    }
+  },
+  "US": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ee948647ec40f3a13964536fc0a78af9",
+      "title": "Trump may release US-Iran deal before Friday, Vance says",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T08:07:32.000Z",
+      "description": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "トランプ大統領、米イラン合意を金曜までに発表か",
+      "summary": "米副大統領は、米イラン合意が「約1ページ半で非常に一般的」であり、詳細は後日決定されると述べた。"
+    }
+  },
+  "PL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5c5a131db55219077b9dd1a5a04629c9",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T17:33:50.000Z",
+      "description": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ロシア人芸術家でプーチン批判者がポーランドで射殺される",
+      "summary": "プーチン大統領の風刺画で知られるロシア人芸術家ロバート・クゾフコフ氏がポーランドで射殺され、国際社会に衝撃。"
+    }
+  },
+  "DE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7015c4cddae1454bd4c2e6ea80a7c689",
+      "title": "Germany's foreign minister: 'European unity is decisive'",
+      "url": "https://www.dw.com/en/germany-s-foreign-minister-european-unity-is-decisive/a-77594952?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-18T06:34:00.000Z",
+      "description": "German Foreign Minister Johann Wadephul, in an interview with DW, underscores the trans-Atlantic partnership, close cooperation with Poland, continued support for Ukraine and European unity.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ドイツ外相：「欧州の団結が決定的に重要だ」",
+      "summary": "ドイツのヨハン・ヴァーデフール外相は、DWとのインタビューで、大西洋横断パートナーシップ、ポーランドとの協力、ウクライナ支援、そして欧州の団結の重要性を強調した。"
+    }
+  },
+  "CU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b7245698f81f2c867f5b63c8ed38d8d",
+      "title": "Cuba approves economic reforms amid US pressure",
+      "url": "https://www.dw.com/en/cuba-approves-economic-reforms-amid-us-pressure/a-77597635?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-18T09:12:00.000Z",
+      "description": "Cuba's Communist Party has signed off on a package of free market reforms. One member called the changes a response to \"economic war,\" while the party said they were not a \"deviation\" from the socialist project.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "キューバ、米国からの圧力の中で経済改革を承認",
+      "summary": "キューバ共産党が自由市場改革案を承認。党は社会主義路線からの逸脱ではないとし、経済戦争への対応だと述べる者もいる。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a0420286ee3e52ed2dcd746f83a8a148",
+      "title": "India news: Modi, Trump 'very close' to trade deal",
+      "url": "https://www.dw.com/en/india-news-modi-trump-very-close-to-trade-deal/live-77597035?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-18T07:14:00.000Z",
+      "description": "As the Indian and US leaders put on a friendly show on the sidelines of the G7 summit, a critical trade deal still hangs in the balance. Meanwhile, the Indian air force is helping secure the NEET-UG retests. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "インド経済ニュース：モディ首相、トランプ大統領が貿易合意に「非常に近い」",
+      "summary": "G7サミットでインドと米国の首脳が貿易合意に近づいているものの、まだ交渉が続いている。インド空軍は大学入学試験の再テストを支援。"
+    }
+  },
+  "SO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "53a7715c7fd4ca8f6d66ab710b350ff1",
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "published_at": "2026-06-17T09:00:27.000Z",
+      "description": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation\nRead more: Killed walking home from school: why did Somali children become targets of US drone strikes?\nA seven-year-old boy who was riddled with shrapnel during a deadly US airstrike in Somalia faces losing his ability to walk unless he has a £750 emergency operation.\nBut Abdiqadir Salah’s family cannot afford the surgery and the US – which refuses to admit that any civilians were killed or injured during its attack six months ago – appears unwilling to pay compensation to those affected by airstrikes in Somalia.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "7歳の少年アブディカディル、米軍の空爆で負傷。750ドルの手術がなければ歩行能力を失う可能性",
+      "summary": "ソマリアで米軍の空爆により7歳の少年が負傷。家族は手術費用を払えず、米国は民間人の被害を否定しており、補償は絶望的。少年は歩行能力を失う危機に直面している。"
+    }
+  },
+  "SL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "514ad8a075bc02ca8ebb913058d1e468",
+      "title": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
+      "published_at": "2026-06-17T05:00:23.000Z",
+      "description": "Exclusive: health professionals, survivors and politicians voice concerns in open letter over comments by Fatima Maada Bio, who denies supporting the practice\nThe first lady of Sierra Leone has denied that she supports female genital mutilation amid rising anger around her perceived approval of the practice.\nBut in an exclusive response to the Guardian, Fatima Maada Bio, the wife of President Julius Maada Bio, also said she would not openly condemn FGM until she saw “reliable data” that the practice was harmful.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "シエラレオネのファーストレディ、FGMの害に関する「信頼できるデータ」がなければ非難を拒否",
+      "summary": "シエラレオネのファーストレディが女性性器切除（FGM）への支持を否定するも、その有害性を示す「信頼できるデータ」なしには公に非難しないと表明し、批判を呼んでいる。"
+    }
+  },
+  "GH": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7597d6965cde69d7caeba9587aa55b3b",
+      "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
+      "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
+      "published_at": "2026-06-17T05:00:22.000Z",
+      "description": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution\nGhana is hosting a conference to advance the continent’s push for reparatory justice after the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.\nHeads of state and government, ministers, civil society representatives, historians, researchers and legal experts representing more than 80 countries are converging in the capital, Accra, for the three-day event, billed Next Steps, which starts on Wednesday. It is the first major gathering on the issue since the resolution was adopted.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ガーナ、国連画期的な決議以来初の主要会合で償還的正義を推進へ",
+      "summary": "ガーナは、奴隷化されたアフリカ人の人身売買を人道に対する最も重大な犯罪と宣言した国連決議後、償還的正義推進のための主要な会議を開催し、80カ国以上の代表が集まる。"
+    }
+  },
+  "CD": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "df07836144d20f0aaf87bdcb0477040d",
+      "title": "Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers",
+      "url": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc",
+      "published_at": "2026-06-17T04:00:21.000Z",
+      "description": "A headteacher, a motorcycle taxi driver and a travel agent are among those who are counting the human and economic cost of the virus\nJustin Keno watches more than 400 pupils stream through the Nelson Mandela school’s gate each morning, and wonders which of them might be carrying Ebola.\nThe institution’s principal has done everything he can to prevent the spread of the virus: installing hand-washing basins at the entrance, providing alcohol-based hand rub for parents, making pupils bring packed lunches instead of eating in the canteen, and banning food sellers from outside the gates.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CD",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "エボラ出血熱がブニアの対面業務従事者に影響、命と収入が失われる",
+      "summary": "コンゴ民主共和国ブニアでエボラ出血熱が猛威を振るい、教員やタクシー運転手など多くの市民が命や収入を失っている。学校では感染拡大防止策を講じている。"
+    }
+  },
+  "ZA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "394fb7cc2892ace77ba01632d8494619",
+      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T09:56:40.000Z",
+      "description": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "「彼らは山刀を持って来た」— 南アフリカからの移民退去期限が迫る",
+      "summary": "南アフリカでは、抗議者たちがすべての不法移民に対し、6月30日までに国を去るよう期限を設定しました。移民問題とそれに伴う社会の緊張が高まっています。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d5b1bcf5718f780ee454191f6e517b2f",
+      "title": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
+      "url": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
+      "published_at": "2026-06-17T18:24:06.000Z",
+      "description": "Canadian officials find structural defects in material used for hull and say firm failed to fully test ‘novel’ design\nCanadian safety officials have issued a damning report on the catastrophic final voyage of the Titan submersible, finding that the US company behind the expedition was overcome by “groupthink” and “confirmation bias” and failed to understand the profound risks confronting their largely untested craft.\nThe 6.7-metre (22ft) carbon fibre submersible dipped below the surface of the Atlantic Ocean in June 2023 en route to the wreckage of the Titanic ocean liner. But nearly two hours after it departed with five passengers, communications went dark. The disappearance prompted a frantic international search, with Canada and the US marshalling all available resources.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "タイタン潜水艇：設計上の欠陥と企業内の集団思考が惨事の主因と報告書が指摘",
+      "summary": "タイタン潜水艇の事故に関するカナダ当局の報告書は、設計上の欠陥と企業内の集団思考が災難の原因と指摘。米国企業は未知の危険性を理解せず、国際的な捜索活動の末、乗員5名が死亡した。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0a3ff89e1a0a51673f1ad0d4461c2169",
+      "title": "From Ciudad Juárez to Latin America: The legacy of Ni Una Menos",
+      "url": "https://globalvoices.org/2026/06/10/from-ciudad-juarez-to-latin-america-the-legacy-of-ni-una-menos",
+      "published_at": "2026-06-10T18:00:46.000Z",
+      "description": "Born from Susana Chávez Castillo’s words and fueled by collective outrage, Ni Una Menos transformed public debate but is yet to change the reality women face.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "シウダード・フアレスからラテンアメリカへ：「Ni Una Menos」の遺産",
+      "summary": "シウダード・フアレス発のフェミニスト運動「Ni Una Menos」は世論を変えたが、女性の現実は未だ変化していないと論じる。"
+    }
+  },
+  "BR": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "dc407044b6bfe915effa0b0d0fbe87ba",
+      "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
+      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+      "published_at": "2026-06-16T21:44:54.000Z",
+      "description": "Brazil supreme court finds that Eduardo Bolsonaro – who resides in the US - tried to get sanctions put on judges trying ex-president over coup plot\nBrazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in prison after finding him guilty of courting US ⁠interference in his father’s coup plot trial last year.\nThe office of Brazil’s ‌prosecutor general had ‌charged Eduardo Bolsonaro – who lives in the US - courting interference from the Trump administration to help Jair Bolsonaro’s case, by imposing sanctions on the court’s justices and tariffs on Brazilian goods.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ジャイル・ボルソナーロの息子、父親のクーデター裁判への米国干渉を求めたとして懲役4年の判決",
+      "summary": "ブラジルの最高裁判所は、ジャイル・ボルソナーロ元大統領の息子エドゥアルド・ボルソナーロに対し、父親のクーデター計画裁判への米国の干渉を求めた罪で懲役4年2ヶ月の判決を下した。"
+    }
+  },
+  "BE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9e0c2712b7d640846ff6cf0d74adf9b3",
+      "title": "Brussels rally presses EU to curb trade with settlements",
+      "url": "http://www.euronews.com/video/2026/06/18/brussels-rally-presses-eu-to-curb-trade-with-settlements",
+      "published_at": "2026-06-18T12:38:57.000Z",
+      "description": "Hundreds of demonstrators gathered in Brussels on 17 June ahead of a European Union summit. Protesters call for sanctions on Israel and a ban on goods produced in Israeli settlements.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "BE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ブリュッセルで集会、EUに入植地との貿易制限を要求",
+      "summary": "ブリュッセルでEU首脳会議を前に数百人が集会を開き、イスラエルへの制裁と入植地製品の禁輸を訴えた。"
+    }
+  },
+  "GB": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ab17b071b78f8cc29b1bb128fd707a41",
+      "title": "UK and Japan agree £18bn investment deal",
+      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-14T20:29:15.000Z",
+      "description": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "GB",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "英国と日本が180億ポンドの投資合意に署名",
+      "summary": "英国と日本が総額180億ポンドの投資協定を締結。日本の企業が英国のインフラと洋上風力発電に巨額の投資を行う予定だ。"
+    }
+  },
+  "FR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7566bf0609f92184b791c86d719bdf98",
+      "title": "From Foxconn to Nvidia: Why France is so attractive for Europe’s AI infrastructure",
+      "url": "http://www.euronews.com/next/2026/06/18/from-foxconn-to-nvidia-why-france-is-so-attractive-for-europes-ai-infrastructure",
+      "published_at": "2026-06-18T11:58:41.000Z",
+      "description": "Foxconn, Nvidia and Mistral AI announce major AI infrastructure deals at Europe's VivaTech conference, with France's cheap nuclear energy and homegrown talent drawing global investment.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "FoxconnからNvidiaまで：フランスが欧州のAIインフラにとって魅力的な理由",
+      "summary": "欧州のVivaTech会議でFoxconn、NvidiaなどがAIインフラに関する大型契約を発表。フランスの安価な原子力エネルギーが世界の投資を引きつけている。"
+    }
+  },
+  "EE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ebccb0a7a3a12506bce19cb6cdf17fc8",
+      "title": "Kaja Kallas responds after Israeli foreign minister says he will 'sever all contact' with her",
+      "url": "http://www.euronews.com/2026/06/18/kaja-kallas-responds-after-israeli-foreign-minister-says-he-will-sever-all-contact-with-he",
+      "published_at": "2026-06-18T11:05:24.000Z",
+      "description": "Kallas said she valued \"dialogue and engagement\" with Israel, but she made no mention of the reported apartheid comment.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "EE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "カヤ・カラス首相、イスラエル外相が「一切の接触を断つ」と発言した後に対応",
+      "summary": "イスラエル外相が接触を断つと発言した後、カラス首相は対話と関与を評価するも、アパルトヘイトに関するコメントには言及しなかった。"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f21c0f161075dcb03373357a8f05ce4d",
+      "title": "Greece’s ‘war on Roma’ is Europe’s new blueprint for discrimination",
+      "url": "https://www.aljazeera.com/opinions/2026/6/18/greeces-war-on-roma-is-europes-new-blueprint-for-discrimination?traffic_source=rss",
+      "published_at": "2026-06-18T11:33:35.000Z",
+      "description": "Mass raids on Roma communities show how Europe is recasting racial discrimination as crime prevention and public order.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "GR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ギリシャの「ロマ人への戦争」はヨーロッパの新たな差別モデルである",
+      "summary": "ギリシャでのロマ人コミュニティへの大規模な襲撃は、ヨーロッパが人種差別を犯罪予防や公共秩序の名のもとに再定義する新たなパターンを示していると批判された。"
+    }
+  },
+  "TW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3cee9b4dbce2cfa7ba825f657fb5a29a",
+      "title": "Taiwan hopes US arms sale package can be approved soon, president says",
+      "url": "https://www.aljazeera.com/news/2026/6/18/taiwan-hopes-us-arms-sale-package-can-be-approved-soon-president-says?traffic_source=rss",
+      "published_at": "2026-06-18T09:52:12.000Z",
+      "description": "Taiwan’s President William Lai Ching-te reiterates his desire for talks based on 'parity and respect' with China.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "TW",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "台湾、米国製武器売却パッケージの早期承認を期待と総統が発言",
+      "summary": "台湾の頼清徳総統が米国製武器売却パッケージの早期承認を期待していると表明。また、中国との対話は「対等と尊重」に基づくと改めて強調した。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "556c0af157457324c8246670475e8388",
+      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T16:20:33.000Z",
+      "description": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "米イラン停戦が未解決の問題を残し、レバノンは不安定な静けさ",
+      "summary": "米イランの停戦合意後も、レバノンではイスラエルとヒズボラ間の戦闘終結に疑念が残る。"
+    }
+  },
+  "PK": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3782a6b5d748d2b737b744e6fa98f738",
+      "title": "Australia demands answers after girl taken hostage is shot dead by Pakistan police",
+      "url": "https://www.bbc.com/news/articles/cgqj9v7nw3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-15T09:42:20.000Z",
+      "description": "Pakistani police said the nine-year-old was mistakenly shot as they pursued a group of armed robbers.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PK",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "パキスタン警察により人質に取られた少女が射殺され、オーストラリアが説明を要求",
+      "summary": "パキスタンで人質に取られた9歳の少女が警察官に誤って射殺された事件を受け、オーストラリアが説明を要求。パキスタン警察は武装強盗追跡中に誤って撃ったと説明。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ebbf99e82e5e7770d103f0b907e23cb3",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T03:40:36.000Z",
+      "description": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "イラン合意がネタニヤフ首相に政治的悪夢をもたらす",
+      "summary": "トランプ大統領のイランとの停戦合意により、イスラエル首相は新たな政治的・安全保障上の窮地に陥っている。"
+    }
+  },
+  "CI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "13b7f2ae1a98e0a328af19ad29af50c2",
+      "title": "Ivory Coast's Wahi denied entry to Canada",
+      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T11:39:28.000Z",
+      "description": "The Ivory Coast football federation have announced their forward Elye Wahi has been denied entry to Canada for their next World Cup game.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CI",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "コートジボワールのワヒ、カナダへの入国を拒否される",
+      "summary": "コートジボワールサッカー連盟は、フォワードのエリー・ワヒ選手が次のワールドカップの試合のためカナダへの入国を拒否されたと発表しました。"
+    }
+  },
+  "CV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4a276415841aa98085b793154fb15d9a",
+      "title": "Cape Verde goalkeeper set to be reunited with his mum",
+      "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T19:42:13.000Z",
+      "description": "Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CV",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "カーボベルデのゴールキーパー、母親との再会へ",
+      "summary": "カーボベルデのゴールキーパー、ボジーニャの母親が、カーボベルデの次のウルグアイ戦を前に米国へのビザを許可され、母子再会が実現する見込みです。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bc272673d423eef46f87c81e0b05f1dc",
+      "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
+      "url": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T19:03:10.000Z",
+      "description": "Diezani Alison-Madueke had been accused of receiving bribes from oil tycoons but was found not guilty by a jury at Southwark Crown Court.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "元ナイジェリア石油大臣、英国での贈収賄裁判で無罪に",
+      "summary": "ディエザニ・アリソン＝マドゥエケ元ナイジェリア石油大臣は、石油業界の大物から賄賂を受け取った容疑で告発されましたが、英国の裁判所で無罪の判決を受けました。"
+    }
+  },
+  "IE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5b9e594fa7d797ca36248f15f477ce7a",
+      "title": "Dáil passes abortion bill to remove three-day wait",
+      "url": "https://www.bbc.com/news/articles/cm2d5rdl85ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T21:06:27.000Z",
+      "description": "The proposal is to remove the three-day wait for an abortion in early pregnancy in the Republic of Ireland.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "アイルランド議会、中絶法案を可決し3日間待機期間を撤廃",
+      "summary": "アイルランド議会が初期妊娠中絶の3日間待機期間を撤廃する法案を可決。女性の選択権を巡る議論に一石を投じる。"
+    }
+  },
+  "HU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "24da2b6d57033c62b897e7d846bd28ae",
+      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
+      "url": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T12:42:15.000Z",
+      "description": "The vote fulfils a promise by new PM Péter Magyar to stop his predecessor from becoming prime minister again.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ハンガリー議会、オルバン氏の首相再任を阻止し任期を8年に制限",
+      "summary": "ハンガリーの新しい首相の公約通り、議会がオルバン前首相の再任を阻止し、首相の任期を8年に制限する。"
+    }
+  },
+  "SE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6d81359dbdbc38dda85ad316a4ef8366",
+      "title": "Swedish man jailed for four years for coercing wife into sex with 120 men",
+      "url": "https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T12:46:03.000Z",
+      "description": "The 61-year-old was found to have coerced his wife into sexual acts with men he found online in exchange for payment.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "SE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 35,
+      "titleJa": "スウェーデン人男性、妻に120人との性行為を強要した罪で懲役4年",
+      "summary": "スウェーデンで61歳の男がオンラインで見つけた男性らと妻に性行為を強要し、対価を得ていたとして懲役4年の判決。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5bf05be8bf247f621a2148c2e3007533",
+      "title": "'The team needs to score, not you' - Ronaldo struggles as rivals sparkle ",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T08:23:07.000Z",
+      "description": "Three superstars delivered for their countries at the World Cup on Tuesday. But Cristiano Ronaldo could not follow suit on Wednesday as Portugal were held to a surprise draw by DR Congo.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "「チームは点を取るべき、君ではなく」 - ロナウド、ライバルが輝く中苦戦",
+      "summary": "ワールドカップで3人のスーパースターが活躍する中、クリスティアーノ・ロナウドはDRコンゴ戦で奮わず、チームは引き分け。"
+    }
+  },
+  "BO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e4d6db47bbdae445b2bb3b71d4a6a2c7",
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking",
+      "url": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T09:19:10.000Z",
+      "description": "Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ボリビア、麻薬密売対策で米国と2000万ドルの契約を締結",
+      "summary": "新大統領の下、ボリビアが米国との関係を再構築し、組織犯罪対策のため2000万ドルの契約を結んだ。"
+    }
+  },
+  "VE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "222e25d2187d00f0616ae58eb9380c68",
+      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T15:19:52.000Z",
+      "description": "The deal with General Electric is the latest sign of co-operation between US firms and Venezuela's interim government.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "ベネズエラ、電力網再建のため米エネルギー大手と契約締結",
+      "summary": "ベネズエラの暫定政府が米エネルギー大手ゼネラル・エレクトリック社と電力網再建の契約を結び、米国企業との協力関係が深化。"
+    }
+  },
+  "AR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ac6a10810c41b83aaf4d235574224065",
+      "title": "Extraordinary Messi makes more history in masterclass for the ages",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T07:17:39.000Z",
+      "description": "Kylian Mbappe and Erling Haaland both enjoyed a fine start to the World Cup - but on a day packed with superstars, Lionel Messi still took top billing.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 80,
+      "titleJa": "驚異のメッシが史上最高のプレーでさらに歴史を作る",
+      "summary": "ワールドカップでエムバペやハーランドが活躍する中、スーパースターがひしめく中でリオネル・メッシが最高のパフォーマンスを見せ、新たな歴史を刻んだ。"
+    }
+  },
+  "UY": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "09a594140b9e65b5735afb2113642199",
+      "title": "Trade Policy Review: Uruguay",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_ury_10jun26_e.htm",
+      "published_at": "2026-06-10T00:00:00.000Z",
+      "description": "The Sixth review of the trade policies and practices of Uruguay takes place on 10 and 12 June 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Uruguay.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "UY",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "貿易政策審査：ウルグアイ",
+      "summary": "ウルグアイの貿易政策と慣行に関する第6回審査が2026年6月10日と12日に行われる。WTO事務局とウルグアイ政府の報告書に基づき審査が実施される。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fcae18309c49607608ca188cc2ebae12",
+      "title": "Meet three young people driving ecological activism in the Dominican Republic",
+      "url": "https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic",
+      "published_at": "2026-06-09T18:00:12.000Z",
+      "description": "The DR’s tourism star is on the rise, but that narrative of prosperity conceals the less visible, more urgent issue of environmental pressure on coasts, rivers, and reefs.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ドミニカ共和国で環境活動を推進する3人の若者たち",
+      "summary": "ドミニカ共和国では、観光業の繁栄の裏で環境問題が悪化。この喫緊の課題に取り組む3人の若き環境活動家を紹介する。"
+    }
+  },
+  "VN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "821c9db1578b7cc735397fa8fbea3d76",
+      "title": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
+      "url": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T17:17:55.000Z",
+      "description": "Police have arrested nine people and rescued more than 400 cats destined for slaughter, with more than 40 reunited with their owners.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "VN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ベトナムで食用に盗まれた数百匹の猫が警察に救助される",
+      "summary": "ベトナムで食用目的で盗まれた400匹以上の猫が警察に救出され、9人が逮捕された。40匹以上が飼い主のもとに戻った。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "71cf448ee0ac35e4510b2f9b76452a79",
+      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+      "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-15T12:37:27.000Z",
+      "description": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "韓国スターバックス、批判受け従業員向け歴史学習のため一時休業へ",
+      "summary": "韓国のスターバックスが、軍事虐殺記念日のマーケティング戦略で批判を浴び、従業員向け歴史学習のため店舗を一時休業すると発表した。"
+    }
+  },
+  "TO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa09f2f89904dc62a701c4a48f917459",
+      "title": "Fish Fund supports Tonga's first notification under the Agreement on Fisheries Subsidies",
+      "url": "https://www.wto.org/english/news_e/news26_e/ffm_09jun26_410_e.htm",
+      "published_at": "2026-06-09T00:00:00.000Z",
+      "description": "The WTO Fish Fund has marked an important milestone with the submission to the WTO of the first-ever fisheries subsidy notification made possible through support from the Fund. The submission on 3 June by Tonga under the Agreement on Fisheries Subsidies has additional significance given the developing Pacific region's exposure to the effects of harmful fisheries subsidies. The notification was prepared during a workshop held from 20 to 22 May in Nuku'alofa, Tonga, as part of a project funded by the Fish Fund, and contributes to Tonga’s implementation of the Agreement.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "TO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "漁業補助金協定の下、トンガ初の通知を漁業基金が支援",
+      "summary": "WTO漁業基金の支援により、トンガが漁業補助金協定に基づく初の通知をWTOに提出。有害な漁業補助金の影響を受けやすい太平洋地域の開発途上国にとって重要な進展であり、協定の実施に貢献する。"
+    }
+  }
+}
