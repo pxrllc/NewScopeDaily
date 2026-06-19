@@ -4,7 +4,7 @@
         <title>NewsScope Daily</title>
         <link>https://pxrllc.github.io/NewScopeDaily/</link>
         <description>世界各地のニュースソースから情報を自動収集し、AIで要約・分類した日本語ニュースフィード</description>
-        <lastBuildDate>Thu, 18 Jun 2026 12:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 13:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>NewsScope Daily Feed Generator</generator>
         <language>ja</language>
@@ -16,200 +16,761 @@
         <copyright>All rights reserved 2026, NewsScope Daily</copyright>
         <atom:link href="https://pxrllc.github.io/NewScopeDaily/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ブリュッセルで集会、EUに入植地との貿易制限を要求]]></title>
-            <link>http://www.euronews.com/video/2026/06/18/brussels-rally-presses-eu-to-curb-trade-with-settlements</link>
-            <guid isPermaLink="false">9e0c2712b7d640846ff6cf0d74adf9b3</guid>
-            <pubDate>Thu, 18 Jun 2026 12:38:57 GMT</pubDate>
-            <description><![CDATA[ブリュッセルでEU首脳会議を前に数百人が集会を開き、イスラエルへの制裁と入植地製品の禁輸を訴えた。]]></description>
+            <title><![CDATA[VivaTech 2026: DeepL CEO「AIが話してくれるのに、なぜドイツ語を学ぶのか」と問う]]></title>
+            <link>http://www.euronews.com/next/2026/06/19/vivatech-2026-why-learn-german-when-ai-can-talk-for-you-asks-deepl-ceo</link>
+            <guid isPermaLink="false">e8595042787ae7d6f253c22bffdbe873</guid>
+            <pubDate>Fri, 19 Jun 2026 13:19:55 GMT</pubDate>
+            <description><![CDATA[DeepLのCEOは、AIがビジネスにおける言語の壁をなくすと主張。しかし、言語にはAIが翻訳できない文化が伴うため、学習する価値はあると述べる。]]></description>
             <content:encoded><![CDATA[
-                <p>ブリュッセルでEU首脳会議を前に数百人が集会を開き、イスラエルへの制裁と入植地製品の禁輸を訴えた。</p>
+                <p>DeepLのCEOは、AIがビジネスにおける言語の壁をなくすと主張。しかし、言語にはAIが翻訳できない文化が伴うため、学習する価値はあると述べる。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> BE<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>対象国:</strong> DE<br/>
+                    <strong>カテゴリ:</strong> 科学<br/>
+                    <strong>重要度スコア:</strong> 60
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[有名なストーンヘンジから数マイル離れた場所で5000年前の「プロト・ストーンヘンジ」が発見される]]></title>
-            <link>http://www.euronews.com/culture/2026/06/18/archaeologists-discover-5000-year-old-proto-stonehenge-just-a-few-miles-from-the-famous-mo</link>
-            <guid isPermaLink="false">ebffd2206412263843566becbc93e4fa</guid>
-            <pubDate>Thu, 18 Jun 2026 12:23:29 GMT</pubDate>
-            <description><![CDATA[ストーンヘンジの数マイル先で5000年前の構造物が発見された。古代ブリトン人がストーンヘンジ以前から太陽を追跡していたことを示唆する。]]></description>
+            <title><![CDATA[女性たちが石炭粉塵と闘う、今週のその他のエコな勝利]]></title>
+            <link>https://www.dw.com/en/women-tackling-coal-dust-and-other-eco-wins-this-week/a-77627984?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">88508437e15c8f2a667024898c7e3265</guid>
+            <pubDate>Fri, 19 Jun 2026 13:18:00 GMT</pubDate>
+            <description><![CDATA[インドの女性が有害な石炭粉塵と闘い、米国が太陽光発電で節目を迎え、ケニアの土壌や世界の自動車に良いニュースがあるなど、環境分野での成果をまとめた。]]></description>
             <content:encoded><![CDATA[
-                <p>ストーンヘンジの数マイル先で5000年前の構造物が発見された。古代ブリトン人がストーンヘンジ以前から太陽を追跡していたことを示唆する。</p>
+                <p>インドの女性が有害な石炭粉塵と闘い、米国が太陽光発電で節目を迎え、ケニアの土壌や世界の自動車に良いニュースがあるなど、環境分野での成果をまとめた。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 環境<br/>
+                    <strong>重要度スコア:</strong> 65
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[英国弁護士会、ICC検察官カーン氏を不正行為申し立てにより停職処分]]></title>
+            <link>https://www.aljazeera.com/news/2026/6/19/british-lawyers-body-suspends-icc-prosecutor-khan-over-misconduct-claim?traffic_source=rss</link>
+            <guid isPermaLink="false">e0c24c65458d4da77000a4df0bfd4568</guid>
+            <pubDate>Fri, 19 Jun 2026 13:07:27 GMT</pubDate>
+            <description><![CDATA[国際刑事裁判所の検察官であるカーン氏が、性的不正行為の申し立てを受け、英国弁護士会から停職処分となりました。複数の調査が進行中です。]]></description>
+            <content:encoded><![CDATA[
+                <p>国際刑事裁判所の検察官であるカーン氏が、性的不正行為の申し立てを受け、英国弁護士会から停職処分となりました。複数の調査が進行中です。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Al Jazeera – All<br/>
+                    <strong>対象国:</strong> GB<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[マティスとイヴ・サンローランが「美、ファッション、幸福」展で共演]]></title>
+            <link>http://www.euronews.com/video/2026/06/19/matisse-and-yves-saint-laurent-come-together-in-beauty-fashion-and-happiness-exhibition</link>
+            <guid isPermaLink="false">2bd2605825aa968f0b9e4b141433bdaf</guid>
+            <pubDate>Fri, 19 Jun 2026 13:04:06 GMT</pubDate>
+            <description><![CDATA[フランスのニースにあるマティス美術館で、「美、ファッション、幸福」と題された展覧会が開催され、マティスとイヴ・サンローランの160作品が展示される。]]></description>
+            <content:encoded><![CDATA[
+                <p>フランスのニースにあるマティス美術館で、「美、ファッション、幸福」と題された展覧会が開催され、マティスとイヴ・サンローランの160作品が展示される。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> GB<br/>
-                    <strong>カテゴリ:</strong> 科学<br/>
+                    <strong>対象国:</strong> FR<br/>
+                    <strong>カテゴリ:</strong> エンタメ<br/>
                     <strong>重要度スコア:</strong> 55
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[イラン、ホルムズ海峡での「サービス料」徴収を表明]]></title>
-            <link>https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss</link>
-            <guid isPermaLink="false">ca1e7d81dcf92c78fbdb4df936702033</guid>
-            <pubDate>Thu, 18 Jun 2026 12:23:19 GMT</pubDate>
-            <description><![CDATA[イランがホルムズ海峡を通過する船舶に対し、サービス料の徴収を開始すると発表。国際的な通航の自由と経済に大きな影響を及ぼす可能性があり、今後の動向が注目される。]]></description>
+            <title><![CDATA[ゲームチェンジャーなスイーツ：ひまわりから持続可能な「チョコレート」を作るバイエルンのスタートアップ]]></title>
+            <link>http://www.euronews.com/my-europe/2026/06/19/game-changer-sweets-the-bavarian-start-up-making-sustainable-chocolate-from-sunflowers</link>
+            <guid isPermaLink="false">d766b64d1b017696286d0c6016759f3b</guid>
+            <pubDate>Fri, 19 Jun 2026 13:00:53 GMT</pubDate>
+            <description><![CDATA[バイエルンのスタートアップが、ひまわりの種から世界初のカカオ不使用のチョコレート代替品を製造。食品業界の新たな挑戦として注目を集めている。]]></description>
             <content:encoded><![CDATA[
-                <p>イランがホルムズ海峡を通過する船舶に対し、サービス料の徴収を開始すると発表。国際的な通航の自由と経済に大きな影響を及ぼす可能性があり、今後の動向が注目される。</p>
+                <p>バイエルンのスタートアップが、ひまわりの種から世界初のカカオ不使用のチョコレート代替品を製造。食品業界の新たな挑戦として注目を集めている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Euronews – World<br/>
+                    <strong>対象国:</strong> DE<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 50
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[マレーシアの第3回宗教指導者国際サミット、信仰が若者をどう力づけるかを探る]]></title>
+            <link>http://www.euronews.com/2026/06/19/malaysias-3rd-international-summit-of-religious-leaders-explores-how-faith-can-empower-the</link>
+            <guid isPermaLink="false">0966c043d489bf4c7a3f6e73441643b8</guid>
+            <pubDate>Fri, 19 Jun 2026 13:00:51 GMT</pubDate>
+            <description><![CDATA[クアラルンプールで第3回宗教指導者国際サミットが開催され、技術と社会の変化の時代に信仰が若者をいかに力づけられるかについて議論された。]]></description>
+            <content:encoded><![CDATA[
+                <p>クアラルンプールで第3回宗教指導者国際サミットが開催され、技術と社会の変化の時代に信仰が若者をいかに力づけられるかについて議論された。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Euronews – World<br/>
+                    <strong>対象国:</strong> MY<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 65
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ギニアビサウ：野党指導者の自宅軟禁が緊張を高める]]></title>
+            <link>https://www.dw.com/en/guinea-bissau-opposition-leader-house-arrest-raises-stakes/a-77593866?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">55a214f9c9d4bead970c14f7431aa7a6</guid>
+            <pubDate>Fri, 19 Jun 2026 12:59:00 GMT</pubDate>
+            <description><![CDATA[ギニアビサウでクーデターから数ヶ月、野党指導者が自宅軟禁下にあり、政治危機を深め、国際パートナーとの緊張が高まっている状況を報じる。]]></description>
+            <content:encoded><![CDATA[
+                <p>ギニアビサウでクーデターから数ヶ月、野党指導者が自宅軟禁下にあり、政治危機を深め、国際パートナーとの緊張が高まっている状況を報じる。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> GW<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[チリのパレスチナ人がイスラエルの方針転換に反発]]></title>
+            <link>https://www.aljazeera.com/video/newsfeed/2026/6/19/chiles-palestinians-push-back-against-israel-policy-shift?traffic_source=rss</link>
+            <guid isPermaLink="false">29f40b991b9add0e0b2e812a2075b925</guid>
+            <pubDate>Fri, 19 Jun 2026 12:58:30 GMT</pubDate>
+            <description><![CDATA[チリに住むパレスチナ系住民が、イスラエルによる政策変更に対し、反発しています。この動きは、両国間の複雑な関係を浮き彫りにしています。]]></description>
+            <content:encoded><![CDATA[
+                <p>チリに住むパレスチナ系住民が、イスラエルによる政策変更に対し、反発しています。この動きは、両国間の複雑な関係を浮き彫りにしています。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> IR<br/>
+                    <strong>対象国:</strong> CL<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 60
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[フォン・デア・ライエン氏、EU指導者にロシアとの協議のための権限を検討する時期だと語る]]></title>
+            <link>http://www.euronews.com/my-europe/2026/06/19/von-der-leyen-told-eu-leaders-its-right-time-to-consider-a-mandate-for-talks-with-russia</link>
+            <guid isPermaLink="false">4132248946846d327780e0e5e7972751</guid>
+            <pubDate>Fri, 19 Jun 2026 12:57:08 GMT</pubDate>
+            <description><![CDATA[欧州委員会のフォン・デア・ライエン委員長は、EU指導者に対し、ロシアとのウクライナに関する交渉権限を検討する時だと述べた。]]></description>
+            <content:encoded><![CDATA[
+                <p>欧州委員会のフォン・デア・ライエン委員長は、EU指導者に対し、ロシアとのウクライナに関する交渉権限を検討する時だと述べた。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Euronews – World<br/>
+                    <strong>対象国:</strong> XX<br/>
                     <strong>カテゴリ:</strong> 政治<br/>
                     <strong>重要度スコア:</strong> 85
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SalesforceフランスCEO：リーダーと従業員の両方がAIに適応する必要がある]]></title>
-            <link>http://www.euronews.com/next/2026/06/18/salesforce-france-ceo-both-leaders-and-employees-need-to-adapt-to-ai</link>
-            <guid isPermaLink="false">3313491e551738a5eaae618908bc6b6f</guid>
-            <pubDate>Thu, 18 Jun 2026 12:11:32 GMT</pubDate>
-            <description><![CDATA[パリのビバテックでSalesforceフランスCEOが講演し、企業がAIを受け入れ、リーダーがその導入を推進する重要性を語った。]]></description>
+            <title><![CDATA[ジョルジア・メローニ氏、トランプ氏の「完全にでっち上げられた主張」に反論]]></title>
+            <link>http://www.euronews.com/my-europe/2026/06/19/giorgia-meloni-fires-back-at-trumps-completely-made-up-claims</link>
+            <guid isPermaLink="false">d69d26e6eb632bd05f4e0c1c57a64e84</guid>
+            <pubDate>Fri, 19 Jun 2026 12:40:14 GMT</pubDate>
+            <description><![CDATA[イタリアのメローニ首相は、トランプ氏の発言に「衝撃を受けた」と述べ、かつて親密だった二人の関係が悪化していることを示唆した。]]></description>
             <content:encoded><![CDATA[
-                <p>パリのビバテックでSalesforceフランスCEOが講演し、企業がAIを受け入れ、リーダーがその導入を推進する重要性を語った。</p>
+                <p>イタリアのメローニ首相は、トランプ氏の発言に「衝撃を受けた」と述べ、かつて親密だった二人の関係が悪化していることを示唆した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Euronews – World<br/>
+                    <strong>対象国:</strong> IT<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Capgemini AI責任者：人間とAIはまだ適切な相性ではない]]></title>
+            <link>http://www.euronews.com/next/2026/06/19/capgemini-ai-chief-humans-and-ai-dont-have-the-right-chemistry-yet</link>
+            <guid isPermaLink="false">2f0d60959a17e4f3dcec516b74a68743</guid>
+            <pubDate>Fri, 19 Jun 2026 12:34:54 GMT</pubDate>
+            <description><![CDATA[フランスのITコンサルティング企業CapgeminiのAI責任者は、AI導入の次段階では信頼、規制、そしてAIモデルの「プランB」が重要になると語る。]]></description>
+            <content:encoded><![CDATA[
+                <p>フランスのITコンサルティング企業CapgeminiのAI責任者は、AI導入の次段階では信頼、規制、そしてAIモデルの「プランB」が重要になると語る。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Euronews – World<br/>
                     <strong>対象国:</strong> FR<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>カテゴリ:</strong> 科学<br/>
                     <strong>重要度スコア:</strong> 60
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ニジェール治安部隊が空港で武装集団と交戦]]></title>
-            <link>https://www.dw.com/en/niger-security-forces-battle-gunmen-at-airport/a-77606109?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">458e5941b592aad4e63998385d63b690</guid>
-            <pubDate>Thu, 18 Jun 2026 12:07:00 GMT</pubDate>
-            <description><![CDATA[ニジェールの治安部隊が主要国際空港で武装集団と数時間にわたる銃撃戦を展開。イスラム過激派による犯行が疑われている。]]></description>
+            <title><![CDATA[ロビンフッドゆかりのシャーウッドの森、樹齢1200年の樫の木が枯死と宣言]]></title>
+            <link>http://www.euronews.com/culture/2026/06/19/robin-hoods-famed-sherwood-forest-1200-year-old-oak-tree-declared-dead</link>
+            <guid isPermaLink="false">e9e7a6ab76f1ba0245b46f4726e10670</guid>
+            <pubDate>Fri, 19 Jun 2026 12:28:04 GMT</pubDate>
+            <description><![CDATA[ロビンフッド伝説で知られるシャーウッドの森にある樹齢1200年の伝説の樫の木が、ついに枯死したと宣言された。]]></description>
             <content:encoded><![CDATA[
-                <p>ニジェールの治安部隊が主要国際空港で武装集団と数時間にわたる銃撃戦を展開。イスラム過激派による犯行が疑われている。</p>
+                <p>ロビンフッド伝説で知られるシャーウッドの森にある樹齢1200年の伝説の樫の木が、ついに枯死したと宣言された。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Euronews – World<br/>
+                    <strong>対象国:</strong> GB<br/>
+                    <strong>カテゴリ:</strong> 環境<br/>
+                    <strong>重要度スコア:</strong> 45
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ドイツのポスト共産主義左翼党が大きな夢を抱く]]></title>
+            <link>https://www.dw.com/en/germany-s-post-communist-left-party-is-dreaming-big/a-77627530?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">3065d39d565bad04af082140106c4ee7</guid>
+            <pubDate>Fri, 19 Jun 2026 12:28:00 GMT</pubDate>
+            <description><![CDATA[ドイツの社会主義左翼党が党員数を急増させ、特に若い女性有権者からの人気を集めている。ベルリン市州での政権獲得の可能性について考察する記事。]]></description>
+            <content:encoded><![CDATA[
+                <p>ドイツの社会主義左翼党が党員数を急増させ、特に若い女性有権者からの人気を集めている。ベルリン市州での政権獲得の可能性について考察する記事。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> NE<br/>
+                    <strong>対象国:</strong> DE<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 60
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[誘拐されたメキシコ人ジャーナリスト、ロクサナ・グスマン氏の捜索が続く]]></title>
+            <link>https://www.aljazeera.com/video/newsfeed/2026/6/19/search-continues-for-kidnapped-mexican-journalist-roxana-guzman?traffic_source=rss</link>
+            <guid isPermaLink="false">b2ffbc77f8df470da2ffc53161fff657</guid>
+            <pubDate>Fri, 19 Jun 2026 12:16:14 GMT</pubDate>
+            <description><![CDATA[誘拐されたメキシコ人ジャーナリスト、ロクサナ・グスマン氏の捜索活動が引き続き行われています。彼女の安否が懸念されており、関係当局が捜索を急いでいます。]]></description>
+            <content:encoded><![CDATA[
+                <p>誘拐されたメキシコ人ジャーナリスト、ロクサナ・グスマン氏の捜索活動が引き続き行われています。彼女の安否が懸念されており、関係当局が捜索を急いでいます。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Al Jazeera – All<br/>
+                    <strong>対象国:</strong> MX<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 65
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ロシアによる新たな攻撃がハルキウとオデーサを襲い、1人死亡、子どもを含む負傷者]]></title>
+            <link>http://www.euronews.com/video/2026/06/19/new-russian-strikes-hit-kharkiv-and-odesa-killing-one-and-injuring-children</link>
+            <guid isPermaLink="false">b1f9944ab2aebd03b29b222663ac2534</guid>
+            <pubDate>Fri, 19 Jun 2026 12:15:47 GMT</pubDate>
+            <description><![CDATA[6月19日、ロシア軍による新たな攻撃がウクライナのハルキウとオデーサ地域を襲い、1人が死亡、子どもを含む多数が負傷し、住宅などに被害が出た。]]></description>
+            <content:encoded><![CDATA[
+                <p>6月19日、ロシア軍による新たな攻撃がウクライナのハルキウとオデーサ地域を襲い、1人が死亡、子どもを含む多数が負傷し、住宅などに被害が出た。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Euronews – World<br/>
+                    <strong>対象国:</strong> UA<br/>
                     <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 90
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[エストニア、自律型AIエージェントを管理する「AI IDコード」を導入]]></title>
+            <link>http://www.euronews.com/next/2026/06/19/estonia-creates-ai-id-codes-to-govern-autonomous-agents</link>
+            <guid isPermaLink="false">d2090492f078814834dfad4ea662bb50</guid>
+            <pubDate>Fri, 19 Jun 2026 12:15:21 GMT</pubDate>
+            <description><![CDATA[エストニア政府は、企業や個人がAIエージェントに全データへのアクセスを許可することなく自動化を進めるため、AI IDコードを導入すると発表した。]]></description>
+            <content:encoded><![CDATA[
+                <p>エストニア政府は、企業や個人がAIエージェントに全データへのアクセスを許可することなく自動化を進めるため、AI IDコードを導入すると発表した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Euronews – World<br/>
+                    <strong>対象国:</strong> EE<br/>
+                    <strong>カテゴリ:</strong> 科学<br/>
                     <strong>重要度スコア:</strong> 75
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2026年ワールドカップ：グループステージ開幕戦の主要なポイント]]></title>
-            <link>https://www.aljazeera.com/sports/2026/6/18/world-cup-2026-key-takeaways-from-the-opening-group-stage-matches?traffic_source=rss</link>
-            <guid isPermaLink="false">de8cd68e6d7e7e963097f40b4ab3d7ef</guid>
-            <pubDate>Thu, 18 Jun 2026 12:00:03 GMT</pubDate>
-            <description><![CDATA[2026年ワールドカップのグループステージ開幕戦の主要なポイントをまとめた記事。ファンとの交流、ピッチ上の論争、スター選手の活躍、番狂わせなどが報じられた。]]></description>
+            <title><![CDATA[チェコ政府、受信料廃止の動きで警鐘を鳴らす]]></title>
+            <link>https://www.dw.com/en/czech-govt-causes-alarm-by-seeking-to-scrap-license-fee/a-77625913?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">67d968edc05beadd2984e997cfffce63</guid>
+            <pubDate>Fri, 19 Jun 2026 12:10:00 GMT</pubDate>
+            <description><![CDATA[チェコ政府が公共放送の資金調達を政治管理下に置く法案を承認。批評家は、可決されればチェコ民主主義の柱が危険にさらされると警告している。]]></description>
             <content:encoded><![CDATA[
-                <p>2026年ワールドカップのグループステージ開幕戦の主要なポイントをまとめた記事。ファンとの交流、ピッチ上の論争、スター選手の活躍、番狂わせなどが報じられた。</p>
+                <p>チェコ政府が公共放送の資金調達を政治管理下に置く法案を承認。批評家は、可決されればチェコ民主主義の柱が危険にさらされると警告している。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> CZ<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[バーナム氏のメイカーフィールドでの選挙勝利後、スターマー氏の将来は不透明に]]></title>
+            <link>https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss</link>
+            <guid isPermaLink="false">16f8a6ba74df7390c41cc36e6ef1edd2</guid>
+            <pubDate>Fri, 19 Jun 2026 12:08:39 GMT</pubDate>
+            <description><![CDATA[メイカーフィールドでの選挙でバーナム氏が勝利したことにより、英国の次期首相となる可能性のあるスターマー氏の政治的将来が危ぶまれています。政界に大きな影響を与える可能性があります。]]></description>
+            <content:encoded><![CDATA[
+                <p>メイカーフィールドでの選挙でバーナム氏が勝利したことにより、英国の次期首相となる可能性のあるスターマー氏の政治的将来が危ぶまれています。政界に大きな影響を与える可能性があります。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Al Jazeera – All<br/>
+                    <strong>対象国:</strong> GB<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[レバノン、イスラエルによる空爆で18人死亡と発表 イスラエルはヒズボラにより兵士4人死亡と主張]]></title>
+            <link>https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">56e7464ec7bad5c926e86776bfd7a400</guid>
+            <pubDate>Fri, 19 Jun 2026 12:07:32 GMT</pubDate>
+            <description><![CDATA[米国とイランが紛争終結の合意に署名した翌日、レバノンはイスラエルによる攻撃で18人が死亡したと発表。イスラエルはヒズボラによって兵士4人が殺害されたと述べている。]]></description>
+            <content:encoded><![CDATA[
+                <p>米国とイランが紛争終結の合意に署名した翌日、レバノンはイスラエルによる攻撃で18人が死亡したと発表。イスラエルはヒズボラによって兵士4人が殺害されたと述べている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> LB<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[数か月にわたる戦争がイランと湾岸諸国の関係を根本的に変える]]></title>
+            <link>https://www.dw.com/en/months-of-war-fundamentally-change-iran-gulf-ties/a-77626785?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">98121f02b5c64e03aa18440c4ae127e5</guid>
+            <pubDate>Fri, 19 Jun 2026 12:01:00 GMT</pubDate>
+            <description><![CDATA[中東での紛争がテヘランと湾岸諸国間の戦略的状況を変化させた。信頼は欠如しているが、双方が互いに依存していることを認識している現状を分析。]]></description>
+            <content:encoded><![CDATA[
+                <p>中東での紛争がテヘランと湾岸諸国間の戦略的状況を変化させた。信頼は欠如しているが、双方が互いに依存していることを認識している現状を分析。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> IR<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[アフガニスタンがパキスタン内で標的を攻撃、国境を越えた緊張が高まる]]></title>
+            <link>https://www.aljazeera.com/news/2026/6/19/afghanistan-strikes-targets-in-pakistan-raising-cross-border-tension?traffic_source=rss</link>
+            <guid isPermaLink="false">2cc4f30ff6abc21629940554c9c6a377</guid>
+            <pubDate>Fri, 19 Jun 2026 11:57:41 GMT</pubDate>
+            <description><![CDATA[アフガニスタンがパキスタン領内で攻撃を行い、両国間の脆弱な停戦に新たな脅威が生じ、国境地域の緊張が高まっています。国際社会は事態を注視しています。]]></description>
+            <content:encoded><![CDATA[
+                <p>アフガニスタンがパキスタン領内で攻撃を行い、両国間の脆弱な停戦に新たな脅威が生じ、国境地域の緊張が高まっています。国際社会は事態を注視しています。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Al Jazeera – All<br/>
                     <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 85
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HPVワクチンは子宮頸がんによる死亡をなくせるか？]]></title>
+            <link>https://www.aljazeera.com/news/2026/6/19/could-the-hpv-vaccine-eliminate-cervical-cancer-deaths?traffic_source=rss</link>
+            <guid isPermaLink="false">8dbc42dcd8747d3cac4db450ba99c0ab</guid>
+            <pubDate>Fri, 19 Jun 2026 11:41:34 GMT</pubDate>
+            <description><![CDATA[HPVワクチンは英国で30歳未満の子宮頸がん死亡リスクをほぼゼロに削減しました。これにより、子宮頸がんによる死亡を根絶する可能性が示唆されており、世界の公衆衛生に大きな影響を与える可能性があります。]]></description>
+            <content:encoded><![CDATA[
+                <p>HPVワクチンは英国で30歳未満の子宮頸がん死亡リスクをほぼゼロに削減しました。これにより、子宮頸がんによる死亡を根絶する可能性が示唆されており、世界の公衆衛生に大きな影響を与える可能性があります。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Al Jazeera – All<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 科学<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ドイツのニュース：数百万人に熱波警報発令]]></title>
+            <link>https://www.dw.com/en/germany-news-heat-alerts-in-effect-for-millions/live-77625380?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">3a490145e27c63f59a2ce8ce54f2ce2c</guid>
+            <pubDate>Fri, 19 Jun 2026 11:34:00 GMT</pubDate>
+            <description><![CDATA[ドイツが金曜日に高温と雷雨の複合的な天候に備えている。ボン北橋の修理にはさらに2年かかると報じられ、最新の状況が伝えられた。]]></description>
+            <content:encoded><![CDATA[
+                <p>ドイツが金曜日に高温と雷雨の複合的な天候に備えている。ボン北橋の修理にはさらに2年かかると報じられ、最新の状況が伝えられた。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> DE<br/>
+                    <strong>カテゴリ:</strong> 災害<br/>
+                    <strong>重要度スコア:</strong> 55
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[トランプ氏、北朝鮮の核計画に対する新たなアプローチを示唆]]></title>
+            <link>https://www.aljazeera.com/news/2026/6/19/trump-hints-at-new-approach-to-north-koreas-nuclear-programme?traffic_source=rss</link>
+            <guid isPermaLink="false">0879f0af5d3512d648ea1544a304f016</guid>
+            <pubDate>Fri, 19 Jun 2026 11:07:23 GMT</pubDate>
+            <description><![CDATA[トランプ氏がG7サミットで北朝鮮の核問題に焦点を当てるべき時が来たと示唆し、同国の核計画に対する新たな外交方針が検討されている模様です。国際情勢に大きな影響を与える可能性があります。]]></description>
+            <content:encoded><![CDATA[
+                <p>トランプ氏がG7サミットで北朝鮮の核問題に焦点を当てるべき時が来たと示唆し、同国の核計画に対する新たな外交方針が検討されている模様です。国際情勢に大きな影響を与える可能性があります。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Al Jazeera – All<br/>
+                    <strong>対象国:</strong> KP<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 85
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ワールドカップ：プリシッチはオーストラリア戦に出場するか、USMNTは予選通過できるか？]]></title>
+            <link>https://www.aljazeera.com/sports/2026/6/19/world-cup-will-pulisic-play-against-australia-and-can-usmnt-qualify?traffic_source=rss</link>
+            <guid isPermaLink="false">3dbaeabdcf1460cfccd49de7269e1995</guid>
+            <pubDate>Fri, 19 Jun 2026 11:07:15 GMT</pubDate>
+            <description><![CDATA[ワールドカップで米国代表のクリスチャン・プリシッチ選手はオーストラリア戦に出場できるのか、そして米国はグループDで首位通過できるのかが注目されています。ファンは結果に期待を寄せています。]]></description>
+            <content:encoded><![CDATA[
+                <p>ワールドカップで米国代表のクリスチャン・プリシッチ選手はオーストラリア戦に出場できるのか、そして米国はグループDで首位通過できるのかが注目されています。ファンは結果に期待を寄せています。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Al Jazeera – All<br/>
+                    <strong>対象国:</strong> US<br/>
                     <strong>カテゴリ:</strong> スポーツ<br/>
                     <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FoxconnからNvidiaまで：フランスが欧州のAIインフラにとって魅力的な理由]]></title>
-            <link>http://www.euronews.com/next/2026/06/18/from-foxconn-to-nvidia-why-france-is-so-attractive-for-europes-ai-infrastructure</link>
-            <guid isPermaLink="false">7566bf0609f92184b791c86d719bdf98</guid>
-            <pubDate>Thu, 18 Jun 2026 11:58:41 GMT</pubDate>
-            <description><![CDATA[欧州のVivaTech会議でFoxconn、NvidiaなどがAIインフラに関する大型契約を発表。フランスの安価な原子力エネルギーが世界の投資を引きつけている。]]></description>
+            <title><![CDATA[アーセナル、昇格組コヴェントリーを相手にプレミアリーグ連覇への挑戦を開始]]></title>
+            <link>https://www.aljazeera.com/sports/2026/6/19/arsenal-to-begin-premier-league-title-defence-against-promoted-coventry?traffic_source=rss</link>
+            <guid isPermaLink="false">2443c4b1aa39c5eeda84c7eaf84cc15e</guid>
+            <pubDate>Fri, 19 Jun 2026 10:50:44 GMT</pubDate>
+            <description><![CDATA[アーセナルが昇格組コヴェントリーと対戦し、2026-27シーズン初のプレミアリーグ優勝防衛戦に臨みます。新たなシーズンが幕を開け、ファンは熱戦を期待しています。]]></description>
             <content:encoded><![CDATA[
-                <p>欧州のVivaTech会議でFoxconn、NvidiaなどがAIインフラに関する大型契約を発表。フランスの安価な原子力エネルギーが世界の投資を引きつけている。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> FR<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 75
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[スペインでイギリス人男性がパラグライダー事故で死亡]]></title>
-            <link>https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">68615b4299c985facb282e7dcbfb4eee</guid>
-            <pubDate>Thu, 18 Jun 2026 11:54:23 GMT</pubDate>
-            <description><![CDATA[スペインのカタルーニャ地方パラウ・デ・ノゲラ地区で、63歳のイギリス人男性がパラグライダー事故により死亡した。]]></description>
-            <content:encoded><![CDATA[
-                <p>スペインのカタルーニャ地方パラウ・デ・ノゲラ地区で、63歳のイギリス人男性がパラグライダー事故により死亡した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> ES<br/>
-                    <strong>カテゴリ:</strong> 災害<br/>
-                    <strong>重要度スコア:</strong> 40
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[トランプ・イラン合意、レバノン、ホルムズ、ウランについて何を語るか]]></title>
-            <link>https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss</link>
-            <guid isPermaLink="false">bc346b2f2ffcb625c2422f8dc0df1467</guid>
-            <pubDate>Thu, 18 Jun 2026 11:50:22 GMT</pubDate>
-            <description><![CDATA[トランプ政権とイランの間の覚書は、レバノン、ホルムズ海峡、ウランに関する14項目を網羅しているが、多くの重要な疑問が未解決のままであることが指摘されている。]]></description>
-            <content:encoded><![CDATA[
-                <p>トランプ政権とイランの間の覚書は、レバノン、ホルムズ海峡、ウランに関する14項目を網羅しているが、多くの重要な疑問が未解決のままであることが指摘されている。</p>
+                <p>アーセナルが昇格組コヴェントリーと対戦し、2026-27シーズン初のプレミアリーグ優勝防衛戦に臨みます。新たなシーズンが幕を開け、ファンは熱戦を期待しています。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> IR<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 90
+                    <strong>対象国:</strong> GB<br/>
+                    <strong>カテゴリ:</strong> スポーツ<br/>
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ロシアのシャドー艦隊船、スミルノス号乗船以来初めて英仏海峡に進入]]></title>
-            <link>https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">c1f19a6abe06411db8b0433e2206e7c1</guid>
-            <pubDate>Thu, 18 Jun 2026 11:50:15 GMT</pubDate>
-            <description><![CDATA[ロシア船籍の「フォワーダー」号が、プリモルスク港を出て英仏海峡に入った。スミルノス号乗船事件以来、ロシアのシャドー艦隊船が同海域に入るのは初。]]></description>
+            <title><![CDATA[「世界秩序」の崩壊はアジアにとっての機会か？]]></title>
+            <link>https://www.dw.com/en/the-collapse-of-world-order-as-an-opportunity-for-asia/a-77625031?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">67300a1be7a4ac1df79ddeeb117364a4</guid>
+            <pubDate>Fri, 19 Jun 2026 10:44:00 GMT</pubDate>
+            <description><![CDATA[ヨーロッパで国際規範の変化が損失とされる一方、アジアでは新しい包括的秩序の機会と捉えられる可能性について考察する記事。]]></description>
             <content:encoded><![CDATA[
-                <p>ロシア船籍の「フォワーダー」号が、プリモルスク港を出て英仏海峡に入った。スミルノス号乗船事件以来、ロシアのシャドー艦隊船が同海域に入るのは初。</p>
+                <p>ヨーロッパで国際規範の変化が損失とされる一方、アジアでは新しい包括的秩序の機会と捉えられる可能性について考察する記事。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> RU<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 85
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ワールドカップ：ブラジル対ハイチ – 予想、視聴方法、ネイマールは出場するか？]]></title>
+            <link>https://www.aljazeera.com/sports/2026/6/19/brazil-vs-haiti-world-cup-prediction-how-to-watch-and-will-neymar-play?traffic_source=rss</link>
+            <guid isPermaLink="false">fdc775235196261b2693b38b36543fd2</guid>
+            <pubDate>Fri, 19 Jun 2026 10:40:13 GMT</pubDate>
+            <description><![CDATA[ワールドカップでブラジルがハイチと対戦。初戦の引き分け後、勝利が必要なブラジルは、ネイマールが出場するかが注目されます。試合はフィラデルフィアで開催され、熱戦が期待されます。]]></description>
+            <content:encoded><![CDATA[
+                <p>ワールドカップでブラジルがハイチと対戦。初戦の引き分け後、勝利が必要なブラジルは、ネイマールが出場するかが注目されます。試合はフィラデルフィアで開催され、熱戦が期待されます。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Al Jazeera – All<br/>
+                    <strong>対象国:</strong> BR<br/>
+                    <strong>カテゴリ:</strong> スポーツ<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[米国：オバマセンター開館に著名人や元指導者らが集結]]></title>
+            <link>https://www.dw.com/en/us-stars-and-ex-leaders-on-hand-to-open-obama-center/a-77623934?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">c61c7937d5ed4aa49c8e1e7743cec688</guid>
+            <pubDate>Fri, 19 Jun 2026 10:37:00 GMT</pubDate>
+            <description><![CDATA[シカゴでバラク・オバマ大統領センターが開館。民主主義を祝い、「市民としての共有責任」を受け入れる楽観的な呼びかけとなったイベントを伝える。]]></description>
+            <content:encoded><![CDATA[
+                <p>シカゴでバラク・オバマ大統領センターが開館。民主主義を祝い、「市民としての共有責任」を受け入れる楽観的な呼びかけとなったイベントを伝える。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> US<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
                     <strong>重要度スコア:</strong> 60
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EU-backed green bonds risk financing Chinese clean tech in third countries]]></title>
-            <link>http://www.euronews.com/my-europe/2026/06/18/eu-backed-green-bonds-risk-financing-chinese-clean-tech-in-third-countries</link>
-            <guid isPermaLink="false">61066d580111c3e813dc649e9503c940</guid>
-            <pubDate>Thu, 18 Jun 2026 11:43:48 GMT</pubDate>
-            <description><![CDATA[The EU has launched a €15-20bn green investment fund to boost sustainable projects, but a good share of the money is set to go towards buying Chinese clean technologies – including the same high-risk power inverters Brussels is trying to phase out.]]></description>
+            <title><![CDATA[モロッコ代表主将ハキミ、強姦罪で裁判へ]]></title>
+            <link>https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">ebcc9b3462d06ca7a0f0f3f0c4ebf1fb</guid>
+            <pubDate>Fri, 19 Jun 2026 10:28:22 GMT</pubDate>
+            <description><![CDATA[モロッコ代表主将のアクラフ・ハキミ選手が、2023年に遡る強姦容疑でフランスの検察官により裁判にかけられることが確認されました。]]></description>
             <content:encoded><![CDATA[
-                <p>The EU has launched a €15-20bn green investment fund to boost sustainable projects, but a good share of the money is set to go towards buying Chinese clean technologies – including the same high-risk power inverters Brussels is trying to phase out.</p>
+                <p>モロッコ代表主将のアクラフ・ハキミ選手が、2023年に遡る強姦容疑でフランスの検察官により裁判にかけられることが確認されました。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> 不明<br/>
-                    <strong>カテゴリ:</strong> 未分類<br/>
-                    <strong>重要度スコア:</strong> N/A
+                    <strong>配信元:</strong> BBC – Africa<br/>
+                    <strong>対象国:</strong> MA<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[コートジボワールのワヒ、カナダへの入国を拒否される]]></title>
+            <title><![CDATA[12歳の少年、病気の鶏をエチオピアの病院に連れて行こうとし心を掴む]]></title>
+            <link>https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">3758a5a1362a14e403abb4b86c7df958</guid>
+            <pubDate>Fri, 19 Jun 2026 10:25:30 GMT</pubDate>
+            <description><![CDATA[病気の愛鶏がどの治療にも反応せず、マルコス少年（12歳）はエチオピアの病院に連れて行こうとした。その献身的な行動が人々の心を温めている。]]></description>
+            <content:encoded><![CDATA[
+                <p>病気の愛鶏がどの治療にも反応せず、マルコス少年（12歳）はエチオピアの病院に連れて行こうとした。その献身的な行動が人々の心を温めている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> ET<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 40
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EU首脳会議：メルツ氏、長期予算「高すぎる」として削減を要求]]></title>
+            <link>https://www.dw.com/en/eu-summit-merz-calls-for-cuts-to-too-high-long-term-budget/live-77613962?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">37d33cfb8f9eda7a3bca9bee125f8e72</guid>
+            <pubDate>Fri, 19 Jun 2026 10:18:00 GMT</pubDate>
+            <description><![CDATA[ドイツのフリードリヒ・メルツ首相が、欧州委員会の2028年から2034年までの長期予算案は「高すぎる」と述べ、新たな提案を求めたEU首脳会議の様子を報じる。]]></description>
+            <content:encoded><![CDATA[
+                <p>ドイツのフリードリヒ・メルツ首相が、欧州委員会の2028年から2034年までの長期予算案は「高すぎる」と述べ、新たな提案を求めたEU首脳会議の様子を報じる。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> DE<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[アジア一の富豪アンバニ氏、インド史上最大の株式売却を発表へ]]></title>
+            <link>https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">c4140807fe6d1b47b8506f968bd4dce8</guid>
+            <pubDate>Fri, 19 Jun 2026 10:13:41 GMT</pubDate>
+            <description><![CDATA[アジア一の富豪アンバニ氏が、インド最大の通信事業者による約40億ドル規模とみられるインド史上最大の株式売却を発表した。]]></description>
+            <content:encoded><![CDATA[
+                <p>アジア一の富豪アンバニ氏が、インド最大の通信事業者による約40億ドル規模とみられるインド史上最大の株式売却を発表した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> IN<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[イラン戦争：スイス会談中止、バンス副大統領は米国に滞在]]></title>
+            <link>https://www.dw.com/en/iran-war-switzerland-talks-called-off-vance-stays-in-us/live-77620493?maca=en-rss-en-top-1022-rdf</link>
+            <guid isPermaLink="false">86d68656f1a0ed63189f0f3ab511be9e</guid>
+            <pubDate>Fri, 19 Jun 2026 10:01:00 GMT</pubDate>
+            <description><![CDATA[スイス外務省は、米国とイラン代表団による予定されていた会談の中止を発表。ホワイトハウスは、米副大統領のフライト遅延を物流上の問題と説明した。]]></description>
+            <content:encoded><![CDATA[
+                <p>スイス外務省は、米国とイラン代表団による予定されていた会談の中止を発表。ホワイトハウスは、米副大統領のフライト遅延を物流上の問題と説明した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> DW – Top Stories<br/>
+                    <strong>対象国:</strong> IR<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ルナールはチュニジアのW杯キャンペーンを立て直せるか？]]></title>
+            <link>https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">ac08965be6927b16ec494b46ec571e7b</guid>
+            <pubDate>Fri, 19 Jun 2026 09:47:42 GMT</pubDate>
+            <description><![CDATA[チュニジアは、2026年ワールドカップ予選の不振を受け、前監督を解任。2度のアフリカネイションズカップ優勝経験を持つエルヴェ・ルナール監督にチーム立て直しを託しました。]]></description>
+            <content:encoded><![CDATA[
+                <p>チュニジアは、2026年ワールドカップ予選の不振を受け、前監督を解任。2度のアフリカネイションズカップ優勝経験を持つエルヴェ・ルナール監督にチーム立て直しを託しました。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Africa<br/>
+                    <strong>対象国:</strong> TN<br/>
+                    <strong>カテゴリ:</strong> スポーツ<br/>
+                    <strong>重要度スコア:</strong> 55
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ニジェール最大空港への武装集団襲撃で35人死亡]]></title>
+            <link>https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">fc8071e4773470f84534159bb0c72756</guid>
+            <pubDate>Fri, 19 Jun 2026 09:43:30 GMT</pubDate>
+            <description><![CDATA[ニジェール最大の空港が武装集団に襲撃され、35人が死亡した。ニジェールでは10年間、イスラム過激派の反乱が続いており、1月にも同空港が襲撃されていた。]]></description>
+            <content:encoded><![CDATA[
+                <p>ニジェール最大の空港が武装集団に襲撃され、35人が死亡した。ニジェールでは10年間、イスラム過激派の反乱が続いており、1月にも同空港が襲撃されていた。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> NE<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 90
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[米イラン協議延期、イスラエルがレバノンで攻撃開始]]></title>
+            <link>https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">8c5b9cd8b3fb960f301b45065d735247</guid>
+            <pubDate>Fri, 19 Jun 2026 09:38:44 GMT</pubDate>
+            <description><![CDATA[イスラエル軍がレバノンでヒズボラを標的とした攻撃を開始し、兵士4人が死亡。JD・バンス氏はスイスには渡航せず、米国とイランの協議は延期された。]]></description>
+            <content:encoded><![CDATA[
+                <p>イスラエル軍がレバノンでヒズボラを標的とした攻撃を開始し、兵士4人が死亡。JD・バンス氏はスイスには渡航せず、米国とイランの協議は延期された。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 85
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ジンバブエ議会、大統領任期延長法案を可決]]></title>
+            <link>https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">785b0c7d3571d1e85bc176b052844db3</guid>
+            <pubDate>Fri, 19 Jun 2026 08:03:32 GMT</pubDate>
+            <description><![CDATA[ジンバブエの議員らが、エマーソン・ムナンガグワ大統領の任期を2年延長し、直接大統領選挙を廃止する法案を可決した。]]></description>
+            <content:encoded><![CDATA[
+                <p>ジンバブエの議員らが、エマーソン・ムナンガグワ大統領の任期を2年延長し、直接大統領選挙を廃止する法案を可決した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> ZW<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[米国におけるトランスジェンダーのベネズエラ人亡命申請者への危機を浮き彫りにするシャキーラ・ガリンデス氏の事例]]></title>
+            <link>https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s</link>
+            <guid isPermaLink="false">da971697e86306bed63499158bf35379</guid>
+            <pubDate>Fri, 19 Jun 2026 08:00:40 GMT</pubDate>
+            <description><![CDATA[トランスジェンダーのベネズエラ人亡命申請者シャキーラ・ガリンデス氏が米国で直面する差別、暴力、強制送還の危機が深刻化しており、人権問題として注目されている。]]></description>
+            <content:encoded><![CDATA[
+                <p>トランスジェンダーのベネズエラ人亡命申請者シャキーラ・ガリンデス氏が米国で直面する差別、暴力、強制送還の危機が深刻化しており、人権問題として注目されている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> Global Voices – Americas<br/>
+                    <strong>対象国:</strong> US<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[「家でもやって」W杯スタジアムを清掃した日本人サポーターに女性たちが語る]]></title>
+            <link>https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">b7225fca4332134d7a8e44685a13e804</guid>
+            <pubDate>Fri, 19 Jun 2026 04:30:47 GMT</pubDate>
+            <description><![CDATA[サッカーW杯でスタジアムを清掃した日本人男性ファンに対し、一部の女性が家庭での家事分担との二重基準を指摘し、「家でも同じようにやってほしい」と訴えている。]]></description>
+            <content:encoded><![CDATA[
+                <p>サッカーW杯でスタジアムを清掃した日本人男性ファンに対し、一部の女性が家庭での家事分担との二重基準を指摘し、「家でも同じようにやってほしい」と訴えている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> JP<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 60
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[トランプの影で、バンス氏がイラン合意の顔となる]]></title>
+            <link>https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">96376aa683c12af33193a31d39b54847</guid>
+            <pubDate>Fri, 19 Jun 2026 04:12:07 GMT</pubDate>
+            <description><![CDATA[イラン計画への批判が高まる中、バンス氏がそれを擁護する姿勢を見せ、2028年大統領選出馬の憶測が高まっている。]]></description>
+            <content:encoded><![CDATA[
+                <p>イラン計画への批判が高まる中、バンス氏がそれを擁護する姿勢を見せ、2028年大統領選出馬の憶測が高まっている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> US<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 65
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[インドの現金給付制度は貧困層を救うが、予算を圧迫する]]></title>
+            <link>https://www.bbc.com/news/articles/c0jy8zyn663o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">0b298cb1b5a3fb4e5eb48f1b7be1a811</guid>
+            <pubDate>Fri, 19 Jun 2026 00:01:33 GMT</pubDate>
+            <description><![CDATA[インドの現金給付制度は貧困層への救済策として普及しているが、その巨額な費用が長期的な財政への懸念を引き起こしている。]]></description>
+            <content:encoded><![CDATA[
+                <p>インドの現金給付制度は貧困層への救済策として普及しているが、その巨額な費用が長期的な財政への懸念を引き起こしている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Asia<br/>
+                    <strong>対象国:</strong> IN<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[米イラン合意から両国は何を得るのか、なぜ維持が困難な可能性も]]></title>
+            <link>https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">76d9749debab95c7bb5b4d5d9f0af010</guid>
+            <pubDate>Thu, 18 Jun 2026 20:04:40 GMT</pubDate>
+            <description><![CDATA[米国とイランが戦争終結の合意で勝利を主張する中、BBCアナリストがその内容と合意維持の課題について分析している。]]></description>
+            <content:encoded><![CDATA[
+                <p>米国とイランが戦争終結の合意で勝利を主張する中、BBCアナリストがその内容と合意維持の課題について分析している。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – World News<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CDCがDRCとウガンダのエボラ対応に1億700万ドルの緊急資金を投入]]></title>
+            <link>https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding</link>
+            <guid isPermaLink="false">f35ca5f75760a23cb0ca4bacd630a30e</guid>
+            <pubDate>Thu, 18 Jun 2026 18:55:09 GMT</pubDate>
+            <description><![CDATA[CDCはコンゴ民主共和国とウガンダでのエボラ出血熱対策のため1億700万ドルの緊急資金を拠出。感染者は1000人超だが、国際的なリスクは低いと評価されている。]]></description>
+            <content:encoded><![CDATA[
+                <p>CDCはコンゴ民主共和国とウガンダでのエボラ出血熱対策のため1億700万ドルの緊急資金を拠出。感染者は1000人超だが、国際的なリスクは低いと評価されている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> The Guardian – World<br/>
+                    <strong>対象国:</strong> CD<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[コートジボワールのワヒ、ビザ問題解決しカナダ入国許可]]></title>
             <link>https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">13b7f2ae1a98e0a328af19ad29af50c2</guid>
-            <pubDate>Thu, 18 Jun 2026 11:39:28 GMT</pubDate>
-            <description><![CDATA[コートジボワールサッカー連盟は、フォワードのエリー・ワヒ選手が次のワールドカップの試合のためカナダへの入国を拒否されたと発表しました。]]></description>
+            <pubDate>Thu, 18 Jun 2026 18:13:14 GMT</pubDate>
+            <description><![CDATA[コートジボワールサッカー連盟は、FWエリー・ワヒが以前入国を拒否された後、次のワールドカップ試合のためにカナダへの入国が許可されたと発表しました。]]></description>
             <content:encoded><![CDATA[
-                <p>コートジボワールサッカー連盟は、フォワードのエリー・ワヒ選手が次のワールドカップの試合のためカナダへの入国を拒否されたと発表しました。</p>
+                <p>コートジボワールサッカー連盟は、FWエリー・ワヒが以前入国を拒否された後、次のワールドカップ試合のためにカナダへの入国が許可されたと発表しました。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Africa<br/>
@@ -220,489 +781,172 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ギリシャの「ロマ人への戦争」はヨーロッパの新たな差別モデルである]]></title>
-            <link>https://www.aljazeera.com/opinions/2026/6/18/greeces-war-on-roma-is-europes-new-blueprint-for-discrimination?traffic_source=rss</link>
-            <guid isPermaLink="false">f21c0f161075dcb03373357a8f05ce4d</guid>
-            <pubDate>Thu, 18 Jun 2026 11:33:35 GMT</pubDate>
-            <description><![CDATA[ギリシャでのロマ人コミュニティへの大規模な襲撃は、ヨーロッパが人種差別を犯罪予防や公共秩序の名のもとに再定義する新たなパターンを示していると批判された。]]></description>
+            <title><![CDATA[Barbados prime minister announces manifesto for slavery reparations]]></title>
+            <link>https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations</link>
+            <guid isPermaLink="false">1c6f70cbbb3b312cbffddd9da862a8c4</guid>
+            <pubDate>Thu, 18 Jun 2026 17:52:08 GMT</pubDate>
+            <description><![CDATA[Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries
+Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement.
+Mottley was speaking at a “historic” conference in Ghana to advance the push for reparatory justice after the United Nations adopted a landmark resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.
+ Continue reading...]]></description>
             <content:encoded><![CDATA[
-                <p>ギリシャでのロマ人コミュニティへの大規模な襲撃は、ヨーロッパが人種差別を犯罪予防や公共秩序の名のもとに再定義する新たなパターンを示していると批判された。</p>
+                <p>Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries
+Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement.
+Mottley was speaking at a “historic” conference in Ghana to advance the push for reparatory justice after the United Nations adopted a landmark resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.
+ Continue reading...</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> GR<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 75
+                    <strong>配信元:</strong> The Guardian – World<br/>
+                    <strong>対象国:</strong> 不明<br/>
+                    <strong>カテゴリ:</strong> 未分類<br/>
+                    <strong>重要度スコア:</strong> N/A
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ジョエル・コーエンとイーサン・コーエン、今年のリュミエール賞受賞者に決定]]></title>
-            <link>http://www.euronews.com/culture/2026/06/18/joel-and-ethan-coen-named-as-this-years-lumiere-award-recipients</link>
-            <guid isPermaLink="false">84afde44724985f5a5f07812a340916b</guid>
-            <pubDate>Thu, 18 Jun 2026 11:24:02 GMT</pubDate>
-            <description><![CDATA[第18回リュミエール賞が、映画界の巨匠であるジョエル・コーエンとイーサン・コーエンの兄弟に贈られることが発表された。]]></description>
+            <title><![CDATA[カーボベルデ代表GKの母：「息子がW杯でプレーするのを見に行く」]]></title>
+            <link>https://www.bbc.com/news/videos/cx2de090djmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">afd825653cf26de3857e9fc97526a84b</guid>
+            <pubDate>Thu, 18 Jun 2026 17:42:04 GMT</pubDate>
+            <description><![CDATA[カーボベルデ代表GKヴォジーニャの母親であるアナ・カンディア・エヴォラが、ついに息子がプレーするのを見るためアメリカへ向かいます。]]></description>
             <content:encoded><![CDATA[
-                <p>第18回リュミエール賞が、映画界の巨匠であるジョエル・コーエンとイーサン・コーエンの兄弟に贈られることが発表された。</p>
+                <p>カーボベルデ代表GKヴォジーニャの母親であるアナ・カンディア・エヴォラが、ついに息子がプレーするのを見るためアメリカへ向かいます。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> エンタメ<br/>
-                    <strong>重要度スコア:</strong> 45
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[レアル・マドリード、イブラヒマ・コナテとリヴァプールから複数年契約]]></title>
-            <link>https://www.aljazeera.com/sports/2026/6/18/real-madrid-sign-ibrahima-konate-to-multi-year-deal-from-liverpool?traffic_source=rss</link>
-            <guid isPermaLink="false">c3b7fd488c54b35181072b8a143bcd0b</guid>
-            <pubDate>Thu, 18 Jun 2026 11:21:18 GMT</pubDate>
-            <description><![CDATA[レアル・マドリードがリヴァプールからフランス人DFイブラヒマ・コナテを獲得し、複数年契約を結んだ。ワールドカップ出場中の彼が、新監督ジョゼ・モウリーニョにとって重要な補強となる。]]></description>
-            <content:encoded><![CDATA[
-                <p>レアル・マドリードがリヴァプールからフランス人DFイブラヒマ・コナテを獲得し、複数年契約を結んだ。ワールドカップ出場中の彼が、新監督ジョゼ・モウリーニョにとって重要な補強となる。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> ES<br/>
-                    <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 60
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[イングランドのキャプテン、ハリー・ケインがクロアチア戦で「完璧なパフォーマンス」と称賛される]]></title>
-            <link>http://www.euronews.com/2026/06/18/englands-captain-fantastic-harry-kane-praised-for-a-complete-performance-against-croatia</link>
-            <guid isPermaLink="false">1adabbc299ceb7b6dea8e160c3aff523</guid>
-            <pubDate>Thu, 18 Jun 2026 11:20:54 GMT</pubDate>
-            <description><![CDATA[ハリー・ケインが2得点を挙げ、ワールドカップグループL初戦でイングランドがクロアチアを4-2で破り、その完璧な活躍が称賛された。]]></description>
-            <content:encoded><![CDATA[
-                <p>ハリー・ケインが2得点を挙げ、ワールドカップグループL初戦でイングランドがクロアチアを4-2で破り、その完璧な活躍が称賛された。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> GB<br/>
+                    <strong>配信元:</strong> BBC – Africa<br/>
+                    <strong>対象国:</strong> CV<br/>
                     <strong>カテゴリ:</strong> スポーツ<br/>
                     <strong>重要度スコア:</strong> 40
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[イングランド銀行、インフレ安定を受け主要政策金利を3.75%に据え置き]]></title>
-            <link>http://www.euronews.com/business/2026/06/18/bank-of-england-holds-main-interest-rate-at-375-as-inflation-steadies</link>
-            <guid isPermaLink="false">b9a3dee9c954ea398a4fcaa64bb8c683</guid>
-            <pubDate>Thu, 18 Jun 2026 11:20:41 GMT</pubDate>
-            <description><![CDATA[イングランド銀行は、インフレが安定し労働市場の悪化が見られないことから、主要政策金利を3.75%に据え置いた。]]></description>
+            <title><![CDATA[南アフリカで「世界最大」のサイの角密輸事件の男たちに判決]]></title>
+            <link>https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case</link>
+            <guid isPermaLink="false">f5e47ce467dae0dc890e7176bd889f95</guid>
+            <pubDate>Thu, 18 Jun 2026 16:15:31 GMT</pubDate>
+            <description><![CDATA[南アフリカの裁判所で、世界最大規模とされるサイの角密輸事件の被告2人に判決が下された。主犯格は200万ランドの罰金または4年の禁固刑。]]></description>
             <content:encoded><![CDATA[
-                <p>イングランド銀行は、インフレが安定し労働市場の悪化が見られないことから、主要政策金利を3.75%に据え置いた。</p>
+                <p>南アフリカの裁判所で、世界最大規模とされるサイの角密輸事件の被告2人に判決が下された。主犯格は200万ランドの罰金または4年の禁固刑。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> GB<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 65
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[アップルCEO、AIブームの中で「価格上昇は避けられない」と警告]]></title>
-            <link>https://www.aljazeera.com/news/2026/6/18/apple-ceo-warns-price-rises-unavoidable-amid-ai-boom?traffic_source=rss</link>
-            <guid isPermaLink="false">cf15009961325323066ac299886d9b9e</guid>
-            <pubDate>Thu, 18 Jun 2026 11:16:29 GMT</pubDate>
-            <description><![CDATA[AIデータセンターの需要増加により、主要な電子部品の供給が減少し、製品価格の上昇が避けられないとアップルCEOが警告。広範囲な経済的影響が懸念される。]]></description>
-            <content:encoded><![CDATA[
-                <p>AIデータセンターの需要増加により、主要な電子部品の供給が減少し、製品価格の上昇が避けられないとアップルCEOが警告。広範囲な経済的影響が懸念される。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[米イラン停戦延長、ホルムズ海峡再開合意に世界の反応]]></title>
-            <link>https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations?traffic_source=rss</link>
-            <guid isPermaLink="false">1c9d081fb2d589acd2dc67cbd570f193</guid>
-            <pubDate>Thu, 18 Jun 2026 11:06:40 GMT</pubDate>
-            <description><![CDATA[米国とイランが停戦延長とホルムズ海峡再開で合意し、世界各国から歓迎された。IAEA事務局長はイランの核プログラムに関する技術作業が開始されると表明した。]]></description>
-            <content:encoded><![CDATA[
-                <p>米国とイランが停戦延長とホルムズ海峡再開で合意し、世界各国から歓迎された。IAEA事務局長はイランの核プログラムに関する技術作業が開始されると表明した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 95
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[カヤ・カラス首相、イスラエル外相が「一切の接触を断つ」と発言した後に対応]]></title>
-            <link>http://www.euronews.com/2026/06/18/kaja-kallas-responds-after-israeli-foreign-minister-says-he-will-sever-all-contact-with-he</link>
-            <guid isPermaLink="false">ebccb0a7a3a12506bce19cb6cdf17fc8</guid>
-            <pubDate>Thu, 18 Jun 2026 11:05:24 GMT</pubDate>
-            <description><![CDATA[イスラエル外相が接触を断つと発言した後、カラス首相は対話と関与を評価するも、アパルトヘイトに関するコメントには言及しなかった。]]></description>
-            <content:encoded><![CDATA[
-                <p>イスラエル外相が接触を断つと発言した後、カラス首相は対話と関与を評価するも、アパルトヘイトに関するコメントには言及しなかった。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> EE<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>配信元:</strong> The Guardian – World<br/>
+                    <strong>対象国:</strong> ZA<br/>
+                    <strong>カテゴリ:</strong> 環境<br/>
                     <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ポーランド：ロシア人芸術家でプーチン批判者が殺害され逮捕者]]></title>
-            <link>https://www.dw.com/en/poland-arrest-after-russian-artist-and-putin-critic-killed/a-77602774?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">83b880d8987a9d95cfbdfb571345c9f1</guid>
-            <pubDate>Thu, 18 Jun 2026 10:47:00 GMT</pubDate>
-            <description><![CDATA[ポーランドの首相は、ロシア人芸術家でプーチン批判者の殺害事件で容疑者が逮捕されたと発表。捜査官は「首謀者」を捜している。]]></description>
-            <content:encoded><![CDATA[
-                <p>ポーランドの首相は、ロシア人芸術家でプーチン批判者の殺害事件で容疑者が逮捕されたと発表。捜査官は「首謀者」を捜している。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> PL<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 70
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[米国、ホームレスを助長する精神疾患対策に7億ドル以上を投入へ]]></title>
-            <link>http://www.euronews.com/health/2026/06/18/us-to-pour-over-700m-to-tackle-mental-illnesses-that-fuels-homelessness</link>
-            <guid isPermaLink="false">e20a51b0052a7181d4dcd5d6f1984e71</guid>
-            <pubDate>Thu, 18 Jun 2026 10:41:06 GMT</pubDate>
-            <description><![CDATA[米国保健長官は、ホームレス問題を引き起こす精神疾患に対処するため、7億ドル以上を投じる計画を発表した。]]></description>
-            <content:encoded><![CDATA[
-                <p>米国保健長官は、ホームレス問題を引き起こす精神疾患に対処するため、7億ドル以上を投じる計画を発表した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Euronews – World<br/>
-                    <strong>対象国:</strong> US<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 75
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NATO：米国が非難、同盟首脳は問題なしと発言]]></title>
-            <link>https://www.dw.com/en/nato-us-lashes-out-alliance-head-says-everything-s-fine/a-77603060?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">31ba88fa05e7672965a5f1a8d3716554</guid>
-            <pubDate>Thu, 18 Jun 2026 10:38:00 GMT</pubDate>
-            <description><![CDATA[米国防長官がNATO同盟国に防衛費不足とイラン戦争への支持不足で警告。NATO首脳は状況は良好だと主張している。]]></description>
-            <content:encoded><![CDATA[
-                <p>米国防長官がNATO同盟国に防衛費不足とイラン戦争への支持不足で警告。NATO首脳は状況は良好だと主張している。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 85
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ヘグセス氏、円卓会議中にNATO同盟国を非難]]></title>
-            <link>https://www.aljazeera.com/video/newsfeed/2026/6/18/hegseth-slams-nato-allies-during-roundtable-meeting?traffic_source=rss</link>
-            <guid isPermaLink="false">81bfbeffa7e0b6bdc1736c22156fc21e</guid>
-            <pubDate>Thu, 18 Jun 2026 10:32:47 GMT</pubDate>
-            <description><![CDATA[米国のヘグセス氏が円卓会議中にNATO同盟国を強く非難した。これは、同盟内での意見の相違や国際関係における緊張を示唆する発言として注目される。]]></description>
-            <content:encoded><![CDATA[
-                <p>米国のヘグセス氏が円卓会議中にNATO同盟国を強く非難した。これは、同盟内での意見の相違や国際関係における緊張を示唆する発言として注目される。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> US<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 65
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ベルリン・サミットでプライベート・エクイティ反対派が抗議]]></title>
-            <link>https://www.dw.com/en/berlin-summit-brings-out-private-equity-protesters/a-77590273?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">6cd9991ac4e8cf6a365dc2c2511ac7da</guid>
-            <pubDate>Thu, 18 Jun 2026 10:10:00 GMT</pubDate>
-            <description><![CDATA[ベルリンで開催されたプライベート・エクイティ・サミットに対し、業界が不平等、失業、コスト高を招くとして活動家が抗議活動を行った。]]></description>
-            <content:encoded><![CDATA[
-                <p>ベルリンで開催されたプライベート・エクイティ・サミットに対し、業界が不平等、失業、コスト高を招くとして活動家が抗議活動を行った。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> DE<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 60
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ニジェールの首都空港で銃声と爆発音]]></title>
-            <link>https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">fc8071e4773470f84534159bb0c72756</guid>
-            <pubDate>Thu, 18 Jun 2026 10:06:47 GMT</pubDate>
-            <description><![CDATA[長年イスラム過激派の反乱と戦うニジェールの首都空港で銃声と爆発音が報告された。1月にも同空港が攻撃された経緯がある。]]></description>
-            <content:encoded><![CDATA[
-                <p>長年イスラム過激派の反乱と戦うニジェールの首都空港で銃声と爆発音が報告された。1月にも同空港が攻撃された経緯がある。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> NE<br/>
-                    <strong>カテゴリ:</strong> 紛争<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[台湾、米国製武器売却パッケージの早期承認を期待と総統が発言]]></title>
-            <link>https://www.aljazeera.com/news/2026/6/18/taiwan-hopes-us-arms-sale-package-can-be-approved-soon-president-says?traffic_source=rss</link>
-            <guid isPermaLink="false">3cee9b4dbce2cfa7ba825f657fb5a29a</guid>
-            <pubDate>Thu, 18 Jun 2026 09:52:12 GMT</pubDate>
-            <description><![CDATA[台湾の頼清徳総統が米国製武器売却パッケージの早期承認を期待していると表明。また、中国との対話は「対等と尊重」に基づくと改めて強調した。]]></description>
-            <content:encoded><![CDATA[
-                <p>台湾の頼清徳総統が米国製武器売却パッケージの早期承認を期待していると表明。また、中国との対話は「対等と尊重」に基づくと改めて強調した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> TW<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 90
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ロシアの本格的戦争開始以来、モスクワがウクライナによる最大規模の攻撃を受ける]]></title>
+            <title><![CDATA[ウクライナ最大規模の攻撃が石油精製施設を直撃後、モスクワ住民が黒い雨を訴える]]></title>
             <link>https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">bbe2b4911b5b906c9155717b6d0b76fd</guid>
-            <pubDate>Thu, 18 Jun 2026 09:47:47 GMT</pubDate>
-            <description><![CDATA[ロシアの首都モスクワ南東部が約200機のウクライナ製ドローンに攻撃され、製油所とショッピングセンターが炎上した。]]></description>
+            <pubDate>Thu, 18 Jun 2026 15:46:36 GMT</pubDate>
+            <description><![CDATA[ロシアの首都南東部へのウクライナによる過去最大規模のドローン攻撃後、石油精製施設やショッピングセンターが炎上し、モスクワ住民が黒い雨を報告している。]]></description>
             <content:encoded><![CDATA[
-                <p>ロシアの首都モスクワ南東部が約200機のウクライナ製ドローンに攻撃され、製油所とショッピングセンターが炎上した。</p>
+                <p>ロシアの首都南東部へのウクライナによる過去最大規模のドローン攻撃後、石油精製施設やショッピングセンターが炎上し、モスクワ住民が黒い雨を報告している。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – World News<br/>
                     <strong>対象国:</strong> RU<br/>
                     <strong>カテゴリ:</strong> 紛争<br/>
-                    <strong>重要度スコア:</strong> 90
+                    <strong>重要度スコア:</strong> 85
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ナサニエル・ブラウン：ドイツが待ち望んだレフトバック]]></title>
-            <link>https://www.dw.com/en/nathaniel-brown-the-left-back-germany-have-been-waiting-for/a-77582557?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">f3401150da93bbbf44c4a43ef944420c</guid>
-            <pubDate>Thu, 18 Jun 2026 09:42:00 GMT</pubDate>
-            <description><![CDATA[ドイツ代表にとって待望の強力なレフトバック、ナサニエル・ブラウンがワールドカップで急速にスター選手へと成長している。]]></description>
+            <title><![CDATA[英国で中国情報機関のためにスパイ活動を行った男たちが収監される]]></title>
+            <link>https://www.bbc.com/news/articles/cgjx87gvlnxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">b6e725b43bb7ca81e2ac7e7303673129</guid>
+            <pubDate>Thu, 18 Jun 2026 15:45:50 GMT</pubDate>
+            <description><![CDATA[英国で、国境警備隊職員を含む複数の男が中国情報機関のためにスパイ活動を行い、中国反体制派に関する情報を漏洩したとして投獄された。]]></description>
             <content:encoded><![CDATA[
-                <p>ドイツ代表にとって待望の強力なレフトバック、ナサニエル・ブラウンがワールドカップで急速にスター選手へと成長している。</p>
+                <p>英国で、国境警備隊職員を含む複数の男が中国情報機関のためにスパイ活動を行い、中国反体制派に関する情報を漏洩したとして投獄された。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> DE<br/>
-                    <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 65
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ウガンダの注目される反逆罪事件の弁護士が関連する罪で起訴される]]></title>
-            <link>https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">d8457a5029f9cff017d722748b06885e</guid>
-            <pubDate>Thu, 18 Jun 2026 09:35:29 GMT</pubDate>
-            <description><![CDATA[ウガンダで、軍幹部から脅迫を受けていた注目事件の弁護士が新たな罪で起訴された。人権問題への懸念が高まっている。]]></description>
-            <content:encoded><![CDATA[
-                <p>ウガンダで、軍幹部から脅迫を受けていた注目事件の弁護士が新たな罪で起訴された。人権問題への懸念が高まっている。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> UG<br/>
+                    <strong>配信元:</strong> BBC – Asia<br/>
+                    <strong>対象国:</strong> GB<br/>
                     <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 85
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ロシアのシャドーフリートタンカー、スミルノス号乗船以来初めて海峡に進入]]></title>
+            <link>https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">c1f19a6abe06411db8b0433e2206e7c1</guid>
+            <pubDate>Thu, 18 Jun 2026 14:02:52 GMT</pubDate>
+            <description><![CDATA[ロシア船籍のタンカー「フォワーダー」が、ロシアの港を出港後、水曜夜に海峡（英仏海峡）に進入。これはロシアの「シャドーフリート」の動きを示す。]]></description>
+            <content:encoded><![CDATA[
+                <p>ロシア船籍のタンカー「フォワーダー」が、ロシアの港を出港後、水曜夜に海峡（英仏海峡）に進入。これはロシアの「シャドーフリート」の動きを示す。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Europe<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 55
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[「兄は米袋に隠れていた」- W杯の難民スターたち]]></title>
+            <link>https://www.bbc.com/news/articles/c1eygyg2zeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">cebe4f8ab5ba14a70823f989a310dd94</guid>
+            <pubDate>Thu, 18 Jun 2026 13:41:06 GMT</pubDate>
+            <description><![CDATA[シエラレオネ内戦から逃れたドイツ代表アントニオ・リュディガー選手など、難民の背景を持つ選手たちが世界の難民に対する意識変革を訴えています。]]></description>
+            <content:encoded><![CDATA[
+                <p>シエラレオネ内戦から逃れたドイツ代表アントニオ・リュディガー選手など、難民の背景を持つ選手たちが世界の難民に対する意識変革を訴えています。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Africa<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
                     <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[空港での花束を使った待ち伏せでギャングのリーダーとみられる人物が射殺される]]></title>
-            <link>https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">73a9d3f6e675217553092a57049966c0</guid>
-            <pubDate>Thu, 18 Jun 2026 09:26:16 GMT</pubDate>
-            <description><![CDATA[グアヤキル空港の外で、花束やぬいぐるみで武器を隠した銃撃犯が、ギャングのリーダーとみられる人物を待ち伏せして射殺した。]]></description>
-            <content:encoded><![CDATA[
-                <p>グアヤキル空港の外で、花束やぬいぐるみで武器を隠した銃撃犯が、ギャングのリーダーとみられる人物を待ち伏せして射殺した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> EC<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 65
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ボリビア、麻薬密売対策で米国と2000万ドルの契約を締結]]></title>
+            <title><![CDATA[ボリビア、麻薬密売対策で米国と2,000万ドルの契約を締結]]></title>
             <link>https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">e4d6db47bbdae445b2bb3b71d4a6a2c7</guid>
             <pubDate>Thu, 18 Jun 2026 09:19:10 GMT</pubDate>
-            <description><![CDATA[新大統領の下、ボリビアが米国との関係を再構築し、組織犯罪対策のため2000万ドルの契約を結んだ。]]></description>
+            <description><![CDATA[ボリビアは新大統領の下、米国との関係を再構築し、組織犯罪対策のため2,000万ドルの契約を結んだ。]]></description>
             <content:encoded><![CDATA[
-                <p>新大統領の下、ボリビアが米国との関係を再構築し、組織犯罪対策のため2000万ドルの契約を結んだ。</p>
+                <p>ボリビアは新大統領の下、米国との関係を再構築し、組織犯罪対策のため2,000万ドルの契約を結んだ。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
                     <strong>対象国:</strong> BO<br/>
                     <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 75
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[キューバ、米国からの圧力の中で経済改革を承認]]></title>
-            <link>https://www.dw.com/en/cuba-approves-economic-reforms-amid-us-pressure/a-77597635?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">8b7245698f81f2c867f5b63c8ed38d8d</guid>
-            <pubDate>Thu, 18 Jun 2026 09:12:00 GMT</pubDate>
-            <description><![CDATA[キューバ共産党が自由市場改革案を承認。党は社会主義路線からの逸脱ではないとし、経済戦争への対応だと述べる者もいる。]]></description>
-            <content:encoded><![CDATA[
-                <p>キューバ共産党が自由市場改革案を承認。党は社会主義路線からの逸脱ではないとし、経済戦争への対応だと述べる者もいる。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> CU<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 75
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2026年ワールドカップ：全グループ日程と注目すべき上位2回戦の試合]]></title>
-            <link>https://www.aljazeera.com/sports/2026/6/18/world-cup-2026-top-five-must-watch-matches-second-group-phase-full-match-schedule?traffic_source=rss</link>
-            <guid isPermaLink="false">4939a8eff93c7bbd793935f120d95c7f</guid>
-            <pubDate>Thu, 18 Jun 2026 09:11:16 GMT</pubDate>
-            <description><![CDATA[北米で開催される2026年ワールドカップの残りのグループ日程、参加チーム、そしてトーナメントで注目すべき上位2回戦の試合について詳細に紹介している。]]></description>
-            <content:encoded><![CDATA[
-                <p>北米で開催される2026年ワールドカップの残りのグループ日程、参加チーム、そしてトーナメントで注目すべき上位2回戦の試合について詳細に紹介している。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Al Jazeera – All<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> スポーツ<br/>
                     <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ドイツ経済ニュース：産業雇用が過去10年で最低水準に]]></title>
-            <link>https://www.dw.com/en/germany-news-industrial-employment-falls-to-decade-low/live-77599561?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">138d95c9afdaf39191c681a9966cc699</guid>
-            <pubDate>Thu, 18 Jun 2026 09:01:00 GMT</pubDate>
-            <description><![CDATA[新しい調査によると、ドイツの産業雇用は解雇ではなく採用活動の低迷により、過去10年で最低水準に落ち込んだ。]]></description>
-            <content:encoded><![CDATA[
-                <p>新しい調査によると、ドイツの産業雇用は解雇ではなく採用活動の低迷により、過去10年で最低水準に落ち込んだ。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> DE<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 70
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[「チームは点を取るべき、君ではなく」 - ロナウド、ライバルが輝く中苦戦]]></title>
+            <title><![CDATA[「得点すべきはチーム、君じゃない」 - ロナウドが不調、ライバルは輝く]]></title>
             <link>https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">5bf05be8bf247f621a2148c2e3007533</guid>
             <pubDate>Thu, 18 Jun 2026 08:23:07 GMT</pubDate>
-            <description><![CDATA[ワールドカップで3人のスーパースターが活躍する中、クリスティアーノ・ロナウドはDRコンゴ戦で奮わず、チームは引き分け。]]></description>
+            <description><![CDATA[ワールドカップで他国のスーパースターが活躍する中、クリスティアーノ・ロナウドはDRコンゴとの引き分けに終わり、ポルトガルは不振だった。]]></description>
             <content:encoded><![CDATA[
-                <p>ワールドカップで3人のスーパースターが活躍する中、クリスティアーノ・ロナウドはDRコンゴ戦で奮わず、チームは引き分け。</p>
+                <p>ワールドカップで他国のスーパースターが活躍する中、クリスティアーノ・ロナウドはDRコンゴとの引き分けに終わり、ポルトガルは不振だった。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Europe<br/>
                     <strong>対象国:</strong> PT<br/>
                     <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 50
+                    <strong>重要度スコア:</strong> 45
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AIブームによるチップコスト上昇を受け、Appleが値上げへ]]></title>
-            <link>https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">8988e113d4628de4194a34a8507ef252</guid>
-            <pubDate>Thu, 18 Jun 2026 07:27:21 GMT</pubDate>
-            <description><![CDATA[AIブームによるチップコスト上昇のため、Appleが製品価格を値上げすると発表した。具体的な時期や対象製品は明らかにされていない。]]></description>
-            <content:encoded><![CDATA[
-                <p>AIブームによるチップコスト上昇のため、Appleが製品価格を値上げすると発表した。具体的な時期や対象製品は明らかにされていない。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> US<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 75
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[インド経済ニュース：モディ首相、トランプ大統領が貿易合意に「非常に近い」]]></title>
-            <link>https://www.dw.com/en/india-news-modi-trump-very-close-to-trade-deal/live-77597035?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">a0420286ee3e52ed2dcd746f83a8a148</guid>
-            <pubDate>Thu, 18 Jun 2026 07:14:00 GMT</pubDate>
-            <description><![CDATA[G7サミットでインドと米国の首脳が貿易合意に近づいているものの、まだ交渉が続いている。インド空軍は大学入学試験の再テストを支援。]]></description>
-            <content:encoded><![CDATA[
-                <p>G7サミットでインドと米国の首脳が貿易合意に近づいているものの、まだ交渉が続いている。インド空軍は大学入学試験の再テストを支援。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> IN<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ベラルーシ人亡命者がロシア支配水域で消息を絶った経緯]]></title>
-            <link>https://www.dw.com/en/how-a-belarusian-exile-vanished-in-waters-held-by-russia/a-77580696?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">181fd0760dcfd8a1641ad4de1a58c62b</guid>
-            <pubDate>Thu, 18 Jun 2026 07:02:00 GMT</pubDate>
-            <description><![CDATA[元スポーツ当局者アナトール・コトウが2025年にトルコでヨットに乗船後、ロシア支配下の黒海「グレーゾーン」水域で消息を絶った経緯をDWが調査。]]></description>
-            <content:encoded><![CDATA[
-                <p>元スポーツ当局者アナトール・コトウが2025年にトルコでヨットに乗船後、ロシア支配下の黒海「グレーゾーン」水域で消息を絶った経緯をDWが調査。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 70
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ドイツ外相：「欧州の団結が決定的に重要だ」]]></title>
-            <link>https://www.dw.com/en/germany-s-foreign-minister-european-unity-is-decisive/a-77594952?maca=en-rss-en-top-1022-rdf</link>
-            <guid isPermaLink="false">7015c4cddae1454bd4c2e6ea80a7c689</guid>
-            <pubDate>Thu, 18 Jun 2026 06:34:00 GMT</pubDate>
-            <description><![CDATA[ドイツのヨハン・ヴァーデフール外相は、DWとのインタビューで、大西洋横断パートナーシップ、ポーランドとの協力、ウクライナ支援、そして欧州の団結の重要性を強調した。]]></description>
-            <content:encoded><![CDATA[
-                <p>ドイツのヨハン・ヴァーデフール外相は、DWとのインタビューで、大西洋横断パートナーシップ、ポーランドとの協力、ウクライナ支援、そして欧州の団結の重要性を強調した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> DW – Top Stories<br/>
-                    <strong>対象国:</strong> DE<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 75
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[米国とイランの大統領、戦争終結を目指す合意に署名]]></title>
+            <title><![CDATA[米国とイランの大統領、戦争終結を目的とする合意に署名]]></title>
             <link>https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">a206903e77b32e1ead4e69dfbb97d5ab</guid>
             <pubDate>Thu, 18 Jun 2026 03:03:29 GMT</pubDate>
-            <description><![CDATA[米国とイランの大統領が戦争終結に向けた合意に署名。イラン核計画の行方は今後交渉される。]]></description>
+            <description><![CDATA[米国とイランの大統領は戦争終結を目指す合意に署名。しかし、米国が紛争勃発の主要因としたイランの核開発計画の行方は未だ交渉中だ。]]></description>
             <content:encoded><![CDATA[
-                <p>米国とイランの大統領が戦争終結に向けた合意に署名。イラン核計画の行方は今後交渉される。</p>
+                <p>米国とイランの大統領は戦争終結を目指す合意に署名。しかし、米国が紛争勃発の主要因としたイランの核開発計画の行方は未だ交渉中だ。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Middle East<br/>
@@ -713,30 +957,13 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ニューヨークで馬車事故によりティーンエイジャーが死亡]]></title>
-            <link>https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">bc9dd47f07488ecc4920eac6f2b33b18</guid>
-            <pubDate>Thu, 18 Jun 2026 02:39:28 GMT</pubDate>
-            <description><![CDATA[ニューヨークで、馬車が暴走し転倒する事故が発生。運転手が写真を撮るために降りた後、馬が驚いて暴走し、ティーンエイジャーが死亡した。]]></description>
-            <content:encoded><![CDATA[
-                <p>ニューヨークで、馬車が暴走し転倒する事故が発生。運転手が写真を撮るために降りた後、馬が驚いて暴走し、ティーンエイジャーが死亡した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> US<br/>
-                    <strong>カテゴリ:</strong> 災害<br/>
-                    <strong>重要度スコア:</strong> 45
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[米イラン合意、主要な争点を未解決のまま残し、3000億ドルの問題も浮上]]></title>
+            <title><![CDATA[米国とイランの合意、主要な争点を未解決のまま残し、3000億ドルの疑問を呈する]]></title>
             <link>https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">d2d2cd482e7b102ae8be0e260d00f2a5</guid>
             <pubDate>Thu, 18 Jun 2026 01:29:32 GMT</pubDate>
-            <description><![CDATA[トランプ大統領はイランが核兵器を開発しないと主張するが、合意文書はそれを保証していない。]]></description>
+            <description><![CDATA[トランプ氏がイランの核兵器開発を阻止すると主張した合意だが、本文はその保証に不十分で、3000億ドル規模の経済問題も未解決のままだ。]]></description>
             <content:encoded><![CDATA[
-                <p>トランプ大統領はイランが核兵器を開発しないと主張するが、合意文書はそれを保証していない。</p>
+                <p>トランプ氏がイランの核兵器開発を阻止すると主張した合意だが、本文はその保証に不十分で、3000億ドル規模の経済問題も未解決のままだ。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Middle East<br/>
@@ -747,81 +974,47 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[米イラン合意の内容は？]]></title>
-            <link>https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">f782b8e89db447a5132c2bcb6d3349e9</guid>
-            <pubDate>Thu, 18 Jun 2026 01:28:02 GMT</pubDate>
-            <description><![CDATA[米国とイランの間で、戦闘終結、イランの核兵器保有禁止、3000億ドルの復興支援を含む14項目の合意がなされた。]]></description>
-            <content:encoded><![CDATA[
-                <p>米国とイランの間で、戦闘終結、イランの核兵器保有禁止、3000億ドルの復興支援を含む14項目の合意がなされた。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> IR<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 85
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WTOが7月5日に一般公開]]></title>
+            <title><![CDATA[WTO、7月5日に一般公開]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/open_18jun26_418_e.htm</link>
             <guid isPermaLink="false">1bfb671059ac047dca4f7e92fdb49442</guid>
             <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[WTOジュネーブ本部が7月5日に一般公開され、ウィリアム・ラッパード・センター100周年を記念。来場者は歴史的建造物やアート作品を探索し、湖畔のテラスでのアクティビティを楽しめる。]]></description>
+            <description><![CDATA[WTOがジュネーブ本部で創設100周年を記念し、2026年7月5日に一般公開する。訪問者は歴史的建造物や芸術品、湖畔のテラスでの活動を楽しめる。]]></description>
             <content:encoded><![CDATA[
-                <p>WTOジュネーブ本部が7月5日に一般公開され、ウィリアム・ラッパード・センター100周年を記念。来場者は歴史的建造物やアート作品を探索し、湖畔のテラスでのアクティビティを楽しめる。</p>
+                <p>WTOがジュネーブ本部で創設100周年を記念し、2026年7月5日に一般公開する。訪問者は歴史的建造物や芸術品、湖畔のテラスでの活動を楽しめる。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
-                    <strong>対象国:</strong> XX<br/>
+                    <strong>対象国:</strong> CH<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 30
+                    <strong>重要度スコア:</strong> 25
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[「両親を立て続けに埋葬した」— エボラ病の追悼者が安全な追悼方法を学ぶ]]></title>
+            <title><![CDATA[「両親を立て続けに埋葬した」- エボラで喪失を経験した人々が安全な弔いを学ぶ]]></title>
             <link>https://www.bbc.com/news/articles/cj3gx8jl6d5o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">c9c7aa883e49d4baacf2f82db56c8b75</guid>
             <pubDate>Wed, 17 Jun 2026 23:57:36 GMT</pubDate>
-            <description><![CDATA[エボラ出血熱流行の中心地では、墓地が急速に埋まり、大規模な伝統的葬儀は中止され、追悼者は安全な方法で死者を悼むことを学んでいます。]]></description>
+            <description><![CDATA[流行の中心地にある墓地が急速に埋まる中、大規模な伝統的な葬儀は中止され、エボラ感染拡大地域での安全な弔いの方法が模索されています。]]></description>
             <content:encoded><![CDATA[
-                <p>エボラ出血熱流行の中心地では、墓地が急速に埋まり、大規模な伝統的葬儀は中止され、追悼者は安全な方法で死者を悼むことを学んでいます。</p>
+                <p>流行の中心地にある墓地が急速に埋まる中、大規模な伝統的な葬儀は中止され、エボラ感染拡大地域での安全な弔いの方法が模索されています。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Africa<br/>
                     <strong>対象国:</strong> CD<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 85
+                    <strong>カテゴリ:</strong> 災害<br/>
+                    <strong>重要度スコア:</strong> 80
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[防衛相小泉氏、日本の防衛強化は戦争防止に「極めて重要」とBBCに語る]]></title>
-            <link>https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">e1d3ac7702e8ba9ba96a03a247da551d</guid>
-            <pubDate>Wed, 17 Jun 2026 22:36:13 GMT</pubDate>
-            <description><![CDATA[小泉防衛相はBBCに対し、日本が戦後以来の平和主義的姿勢を見直し、防衛力を強化することが戦争防止に不可欠であると語った。]]></description>
-            <content:encoded><![CDATA[
-                <p>小泉防衛相はBBCに対し、日本が戦後以来の平和主義的姿勢を見直し、防衛力を強化することが戦争防止に不可欠であると語った。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – World News<br/>
-                    <strong>対象国:</strong> JP<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 85
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[大麻の商業化は非犯罪化とは異なり使用量を増加させる、研究で判明]]></title>
+            <title><![CDATA[大麻の商業化は非犯罪化とは異なり、使用量を増加させると研究が示唆]]></title>
             <link>https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study</link>
             <guid isPermaLink="false">0e7996621dc4510c5f7c7f8632a547db</guid>
             <pubDate>Wed, 17 Jun 2026 22:30:46 GMT</pubDate>
-            <description><![CDATA[大麻の商業的販売は使用者の増加と精神病率の上昇につながるが、非犯罪化や厳格な規制は使用量を増加させないことが国際研究で明らかになった。]]></description>
+            <description><![CDATA[大麻の非犯罪化や厳格な規制は使用量を増やさないが、商業的に販売されると使用者が増加し、より多くの精神衛生上の問題が見られるとの国際研究レビュー。]]></description>
             <content:encoded><![CDATA[
-                <p>大麻の商業的販売は使用者の増加と精神病率の上昇につながるが、非犯罪化や厳格な規制は使用量を増加させないことが国際研究で明らかになった。</p>
+                <p>大麻の非犯罪化や厳格な規制は使用量を増やさないが、商業的に販売されると使用者が増加し、より多くの精神衛生上の問題が見られるとの国際研究レビュー。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> The Guardian – World<br/>
@@ -832,200 +1025,234 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[アイルランド議会、中絶法案を可決し3日間待機期間を撤廃]]></title>
+            <title><![CDATA[アイルランド議会、中絶の3日間待機期間撤廃法案を可決]]></title>
             <link>https://www.bbc.com/news/articles/cm2d5rdl85ro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">5b9e594fa7d797ca36248f15f477ce7a</guid>
             <pubDate>Wed, 17 Jun 2026 21:06:27 GMT</pubDate>
-            <description><![CDATA[アイルランド議会が初期妊娠中絶の3日間待機期間を撤廃する法案を可決。女性の選択権を巡る議論に一石を投じる。]]></description>
+            <description><![CDATA[アイルランド共和国において、妊娠初期の中絶における3日間待機期間を撤廃する法案が議会を通過した。]]></description>
             <content:encoded><![CDATA[
-                <p>アイルランド議会が初期妊娠中絶の3日間待機期間を撤廃する法案を可決。女性の選択権を巡る議論に一石を投じる。</p>
+                <p>アイルランド共和国において、妊娠初期の中絶における3日間待機期間を撤廃する法案が議会を通過した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Europe<br/>
                     <strong>対象国:</strong> IE<br/>
                     <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 60
+                    <strong>重要度スコア:</strong> 55
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[コンゴ民主共和国のワールドカップユニフォームのデザイナー：「アフリカに対する人々の見方を変えたかった」]]></title>
-            <link>https://www.bbc.com/news/videos/crkvxp731e2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">97a865303244fe6c4f8ddd21302f85ca</guid>
-            <pubDate>Wed, 17 Jun 2026 19:43:10 GMT</pubDate>
-            <description><![CDATA[アルビン・ジュニア・マク氏が、コンゴ民主共和国のワールドカップチームのためにデザインしたスタイリッシュなユニフォームのインスピレーションと、アフリカへの認識を変えたいという思いを語っています。]]></description>
-            <content:encoded><![CDATA[
-                <p>アルビン・ジュニア・マク氏が、コンゴ民主共和国のワールドカップチームのためにデザインしたスタイリッシュなユニフォームのインスピレーションと、アフリカへの認識を変えたいという思いを語っています。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Africa<br/>
-                    <strong>対象国:</strong> CD<br/>
-                    <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 45
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[カーボベルデのゴールキーパー、母親との再会へ]]></title>
+            <title><![CDATA[カーボベルデ代表GK、母親との再会へ]]></title>
             <link>https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">4a276415841aa98085b793154fb15d9a</guid>
             <pubDate>Wed, 17 Jun 2026 19:42:13 GMT</pubDate>
-            <description><![CDATA[カーボベルデのゴールキーパー、ボジーニャの母親が、カーボベルデの次のウルグアイ戦を前に米国へのビザを許可され、母子再会が実現する見込みです。]]></description>
+            <description><![CDATA[ヴォジーニャ選手の母親は、カーボベルデとウルグアイの次の試合を前に、米国への渡航ビザが許可され、息子との再会が実現します。]]></description>
             <content:encoded><![CDATA[
-                <p>カーボベルデのゴールキーパー、ボジーニャの母親が、カーボベルデの次のウルグアイ戦を前に米国へのビザを許可され、母子再会が実現する見込みです。</p>
+                <p>ヴォジーニャ選手の母親は、カーボベルデとウルグアイの次の試合を前に、米国への渡航ビザが許可され、息子との再会が実現します。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Africa<br/>
                     <strong>対象国:</strong> CV<br/>
                     <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 50
+                    <strong>重要度スコア:</strong> 40
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[元ナイジェリア石油大臣、英国での贈収賄裁判で無罪に]]></title>
-            <link>https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">bc272673d423eef46f87c81e0b05f1dc</guid>
-            <pubDate>Wed, 17 Jun 2026 19:03:10 GMT</pubDate>
-            <description><![CDATA[ディエザニ・アリソン＝マドゥエケ元ナイジェリア石油大臣は、石油業界の大物から賄賂を受け取った容疑で告発されましたが、英国の裁判所で無罪の判決を受けました。]]></description>
+            <title><![CDATA[国連専門家、イランにフォーマン夫妻の解放を要求]]></title>
+            <link>https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">44a4ffc72c11d0d0f835b4972128f264</guid>
+            <pubDate>Wed, 17 Jun 2026 19:21:36 GMT</pubDate>
+            <description><![CDATA[国連専門家は、イランでの訴訟手続きに重大な不正があったとして、同国にフォーマン夫妻の解放を要求した。]]></description>
             <content:encoded><![CDATA[
-                <p>ディエザニ・アリソン＝マドゥエケ元ナイジェリア石油大臣は、石油業界の大物から賄賂を受け取った容疑で告発されましたが、英国の裁判所で無罪の判決を受けました。</p>
+                <p>国連専門家は、イランでの訴訟手続きに重大な不正があったとして、同国にフォーマン夫妻の解放を要求した。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> BBC – Africa<br/>
-                    <strong>対象国:</strong> NG<br/>
+                    <strong>配信元:</strong> BBC – Middle East<br/>
+                    <strong>対象国:</strong> IR<br/>
                     <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 75
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[タイタン潜水艇：設計上の欠陥と企業内の集団思考が惨事の主因と報告書が指摘]]></title>
+            <title><![CDATA[タイタン潜水艇：設計上の欠陥と企業内の集団思考が惨事の中心、報告書が判明]]></title>
             <link>https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report</link>
             <guid isPermaLink="false">d5b1bcf5718f780ee454191f6e517b2f</guid>
             <pubDate>Wed, 17 Jun 2026 18:24:06 GMT</pubDate>
-            <description><![CDATA[タイタン潜水艇の事故に関するカナダ当局の報告書は、設計上の欠陥と企業内の集団思考が災難の原因と指摘。米国企業は未知の危険性を理解せず、国際的な捜索活動の末、乗員5名が死亡した。]]></description>
+            <description><![CDATA[カナダの安全当局がタイタン潜水艇の壊滅的な事故報告書を発表。設計上の欠陥と企業内の「集団思考」が原因で、未検証の設計リスクを理解していなかったと結論付けた。]]></description>
             <content:encoded><![CDATA[
-                <p>タイタン潜水艇の事故に関するカナダ当局の報告書は、設計上の欠陥と企業内の集団思考が災難の原因と指摘。米国企業は未知の危険性を理解せず、国際的な捜索活動の末、乗員5名が死亡した。</p>
+                <p>カナダの安全当局がタイタン潜水艇の壊滅的な事故報告書を発表。設計上の欠陥と企業内の「集団思考」が原因で、未検証の設計リスクを理解していなかったと結論付けた。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> The Guardian – World<br/>
-                    <strong>対象国:</strong> CA<br/>
+                    <strong>対象国:</strong> XX<br/>
                     <strong>カテゴリ:</strong> 災害<br/>
                     <strong>重要度スコア:</strong> 90
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ヨーロッパ全土で記録的な猛暑が続く]]></title>
-            <link>https://www.bbc.com/news/videos/cg4w1g4eydno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">d19a599281eb2895c2918cd25b85142f</guid>
-            <pubDate>Wed, 17 Jun 2026 14:59:16 GMT</pubDate>
-            <description><![CDATA[ヨーロッパ大陸で猛烈な熱波が発生し、パリでは日曜までに40度に達する可能性。広範囲に影響。]]></description>
+            <title><![CDATA[トランプ氏、モディ首相との冷え込んだ関係が解ける中、インドを訪問すると表明]]></title>
+            <link>https://www.bbc.com/news/articles/c621glv9vnqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">8cafbf7c0c50a5e667ca793ecddc0db7</guid>
+            <pubDate>Wed, 17 Jun 2026 16:43:18 GMT</pubDate>
+            <description><![CDATA[トランプ前米大統領がインド訪問を表明し、モディ首相との関係改善を示唆。インド保護も誓った発言は、今後の国際政治に影響を与える可能性がある。]]></description>
             <content:encoded><![CDATA[
-                <p>ヨーロッパ大陸で猛烈な熱波が発生し、パリでは日曜までに40度に達する可能性。広範囲に影響。</p>
+                <p>トランプ前米大統領がインド訪問を表明し、モディ首相との関係改善を示唆。インド保護も誓った発言は、今後の国際政治に影響を与える可能性がある。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> BBC – Europe<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 環境<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[自宅外に人間の排泄物を保管したナイジェリア人男性が投獄される]]></title>
-            <link>https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">1918be2c243c0c2b39a9d68e7a56eada</guid>
-            <pubDate>Wed, 17 Jun 2026 14:33:39 GMT</pubDate>
-            <description><![CDATA[自宅の外に人間の排泄物を保管し、近隣住民に悪臭被害をもたらしたナイジェリア人男性が投獄されました。]]></description>
-            <content:encoded><![CDATA[
-                <p>自宅の外に人間の排泄物を保管し、近隣住民に悪臭被害をもたらしたナイジェリア人男性が投獄されました。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Africa<br/>
-                    <strong>対象国:</strong> NG<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 40
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[「現実離れしていた」：英国人夫婦、ロシア軍艦による警告射撃を語る]]></title>
-            <link>https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">f635c21708cc8620041838cb6733315d</guid>
-            <pubDate>Wed, 17 Jun 2026 13:41:21 GMT</pubDate>
-            <description><![CDATA[英国人夫婦が英仏海峡でロシア軍艦に警告射撃された経緯を証言。針路変更を示そうとしたが発砲されたという。]]></description>
-            <content:encoded><![CDATA[
-                <p>英国人夫婦が英仏海峡でロシア軍艦に警告射撃された経緯を証言。針路変更を示そうとしたが発砲されたという。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Europe<br/>
-                    <strong>対象国:</strong> GB<br/>
-                    <strong>カテゴリ:</strong> 紛争<br/>
-                    <strong>重要度スコア:</strong> 70
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[イラン、原油を積んだタンカーを米軍の封鎖線を越えさせる]]></title>
-            <link>https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">20a8cd9c2e065cc7526a23f40f29a230</guid>
-            <pubDate>Wed, 17 Jun 2026 13:27:47 GMT</pubDate>
-            <description><![CDATA[イランのタンカー3隻が米軍の封鎖線を突破し、オマーン湾を通過した。]]></description>
-            <content:encoded><![CDATA[
-                <p>イランのタンカー3隻が米軍の封鎖線を突破し、オマーン湾を通過した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Middle East<br/>
-                    <strong>対象国:</strong> IR<br/>
-                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>配信元:</strong> BBC – Asia<br/>
+                    <strong>対象国:</strong> IN<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
                     <strong>重要度スコア:</strong> 75
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[メキシコ戦を前にワールドカップスポンサーの現代自動車に抗議集会]]></title>
-            <link>https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game</link>
-            <guid isPermaLink="false">f788abb677d5d99fc26d5af3ae64edd8</guid>
-            <pubDate>Wed, 17 Jun 2026 13:04:58 GMT</pubDate>
-            <description><![CDATA[サッカーワールドカップメキシコ戦前、スポンサーの現代自動車に対し、南米鉱山会社との取引における環境破壊と人権問題に抗議する集会が開催される予定。メキシコ人活動家の失踪も関連付けられている。]]></description>
+            <title><![CDATA[ヨーロッパ全土で記録的な熱波が発生]]></title>
+            <link>https://www.bbc.com/news/videos/cg4w1g4eydno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">d19a599281eb2895c2918cd25b85142f</guid>
+            <pubDate>Wed, 17 Jun 2026 14:59:16 GMT</pubDate>
+            <description><![CDATA[ヨーロッパ大陸全体で激しい熱波が進行中であり、パリでは日曜までに40℃に達する可能性があり、広範囲に影響を及ぼしている。]]></description>
             <content:encoded><![CDATA[
-                <p>サッカーワールドカップメキシコ戦前、スポンサーの現代自動車に対し、南米鉱山会社との取引における環境破壊と人権問題に抗議する集会が開催される予定。メキシコ人活動家の失踪も関連付けられている。</p>
+                <p>ヨーロッパ大陸全体で激しい熱波が進行中であり、パリでは日曜までに40℃に達する可能性があり、広範囲に影響を及ぼしている。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> The Guardian – World<br/>
-                    <strong>対象国:</strong> MX<br/>
-                    <strong>カテゴリ:</strong> 環境<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>配信元:</strong> BBC – Europe<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 災害<br/>
+                    <strong>重要度スコア:</strong> 75
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[「彼らは山刀を持って来た」— 南アフリカからの移民退去期限が迫る]]></title>
+            <title><![CDATA[「現実離れしていた」：ロシア軍艦が近くで威嚇射撃、イギリス人夫婦が語る]]></title>
+            <link>https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">f635c21708cc8620041838cb6733315d</guid>
+            <pubDate>Wed, 17 Jun 2026 13:41:21 GMT</pubDate>
+            <description><![CDATA[イギリス人夫婦が、英仏海峡でロシア軍艦に威嚇射撃を受けた状況を語った。夫婦は軍艦に対し進路変更を示そうとしたという。]]></description>
+            <content:encoded><![CDATA[
+                <p>イギリス人夫婦が、英仏海峡でロシア軍艦に威嚇射撃を受けた状況を語った。夫婦は軍艦に対し進路変更を示そうとしたという。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Europe<br/>
+                    <strong>対象国:</strong> GB<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 65
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[イラン、原油積載タンカーを米軍封鎖線を超えて派遣]]></title>
+            <link>https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">20a8cd9c2e065cc7526a23f40f29a230</guid>
+            <pubDate>Wed, 17 Jun 2026 13:27:47 GMT</pubDate>
+            <description><![CDATA[船舶追跡データによると、イランのタンカー3隻が原油を積載し、オマーン湾の米軍封鎖線を突破。経済的・地政学的な緊張が高まっている。]]></description>
+            <content:encoded><![CDATA[
+                <p>船舶追跡データによると、イランのタンカー3隻が原油を積載し、オマーン湾の米軍封鎖線を突破。経済的・地政学的な緊張が高まっている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Middle East<br/>
+                    <strong>対象国:</strong> IR<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ワールドカップスポンサーのヒュンダイに対し、メキシコ戦前に抗議デモ]]></title>
+            <link>https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game</link>
+            <guid isPermaLink="false">f788abb677d5d99fc26d5af3ae64edd8</guid>
+            <pubDate>Wed, 17 Jun 2026 13:04:58 GMT</pubDate>
+            <description><![CDATA[メキシコ対韓国のW杯試合前、グアダラハラでスポンサーのヒュンダイに対する抗議デモ。ヒュンダイの環境破壊的サプライチェーンと活動家失踪への関連が焦点となる。]]></description>
+            <content:encoded><![CDATA[
+                <p>メキシコ対韓国のW杯試合前、グアダラハラでスポンサーのヒュンダイに対する抗議デモ。ヒュンダイの環境破壊的サプライチェーンと活動家失踪への関連が焦点となる。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> The Guardian – World<br/>
+                    <strong>対象国:</strong> MX<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 60
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ノルウェーの皇太子妃、肺移植手術に成功と宮殿が発表]]></title>
+            <link>https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">36917da8bd53eca66a934f2fa68f57e8</guid>
+            <pubDate>Wed, 17 Jun 2026 10:15:08 GMT</pubDate>
+            <description><![CDATA[ノルウェーのメッテ＝マリット皇太子妃が、肺線維症のため受けた肺移植手術に成功し、数週間の入院で回復する予定。]]></description>
+            <content:encoded><![CDATA[
+                <p>ノルウェーのメッテ＝マリット皇太子妃が、肺線維症のため受けた肺移植手術に成功し、数週間の入院で回復する予定。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Europe<br/>
+                    <strong>対象国:</strong> NO<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 45
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[トランプ批判にもかかわらず、イスラエルがレバノンへの新たな攻撃を開始]]></title>
+            <link>https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">2c4b456cc70d6c7731b0ddbc2e768001</guid>
+            <pubDate>Wed, 17 Jun 2026 10:01:42 GMT</pubDate>
+            <description><![CDATA[トランプ大統領がイスラエル首相に対しレバノンへの責任ある行動を求めたにもかかわらず、イスラエルはレバノンへの新たな空爆を開始した。]]></description>
+            <content:encoded><![CDATA[
+                <p>トランプ大統領がイスラエル首相に対しレバノンへの責任ある行動を求めたにもかかわらず、イスラエルはレバノンへの新たな空爆を開始した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Middle East<br/>
+                    <strong>対象国:</strong> LB<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[「彼らはマチェーテを持って来た」- 南アフリカ、不法移民退去期限迫る]]></title>
             <link>https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">394fb7cc2892ace77ba01632d8494619</guid>
             <pubDate>Wed, 17 Jun 2026 09:56:40 GMT</pubDate>
-            <description><![CDATA[南アフリカでは、抗議者たちがすべての不法移民に対し、6月30日までに国を去るよう期限を設定しました。移民問題とそれに伴う社会の緊張が高まっています。]]></description>
+            <description><![CDATA[南アフリカでは、抗議者たちが6月30日をすべての不法移民が国外退去する期限と設定し、移民に対する緊張が高まっています。]]></description>
             <content:encoded><![CDATA[
-                <p>南アフリカでは、抗議者たちがすべての不法移民に対し、6月30日までに国を去るよう期限を設定しました。移民問題とそれに伴う社会の緊張が高まっています。</p>
+                <p>南アフリカでは、抗議者たちが6月30日をすべての不法移民が国外退去する期限と設定し、移民に対する緊張が高まっています。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Africa<br/>
                     <strong>対象国:</strong> ZA<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[エルサレムの最も神聖な場所における現状維持が、イスラエル人国家主義者による規則違反で脅かされる]]></title>
+            <link>https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">226c888ab6c947c23c6368575e969bc6</guid>
+            <pubDate>Wed, 17 Jun 2026 09:13:34 GMT</pubDate>
+            <description><![CDATA[エルサレムのアルアクサ・モスク複合施設で、イスラエル人国家主義者が宗教間の慣習を無視し、聖地の現状維持が危機に瀕している。]]></description>
+            <content:encoded><![CDATA[
+                <p>エルサレムのアルアクサ・モスク複合施設で、イスラエル人国家主義者が宗教間の慣習を無視し、聖地の現状維持が危機に瀕している。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Middle East<br/>
+                    <strong>対象国:</strong> IL<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
                     <strong>重要度スコア:</strong> 80
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[7歳の少年アブディカディル、米軍の空爆で負傷。750ドルの手術がなければ歩行能力を失う可能性]]></title>
+            <title><![CDATA[7歳のアブディカディル少年、米軍空爆で負傷。750ドルの手術がなければ歩行不能の危機]]></title>
             <link>https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack</link>
             <guid isPermaLink="false">53a7715c7fd4ca8f6d66ab710b350ff1</guid>
             <pubDate>Wed, 17 Jun 2026 09:00:27 GMT</pubDate>
-            <description><![CDATA[ソマリアで米軍の空爆により7歳の少年が負傷。家族は手術費用を払えず、米国は民間人の被害を否定しており、補償は絶望的。少年は歩行能力を失う危機に直面している。]]></description>
+            <description><![CDATA[ソマリアで米軍の空爆により破片を浴びた7歳少年が、750ドルの手術を受けなければ歩行能力を失う危機に。米政府は民間人被害を否定し、補償は得られていない。]]></description>
             <content:encoded><![CDATA[
-                <p>ソマリアで米軍の空爆により7歳の少年が負傷。家族は手術費用を払えず、米国は民間人の被害を否定しており、補償は絶望的。少年は歩行能力を失う危機に直面している。</p>
+                <p>ソマリアで米軍の空爆により破片を浴びた7歳少年が、750ドルの手術を受けなければ歩行能力を失う危機に。米政府は民間人被害を否定し、補償は得られていない。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> The Guardian – World<br/>
@@ -1036,47 +1263,13 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[アルゼンチン代表戦後のメッシ、涙の理由を語る]]></title>
+            <title><![CDATA[感動のメッシ、アルゼンチン戦ゴール後に涙の理由を説明]]></title>
             <link>https://www.bbc.com/sport/football/articles/c74yz03glrro?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">0bc5fba95b22eb94b487790c99a6283f</guid>
             <pubDate>Wed, 17 Jun 2026 08:34:36 GMT</pubDate>
-            <description><![CDATA[リオネル・メッシはアルジェリア戦でゴールを決めた後、サッカーとは全く関係のない個人的な理由で涙を流したと説明した。]]></description>
+            <description><![CDATA[リオネル・メッシはアルゼンチンのアルジェリア戦での先制ゴール後、「サッカーとは全く関係ない」理由で涙を流したと説明した。]]></description>
             <content:encoded><![CDATA[
-                <p>リオネル・メッシはアルジェリア戦でゴールを決めた後、サッカーとは全く関係のない個人的な理由で涙を流したと説明した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
-                    <strong>対象国:</strong> AR<br/>
-                    <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 70
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[日本が価格カルテル疑惑でアイスクリーム大手企業を捜査]]></title>
-            <link>https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">775880fb32c0b500ff6f1e243db60291</guid>
-            <pubDate>Wed, 17 Jun 2026 07:33:39 GMT</pubDate>
-            <description><![CDATA[記録的な猛暑の中、日本のアイスクリーム大手企業が価格カルテル疑惑で公正取引委員会の捜査を受けている。]]></description>
-            <content:encoded><![CDATA[
-                <p>記録的な猛暑の中、日本のアイスクリーム大手企業が価格カルテル疑惑で公正取引委員会の捜査を受けている。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Asia<br/>
-                    <strong>対象国:</strong> JP<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 65
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[驚異のメッシが史上最高のプレーでさらに歴史を作る]]></title>
-            <link>https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">ac6a10810c41b83aaf4d235574224065</guid>
-            <pubDate>Wed, 17 Jun 2026 07:17:39 GMT</pubDate>
-            <description><![CDATA[ワールドカップでエムバペやハーランドが活躍する中、スーパースターがひしめく中でリオネル・メッシが最高のパフォーマンスを見せ、新たな歴史を刻んだ。]]></description>
-            <content:encoded><![CDATA[
-                <p>ワールドカップでエムバペやハーランドが活躍する中、スーパースターがひしめく中でリオネル・メッシが最高のパフォーマンスを見せ、新たな歴史を刻んだ。</p>
+                <p>リオネル・メッシはアルゼンチンのアルジェリア戦での先制ゴール後、「サッカーとは全く関係ない」理由で涙を流したと説明した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
@@ -1087,30 +1280,64 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Telegram、試験問題漏洩懸念によるインドでの禁止措置に異議]]></title>
+            <title><![CDATA[日本、アイスクリーム大手企業を価格カルテル疑惑で家宅捜索]]></title>
+            <link>https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">775880fb32c0b500ff6f1e243db60291</guid>
+            <pubDate>Wed, 17 Jun 2026 07:33:39 GMT</pubDate>
+            <description><![CDATA[日本でアイスクリーム大手に対し価格カルテル疑惑で家宅捜索が行われた。記録的な猛暑の中、消費者の関心を集める。]]></description>
+            <content:encoded><![CDATA[
+                <p>日本でアイスクリーム大手に対し価格カルテル疑惑で家宅捜索が行われた。記録的な猛暑の中、消費者の関心を集める。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Asia<br/>
+                    <strong>対象国:</strong> JP<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 65
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[驚異的なメッシが偉大な活躍で更なる歴史を刻む]]></title>
+            <link>https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">ac6a10810c41b83aaf4d235574224065</guid>
+            <pubDate>Wed, 17 Jun 2026 07:17:39 GMT</pubDate>
+            <description><![CDATA[キリアン・エムバペやアーリング・ハーランドが素晴らしいワールドカップのスタートを切る中、リオネル・メッシがスーパースター揃いの日でも主役の座を射止めた。]]></description>
+            <content:encoded><![CDATA[
+                <p>キリアン・エムバペやアーリング・ハーランドが素晴らしいワールドカップのスタートを切る中、リオネル・メッシがスーパースター揃いの日でも主役の座を射止めた。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> スポーツ<br/>
+                    <strong>重要度スコア:</strong> 90
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[テレグラム、試験問題漏洩懸念によるインドでの禁止措置に異議を申し立てる]]></title>
             <link>https://www.bbc.com/news/articles/c4gy40q8wz0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">b069488caa5fda01ad8791faa16862e1</guid>
             <pubDate>Wed, 17 Jun 2026 06:56:27 GMT</pubDate>
-            <description><![CDATA[試験問題漏洩の懸念からインドがTelegramを禁止したことに対し、CEOは「間違い」と批判。数百万人のユーザーを罰すると主張している。]]></description>
+            <description><![CDATA[テレグラムのCEOは、試験問題漏洩を理由とするインドでのサービス禁止措置を「誤り」と批判。数百万人のユーザーに影響が出ると主張している。]]></description>
             <content:encoded><![CDATA[
-                <p>試験問題漏洩の懸念からインドがTelegramを禁止したことに対し、CEOは「間違い」と批判。数百万人のユーザーを罰すると主張している。</p>
+                <p>テレグラムのCEOは、試験問題漏洩を理由とするインドでのサービス禁止措置を「誤り」と批判。数百万人のユーザーに影響が出ると主張している。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Asia<br/>
                     <strong>対象国:</strong> IN<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>重要度スコア:</strong> 60
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[シエラレオネのファーストレディ、FGMの害に関する「信頼できるデータ」がなければ非難を拒否]]></title>
+            <title><![CDATA[シエラレオネのファーストレディ、危害に関する「信頼できるデータ」なしにFGM非難を拒否]]></title>
             <link>https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms</link>
             <guid isPermaLink="false">514ad8a075bc02ca8ebb913058d1e468</guid>
             <pubDate>Wed, 17 Jun 2026 05:00:23 GMT</pubDate>
-            <description><![CDATA[シエラレオネのファーストレディが女性性器切除（FGM）への支持を否定するも、その有害性を示す「信頼できるデータ」なしには公に非難しないと表明し、批判を呼んでいる。]]></description>
+            <description><![CDATA[シエラレオネのファーストレディがFGM（女性器切除）に対する支持を否定しつつ、「信頼できるデータ」がない限り公に非難しないと発言し、懸念の声が上がっている。]]></description>
             <content:encoded><![CDATA[
-                <p>シエラレオネのファーストレディが女性性器切除（FGM）への支持を否定するも、その有害性を示す「信頼できるデータ」なしには公に非難しないと表明し、批判を呼んでいる。</p>
+                <p>シエラレオネのファーストレディがFGM（女性器切除）に対する支持を否定しつつ、「信頼できるデータ」がない限り公に非難しないと発言し、懸念の声が上がっている。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> The Guardian – World<br/>
@@ -1121,302 +1348,183 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ガーナ、国連画期的な決議以来初の主要会合で償還的正義を推進へ]]></title>
-            <link>https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution</link>
-            <guid isPermaLink="false">7597d6965cde69d7caeba9587aa55b3b</guid>
-            <pubDate>Wed, 17 Jun 2026 05:00:22 GMT</pubDate>
-            <description><![CDATA[ガーナは、奴隷化されたアフリカ人の人身売買を人道に対する最も重大な犯罪と宣言した国連決議後、償還的正義推進のための主要な会議を開催し、80カ国以上の代表が集まる。]]></description>
-            <content:encoded><![CDATA[
-                <p>ガーナは、奴隷化されたアフリカ人の人身売買を人道に対する最も重大な犯罪と宣言した国連決議後、償還的正義推進のための主要な会議を開催し、80カ国以上の代表が集まる。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> The Guardian – World<br/>
-                    <strong>対象国:</strong> GH<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[エボラ出血熱がブニアの対面業務従事者に影響、命と収入が失われる]]></title>
-            <link>https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc</link>
-            <guid isPermaLink="false">df07836144d20f0aaf87bdcb0477040d</guid>
-            <pubDate>Wed, 17 Jun 2026 04:00:21 GMT</pubDate>
-            <description><![CDATA[コンゴ民主共和国ブニアでエボラ出血熱が猛威を振るい、教員やタクシー運転手など多くの市民が命や収入を失っている。学校では感染拡大防止策を講じている。]]></description>
-            <content:encoded><![CDATA[
-                <p>コンゴ民主共和国ブニアでエボラ出血熱が猛威を振るい、教員やタクシー運転手など多くの市民が命や収入を失っている。学校では感染拡大防止策を講じている。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> The Guardian – World<br/>
-                    <strong>対象国:</strong> CD<br/>
-                    <strong>カテゴリ:</strong> 災害<br/>
-                    <strong>重要度スコア:</strong> 85
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[パーティ、以前の逮捕歴についてカナダ当局を誤解させる]]></title>
-            <link>https://www.bbc.com/sport/football/articles/cly8qj2nlzqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">b296fbe07284b91d47b0d3b869660f1c</guid>
-            <pubDate>Wed, 17 Jun 2026 00:56:47 GMT</pubDate>
-            <description><![CDATA[トーマス・パーティ選手は、ビザ発給拒否に対する上訴が却下されたため、以前の逮捕歴についてカナダ当局を誤解させていたと報じられ、ガーナのワールドカップ初戦を欠場します。]]></description>
-            <content:encoded><![CDATA[
-                <p>トーマス・パーティ選手は、ビザ発給拒否に対する上訴が却下されたため、以前の逮捕歴についてカナダ当局を誤解させていたと報じられ、ガーナのワールドカップ初戦を欠場します。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Africa<br/>
-                    <strong>対象国:</strong> GH<br/>
-                    <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 50
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ブラジル、ジャイール・ボルソナーロ氏の息子が父の法的闘争で米国の支援を追求したとして有罪判決]]></title>
+            <title><![CDATA[ブラジル、ジャイール・ボルソナーロの息子が父親の法廷闘争で米国の支援を求めたとして有罪判決]]></title>
             <link>https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">3cfee5b99fde5a9b791a0eb22eea0ad8</guid>
             <pubDate>Wed, 17 Jun 2026 00:31:35 GMT</pubDate>
-            <description><![CDATA[ブラジルで、ジャイール・ボルソナーロ前大統領の息子が、父親の法廷闘争で米国の協力を求めたとして有罪判決を受けた。]]></description>
+            <description><![CDATA[ブラジルで、ジャイール・ボルソナーロ前大統領の息子が、父親の法廷闘争で米国の支援を求めたとして有罪判決を受けた。本人は「根拠がなく無意味」と主張。]]></description>
             <content:encoded><![CDATA[
-                <p>ブラジルで、ジャイール・ボルソナーロ前大統領の息子が、父親の法廷闘争で米国の協力を求めたとして有罪判決を受けた。</p>
+                <p>ブラジルで、ジャイール・ボルソナーロ前大統領の息子が、父親の法廷闘争で米国の支援を求めたとして有罪判決を受けた。本人は「根拠がなく無意味」と主張。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
                     <strong>対象国:</strong> BR<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 60
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MC14後：機関の刷新には現実的なWTO改革が不可欠]]></title>
-            <link>https://www.wto.org/english/news_e/news26_e/blgrs_17jun26_417_e.htm</link>
-            <guid isPermaLink="false">f5fa4cd11929ff50968adffc59e71826</guid>
-            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[WTO首席エコノミストがMC14後の組織の将来について論じる。カメルーンのヤウンデで開催された閣僚会議は、WTO改革の必要性と現状を浮き彫りにした。機関の刷新に向けた現実的な改革の重要性が強調されている。]]></description>
-            <content:encoded><![CDATA[
-                <p>WTO首席エコノミストがMC14後の組織の将来について論じる。カメルーンのヤウンデで開催された閣僚会議は、WTO改革の必要性と現状を浮き彫りにした。機関の刷新に向けた現実的な改革の重要性が強調されている。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> WTO – Latest News<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[イラン燃料をパキスタンへ密輸する、猛暑と武力衝突と闘うバイク乗りたち]]></title>
-            <link>https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">68d30a93b5d0bfe5728bc1e1bc345fbe</guid>
-            <pubDate>Tue, 16 Jun 2026 23:52:37 GMT</pubDate>
-            <description><![CDATA[猛暑と武装紛争の中、イランからパキスタンへ燃料を密輸するバイク乗りたちは、怪我や死の危険と隣り合わせの生活を送っている。]]></description>
-            <content:encoded><![CDATA[
-                <p>猛暑と武装紛争の中、イランからパキスタンへ燃料を密輸するバイク乗りたちは、怪我や死の危険と隣り合わせの生活を送っている。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Middle East<br/>
-                    <strong>対象国:</strong> PK<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 55
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ジャイル・ボルソナーロの息子、父親のクーデター裁判への米国干渉を求めたとして懲役4年の判決]]></title>
-            <link>https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair</link>
-            <guid isPermaLink="false">dc407044b6bfe915effa0b0d0fbe87ba</guid>
-            <pubDate>Tue, 16 Jun 2026 21:44:54 GMT</pubDate>
-            <description><![CDATA[ブラジルの最高裁判所は、ジャイル・ボルソナーロ元大統領の息子エドゥアルド・ボルソナーロに対し、父親のクーデター計画裁判への米国の干渉を求めた罪で懲役4年2ヶ月の判決を下した。]]></description>
-            <content:encoded><![CDATA[
-                <p>ブラジルの最高裁判所は、ジャイル・ボルソナーロ元大統領の息子エドゥアルド・ボルソナーロに対し、父親のクーデター計画裁判への米国の干渉を求めた罪で懲役4年2ヶ月の判決を下した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> The Guardian – World<br/>
-                    <strong>対象国:</strong> BR<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 85
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[トロント警察、数十件の発砲事件を「多層的な」雇われ銃撃ネットワークと関連付け]]></title>
-            <link>https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network</link>
-            <guid isPermaLink="false">3e7dccceefb0d62c79d352573472c5b9</guid>
-            <pubDate>Tue, 16 Jun 2026 17:47:30 GMT</pubDate>
-            <description><![CDATA[トロント警察は、米国領事館への襲撃を含む数十件の発砲事件が、暗号化メッセージアプリを通じて若者をリクルートし、報酬を支払って攻撃を実行させる「雇われ銃撃ネットワーク」に関連していると発表した。]]></description>
-            <content:encoded><![CDATA[
-                <p>トロント警察は、米国領事館への襲撃を含む数十件の発砲事件が、暗号化メッセージアプリを通じて若者をリクルートし、報酬を支払って攻撃を実行させる「雇われ銃撃ネットワーク」に関連していると発表した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> The Guardian – World<br/>
-                    <strong>対象国:</strong> CA<br/>
-                    <strong>カテゴリ:</strong> 紛争<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ロシア人芸術家でプーチン批判者がポーランドで射殺される]]></title>
-            <link>https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">5c5a131db55219077b9dd1a5a04629c9</guid>
-            <pubDate>Tue, 16 Jun 2026 17:33:50 GMT</pubDate>
-            <description><![CDATA[プーチン大統領の風刺画で知られるロシア人芸術家ロバート・クゾフコフ氏がポーランドで射殺され、国際社会に衝撃。]]></description>
-            <content:encoded><![CDATA[
-                <p>プーチン大統領の風刺画で知られるロシア人芸術家ロバート・クゾフコフ氏がポーランドで射殺され、国際社会に衝撃。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Europe<br/>
-                    <strong>対象国:</strong> PL<br/>
                     <strong>カテゴリ:</strong> 政治<br/>
                     <strong>重要度スコア:</strong> 75
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ベトナムで食用に盗まれた数百匹の猫が警察に救助される]]></title>
+            <title><![CDATA[MC14後：WTOの組織再生には現実的な改革が不可欠]]></title>
+            <link>https://www.wto.org/english/news_e/news26_e/blgrs_17jun26_417_e.htm</link>
+            <guid isPermaLink="false">f5fa4cd11929ff50968adffc59e71826</guid>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[WTO事務局長補佐は、カメルーンで開催された第14回閣僚会議（MC14）を振り返り、WTOの将来と組織再編の重要性を強調。現実的な改革が必要と述べた。]]></description>
+            <content:encoded><![CDATA[
+                <p>WTO事務局長補佐は、カメルーンで開催された第14回閣僚会議（MC14）を振り返り、WTOの将来と組織再編の重要性を強調。現実的な改革が必要と述べた。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> WTO – Latest News<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 85
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ジャイール・ボルソナーロの息子、父親のブラジルクーデター裁判への米国の干渉を求めた罪で懲役4年]]></title>
+            <link>https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair</link>
+            <guid isPermaLink="false">dc407044b6bfe915effa0b0d0fbe87ba</guid>
+            <pubDate>Tue, 16 Jun 2026 21:44:54 GMT</pubDate>
+            <description><![CDATA[ブラジル最高裁は、元大統領ボルソナーロの息子エドゥアルド氏に、父親のクーデター陰謀裁判に米国からの干渉を求めた罪で懲役4年2ヶ月の判決を下した。]]></description>
+            <content:encoded><![CDATA[
+                <p>ブラジル最高裁は、元大統領ボルソナーロの息子エドゥアルド氏に、父親のクーデター陰謀裁判に米国からの干渉を求めた罪で懲役4年2ヶ月の判決を下した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> The Guardian – World<br/>
+                    <strong>対象国:</strong> BR<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 80
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[トロント警察、「多層的」な銃撃請負ネットワークと数十件の銃撃事件を関連付け]]></title>
+            <link>https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network</link>
+            <guid isPermaLink="false">3e7dccceefb0d62c79d352573472c5b9</guid>
+            <pubDate>Tue, 16 Jun 2026 17:47:30 GMT</pubDate>
+            <description><![CDATA[トロント警察は、米領事館での銃撃を含む数十件の事件が「銃撃請負ネットワーク」に関連すると発表。若者らがアプリで勧誘され、報酬のために銃撃を実行している。]]></description>
+            <content:encoded><![CDATA[
+                <p>トロント警察は、米領事館での銃撃を含む数十件の事件が「銃撃請負ネットワーク」に関連すると発表。若者らがアプリで勧誘され、報酬のために銃撃を実行している。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> The Guardian – World<br/>
+                    <strong>対象国:</strong> CA<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ベトナムで食用目的で盗まれた数百匹の猫を警察と動物福祉団体が救出]]></title>
             <link>https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">821c9db1578b7cc735397fa8fbea3d76</guid>
             <pubDate>Tue, 16 Jun 2026 17:17:55 GMT</pubDate>
-            <description><![CDATA[ベトナムで食用目的で盗まれた400匹以上の猫が警察に救出され、9人が逮捕された。40匹以上が飼い主のもとに戻った。]]></description>
+            <description><![CDATA[ベトナムで食用に盗まれた400匹以上の猫が警察に救出され、40匹以上が飼い主と再会。9人が逮捕された。]]></description>
             <content:encoded><![CDATA[
-                <p>ベトナムで食用目的で盗まれた400匹以上の猫が警察に救出され、9人が逮捕された。40匹以上が飼い主のもとに戻った。</p>
+                <p>ベトナムで食用に盗まれた400匹以上の猫が警察に救出され、40匹以上が飼い主と再会。9人が逮捕された。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Asia<br/>
                     <strong>対象国:</strong> VN<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 60
+                    <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[米イラン停戦が未解決の問題を残し、レバノンは不安定な静けさ]]></title>
+            <title><![CDATA[米国とイランの停戦が未解決の疑問を残す中、レバノンでは不安定な静けさ]]></title>
             <link>https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">556c0af157457324c8246670475e8388</guid>
             <pubDate>Tue, 16 Jun 2026 16:20:33 GMT</pubDate>
-            <description><![CDATA[米イランの停戦合意後も、レバノンではイスラエルとヒズボラ間の戦闘終結に疑念が残る。]]></description>
+            <description><![CDATA[米国とイランの停戦協定後も、レバノンの人々はイスラエルとヒズボラの戦闘終結に懐疑的で、不安定な静けさが続いている。]]></description>
             <content:encoded><![CDATA[
-                <p>米イランの停戦合意後も、レバノンではイスラエルとヒズボラ間の戦闘終結に疑念が残る。</p>
+                <p>米国とイランの停戦協定後も、レバノンの人々はイスラエルとヒズボラの戦闘終結に懐疑的で、不安定な静けさが続いている。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Middle East<br/>
                     <strong>対象国:</strong> LB<br/>
                     <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 78
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[テヘランは米国との合意を勝利と売り込むが、イラン人にとっては必要不可欠だった]]></title>
+            <link>https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">d18aced66c81ee644e960f5789a8d559</guid>
+            <pubDate>Tue, 16 Jun 2026 15:31:24 GMT</pubDate>
+            <description><![CDATA[テヘラン政府は米国との合意を勝利と位置づけるが、多くのイラン国民にとって、それは物価の低下と新たな戦争の回避という切実な必要性であった。]]></description>
+            <content:encoded><![CDATA[
+                <p>テヘラン政府は米国との合意を勝利と位置づけるが、多くのイラン国民にとって、それは物価の低下と新たな戦争の回避という切実な必要性であった。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Middle East<br/>
+                    <strong>対象国:</strong> IR<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
                     <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[テヘランは米国との合意を勝利と位置づけるが、イラン国民にとっては必然だった]]></title>
-            <link>https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">d18aced66c81ee644e960f5789a8d559</guid>
-            <pubDate>Tue, 16 Jun 2026 15:31:24 GMT</pubDate>
-            <description><![CDATA[テヘランは対米合意を勝利と宣伝するが、多くのイラン国民にとって、それは物価低下と戦争回避の手段である。]]></description>
-            <content:encoded><![CDATA[
-                <p>テヘランは対米合意を勝利と宣伝するが、多くのイラン国民にとって、それは物価低下と戦争回避の手段である。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Middle East<br/>
-                    <strong>対象国:</strong> IR<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 65
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ベネズエラ、電力網再建のため米エネルギー大手と契約締結]]></title>
+            <title><![CDATA[ベネズエラ、米エネルギー大手と送電網再建で契約を締結]]></title>
             <link>https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">222e25d2187d00f0616ae58eb9380c68</guid>
             <pubDate>Tue, 16 Jun 2026 15:19:52 GMT</pubDate>
-            <description><![CDATA[ベネズエラの暫定政府が米エネルギー大手ゼネラル・エレクトリック社と電力網再建の契約を結び、米国企業との協力関係が深化。]]></description>
+            <description><![CDATA[ベネズエラは米国のエネルギー大手ゼネラル・エレクトリックと送電網再建のための契約を結んだ。これは米国企業とベネズエラ暫定政府間の協力の最新の兆候。]]></description>
             <content:encoded><![CDATA[
-                <p>ベネズエラの暫定政府が米エネルギー大手ゼネラル・エレクトリック社と電力網再建の契約を結び、米国企業との協力関係が深化。</p>
+                <p>ベネズエラは米国のエネルギー大手ゼネラル・エレクトリックと送電網再建のための契約を結んだ。これは米国企業とベネズエラ暫定政府間の協力の最新の兆候。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
                     <strong>対象国:</strong> VE<br/>
                     <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>重要度スコア:</strong> 80
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[フランス最年長の女性被拘禁者（79歳）、義理の親の猟奇殺人事件で裁判に]]></title>
+            <title><![CDATA[フランス最年長の女性被拘禁者（79歳）、義理の親族の残忍な殺害で裁判に]]></title>
             <link>https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">9479f337f9abd8540493d8e6a777b961</guid>
             <pubDate>Tue, 16 Jun 2026 14:46:35 GMT</pubDate>
-            <description><![CDATA[1995年にセーヌ川で発見されたバラバラ遺体とDNA証拠が結びつき、79歳の女性が義理の親殺害で裁判を受ける。]]></description>
+            <description><![CDATA[1995年にセーヌ川で発見された遺体がDNA鑑定により被告と結びつき、フランス最年長の女性被拘禁者が義理の親族殺害の容疑で裁判に臨む。]]></description>
             <content:encoded><![CDATA[
-                <p>1995年にセーヌ川で発見されたバラバラ遺体とDNA証拠が結びつき、79歳の女性が義理の親殺害で裁判を受ける。</p>
+                <p>1995年にセーヌ川で発見された遺体がDNA鑑定により被告と結びつき、フランス最年長の女性被拘禁者が義理の親族殺害の容疑で裁判に臨む。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Europe<br/>
                     <strong>対象国:</strong> FR<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 40
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ソマリランド、イスラエルが独立承認後、エルサレムに大使館開設]]></title>
-            <link>https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">320c5fbe0c45d19a8588837e011a39ca</guid>
-            <pubDate>Tue, 16 Jun 2026 14:34:39 GMT</pubDate>
-            <description><![CDATA[イスラエルが東アフリカの分離独立国家ソマリランドを承認した半年後、ソマリランドがエルサレムに大使館を開設した。]]></description>
-            <content:encoded><![CDATA[
-                <p>イスラエルが東アフリカの分離独立国家ソマリランドを承認した半年後、ソマリランドがエルサレムに大使館を開設した。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Middle East<br/>
-                    <strong>対象国:</strong> SO<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 60
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ホルムズ海峡をまだ船が通過しない3つの理由]]></title>
-            <link>https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">3fe25a4e82040f0081a533cd72601acb</guid>
-            <pubDate>Tue, 16 Jun 2026 14:11:30 GMT</pubDate>
-            <description><![CDATA[ホルムズ海峡の船舶交通が紛争前の水準に戻らないのは、安全性、機雷、通行料の3つの主要な障害があるためだと専門家は指摘する。]]></description>
-            <content:encoded><![CDATA[
-                <p>ホルムズ海峡の船舶交通が紛争前の水準に戻らないのは、安全性、機雷、通行料の3つの主要な障害があるためだと専門家は指摘する。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Middle East<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 70
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[スウェーデン人男性、妻に120人との性行為を強要した罪で懲役4年]]></title>
-            <link>https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">6d81359dbdbc38dda85ad316a4ef8366</guid>
-            <pubDate>Tue, 16 Jun 2026 12:46:03 GMT</pubDate>
-            <description><![CDATA[スウェーデンで61歳の男がオンラインで見つけた男性らと妻に性行為を強要し、対価を得ていたとして懲役4年の判決。]]></description>
-            <content:encoded><![CDATA[
-                <p>スウェーデンで61歳の男がオンラインで見つけた男性らと妻に性行為を強要し、対価を得ていたとして懲役4年の判決。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Europe<br/>
-                    <strong>対象国:</strong> SE<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
                     <strong>重要度スコア:</strong> 35
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ハンガリー議会、オルバン氏の首相再任を阻止し任期を8年に制限]]></title>
+            <title><![CDATA[イスラエルが独立を承認後、ソマリランドがエルサレムに大使館を開設]]></title>
+            <link>https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">320c5fbe0c45d19a8588837e011a39ca</guid>
+            <pubDate>Tue, 16 Jun 2026 14:34:39 GMT</pubDate>
+            <description><![CDATA[イスラエルが東アフリカの分離国家ソマリランドを初めて承認してから6ヶ月後、ソマリランドはエルサレムに大使館を開設した。]]></description>
+            <content:encoded><![CDATA[
+                <p>イスラエルが東アフリカの分離国家ソマリランドを初めて承認してから6ヶ月後、ソマリランドはエルサレムに大使館を開設した。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Middle East<br/>
+                    <strong>対象国:</strong> SO<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 75
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ハンガリー議会議員、オルバーン氏の復帰を阻止し、首相の任期を8年に制限]]></title>
             <link>https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">24da2b6d57033c62b897e7d846bd28ae</guid>
             <pubDate>Tue, 16 Jun 2026 12:42:15 GMT</pubDate>
-            <description><![CDATA[ハンガリーの新しい首相の公約通り、議会がオルバン前首相の再任を阻止し、首相の任期を8年に制限する。]]></description>
+            <description><![CDATA[ハンガリーの議員らは、オルバーン前首相の再任を阻止する法案を可決し、首相の任期を8年間に制限することを決定した。]]></description>
             <content:encoded><![CDATA[
-                <p>ハンガリーの新しい首相の公約通り、議会がオルバン前首相の再任を阻止し、首相の任期を8年に制限する。</p>
+                <p>ハンガリーの議員らは、オルバーン前首相の再任を阻止する法案を可決し、首相の任期を8年間に制限することを決定した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Europe<br/>
@@ -1427,36 +1535,36 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[米国の圧力キャンペーンが影響し、キューバの観光業が崩壊]]></title>
+            <title><![CDATA[キューバ観光業が崩壊、米国の圧力キャンペーンが影響]]></title>
             <link>https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">9742c6604401cde9b3660e28be9ba47c</guid>
             <pubDate>Tue, 16 Jun 2026 11:16:59 GMT</pubDate>
-            <description><![CDATA[制裁と事実上の石油封鎖の中、米国の圧力によりキューバへの外国人観光客数が昨年比58%減と大幅に落ち込んだ。]]></description>
+            <description><![CDATA[米国の圧力キャンペーンと制裁、実質的な石油封鎖により、キューバへの外国人観光客数が昨年比58%減と激減し、観光業が崩壊した。]]></description>
             <content:encoded><![CDATA[
-                <p>制裁と事実上の石油封鎖の中、米国の圧力によりキューバへの外国人観光客数が昨年比58%減と大幅に落ち込んだ。</p>
+                <p>米国の圧力キャンペーンと制裁、実質的な石油封鎖により、キューバへの外国人観光客数が昨年比58%減と激減し、観光業が崩壊した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
                     <strong>対象国:</strong> CU<br/>
                     <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>重要度スコア:</strong> 85
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['Daylight robbery but worth it' - what fans are spending on World Cup]]></title>
+            <title><![CDATA[「白昼の強盗だがそれだけの価値がある」 - ファンがワールドカップに費やす金額]]></title>
             <link>https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">41deff5e4a83429dba8a079a9cdc0563</guid>
             <pubDate>Tue, 16 Jun 2026 10:08:20 GMT</pubDate>
-            <description><![CDATA[Fans in the US, Canada and Mexico are spending big on tickets, transport and accommodation - is it worth it?]]></description>
+            <description><![CDATA[米国、カナダ、メキシコのファンがワールドカップのチケット、交通費、宿泊費に多額を費やしている。「それだけの価値があるのか？」という問いが投げかけられている。]]></description>
             <content:encoded><![CDATA[
-                <p>Fans in the US, Canada and Mexico are spending big on tickets, transport and accommodation - is it worth it?</p>
+                <p>米国、カナダ、メキシコのファンがワールドカップのチケット、交通費、宿泊費に多額を費やしている。「それだけの価値があるのか？」という問いが投げかけられている。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
-                    <strong>対象国:</strong> 不明<br/>
-                    <strong>カテゴリ:</strong> 未分類<br/>
-                    <strong>重要度スコア:</strong> N/A
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
@@ -1465,94 +1573,77 @@
             <link>https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">d8269f789925f24d0d358fecf4db16fc</guid>
             <pubDate>Tue, 16 Jun 2026 08:26:30 GMT</pubDate>
-            <description><![CDATA[日本銀行が金利を31年ぶりの高水準に引き上げた。日銀は2024年からゼロ金利に近い水準から金利引き上げを続けている。]]></description>
+            <description><![CDATA[日本銀行が政策金利を31年ぶりの高水準に引き上げた。2024年以降、ゼロ金利解除からの利上げが続いている。]]></description>
             <content:encoded><![CDATA[
-                <p>日本銀行が金利を31年ぶりの高水準に引き上げた。日銀は2024年からゼロ金利に近い水準から金利引き上げを続けている。</p>
+                <p>日本銀行が政策金利を31年ぶりの高水準に引き上げた。2024年以降、ゼロ金利解除からの利上げが続いている。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Asia<br/>
                     <strong>対象国:</strong> JP<br/>
                     <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 85
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[トランプ大統領、米イラン合意を金曜までに発表か]]></title>
-            <link>https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">ee948647ec40f3a13964536fc0a78af9</guid>
-            <pubDate>Tue, 16 Jun 2026 08:07:32 GMT</pubDate>
-            <description><![CDATA[米副大統領は、米イラン合意が「約1ページ半で非常に一般的」であり、詳細は後日決定されると述べた。]]></description>
-            <content:encoded><![CDATA[
-                <p>米副大統領は、米イラン合意が「約1ページ半で非常に一般的」であり、詳細は後日決定されると述べた。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Middle East<br/>
-                    <strong>対象国:</strong> US<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
                     <strong>重要度スコア:</strong> 80
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[インドの教科書で「踊る少女」像の裸の胴体が反発を受けて修正]]></title>
+            <title><![CDATA[トランプ氏、米国とイランの合意を金曜日までに公開する可能性、とバンス氏が発言]]></title>
+            <link>https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">ee948647ec40f3a13964536fc0a78af9</guid>
+            <pubDate>Tue, 16 Jun 2026 08:07:32 GMT</pubDate>
+            <description><![CDATA[米国副大統領バンス氏によると、トランプ大統領は米国とイランの合意を金曜日までに公開する可能性があり、その内容は非常に一般的だという。]]></description>
+            <content:encoded><![CDATA[
+                <p>米国副大統領バンス氏によると、トランプ大統領は米国とイランの合意を金曜日までに公開する可能性があり、その内容は非常に一般的だという。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Middle East<br/>
+                    <strong>対象国:</strong> US<br/>
+                    <strong>カテゴリ:</strong> 政治<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[インドの教科書で「踊る少女像」の裸の上半身、抗議を受け復元される]]></title>
             <link>https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">8b67e88fd566717e5f9bf3731320098c</guid>
             <pubDate>Tue, 16 Jun 2026 07:05:54 GMT</pubDate>
-            <description><![CDATA[インドの新しい学校教科書に掲載された有名な「踊る少女」像の裸の胴体が、陰影で覆われていたことに対し、反発を受けて元の姿に修正された。]]></description>
+            <description><![CDATA[インドの新しい学校教科書で、有名な「踊る少女像」の裸の上半身が塗りつぶされた画像が、抗議を受けて元の姿に修正された。]]></description>
             <content:encoded><![CDATA[
-                <p>インドの新しい学校教科書に掲載された有名な「踊る少女」像の裸の胴体が、陰影で覆われていたことに対し、反発を受けて元の姿に修正された。</p>
+                <p>インドの新しい学校教科書で、有名な「踊る少女像」の裸の上半身が塗りつぶされた画像が、抗議を受けて元の姿に修正された。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Asia<br/>
                     <strong>対象国:</strong> IN<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 55
+                    <strong>重要度スコア:</strong> 60
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[「モデルではない」 - ビエルサ監督、ワールドカップの撮影を拒否]]></title>
+            <title><![CDATA[「モデルではない」 - ビエルサ監督、ワールドカップのフォトシュートに応じず]]></title>
             <link>https://www.bbc.com/sport/football/articles/cd6e58eq72eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">407d41a630398446292ea6bd68973181</guid>
             <pubDate>Tue, 16 Jun 2026 07:02:49 GMT</pubDate>
-            <description><![CDATA[ウルグアイ代表のマルセロ・ビエルサ監督が、ワールドカップ公式写真撮影での無表情な姿について「モデルではない」と弁明した。]]></description>
+            <description><![CDATA[ウルグアイのマルセロ・ビエルサ監督が、ワールドカップ公式フォトシュートでの仏頂面な態度を擁護した。]]></description>
             <content:encoded><![CDATA[
-                <p>ウルグアイ代表のマルセロ・ビエルサ監督が、ワールドカップ公式写真撮影での無表情な姿について「モデルではない」と弁明した。</p>
+                <p>ウルグアイのマルセロ・ビエルサ監督が、ワールドカップ公式フォトシュートでの仏頂面な態度を擁護した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
                     <strong>対象国:</strong> UY<br/>
                     <strong>カテゴリ:</strong> スポーツ<br/>
-                    <strong>重要度スコア:</strong> 50
+                    <strong>重要度スコア:</strong> 55
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[イラン合意がネタニヤフ首相に政治的悪夢をもたらす]]></title>
-            <link>https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">ebbf99e82e5e7770d103f0b907e23cb3</guid>
-            <pubDate>Tue, 16 Jun 2026 03:40:36 GMT</pubDate>
-            <description><![CDATA[トランプ大統領のイランとの停戦合意により、イスラエル首相は新たな政治的・安全保障上の窮地に陥っている。]]></description>
-            <content:encoded><![CDATA[
-                <p>トランプ大統領のイランとの停戦合意により、イスラエル首相は新たな政治的・安全保障上の窮地に陥っている。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Middle East<br/>
-                    <strong>対象国:</strong> IL<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 65
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ある国の出生率向上実験が示唆すること]]></title>
+            <title><![CDATA[ある国の実験が語る、出生率向上策への示唆]]></title>
             <link>https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">7562b7164ebc45265af6b6c942f695d5</guid>
             <pubDate>Mon, 15 Jun 2026 23:56:47 GMT</pubDate>
-            <description><![CDATA[ハンガリーの出産奨励策が出生率を一時的に上昇させた後、再び低下した理由。他国への教訓を分析。]]></description>
+            <description><![CDATA[ハンガリーの出生奨励政策は一時的に出生数増をもたらしたが、その後減少に転じた理由と、他の国々への教訓を探る。]]></description>
             <content:encoded><![CDATA[
-                <p>ハンガリーの出産奨励策が出生率を一時的に上昇させた後、再び低下した理由。他国への教訓を分析。</p>
+                <p>ハンガリーの出生奨励政策は一時的に出生数増をもたらしたが、その後減少に転じた理由と、他の国々への教訓を探る。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Europe<br/>
@@ -1563,240 +1654,172 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[エボラ患者の回復が、発生地の中心で稀な喜びの瞬間をもたらす]]></title>
+            <title><![CDATA[エボラ流行の中心地で、患者の回復がもたらす束の間の喜び]]></title>
             <link>https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">60942f0010a2e8dc04ec9f216f60d091</guid>
             <pubDate>Mon, 15 Jun 2026 23:26:39 GMT</pubDate>
-            <description><![CDATA[コンゴ民主共和国でのエボラウイルスとの闘いの中で、患者の回復が喜びの瞬間をもたらしています。このウイルスで170人以上が亡くなっていますが、希望の兆しも見られます。]]></description>
+            <description><![CDATA[170人以上が死亡した民主共和国コンゴでのエボラウイルスとの闘いにおいて、患者の回復は、この苦しい状況の中でまれな喜びの瞬間をもたらしています。]]></description>
             <content:encoded><![CDATA[
-                <p>コンゴ民主共和国でのエボラウイルスとの闘いの中で、患者の回復が喜びの瞬間をもたらしています。このウイルスで170人以上が亡くなっていますが、希望の兆しも見られます。</p>
+                <p>170人以上が死亡した民主共和国コンゴでのエボラウイルスとの闘いにおいて、患者の回復は、この苦しい状況の中でまれな喜びの瞬間をもたらしています。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Africa<br/>
                     <strong>対象国:</strong> CD<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 85
+                    <strong>カテゴリ:</strong> 災害<br/>
+                    <strong>重要度スコア:</strong> 78
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1年後も依然として未解決、エア・インディア墜落事故調査の6つの疑問]]></title>
+            <title><![CDATA[1年経ってもなお、エア・インディア墜落事故調査を悩ませる6つの疑問]]></title>
             <link>https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">35366a632344bed2715e5d9e2e76d9ab</guid>
             <pubDate>Mon, 15 Jun 2026 23:09:10 GMT</pubDate>
-            <description><![CDATA[エア・インディア墜落事故から1年が経過したが、燃料切り替えやエンジン故障など、その調査には依然として6つの大きな謎が残されている。]]></description>
+            <description><![CDATA[エア・インディア墜落事故から1年が経過したが、燃料切り替えやエンジン故障など、未だ解明されていない大きな謎が6つ残っている。]]></description>
             <content:encoded><![CDATA[
-                <p>エア・インディア墜落事故から1年が経過したが、燃料切り替えやエンジン故障など、その調査には依然として6つの大きな謎が残されている。</p>
+                <p>エア・インディア墜落事故から1年が経過したが、燃料切り替えやエンジン故障など、未だ解明されていない大きな謎が6つ残っている。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Asia<br/>
                     <strong>対象国:</strong> IN<br/>
                     <strong>カテゴリ:</strong> 災害<br/>
-                    <strong>重要度スコア:</strong> 75
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[「エテルナウト」とアルゴリズム時代の市民抵抗]]></title>
-            <link>https://globalvoices.org/2026/06/15/the-eternaut-and-civil-resistance-in-the-algorithmic-age</link>
-            <guid isPermaLink="false">ce1c9877627d056279b7e11c67b55f5c</guid>
-            <pubDate>Mon, 15 Jun 2026 18:00:16 GMT</pubDate>
-            <description><![CDATA[AIの「ギャップ」を解読し、人権団体が新世代と再接続し、コミュニティを再構築する方法について議論する。]]></description>
-            <content:encoded><![CDATA[
-                <p>AIの「ギャップ」を解読し、人権団体が新世代と再接続し、コミュニティを再構築する方法について議論する。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Global Voices – Americas<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
                     <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[南アフリカのジャズピアニスト、アブドゥーラ・イブラヒム氏が91歳で死去]]></title>
-            <link>https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies</link>
-            <guid isPermaLink="false">7cb2f316494f464366498e3317a31d77</guid>
-            <pubDate>Mon, 15 Jun 2026 17:03:14 GMT</pubDate>
-            <description><![CDATA[南アフリカの著名なジャズピアニスト兼作曲家アブドゥーラ・イブラヒム氏が91歳でドイツにて永眠。70枚以上のアルバムを録音し、そのキャリアは高く評価された。]]></description>
+            <title><![CDATA[「エテルナウト」とアルゴリズム時代の市民的抵抗]]></title>
+            <link>https://globalvoices.org/2026/06/15/the-eternaut-and-civil-resistance-in-the-algorithmic-age</link>
+            <guid isPermaLink="false">ce1c9877627d056279b7e11c67b55f5c</guid>
+            <pubDate>Mon, 15 Jun 2026 18:00:16 GMT</pubDate>
+            <description><![CDATA[人権団体がAIの「ギャップ」を解読し、新世代と再接続してコミュニティを再構築する方法を探る。技術と社会の関係性を問う思索的な記事。]]></description>
             <content:encoded><![CDATA[
-                <p>南アフリカの著名なジャズピアニスト兼作曲家アブドゥーラ・イブラヒム氏が91歳でドイツにて永眠。70枚以上のアルバムを録音し、そのキャリアは高く評価された。</p>
+                <p>人権団体がAIの「ギャップ」を解読し、新世代と再接続してコミュニティを再構築する方法を探る。技術と社会の関係性を問う思索的な記事。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> The Guardian – World<br/>
-                    <strong>対象国:</strong> ZA<br/>
-                    <strong>カテゴリ:</strong> エンタメ<br/>
+                    <strong>配信元:</strong> Global Voices – Americas<br/>
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
                     <strong>重要度スコア:</strong> 60
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BBCが明らかに：ロシアが首相標的の放火攻撃の背後にいた]]></title>
+            <title><![CDATA[BBCが暴露：ロシアが首相を標的とした放火攻撃の背後に]]></title>
             <link>https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">48861d5191b1b3f8eabfe0c3de25d8b3</guid>
             <pubDate>Mon, 15 Jun 2026 13:10:58 GMT</pubDate>
-            <description><![CDATA[BBCの調査で、ロシアが首相を標的とした放火攻撃を画策し、偽の極右・イスラム過激派グループを使い緊張を煽っていたことが判明。]]></description>
+            <description><![CDATA[ロシアが、ある国の首相を狙った放火攻撃を画策し、偽の極右・イスラム過激派グループを使って緊張を高めていたことがBBCの調査で明らかになった。]]></description>
             <content:encoded><![CDATA[
-                <p>BBCの調査で、ロシアが首相を標的とした放火攻撃を画策し、偽の極右・イスラム過激派グループを使い緊張を煽っていたことが判明。</p>
+                <p>ロシアが、ある国の首相を狙った放火攻撃を画策し、偽の極右・イスラム過激派グループを使って緊張を高めていたことがBBCの調査で明らかになった。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Europe<br/>
-                    <strong>対象国:</strong> RU<br/>
-                    <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 85
+                    <strong>対象国:</strong> XX<br/>
+                    <strong>カテゴリ:</strong> 紛争<br/>
+                    <strong>重要度スコア:</strong> 75
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[韓国スターバックス、批判受け従業員向け歴史学習のため一時休業へ]]></title>
+            <title><![CDATA[韓国スターバックス、批判を受け従業員向け歴史学習のため一時休業へ]]></title>
             <link>https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">71cf448ee0ac35e4510b2f9b76452a79</guid>
             <pubDate>Mon, 15 Jun 2026 12:37:27 GMT</pubDate>
-            <description><![CDATA[韓国のスターバックスが、軍事虐殺記念日のマーケティング戦略で批判を浴び、従業員向け歴史学習のため店舗を一時休業すると発表した。]]></description>
+            <description><![CDATA[韓国スターバックスが軍事虐殺記念日のマーケティングで批判を浴び、従業員向け歴史学習のため店舗を一時閉鎖すると発表した。]]></description>
             <content:encoded><![CDATA[
-                <p>韓国のスターバックスが、軍事虐殺記念日のマーケティング戦略で批判を浴び、従業員向け歴史学習のため店舗を一時休業すると発表した。</p>
+                <p>韓国スターバックスが軍事虐殺記念日のマーケティングで批判を浴び、従業員向け歴史学習のため店舗を一時閉鎖すると発表した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Asia<br/>
                     <strong>対象国:</strong> KR<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 60
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ブラジルでロープジャンプのインストラクターがコードを付け忘れ、女性が死亡]]></title>
-            <link>https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">3844d3f92ca9e2c8caf775af6d9100f0</guid>
-            <pubDate>Mon, 15 Jun 2026 10:24:09 GMT</pubDate>
-            <description><![CDATA[ブラジルで女性がロープジャンプ中にインストラクターがコードを付け忘れたため死亡。3人の男性が逮捕された。]]></description>
-            <content:encoded><![CDATA[
-                <p>ブラジルで女性がロープジャンプ中にインストラクターがコードを付け忘れたため死亡。3人の男性が逮捕された。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
-                    <strong>対象国:</strong> BR<br/>
-                    <strong>カテゴリ:</strong> 災害<br/>
-                    <strong>重要度スコア:</strong> 55
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[パキスタン警察により人質に取られた少女が射殺され、オーストラリアが説明を要求]]></title>
-            <link>https://www.bbc.com/news/articles/cgqj9v7nw3vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">3782a6b5d748d2b737b744e6fa98f738</guid>
-            <pubDate>Mon, 15 Jun 2026 09:42:20 GMT</pubDate>
-            <description><![CDATA[パキスタンで人質に取られた9歳の少女が警察官に誤って射殺された事件を受け、オーストラリアが説明を要求。パキスタン警察は武装強盗追跡中に誤って撃ったと説明。]]></description>
-            <content:encoded><![CDATA[
-                <p>パキスタンで人質に取られた9歳の少女が警察官に誤って射殺された事件を受け、オーストラリアが説明を要求。パキスタン警察は武装強盗追跡中に誤って撃ったと説明。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Asia<br/>
-                    <strong>対象国:</strong> PK<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[米ミュージシャン、オリバー・ツリーがブラジルでのヘリコプター衝突事故で死亡]]></title>
-            <link>https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">b4114d2872ef63aa54f20dac9f53e62d</guid>
-            <pubDate>Mon, 15 Jun 2026 06:47:23 GMT</pubDate>
-            <description><![CDATA[米国のシンガーソングライター、オリバー・ツリー氏がブラジルのリオデジャネイロ上空でのヘリコプター衝突事故で死亡。他に5人も犠牲に。]]></description>
-            <content:encoded><![CDATA[
-                <p>米国のシンガーソングライター、オリバー・ツリー氏がブラジルのリオデジャネイロ上空でのヘリコプター衝突事故で死亡。他に5人も犠牲に。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
-                    <strong>対象国:</strong> BR<br/>
-                    <strong>カテゴリ:</strong> エンタメ<br/>
                     <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Man apologises for making racist gesture at Korean in World Cup match]]></title>
-            <link>https://www.bbc.com/news/articles/cddly65p76no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">c01164ac3eddaec092e979ad7ae7aead</guid>
-            <pubDate>Mon, 15 Jun 2026 03:31:58 GMT</pubDate>
-            <description><![CDATA[He was caught pulling the corners of his eyes at a South Korean influencer during the match in Mexico.]]></description>
+            <title><![CDATA[ブラジルでロープジャンピング指導員がコードを付け忘れ、女性が死亡]]></title>
+            <link>https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">3844d3f92ca9e2c8caf775af6d9100f0</guid>
+            <pubDate>Mon, 15 Jun 2026 10:24:09 GMT</pubDate>
+            <description><![CDATA[ブラジルで、ロープジャンピングの指導員がロープを取り付けずに女性を橋から飛び降りさせ、死亡させたとして3人が逮捕された。]]></description>
             <content:encoded><![CDATA[
-                <p>He was caught pulling the corners of his eyes at a South Korean influencer during the match in Mexico.</p>
+                <p>ブラジルで、ロープジャンピングの指導員がロープを取り付けずに女性を橋から飛び降りさせ、死亡させたとして3人が逮捕された。</p>
                 <hr/>
                 <p>
-                    <strong>配信元:</strong> BBC – Asia<br/>
-                    <strong>対象国:</strong> 不明<br/>
-                    <strong>カテゴリ:</strong> 未分類<br/>
-                    <strong>重要度スコア:</strong> N/A
+                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
+                    <strong>対象国:</strong> BR<br/>
+                    <strong>カテゴリ:</strong> 社会<br/>
+                    <strong>重要度スコア:</strong> 60
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2026年公共フォーラムの提案提出期限が6月17日まで延長]]></title>
+            <title><![CDATA[米国のミュージシャン、オリバー・ツリーがブラジルでのヘリコプター衝突事故で死亡]]></title>
+            <link>https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">b4114d2872ef63aa54f20dac9f53e62d</guid>
+            <pubDate>Mon, 15 Jun 2026 06:47:23 GMT</pubDate>
+            <description><![CDATA[米国のシンガーソングライター、オリバー・ツリーがブラジル、リオデジャネイロ上空でのヘリコプター衝突事故で死亡した。計6人が死亡したとみられている。]]></description>
+            <content:encoded><![CDATA[
+                <p>米国のシンガーソングライター、オリバー・ツリーがブラジル、リオデジャネイロ上空でのヘリコプター衝突事故で死亡した。計6人が死亡したとみられている。</p>
+                <hr/>
+                <p>
+                    <strong>配信元:</strong> BBC – Latin America & Caribbean<br/>
+                    <strong>対象国:</strong> BR<br/>
+                    <strong>カテゴリ:</strong> 災害<br/>
+                    <strong>重要度スコア:</strong> 70
+                </p>
+            ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2026年公開フォーラム提案提出期限が6月17日まで延長]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/pf26_15jun26_413_e.htm</link>
             <guid isPermaLink="false">411e0d6b19c7a73873414d619e0f841b</guid>
             <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[今年開催されるWTO公共フォーラム「未来を動かす」の提案提出期限が2026年6月17日まで延長された。フォーラムでのセッション開催に関心のある個人は、オンライン申請書を提出するよう呼びかけられている。]]></description>
+            <description><![CDATA[2026年公開フォーラム「未来を動かす」の提案提出期限が6月17日に延長された。セッション開催希望者はオンラインで申請できる。]]></description>
             <content:encoded><![CDATA[
-                <p>今年開催されるWTO公共フォーラム「未来を動かす」の提案提出期限が2026年6月17日まで延長された。フォーラムでのセッション開催に関心のある個人は、オンライン申請書を提出するよう呼びかけられている。</p>
+                <p>2026年公開フォーラム「未来を動かす」の提案提出期限が6月17日に延長された。セッション開催希望者はオンラインで申請できる。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
                     <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 20
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[英国と日本が180億ポンドの投資合意に署名]]></title>
-            <link>https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">ab17b071b78f8cc29b1bb128fd707a41</guid>
-            <pubDate>Sun, 14 Jun 2026 20:29:15 GMT</pubDate>
-            <description><![CDATA[英国と日本が総額180億ポンドの投資協定を締結。日本の企業が英国のインフラと洋上風力発電に巨額の投資を行う予定だ。]]></description>
-            <content:encoded><![CDATA[
-                <p>英国と日本が総額180億ポンドの投資協定を締結。日本の企業が英国のインフラと洋上風力発電に巨額の投資を行う予定だ。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> BBC – Asia<br/>
-                    <strong>対象国:</strong> GB<br/>
                     <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 85
+                    <strong>重要度スコア:</strong> 25
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ゴミと尊厳：ラテンアメリカにおける包括的リサイクルプロジェクトの台頭]]></title>
+            <title><![CDATA[ゴミと尊厳：ラテンアメリカにおける包摂的なリサイクルプロジェクトの台頭]]></title>
             <link>https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america</link>
             <guid isPermaLink="false">000e44ce75643fd44f2d08c486db6bde</guid>
             <pubDate>Fri, 12 Jun 2026 06:00:53 GMT</pubDate>
-            <description><![CDATA[ラテンアメリカでは、リサイクルが仕事、尊厳、循環型経済の革新を生み出す例として、様々な取り組みが紹介されている。]]></description>
+            <description><![CDATA[ラテンアメリカ全域で、包摂的なリサイクルプロジェクトが雇用創出、尊厳の向上、循環経済の革新をもたらしている。貧困層の生活改善に貢献。]]></description>
             <content:encoded><![CDATA[
-                <p>ラテンアメリカでは、リサイクルが仕事、尊厳、循環型経済の革新を生み出す例として、様々な取り組みが紹介されている。</p>
+                <p>ラテンアメリカ全域で、包摂的なリサイクルプロジェクトが雇用創出、尊厳の向上、循環経済の革新をもたらしている。貧困層の生活改善に貢献。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
                     <strong>対象国:</strong> XX<br/>
                     <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 75
+                    <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ブラジル、2026年ワールドカップで背番号24を使用へ。そのメッセージとは]]></title>
+            <title><![CDATA[ブラジルが2026年ワールドカップで背番号24を使用へ。そのメッセージとは]]></title>
             <link>https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message</link>
             <guid isPermaLink="false">fb1d143a57a7253d5416ff6478f35384</guid>
             <pubDate>Thu, 11 Jun 2026 12:00:48 GMT</pubDate>
-            <description><![CDATA[ブラジル代表がW杯で背番号24を使用。同性愛者と関連付けられたこの番号の採用は、社会運動とメッセージを伝えるものだ。]]></description>
+            <description><![CDATA[ブラジル代表が2026年W杯で背番号24を使用する。これは同性愛嫌悪に抗議する活動家たちの要求によるもので、社会的なメッセージを持つ。]]></description>
             <content:encoded><![CDATA[
-                <p>ブラジル代表がW杯で背番号24を使用。同性愛者と関連付けられたこの番号の採用は、社会運動とメッセージを伝えるものだ。</p>
+                <p>ブラジル代表が2026年W杯で背番号24を使用する。これは同性愛嫌悪に抗議する活動家たちの要求によるもので、社会的なメッセージを持つ。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
                     <strong>対象国:</strong> BR<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
@@ -1805,26 +1828,26 @@
             <link>https://globalvoices.org/2026/06/10/from-ciudad-juarez-to-latin-america-the-legacy-of-ni-una-menos</link>
             <guid isPermaLink="false">0a3ff89e1a0a51673f1ad0d4461c2169</guid>
             <pubDate>Wed, 10 Jun 2026 18:00:46 GMT</pubDate>
-            <description><![CDATA[シウダード・フアレス発のフェミニスト運動「Ni Una Menos」は世論を変えたが、女性の現実は未だ変化していないと論じる。]]></description>
+            <description><![CDATA[「Ni Una Menos」運動はラテンアメリカで女性に対する暴力の議論を変えたが、女性が直面する現実はまだ改善されていない。その遺産を探る。]]></description>
             <content:encoded><![CDATA[
-                <p>シウダード・フアレス発のフェミニスト運動「Ni Una Menos」は世論を変えたが、女性の現実は未だ変化していないと論じる。</p>
+                <p>「Ni Una Menos」運動はラテンアメリカで女性に対する暴力の議論を変えたが、女性が直面する現実はまだ改善されていない。その遺産を探る。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
                     <strong>対象国:</strong> MX<br/>
                     <strong>カテゴリ:</strong> 社会<br/>
-                    <strong>重要度スコア:</strong> 85
+                    <strong>重要度スコア:</strong> 80
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[アフリカのチームはいつワールドカップで優勝するのか？]]></title>
+            <title><![CDATA[アフリカ勢がワールドカップを制するのはいつか？]]></title>
             <link>https://www.bbc.com/sport/football/articles/c98rn3d135jo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">b1339610db7e7717980744ab399e92bd</guid>
             <pubDate>Wed, 10 Jun 2026 08:53:25 GMT</pubDate>
-            <description><![CDATA[モロッコが2022年カタール大会でアフリカ勢初のワールドカップ準決勝進出を果たしました。アフリカ大陸のチームがトロフィーを掲げる日はいつ来るのか、その可能性が議論されています。]]></description>
+            <description><![CDATA[モロッコがカタール2022でアフリカ勢初のW杯準決勝進出を果たしましたが、アフリカ大陸のチームがトロフィーを掲げる日はどれほど近いのでしょうか？]]></description>
             <content:encoded><![CDATA[
-                <p>モロッコが2022年カタール大会でアフリカ勢初のワールドカップ準決勝進出を果たしました。アフリカ大陸のチームがトロフィーを掲げる日はいつ来るのか、その可能性が議論されています。</p>
+                <p>モロッコがカタール2022でアフリカ勢初のW杯準決勝進出を果たしましたが、アフリカ大陸のチームがトロフィーを掲げる日はどれほど近いのでしょうか？</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> BBC – Africa<br/>
@@ -1835,13 +1858,13 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ノードクイスト事務次長：課題が増大する中でもWTOは世界貿易の基盤であり続ける]]></title>
+            <title><![CDATA[ノルクィスト事務局次長：課題が増す中でもWTOはグローバル貿易の基盤であり続ける]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/ddgjn_10jun26_415_e.htm</link>
             <guid isPermaLink="false">e9c2141b64a8e5f6db0762acfa8d91d8</guid>
             <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[ノードクイストWTO事務次長はロンドンでのイベントで、新技術や地政学的変動にもかかわらずWTOが世界貿易の基盤であり続けると強調。貿易システムの予測可能性と透明性を維持しつつ、WTO改革を進めることの重要性を訴えた。]]></description>
+            <description><![CDATA[ノルクィストWTO事務局次長はロンドンでのイベントで、WTOが新技術や地政学的不確実性に対応しつつ、グローバル貿易の基盤であり続けると強調。改革の重要性も述べた。]]></description>
             <content:encoded><![CDATA[
-                <p>ノードクイストWTO事務次長はロンドンでのイベントで、新技術や地政学的変動にもかかわらずWTOが世界貿易の基盤であり続けると強調。貿易システムの予測可能性と透明性を維持しつつ、WTO改革を進めることの重要性を訴えた。</p>
+                <p>ノルクィストWTO事務局次長はロンドンでのイベントで、WTOが新技術や地政学的不確実性に対応しつつ、グローバル貿易の基盤であり続けると強調。改革の重要性も述べた。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
@@ -1852,13 +1875,13 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[貿易円滑化協定の2026年見直しの下での提案を討議]]></title>
+            <title><![CDATA[加盟国、貿易円滑化協定2026年審査の提案を議論]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/fac_10jun26_416_e.htm</link>
             <guid isPermaLink="false">7ace4793e03dd65ccafc60187b96c663</guid>
             <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[WTO貿易円滑化委員会で、貿易円滑化協定（TFA）の第2回見直しに関する25件の提案について議論が継続された。小規模経済圏や内陸開発途上国の貿易円滑化問題に関する専門セッション開催も合意された。]]></description>
+            <description><![CDATA[WTO貿易円滑化委員会で、加盟国は貿易円滑化協定（TFA）の第2回審査で提出された25の提案を議論。小規模経済圏や内陸開発途上国の課題についても話し合った。]]></description>
             <content:encoded><![CDATA[
-                <p>WTO貿易円滑化委員会で、貿易円滑化協定（TFA）の第2回見直しに関する25件の提案について議論が継続された。小規模経済圏や内陸開発途上国の貿易円滑化問題に関する専門セッション開催も合意された。</p>
+                <p>WTO貿易円滑化委員会で、加盟国は貿易円滑化協定（TFA）の第2回審査で提出された25の提案を議論。小規模経済圏や内陸開発途上国の課題についても話し合った。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
@@ -1873,43 +1896,43 @@
             <link>https://www.wto.org/english/tratop_e/tpr_e/tpr_ury_10jun26_e.htm</link>
             <guid isPermaLink="false">09a594140b9e65b5735afb2113642199</guid>
             <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[ウルグアイの貿易政策と慣行に関する第6回審査が2026年6月10日と12日に行われる。WTO事務局とウルグアイ政府の報告書に基づき審査が実施される。]]></description>
+            <description><![CDATA[WTOは2026年6月10日と12日にウルグアイの貿易政策と慣行に関する第6回審査を実施。WTO事務局とウルグアイ政府の報告書に基づき行われる。]]></description>
             <content:encoded><![CDATA[
-                <p>ウルグアイの貿易政策と慣行に関する第6回審査が2026年6月10日と12日に行われる。WTO事務局とウルグアイ政府の報告書に基づき審査が実施される。</p>
+                <p>WTOは2026年6月10日と12日にウルグアイの貿易政策と慣行に関する第6回審査を実施。WTO事務局とウルグアイ政府の報告書に基づき行われる。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
                     <strong>対象国:</strong> UY<br/>
                     <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 60
+                    <strong>重要度スコア:</strong> 55
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ドミニカ共和国で環境活動を推進する3人の若者たち]]></title>
+            <title><![CDATA[ドミニカ共和国でエコロジー活動を推進する3人の若者たち]]></title>
             <link>https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic</link>
             <guid isPermaLink="false">fcae18309c49607608ca188cc2ebae12</guid>
             <pubDate>Tue, 09 Jun 2026 18:00:12 GMT</pubDate>
-            <description><![CDATA[ドミニカ共和国では、観光業の繁栄の裏で環境問題が悪化。この喫緊の課題に取り組む3人の若き環境活動家を紹介する。]]></description>
+            <description><![CDATA[ドミニカ共和国では観光業の陰で環境圧力が深刻化。3人の若き環境活動家が、沿岸、河川、サンゴ礁を守るため活動している。]]></description>
             <content:encoded><![CDATA[
-                <p>ドミニカ共和国では、観光業の繁栄の裏で環境問題が悪化。この喫緊の課題に取り組む3人の若き環境活動家を紹介する。</p>
+                <p>ドミニカ共和国では観光業の陰で環境圧力が深刻化。3人の若き環境活動家が、沿岸、河川、サンゴ礁を守るため活動している。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
                     <strong>対象国:</strong> DO<br/>
                     <strong>カテゴリ:</strong> 環境<br/>
-                    <strong>重要度スコア:</strong> 75
+                    <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2027年半ばまでの電子商取引協定発効に向けた準備を協議]]></title>
+            <title><![CDATA[加盟国、2027年半ばまでの電子商取引協定発効準備を議論]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/jsec_09jun26_414_e.htm</link>
             <guid isPermaLink="false">759752a8862681dc7e98ffd2c7faeafb</guid>
             <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[電子商取引協定（ECA）の共同提案国が、世界初のデジタル貿易規則発効に向けた準備を協議した。これはMC14で採択された暫定措置の一部であり、2027年半ばまでの発効を目指している。]]></description>
+            <description><![CDATA[電子商取引協定（ECA）の共同提案国は、2027年半ばまでの世界初のグローバルデジタル貿易規則の批准準備を議論。60以上の加盟国が暫定措置を採択済み。]]></description>
             <content:encoded><![CDATA[
-                <p>電子商取引協定（ECA）の共同提案国が、世界初のデジタル貿易規則発効に向けた準備を協議した。これはMC14で採択された暫定措置の一部であり、2027年半ばまでの発効を目指している。</p>
+                <p>電子商取引協定（ECA）の共同提案国は、2027年半ばまでの世界初のグローバルデジタル貿易規則の批准準備を議論。60以上の加盟国が暫定措置を採択済み。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
@@ -1920,30 +1943,30 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[漁業補助金協定の下、トンガ初の通知を漁業基金が支援]]></title>
+            <title><![CDATA[漁業基金がトンガの漁業補助金協定に基づく初の通報を支援]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/ffm_09jun26_410_e.htm</link>
             <guid isPermaLink="false">aa09f2f89904dc62a701c4a48f917459</guid>
             <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[WTO漁業基金の支援により、トンガが漁業補助金協定に基づく初の通知をWTOに提出。有害な漁業補助金の影響を受けやすい太平洋地域の開発途上国にとって重要な進展であり、協定の実施に貢献する。]]></description>
+            <description><![CDATA[WTO漁業基金の支援でトンガが初の漁業補助金協定通報を提出。有害な補助金に晒される太平洋地域の開発途上国にとって重要な進展。]]></description>
             <content:encoded><![CDATA[
-                <p>WTO漁業基金の支援により、トンガが漁業補助金協定に基づく初の通知をWTOに提出。有害な漁業補助金の影響を受けやすい太平洋地域の開発途上国にとって重要な進展であり、協定の実施に貢献する。</p>
+                <p>WTO漁業基金の支援でトンガが初の漁業補助金協定通報を提出。有害な補助金に晒される太平洋地域の開発途上国にとって重要な進展。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
                     <strong>対象国:</strong> TO<br/>
-                    <strong>カテゴリ:</strong> 環境<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[南アフリカ、A3およびA4事務用紙に関するセーフガード調査開始を通知]]></title>
+            <title><![CDATA[南アフリカ、A3・A4事務用紙に関するセーフガード調査開始を通報]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/safe_sacu_08jun26_411_e.htm</link>
             <guid isPermaLink="false">7f01581bc10086cb97f0d3a1368bc9ff</guid>
             <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[南アフリカが2026年6月8日、輸入A3およびA4事務用紙に関するセーフガード調査の開始をWTOセーフガード委員会に通知した。この調査は南アフリカ関税同盟（SACU）への輸入を対象とする。]]></description>
+            <description><![CDATA[南アフリカは、南部アフリカ関税同盟（SACU）へのA3・A4事務用紙輸入に関するセーフガード調査を2026年6月5日に開始したことをWTOに通報した。]]></description>
             <content:encoded><![CDATA[
-                <p>南アフリカが2026年6月8日、輸入A3およびA4事務用紙に関するセーフガード調査の開始をWTOセーフガード委員会に通知した。この調査は南アフリカ関税同盟（SACU）への輸入を対象とする。</p>
+                <p>南アフリカは、南部アフリカ関税同盟（SACU）へのA3・A4事務用紙輸入に関するセーフガード調査を2026年6月5日に開始したことをWTOに通報した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
@@ -1954,19 +1977,19 @@
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WTO加盟国、船積み前検査の課題と税関評価通知を審査]]></title>
+            <title><![CDATA[WTO加盟国、船積み前検査の課題と税関評価通報を審査]]></title>
             <link>https://www.wto.org/english/news_e/news26_e/val_08jun26_412_e.htm</link>
             <guid isPermaLink="false">44069b0fcd02baf7f01cc75412aa61dc</guid>
             <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[WTO加盟国は税関評価委員会で、船積み前検査（PSI）に関する課題や、加盟国から提出された34件の税関評価通知を審査した。今後のPSI関連委員会作業や貿易懸念についても議論された。]]></description>
+            <description><![CDATA[WTO税関評価委員会で、加盟国は船積み前検査（PSI）の課題と34件の税関評価通報を審査。PSIの将来の委員会作業と対応策について議論した。]]></description>
             <content:encoded><![CDATA[
-                <p>WTO加盟国は税関評価委員会で、船積み前検査（PSI）に関する課題や、加盟国から提出された34件の税関評価通知を審査した。今後のPSI関連委員会作業や貿易懸念についても議論された。</p>
+                <p>WTO税関評価委員会で、加盟国は船積み前検査（PSI）の課題と34件の税関評価通報を審査。PSIの将来の委員会作業と対応策について議論した。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> WTO – Latest News<br/>
                     <strong>対象国:</strong> XX<br/>
                     <strong>カテゴリ:</strong> 経済<br/>
-                    <strong>重要度スコア:</strong> 50
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
@@ -1975,15 +1998,15 @@
             <link>https://globalvoices.org/2026/06/07/climate-success-stories-a-pleasant-surprise</link>
             <guid isPermaLink="false">a6d888aa420d420074169bbf92add775</guid>
             <pubDate>Sun, 07 Jun 2026 08:00:25 GMT</pubDate>
-            <description><![CDATA[グローバルサウスの経験と知識が気候危機克服に不可欠だと主張。互いの物語を聞くことで、より良い解決策を見出す重要性を説く。]]></description>
+            <description><![CDATA[気候変動の危機に対し、グローバルサウスの経験や伝統的な知識に基づいたアプローチが、生存の可能性を高める希望となることを示す。]]></description>
             <content:encoded><![CDATA[
-                <p>グローバルサウスの経験と知識が気候危機克服に不可欠だと主張。互いの物語を聞くことで、より良い解決策を見出す重要性を説く。</p>
+                <p>気候変動の危機に対し、グローバルサウスの経験や伝統的な知識に基づいたアプローチが、生存の可能性を高める希望となることを示す。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
                     <strong>対象国:</strong> XX<br/>
                     <strong>カテゴリ:</strong> 環境<br/>
-                    <strong>重要度スコア:</strong> 80
+                    <strong>重要度スコア:</strong> 75
                 </p>
             ]]></content:encoded>
         </item>
@@ -1992,66 +2015,49 @@
             <link>https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga</link>
             <guid isPermaLink="false">63e5b5a15cbe6b80021c5ce1ddfd9623</guid>
             <pubDate>Sun, 31 May 2026 09:00:42 GMT</pubDate>
-            <description><![CDATA[ブラジルのミナスジェライス州で、先祖代々の記憶と植物の多様な品種と共に暮らすカチンゲイロが、種の保存に取り組む姿を描く。]]></description>
+            <description><![CDATA[ブラジルのミナスジェライス州カアチンガ地域で、一人の男性が先祖代々の記憶と共に、多様な植物の種子を守り続ける姿が紹介される。]]></description>
             <content:encoded><![CDATA[
-                <p>ブラジルのミナスジェライス州で、先祖代々の記憶と植物の多様な品種と共に暮らすカチンゲイロが、種の保存に取り組む姿を描く。</p>
+                <p>ブラジルのミナスジェライス州カアチンガ地域で、一人の男性が先祖代々の記憶と共に、多様な植物の種子を守り続ける姿が紹介される。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
                     <strong>対象国:</strong> BR<br/>
                     <strong>カテゴリ:</strong> 環境<br/>
-                    <strong>重要度スコア:</strong> 70
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[エクアドルで人工知能について語る者は誰か？]]></title>
+            <title><![CDATA[エクアドルで人工知能について語っているのは誰か？]]></title>
             <link>https://globalvoices.org/2026/05/30/who-is-talking-about-artificial-intelligence-in-ecuador</link>
             <guid isPermaLink="false">ac68623dd8f0481572639d1acc0befd0</guid>
             <pubDate>Sat, 30 May 2026 04:00:00 GMT</pubDate>
-            <description><![CDATA[エクアドルがAI規制を巡り議論。イノベーション、監視、教育、包摂、公共ガバナンスの間で生じる緊張が論争の中心となっている。]]></description>
+            <description><![CDATA[エクアドルではAIの規制、制度的ギャップ、イノベーションと監視、教育、公共ガバナンスの間の緊張について国家的な議論が活発化している。]]></description>
             <content:encoded><![CDATA[
-                <p>エクアドルがAI規制を巡り議論。イノベーション、監視、教育、包摂、公共ガバナンスの間で生じる緊張が論争の中心となっている。</p>
+                <p>エクアドルではAIの規制、制度的ギャップ、イノベーションと監視、教育、公共ガバナンスの間の緊張について国家的な議論が活発化している。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
                     <strong>対象国:</strong> EC<br/>
                     <strong>カテゴリ:</strong> 政治<br/>
-                    <strong>重要度スコア:</strong> 80
-                </p>
-            ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ブラジルのバラ・ド・トゥルヴォで、女性たちが生物多様性を推進し、公正な価格で健康的な食料を収穫する]]></title>
-            <link>https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices</link>
-            <guid isPermaLink="false">c0dff9f7047eb9cc774f240ae2e844ae</guid>
-            <pubDate>Fri, 29 May 2026 16:00:49 GMT</pubDate>
-            <description><![CDATA[ブラジルのバラ・ド・トゥルヴォで、女性農業協同組合が女性の収入向上、自給自足、作物多様化を通じて、生物多様性促進と公正な食料提供に取り組む。]]></description>
-            <content:encoded><![CDATA[
-                <p>ブラジルのバラ・ド・トゥルヴォで、女性農業協同組合が女性の収入向上、自給自足、作物多様化を通じて、生物多様性促進と公正な食料提供に取り組む。</p>
-                <hr/>
-                <p>
-                    <strong>配信元:</strong> Global Voices – Americas<br/>
-                    <strong>対象国:</strong> BR<br/>
-                    <strong>カテゴリ:</strong> 社会<br/>
                     <strong>重要度スコア:</strong> 70
                 </p>
             ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[世界的な保全活動により、数多くの絶滅危惧種が復活している]]></title>
-            <link>https://globalvoices.org/2026/05/28/countless-endangered-species-are-making-a-comeback-due-to-global-conservation-efforts</link>
-            <guid isPermaLink="false">1c692c4318bd068a6e2de3554cd1266c</guid>
-            <pubDate>Thu, 28 May 2026 09:29:41 GMT</pubDate>
-            <description><![CDATA[世界的な保全活動により、多くの絶滅危惧種が復活を遂げている。これらの成功事例は、地域に根ざした保全と個体群回復のモデルとなる。]]></description>
+            <title><![CDATA[ブラジル、バラ・ド・トゥルヴォで女性たちが生物多様性を促進し、公正な価格で健康的な食料を収穫]]></title>
+            <link>https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices</link>
+            <guid isPermaLink="false">c0dff9f7047eb9cc774f240ae2e844ae</guid>
+            <pubDate>Fri, 29 May 2026 16:00:49 GMT</pubDate>
+            <description><![CDATA[ブラジル、バラ・ド・トゥルヴォの農業団体が女性の自立を支援。収入機会を提供し、生物多様性を促進しつつ、公正な価格で健康な食料を供給する。]]></description>
             <content:encoded><![CDATA[
-                <p>世界的な保全活動により、多くの絶滅危惧種が復活を遂げている。これらの成功事例は、地域に根ざした保全と個体群回復のモデルとなる。</p>
+                <p>ブラジル、バラ・ド・トゥルヴォの農業団体が女性の自立を支援。収入機会を提供し、生物多様性を促進しつつ、公正な価格で健康な食料を供給する。</p>
                 <hr/>
                 <p>
                     <strong>配信元:</strong> Global Voices – Americas<br/>
-                    <strong>対象国:</strong> XX<br/>
-                    <strong>カテゴリ:</strong> 環境<br/>
-                    <strong>重要度スコア:</strong> 85
+                    <strong>対象国:</strong> BR<br/>
+                    <strong>カテゴリ:</strong> 経済<br/>
+                    <strong>重要度スコア:</strong> 65
                 </p>
             ]]></content:encoded>
         </item>
