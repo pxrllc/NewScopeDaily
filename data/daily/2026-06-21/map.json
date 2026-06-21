@@ -1,0 +1,882 @@
+{
+  "IR": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a206903e77b32e1ead4e69dfbb97d5ab",
+      "title": "US and Iranian presidents sign deal aiming to end war",
+      "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T03:03:29.000Z",
+      "description": "The fate of Iran's nuclear programme, a key reason cited by the US for starting the conflict, is still to be negotiated.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 98,
+      "titleJa": "米国とイランの大統領が戦争終結を目指す合意に署名",
+      "summary": "米国とイランの大統領が戦争終結に向けた合意に署名した。しかし、米国が紛争開始の主要因としたイランの核開発計画の行方は、まだ交渉の余地がある。"
+    }
+  },
+  "UA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f362e4e73c900941a5b4f396c476a7d3",
+      "title": "Ukraine hits Russia-controlled Crimea in deadly drone attack",
+      "url": "https://www.dw.com/en/ukraine-hits-russia-controlled-crimea-in-deadly-drone-attack/a-77642973?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-21T08:50:00.000Z",
+      "description": "Footage of fires at a major depot on Crimea circulated on social media. The Moscow-aligned governor of Crimea has halted public fuel sales after the attack.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ウクライナ、ロシア支配下のクリミアをドローンで攻撃し死者",
+      "summary": "ウクライナがロシア支配下のクリミアにある主要な貯蔵庫をドローンで攻撃し、火災が発生しました。この攻撃により死者が出ています。"
+    }
+  },
+  "CO": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "decc6203b322bc532e0a38a646c71624",
+      "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
+      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "published_at": "2026-06-21T05:00:22.000Z",
+      "description": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups\n\nGhost of far-right paramilitaries hovers over Colombia’s presidential runoff vote\n\nColombians go to the polls on Sunday in a presidential runoff expected to trigger to a dramatic shift in the country’s decades-long armed conflict, now at its most violent point since the landmark 2016 peace agreement between the government and most of the Revolutionary Armed Forces of Colombia (Farc).\nPolls show the frontrunner is the Trump-admiring far-right lawyer and millionaire businessman Abelardo de la Espriella, who has vowed to abandon President Gustavo Petro’s “total peace” plan of negotiating the disarmament of all criminal organisations and instead return to full-scale military confrontation with armed groups.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "コロンビアの決選投票、数十年にわたる武力紛争に転換点をもたらすか",
+      "summary": "コロンビアの決選投票が日曜日に実施され、数十年にわたる武力紛争に劇的な変化をもたらすと予想されている。有力候補は武力集団との全面対決を公約。"
+    }
+  },
+  "FR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e8b09a5ff57fe66837cf93ced86a6f4",
+      "title": "France bans alcohol at music festival events under red heatwave alert",
+      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T00:29:51.000Z",
+      "description": "Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "フランス、猛暑警報発令中の音楽祭でアルコール販売を禁止",
+      "summary": "フランスでは猛暑の赤色警報下で、数百万人が参加する恒例の音楽祭でのアルコール販売が禁止された。これは40℃の熱波の中で医療サービスを維持するための措置である。"
+    }
+  },
+  "US": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dce07c63efd69a808f10f6aa6fd73ce8",
+      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T20:27:31.000Z",
+      "description": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ヘグセス氏、NATO批判を再燃させ米国は欧州での駐留を見直すと表明",
+      "summary": "米国防長官のヘグセス氏はNATOへの批判を再燃させ、同盟内の即応部隊への米国のコミットメント縮小を受け、欧州での駐留を見直す方針を示した。"
+    }
+  },
+  "IN": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0b298cb1b5a3fb4e5eb48f1b7be1a811",
+      "title": "India's cash transfer boom gives relief to the poor but strains budgets",
+      "url": "https://www.bbc.com/news/articles/c0jy8zyn663o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-19T00:01:33.000Z",
+      "description": "Cash transfers are a major welfare tool but they come at a huge cost, raising concerns about their long-term efficacy.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "インドの現金給付制度ブーム、貧困層を救うも財政を圧迫",
+      "summary": "インドの現金給付は主要な福祉ツールだが、高額な費用がかかり、その長期的な有効性について懸念が高まっている。"
+    }
+  },
+  "PS": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8437c378936a7c03a50983feb3beae75",
+      "title": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
+      "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
+      "published_at": "2026-06-21T10:30:18.000Z",
+      "description": "Ahmed Wishah is the 12th Al Jazeera journalist killed by Israel in Gaza since October 2023.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "「親切で信念のある」：ガザでイスラエルに殺害されたジャーナリストを同僚が追悼",
+      "summary": "ガザでイスラエル軍に殺害されたアルジャジーラのジャーナリスト、アフメド・ウィシャ氏を同僚が追悼。2023年10月以降、ガザでイスラエルに殺された同社ジャーナリストは12人目となる。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "854d630033e916ffb5aa305bb20ed31d",
+      "title": "Dutch royals enjoy two big results in one World Cup day",
+      "url": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T09:45:57.000Z",
+      "description": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NL",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 20,
+      "titleJa": "オランダ王室、ワールドカップで2つの大勝利を享受",
+      "summary": "オランダ王室がワールドカップで、オランダと元植民地キュラソーの両方が良い結果を出すのを目の当たりにした。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d41ff2f8a3ebc3c284551374f5d28f39",
+      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-20T15:31:12.000Z",
+      "description": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "メローニ首相、トランプ氏に「自分の人気に集中すべき」と発言、対立が激化",
+      "summary": "イタリアのメローニ首相がトランプ氏に対し「自分の人気に集中すべき」と述べ、両者の間の対立が激化している。トランプ氏は以前、G7サミットでメローニ氏が写真撮影を「懇願した」と発言し、彼女の人気を疑問視していた。"
+    }
+  },
+  "GB": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b6e725b43bb7ca81e2ac7e7303673129",
+      "title": "Men jailed for spying for Chinese intelligence in UK",
+      "url": "https://www.bbc.com/news/articles/cgjx87gvlnxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T15:45:50.000Z",
+      "description": "One, a Border Force official, used his access to Home Office data, to get information about Chinese dissidents.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "英国で中国諜報機関のためにスパイ活動を行った男たちが投獄",
+      "summary": "英国で国境警備隊職員が中国の諜報機関のために働き、本国のデータにアクセスして中国反体制派に関する情報を入手した罪で投獄された。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "437e66476b33d2e7e487d441a7a42b18",
+      "title": "Germany could scrap law banning insults against politicians",
+      "url": "https://www.dw.com/en/germany-could-scrap-law-banning-insults-against-politicians/a-77630055?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-21T09:40:00.000Z",
+      "description": "Germany's special law prohibiting the insulting of politicians has led to cases that many people consider absurd. Some members of the government want to abolish the law; others think there's a good reason to retain it.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ドイツ、政治家侮辱禁止法の廃止を検討",
+      "summary": "ドイツでは、政治家への侮辱を禁じる法律が議論を呼んでいます。政府内で廃止と維持の意見が対立し、多くの人が不合理と感じています。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "253f22927ead442d7961a2b126f78f89",
+      "title": "Sudan: UN warns of mass atrocities in El-Obeid",
+      "url": "https://www.dw.com/en/sudan-un-warns-of-mass-atrocities-in-el-obeid/a-77642972?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-21T07:54:00.000Z",
+      "description": "The United Nations Security Council has called on the paramilitary RSF in Sudan to not launch an attack on the city of El-Obeid.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダン：国連、エルオベイドでの大量残虐行為を警告",
+      "summary": "国連安保理は、スーダンの準軍事組織RSFに対し、エルオベイド市への攻撃を開始しないよう呼びかけました。大量の残虐行為の可能性が警告されています。"
+    }
+  },
+  "RU": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2aba2e3f92f2867cca39d7b63f33911f",
+      "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
+      "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
+      "published_at": "2026-06-21T10:30:46.000Z",
+      "description": "Crimea's Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ウクライナの攻撃がクリミア、ロシアのクラスノダールにある石油施設を直撃",
+      "summary": "ウクライナがロシアの占領下にあるクリミアとクラスノダールの石油施設を攻撃し、ドローン攻撃で4人が死亡した。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2109a0f2a231448524a8d010085d1966",
+      "title": "Spain: PM's wife must face corruption trial, judge rules",
+      "url": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-20T17:03:00.000Z",
+      "description": "A court in Madrid ruled that there is sufficient evidence against Begona Gomez, the wife of Prime Minister Pedro Sanchez. The 55-year-old university director is banned from leaving the country.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "スペイン：首相夫人が汚職裁判に直面、裁判官が判断",
+      "summary": "マドリードの裁判所は、ペドロ・サンチェス首相の妻ベゴーニャ・ゴメス氏に汚職裁判への十分な証拠があると判断。彼女は出国禁止です。"
+    }
+  },
+  "ZA": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "394fb7cc2892ace77ba01632d8494619",
+      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T09:56:40.000Z",
+      "description": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "「マチェーテを持ってやってきた」 - 南アフリカから移民退去の期限迫る",
+      "summary": "抗議者たちが不法移民に対し6月30日までに南アフリカを出国するよう期限を設け、緊迫した状況が続いている。暴力的な衝突も報告されている。"
+    }
+  },
+  "GH": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fb461a4fc7b194b73eeae391e84b6bc5",
+      "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "published_at": "2026-06-19T17:26:45.000Z",
+      "description": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap\nMore than money: the logic of slavery reparations\nA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leaders demanded formal apologies from countries that benefited from the transatlantic slave trade.\nHeads of state and government and other officials formally approved the strategy on Friday at a gathering in a hotel in the capital, Accra, which was the first major meeting since the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ガーナでの画期的な会議で、償還的正義のための世界的枠組みが採択",
+      "summary": "ガーナで開催された会議で、アフリカ・カリブ諸国の指導者らが大西洋奴隷貿易からの償還的正義を求める世界的な枠組みを採択。国連決議を受けた重要な進展。"
+    }
+  },
+  "CD": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f35ca5f75760a23cb0ca4bacd630a30e",
+      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+      "published_at": "2026-06-18T18:55:09.000Z",
+      "description": "Number of people infected now tops 1,000 though health officials say the global risk remains low\n\nSign up for the Breaking News US newsletter email \n\nThe Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding for Ebola outbreak response in the Democratic Republic of the Congo (DRC) and Uganda, officials said on Thursday.\nThe continued Ebola outbreak in the DRC comes as Canada, Mexico and the US jointly host the Fifa World Cup, attracting visitors from around the world. The officials said the outbreak, now the third largest on record, required “strong immediate support”, but that the global risk remained low.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CD",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "CDC、DRCとウガンダのエボラ対応に緊急資金1億700万ドルを投入へ",
+      "summary": "CDCはコンゴ民主共和国とウガンダでのエボラ出血熱流行に対応するため、1億700万ドルの緊急資金を投入する。感染者数は1,000人を超えたが、世界的なリスクは低いとされる。"
+    }
+  },
+  "BB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1c6f70cbbb3b312cbffddd9da862a8c4",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "published_at": "2026-06-18T17:52:08.000Z",
+      "description": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries\nBarbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and legal case” for reparations over damage caused by hundreds of years of enslavement.\nMottley was speaking at a “historic” conference in Ghana to advance the push for reparatory justice after the United Nations adopted a landmark resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "バルバドス首相が奴隷制賠償の公約を発表",
+      "summary": "バルバドスのミア・モットリー首相は、奴隷制による損害に対する賠償を求める新たな公約を発表。この文書は他のカリブ諸国でも検討されている。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "14281b741a8ec34096b284c72a0d68ec",
+      "title": "Canada’s policies force asylum seekers into US to face deportation, critics say",
+      "url": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation",
+      "published_at": "2026-06-21T07:00:24.000Z",
+      "description": "Advocates say the Safe Third Country Agreement forces immigrants to head to an unsafe country: the United States\nIt was the threat of gang violence in Honduras that pushed Carlos and Antonia to flee their home. In 2021, with their toddler, Alejandro, and a handful of belongings, the married couple ventured north hoping to reach safety in the US.\nThe journey, through Guatemala and Mexico, was filled with danger and uncertainty\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "カナダの政策が亡命希望者を米国へ追いやると批判、強制送還に直面",
+      "summary": "評論家たちは、カナダの政策が亡命希望者を米国に押しやり、強制送還の危機に瀕させていると指摘。安全な第三国協定が問題視されている。"
+    }
+  },
+  "BO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e05c6b629f5ce209ab6d6294b1438a3e",
+      "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
+      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+      "published_at": "2026-06-21T04:23:30.000Z",
+      "description": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president \nBolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldozers to raze anti-government roadblocks that have paralysed the country.\nFor more than six weeks, unions, Indigenous groups and coca farmers have marched through cities and blocked roads across the country with rubble, logs and debris in protest against the conservative government.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ボリビア大統領が非常事態宣言、反政府デモ鎮圧のため軍を派遣",
+      "summary": "ボリビア大統領は非常事態を宣言し、国を麻痺させた反政府デモのバリケードを排除するため、兵士とブルドーザーを派遣した。"
+    }
+  },
+  "AR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0bc5fba95b22eb94b487790c99a6283f",
+      "title": "Emotional Messi explains tears after Argentina goal",
+      "url": "https://www.bbc.com/sport/football/articles/c74yz03glrro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T08:34:36.000Z",
+      "description": "Lionel Messi was brought to tears after scoring the opening goal in Argentina's 3-0 win against Algeria because of a matter \"completely unrelated to football\".",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "アルゼンチン戦のゴール後、メッシが涙の理由を説明",
+      "summary": "メッシがアルゼンチンのゴール後、サッカーとは全く関係のない個人的な理由で涙を流したと説明した。"
+    }
+  },
+  "IL": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9848c02a2bda901e0df5387b33e87ccf",
+      "title": "Stop ‘Greater Israel’ to make peace",
+      "url": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss",
+      "published_at": "2026-06-21T10:11:32.000Z",
+      "description": "Expansionist Israel will not stop dragging the US to war in the Middle East.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "平和のため「大イスラエル」を止めよ",
+      "summary": "拡張主義的なイスラエルは、米国を中東での戦争に巻き込み続けるだろうという視点から、平和構築に向けた提言がなされている。"
+    }
+  },
+  "LB": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ae591aa00ce8b93053e5c756fea7859f",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-19T19:27:12.000Z",
+      "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "米国発表、イスラエルとヒズボラが停戦合意、レバノンでさらなる攻撃報告も",
+      "summary": "米国によるとイスラエルとヒズボラが停戦に合意したが、レバノンでは追加攻撃も報告されている。これは米イラン戦争終結合意の危機を懸念してのもの。"
+    }
+  },
+  "AL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4faae6e23d96a7dde4406f63fc4c403a",
+      "title": "Protests in Albania against Kushner resort swell to tens of thousands",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/protests-in-albania-against-kushner-resort-swell-to-tens-of-thousands?traffic_source=rss",
+      "published_at": "2026-06-21T09:19:36.000Z",
+      "description": "Albanians have gathered for the 21st day in a row to protest plans to build a resort on Albania's coast.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "AL",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "アルバニアでクシュナー氏リゾート反対デモが数万人に拡大",
+      "summary": "アルバニアの海岸でのリゾート建設計画に反対するデモが21日間続き、参加者が数万人に膨れ上がっている。環境問題への懸念が高まっている。"
+    }
+  },
+  "CI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "48b4cd9252c46fec4ba5a62c8d695a73",
+      "title": "'Everything I do is for you' - how tragedy is driving Diomande",
+      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-20T08:56:58.000Z",
+      "description": "BBC Sport explores how exciting young Ivory Coast Yan Diomande is determined to succeed at the World Cup in honour of his sister.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CI",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "「全てはあなたのために」 - 悲劇がディオマンデ選手を駆り立てる",
+      "summary": "BBCスポーツは、コートジボワールの若き逸材ヤン・ディオマンデ選手が、亡き妹に捧げるためワールドカップでの成功にどれほど懸けているかを探る。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "73b53074bf1ce40c928a54101b938e0b",
+      "title": "Morocco fans in Rabat celebrate win over Scotland",
+      "url": "https://www.bbc.com/sport/football/videos/cy49yry411go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-20T17:13:20.000Z",
+      "description": "Morocco fans in Rabat celebrate their 1-0 win over Scotland in the World Cup.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 30,
+      "titleJa": "ラバトのモロッコファン、スコットランド戦勝利を祝う",
+      "summary": "ワールドカップでモロッコがスコットランドに1-0で勝利したことを受け、首都ラバトのモロッコファンが熱狂的な祝賀ムードに包まれた。"
+    }
+  },
+  "SL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cebe4f8ab5ba14a70823f989a310dd94",
+      "title": "'My brother hid in a rice sack' - The refugee stars at the World Cup",
+      "url": "https://www.bbc.com/news/articles/c1eygyg2zeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T13:41:06.000Z",
+      "description": "Germany and Real Madrid defender Antonio Rudiger, whose family fled Sierra Leone's civil war, is among those campaigning for a change in global attitudes around refugees.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "「兄は米袋に隠れた」 - ワールドカップの難民スター選手たち",
+      "summary": "シエラレオネ内戦から家族と共に逃れたドイツ代表アントニオ・リュディガー選手など、ワールドカップに出場する難民出身選手たちが難民に対する世界的な意識変革を訴えている。"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "78decf9c492eef393219922d812d64e2",
+      "title": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
+      "url": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs",
+      "published_at": "2026-06-18T20:00:25.000Z",
+      "description": "Despite comprising 50 percent of the population, women hold just 4.5 percent of seats in the National Assembly. Nigeria consistently ranks near the bottom globally and in Africa on women’s parliamentary representation.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "特別議席法案はナイジェリアが必要とするジェンダー平等を達成できるか？",
+      "summary": "ナイジェリアの国民議会における女性の議席はわずか4.5%で、世界的に見ても低水準にある。この特別議席法案がジェンダー平等をもたらすかどうかが問われている。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2de2352410b733978292508aeedb16f2",
+      "title": "Rubbish as a resource: How communities in Mozambique transform waste into climate solutions",
+      "url": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions",
+      "published_at": "2026-06-02T18:00:51.000Z",
+      "description": "Faced with rapid urbanization, fragile waste management systems, youth unemployment and growing climate vulnerability, artists, activists, musicians, and community entrepreneurs in Mozambique develop local responses to address an environmental crisis.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ごみを資源として：モザンビークのコミュニティはいかにして廃棄物を気候変動対策に転換するか",
+      "summary": "モザンビークでは、急速な都市化、不十分な廃棄物管理、若者の失業、気候変動への脆弱性に対し、地域住民が廃棄物を気候変動対策に変える取り組みを進めている。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5328388f40ecf592dad1f1a0f860afcb",
+      "title": "Ugandan activists make the case for ecofeminism",
+      "url": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism",
+      "published_at": "2026-06-01T18:00:17.000Z",
+      "description": "In this edition of Undertones, we explore a narrative calling for women to play a central role in climate-related decision-making in Uganda.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ウガンダの活動家たちがエコフェミニズムを提唱",
+      "summary": "ウガンダでは、気候変動関連の意思決定において女性が中心的な役割を果たすことを求めるエコフェミニズムの理念が探求されている。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b26267da3467152defb4f300f14cc265",
+      "title": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
+      "url": "https://globalvoices.org/2026/05/28/somalia-drought-fuel-prices-and-conflicts-heighten-famine-risk",
+      "published_at": "2026-05-28T16:00:40.000Z",
+      "description": "According to the Integrated Food Security Phase Classification, in May 2026, Somalia is facing one of the worst food crises in its history.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "ソマリア：干ばつ、燃料価格、紛争が飢饉のリスクを高める",
+      "summary": "ソマリアは干ばつ、燃料価格の高騰、紛争により飢饉のリスクが深刻化し、2026年5月には史上最悪の食料危機に直面している。"
+    }
+  },
+  "NE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "61edaba2b95c2802dd8257b330afd063",
+      "title": "For most Nigeriens, France has no place in Niger",
+      "url": "https://globalvoices.org/2026/05/24/for-most-nigeriens-france-has-no-place-in-niger",
+      "published_at": "2026-05-24T08:00:02.000Z",
+      "description": "The coup d'état on July 26, 2023, which ousted President Mohamed Bazoum, confirmed the Nigeriens’ resolve to sever all ties with France.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ニジェール国民の多くにとって、フランスはニジェールに居場所がない",
+      "summary": "2023年7月26日のクーデターでバズーム大統領が追放され、ニジェール国民のフランスとの全ての関係を断ち切るという決意が明確になった。"
+    }
+  },
+  "RS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b77e337e89d6df23e7412f86a58d07bb",
+      "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+      "url": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T18:36:19.000Z",
+      "description": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RS",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "セルビアの少年銃乱射事件、両親に再審で有罪判決",
+      "summary": "2023年にベオグラードの学校で児童らを殺害した13歳の少年銃乱射事件で、少年の両親が再審で懲役刑を言い渡された。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "36917da8bd53eca66a934f2fa68f57e8",
+      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
+      "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T10:15:08.000Z",
+      "description": "Crown Princess Mette-Marit, who suffered from pulmonary fibrosis, will now spend several weeks recovering in hospital.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "ノルウェーのメッテ＝マリット皇太子妃、肺移植手術に成功と王室発表",
+      "summary": "肺線維症を患っていたノルウェーのメッテ＝マリット皇太子妃が肺移植手術に成功し、数週間入院して回復に努めると王室が発表した。"
+    }
+  },
+  "EC": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ac68623dd8f0481572639d1acc0befd0",
+      "title": "Who is talking about artificial intelligence in Ecuador?",
+      "url": "https://globalvoices.org/2026/05/30/who-is-talking-about-artificial-intelligence-in-ecuador",
+      "published_at": "2026-05-30T04:00:00.000Z",
+      "description": "Ecuador is debating how to regulate artificial intelligence:, institutional gaps, and tensions between innovation, surveillance, education, inclusion, and responsible public governance are at the center of the conversation.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 72,
+      "titleJa": "エクアドルで人工知能について誰が話しているのか？",
+      "summary": "エクアドルでは、人工知能の規制方法について議論が進行中であり、技術革新、監視、教育、包摂性、責任ある公共ガバナンスが焦点となっている。"
+    }
+  },
+  "BR": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3cfee5b99fde5a9b791a0eb22eea0ad8",
+      "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
+      "url": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T00:31:35.000Z",
+      "description": "Eduardo Bolsonaro called the conviction \"baseless and senseless\".",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ブラジル、ジャイール・ボルソナーロの息子を父親の法廷闘争で米国支援を求めた罪で有罪判決",
+      "summary": "ブラジルで、ジャイール・ボルソナーロ前大統領の息子が、父親の法廷闘争で米国支援を求めた罪で有罪判決を受けた。"
+    }
+  },
+  "VE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "222e25d2187d00f0616ae58eb9380c68",
+      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T15:19:52.000Z",
+      "description": "The deal with General Electric is the latest sign of co-operation between US firms and Venezuela's interim government.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "ベネズエラ、米エネルギー大手と送電網再建で契約締結",
+      "summary": "ベネズエラが米ゼネラル・エレクトリック社と送電網再建のための契約を締結。米企業とベネズエラ暫定政府間の協力の最新の兆候だ。"
+    }
+  },
+  "CU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9742c6604401cde9b3660e28be9ba47c",
+      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T11:16:59.000Z",
+      "description": "The number of foreign visitors is down by 58% compared to last year, Cuban officials say, amid sanctions and an effective oil blockade.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "米国の圧力キャンペーンが影響し、キューバの観光業が崩壊",
+      "summary": "米国の制裁と事実上の石油禁輸措置により、キューバへの外国人観光客数が昨年比58%減少し、観光業が深刻な打撃を受けている。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fcae18309c49607608ca188cc2ebae12",
+      "title": "Meet three young people driving ecological activism in the Dominican Republic",
+      "url": "https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic",
+      "published_at": "2026-06-09T18:00:12.000Z",
+      "description": "The DR’s tourism star is on the rise, but that narrative of prosperity conceals the less visible, more urgent issue of environmental pressure on coasts, rivers, and reefs.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 68,
+      "titleJa": "ドミニカ共和国で環境活動を推進する3人の若者たちに会う",
+      "summary": "ドミニカ共和国では観光業が盛んだが、沿岸、河川、サンゴ礁への環境圧力が隠れた課題となっており、3人の若者がその解決のため活動している。"
+    }
+  },
+  "AU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cb250cab2fe9cf55091ac04c2ac34559",
+      "title": "Would you choose to take a 22-hour non-stop flight?",
+      "url": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-19T18:47:31.000Z",
+      "description": "The BBC asked Sydney locals if they would take the newly announced, longest ever commercial flight from Sydney to London.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "22時間のノンストップフライト、利用しますか？",
+      "summary": "シドニーからロンドンへの新しく発表された最長商業フライトについて、シドニー市民に利用したいか尋ねた記事。"
+    }
+  },
+  "JP": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e1d3ac7702e8ba9ba96a03a247da551d",
+      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-17T22:36:13.000Z",
+      "description": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "防衛大臣小泉氏、日本の防衛力強化は戦争防止に「不可欠」とBBCに語る",
+      "summary": "小泉防衛大臣は、戦後日本を規定してきた平和主義の姿勢を見直すことが必要であり、防衛力強化が戦争防止に「不可欠」であると述べた。"
+    }
+  },
+  "VN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "821c9db1578b7cc735397fa8fbea3d76",
+      "title": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
+      "url": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-16T17:17:55.000Z",
+      "description": "Police have arrested nine people and rescued more than 400 cats destined for slaughter, with more than 40 reunited with their owners.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "VN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "ベトナムで食用目的で盗まれた数百匹の猫が警察と福祉団体により救出",
+      "summary": "ベトナムで、食用目的で盗まれた400匹以上の猫が警察に救出された。40匹以上が飼い主と再会し、9人が逮捕された。"
+    }
+  },
+  "UY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "09a594140b9e65b5735afb2113642199",
+      "title": "Trade Policy Review: Uruguay",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_ury_10jun26_e.htm",
+      "published_at": "2026-06-10T00:00:00.000Z",
+      "description": "The Sixth review of the trade policies and practices of Uruguay takes place on 10 and 12 June 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Uruguay.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "UY",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 45,
+      "titleJa": "貿易政策レビュー：ウルグアイ",
+      "summary": "ウルグアイの貿易政策と慣行に関する第6回レビューが2026年6月10日と12日に実施される。レビューはWTO事務局およびウルグアイ政府の報告書に基づいている。"
+    }
+  },
+  "TO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa09f2f89904dc62a701c4a48f917459",
+      "title": "Fish Fund supports Tonga's first notification under the Agreement on Fisheries Subsidies",
+      "url": "https://www.wto.org/english/news_e/news26_e/ffm_09jun26_410_e.htm",
+      "published_at": "2026-06-09T00:00:00.000Z",
+      "description": "The WTO Fish Fund has marked an important milestone with the submission to the WTO of the first-ever fisheries subsidy notification made possible through support from the Fund. The submission on 3 June by Tonga under the Agreement on Fisheries Subsidies has additional significance given the developing Pacific region's exposure to the effects of harmful fisheries subsidies. The notification was prepared during a workshop held from 20 to 22 May in Nuku'alofa, Tonga, as part of a project funded by the Fish Fund, and contributes to Tonga’s implementation of the Agreement.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "TO",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 45,
+      "titleJa": "漁業基金がトンガによる漁業補助金協定に基づく初の通報を支援",
+      "summary": "WTO漁業基金の支援で、トンガが漁業補助金協定に基づく初の通報をWTOに提出。有害補助金の影響を受ける太平洋地域にとって重要な進展で、トンガの協定実施に貢献。"
+    }
+  }
+}
