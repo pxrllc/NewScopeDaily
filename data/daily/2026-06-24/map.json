@@ -1,0 +1,962 @@
+{
+  "FR": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2defef7d82d81a4a2b0246d5ff0ea374",
+      "title": "First Ebola case confirmed in France, health ministry says",
+      "url": "http://www.euronews.com/health/2026/06/24/first-ebola-case-confirmed-in-france-health-ministry-says",
+      "published_at": "2026-06-24T11:24:45.000Z",
+      "description": "France has confirmed its first case of Ebola  — a doctor who had returned from a humanitarian mission in the Democratic Republic of Congo has tested positive for the virus. This is the first Ebola case to have been confirmed in Europe.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 88,
+      "titleJa": "フランスでエボラ初の感染例を確認、保健省発表",
+      "summary": "フランス保健省は、コンゴ民主共和国から帰国した医師がエボラウイルス陽性と判明し、国内初、欧州初の感染例が確認されたと発表した。"
+    }
+  },
+  "US": {
+    "count": 11,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8c1b26cac5512d52286695b8f8dfb8a1",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-24T03:57:59.000Z",
+      "description": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "議会が史上初の「戦争権限決議」を可決、イランを巡りトランプ大統領と対立",
+      "summary": "米議会がイランを巡る戦争権限決議を可決し、トランプ政権に圧力を加える。象徴的な意味合いが強い。"
+    }
+  },
+  "UA": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bf52fe51d71c5f21bac19f469425273c",
+      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "url": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-21T23:57:59.000Z",
+      "description": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシア軍増強、ウクライナのドンバス奪取の鍵となる都市を脅かす",
+      "summary": "ロシア軍の増強がウクライナ東部の要衝コスチャンティニウカ市を脅威に晒しており、同市が陥落すればウクライナ東部の最後の拠点への進軍が可能になる。"
+    }
+  },
+  "PK": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dfd92a3f9a61db6ccc182b0675e87a8a",
+      "title": "Leading Pakistan activist given life sentence over soldier's killing at rally",
+      "url": "https://www.bbc.co.uk/news/articles/cpweywvygylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T14:30:06.000Z",
+      "description": "Human rights campaigner Mahrang Baloch denied inciting protesters before the official's death.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "パキスタンの著名活動家、兵士殺害のデモで終身刑を言い渡される",
+      "summary": "パキスタンで人権活動家マハラング・バロチ氏が、兵士殺害に関与したとして終身刑を宣告された。本人はデモの扇動を否定している。"
+    }
+  },
+  "AU": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8efc6b511339b6df808fa4de1542f2e8",
+      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T03:55:00.000Z",
+      "description": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "オーストラリアの石炭・ガス輸出は人権侵害、新たな国連訴訟で団体が主張",
+      "summary": "ある団体が、オーストラリアの石炭・ガス輸出は国民の人権を侵害しており、国民を保護せずに化石燃料輸出を承認し続けるのは違法であると国連に提訴した。"
+    }
+  },
+  "KR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "651eb5e5383a31851b6f9d38e7f7cd69",
+      "title": "North Korean soldier crosses border to South",
+      "url": "https://www.dw.com/en/north-korean-soldier-crosses-border-to-south/a-77687834?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-24T11:27:00.000Z",
+      "description": "South Korea's military says it is investigating the soldier's reasons for crossing the inner-Korean border. While dozens of North Koreans flee each year, usually via China, crossing directly south is very rare.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "北朝鮮兵士、韓国へ国境越え",
+      "summary": "北朝鮮兵士が韓国へ国境を越えた。韓国軍が動機を調査中。通常は中国経由だが、直接越境は非常に稀な事態で、朝鮮半島の緊張状態を示す。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "556486eb41b812ee985834eb2905ca80",
+      "title": "Panel to review Indian measures on solar, IT goods; members share views on reform talks",
+      "url": "https://www.wto.org/english/news_e/news26_e/dsb_23jun26_426_e.htm",
+      "published_at": "2026-06-23T00:00:00.000Z",
+      "description": "The Dispute Settlement Body (DSB) agreed at its meeting on 23 June to a request from China for the establishment of a panel to review measures in India affecting imports of solar cells, solar modules and information technology goods. The DSB Chair, Ambassador Guilherme de Aguiar Patriota (Brazil), convened an informal discussion after the meeting to take stock of members' positions on dispute settlement reform.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "太陽光・IT製品に関するインドの措置を審査するパネル設置、加盟国は改革協議について意見交換",
+      "summary": "WTO紛争解決機関が、中国の要請に応じ、インドの太陽光・IT製品輸入措置を審査するパネル設置に合意。紛争解決改革に関する議論も行われました。"
+    }
+  },
+  "CN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "04872dc498c46ec859bb0262bfd09d03",
+      "title": "China detains two Japanese nationals on smuggling charges",
+      "url": "https://www.dw.com/en/china-detains-two-japanese-nationals-on-smuggling-charges/a-77687365?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-24T09:56:00.000Z",
+      "description": "China has detained two Japanese nationals on suspicion of smuggling banned goods. Reports suggest that at least one case may involve strategic rare-earth-related exports.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "中国、日本人2名を密輸容疑で拘束",
+      "summary": "中国が日本人2名を密輸容疑で拘束。戦略的希土類関連輸出の関与が報じられており、日中間の外交問題に発展する可能性もある。"
+    }
+  },
+  "IR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b31a497745c0113ffabd5073a381f8d6",
+      "title": "Iranian nuclear inspections 'going to happen,' IAEA head",
+      "url": "https://www.dw.com/en/iranian-nuclear-inspections-going-to-happen-iaea-head/live-77685880?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-24T09:23:00.000Z",
+      "description": "After contradicting US and Iranian statements, the UN nuclear agency said inspections of Iran's nuclear sites would take place. Iran's top negotiator called the US-Iran deal \"America's declaration of defeat.\" More at DW.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "イラン核査察「実施されるだろう」、IAEA事務局長",
+      "summary": "IAEA事務局長は、米国とイランの異なる声明にもかかわらず、イランの核施設査察が実施されると発表。イラン側はこれを「米国の敗北宣言」と称した。"
+    }
+  },
+  "AT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "de886c7894db92da711cb367ecb493c6",
+      "title": "Why Austrian author Ingeborg Bachmann remains a literary icon",
+      "url": "https://www.dw.com/en/why-austrian-author-ingeborg-bachmann-remains-a-literary-icon/a-77609802?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-24T09:13:00.000Z",
+      "description": "A new documentary featuring Sandra Hüller celebrates the Austrian poet and author who was a literary star of her era. She would have turned 100 this year.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AT",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 35,
+      "titleJa": "オーストリアの作家インゲボルク・バッハマンが文学界の象徴であり続ける理由",
+      "summary": "オーストリアの詩人・作家インゲボルク・バッハマンが、生誕100周年を迎え、新しいドキュメンタリーでその文学的功績が再評価されている。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "089a4a75c946accd2a7b1d3d7957cd01",
+      "title": "Germany news: Pistorius to scrap warship project",
+      "url": "https://www.dw.com/en/germany-news-pistorius-to-scrap-warship-project/live-77684448?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-06-24T06:21:00.000Z",
+      "description": "The Defense Ministry is dropping a multi-billion-euro project to build F126 frigates, media say. Train services have resumed after a communications glitch overnight. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ドイツ：ピストリウス国防相、軍艦プロジェクトを中止へ",
+      "summary": "ドイツ国防省が、数億ユーロ規模の新型フリゲート艦建造プロジェクトを中止すると報じられた。これは国内の国防政策に大きな影響を与える決定だ。"
+    }
+  },
+  "KE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "36eb0f1415ba5a63ac8e6d9bd3f1414a",
+      "title": "Kenyan minister orders halt to construction of US Ebola facility",
+      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+      "published_at": "2026-06-23T13:22:39.000Z",
+      "description": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work  \nKenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held in contempt for ignoring a previous order to end work.\nMany Kenyans strongly oppose the facility, with deadly protests erupting since the complex was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a widespread Ebola outbreak.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ケニア大臣、米国エボラ施設建設中止を命令",
+      "summary": "ケニアの保健大臣は、裁判所に対し、物議を醸していた米国主導のエボラ隔離施設の建設準備を中止するよう命じた。国民からの強い反対と抗議デモが発生しており、前回の停止命令を無視したことで法廷侮辱罪に問われていた。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c682402a5cc2808240fac6f0775d9078",
+      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "published_at": "2026-06-23T13:15:28.000Z",
+      "description": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee\nThe British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan’s civil war as far back as 2024 but did not go public with the news for fear of upsetting the United Arab Emirates (UAE), a parliamentary committee will hear.\nIn May 2024, officials from the Foreign, Commonwealth and Development Office (FCDO) told Nathaniel Raymond, an American human rights investigator at Yale University, that “significant private pressure” from the UAE meant the UK would not publicly divulge information linking Ethiopia and the emirates to their support for the paramilitary Rapid Support Forces.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "英国、スーダンでの大規模残虐行為回避よりUAEとの関係を優先、議員に報告へ",
+      "summary": "英国政府はスーダン内戦における集団虐殺民兵へのエチオピア支援情報を把握していたが、UAEを刺激することを恐れ公表しなかったと議員らに報告される。これはUAEからの「大きな私的圧力」によるものとされている。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "115d7dcd7a3eafbc5e4ff6833f58b162",
+      "title": "US cut to South Africa's HIV response could cost lives, UNAids chief warns",
+      "url": "https://www.bbc.co.uk/news/articles/cx26py2rnxlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T12:22:43.000Z",
+      "description": "\"Please do not take money away because you are taking lives away,\" Winnie Byanyima said.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "米国の南アフリカHIV対策予算削減は命を奪う恐れ、UNAIDS事務局長が警告",
+      "summary": "UNAIDS事務局長は、米国による南アフリカのHIV対策予算削減が多くの命を犠牲にする可能性があると警告し、資金削減を行わないよう訴えた。"
+    }
+  },
+  "GH": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fb461a4fc7b194b73eeae391e84b6bc5",
+      "title": "Ghana conference calls for formal apology for transatlantic slave trade",
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "published_at": "2026-06-19T17:26:45.000Z",
+      "description": "Global framework for reparatory justice adopted at event includes demand for compensation and debt relief\nMore than money: the logic of slavery reparations\nA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leaders demanded formal apologies from countries that benefited from the transatlantic slave trade.\nHeads of state and government and other officials formally approved the strategy on Friday at a gathering in a hotel in the capital, Accra, which was the first major meeting since the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ガーナ会議、大西洋奴隷貿易に対する正式な謝罪を要求",
+      "summary": "ガーナで開催された会議で、大西洋奴隷貿易に対する正式な謝罪と補償を求める「修復的正義のための世界的枠組み」が採択された。アフリカとカリブ諸国の指導者らが、恩恵を受けた国々に対し、謝罪と補償、債務免除を要求。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a3c54f232911255c76dad36a7adb2cf8",
+      "title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
+      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+      "published_at": "2026-06-24T11:00:43.000Z",
+      "description": "Growing number of cases involve police working as rideshare drivers while carrying government-issued guns\nWhen the gap between his salary and his family’s basic expenses began widening dramatically, Diego – like many other Argentinians – started working as a rideshare driver on top of his day job. He usually does a few hours at the end of his 12-hour shift; and more on his days off.\nIt would be just another story from recession-ridden Argentina, but for the fact that Diego is a federal police officer.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "AR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "不況のアルゼンチンで、非番警官が副業中に「より多く殺し、死ぬ」理由",
+      "summary": "不況に苦しむアルゼンチンでは、給与と生活費の差が広がる中、多くの警官が政府支給の銃を携帯してライドシェア運転手などの副業に従事。これにより、非番中の警官が関わる殺傷事件が増加している現状が報じられている。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "283b5f047987e4786f182e3c62e408d9",
+      "title": "Canadian police warn of possible copycat attacks after deadly shootout in Montreal",
+      "url": "https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting",
+      "published_at": "2026-06-23T17:34:43.000Z",
+      "description": "Assailant behind shooting that left three people dead wrote ‘incel’-like manifesto that was posted by a far-right outlet\nPolice in Canada are warning of possible copycat attacks after three people died in a shootout in Montreal and the assailant’s lengthy manifesto, which called for “a new bloodletting”, was posted online by a far-right outlet.\nThe document contains many of the hallmark grievances of the “involuntary celibacy” – or “incel” – movement in addition racist and misogynistic conspiracy theories.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "モントリオールでの銃撃戦後、カナダ警察が模倣犯の可能性を警告",
+      "summary": "モントリオールでの銃撃事件で3人が死亡し、犯行声明が極右系メディアに投稿されたことを受け、カナダ警察は模倣犯による新たな攻撃の可能性について警告した。犯行声明には「インセル」運動の特徴や人種差別的、女性差別的陰謀論が含まれる。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3a6d67f86437a7d3fd9d0db106071c07",
+      "title": "Former Pinochet agents convicted over 1976 Washington DC carbomb murder",
+      "url": "https://www.theguardian.com/world/2026/jun/23/conviction-chile-washington-dc-car-bomb-attack-1976",
+      "published_at": "2026-06-23T15:31:01.000Z",
+      "description": "Attack targeted former Chile ambassador Orlando Letelier and his US colleague Ronni Karpen Moffitt\nFifty years after Gen Augusto Pinochet’s secret police detonated a car bomb in the heart of Washington DC, killing Orlando Letelier, a former Chilean minister and ambassador to the US, and his American colleague Ronni Karpen Moffitt, a Santiago court has convicted three former agents of Moffitt’s murder.\nJudge Paola Plaza, a special minister for human rights in Chile, sentenced Pedro Espinoza, José Zara, and Raúl Iturriaga to 15 years in prison for their roles in the killing of Moffitt, 25.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "元ピノチェト政権工作員、1976年ワシントンDCでの自動車爆弾殺人事件で有罪判決",
+      "summary": "チリのサンティアゴの裁判所が、1976年にワシントンDCで発生した、元チリ閣僚オルランド・レテリエと米国人同僚ロニー・モフィットを殺害した自動車爆弾事件について、元ピノチェト政権工作員3名に有罪判決を下した。"
+    }
+  },
+  "EC": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e72f997bdffb0605f459382e4457e837",
+      "title": "Whistleblower investigating Ecuadorian president’s family business was murdered, activists say",
+      "url": "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business",
+      "published_at": "2026-06-23T06:00:33.000Z",
+      "description": "Monika Silva Koniuszek died from a blow to the head and strangulation, a postmortem found, despite government claim of suicide\nCampaigners in Ecuador say a Polish anti-corruption activist who investigated allegations against the family business of the country’s rightwing president was murdered to silence her.\nMonika Silva Koniuszek, 41, was found dead in her home in Montañita, a coastal town in Ecuador’s Santa Elena province. The single mother of daughters aged four and nine, was found on the floor with a noose around her neck on 8 June.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "エクアドル大統領家族のビジネスを調査していた内部告発者が殺害されたと活動家が主張",
+      "summary": "エクアドルで、同国右派大統領の家族ビジネスに関する疑惑を調査していたポーランド人反腐敗活動家が殺害されたと活動家たちが主張。政府は自殺と発表したが、検死では頭部への打撃と絞殺が死因とされ、活動家は口封じのための殺人だとみている。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "309cd778fa6cfd5aa0990dd75dbfea19",
+      "title": "'Flesh-eating' bacteria threat spreads on Europe's beaches as seas warm",
+      "url": "http://www.euronews.com/2026/06/24/flesh-eating-bacteria-threat-spreads-on-europes-beaches-as-seas-warm",
+      "published_at": "2026-06-24T12:00:34.000Z",
+      "description": "Summer starts with millions of tourists by the sea, but climate change is spreading Vibrio “flesh-eating” bacteria, forcing beach closures in Spain and alarming authorities, especially in the Mediterranean.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 85,
+      "titleJa": "海水温上昇で「人食いバクテリア」の脅威が欧州のビーチに拡大",
+      "summary": "温暖化により「人食いバクテリア」の感染が欧州の海水浴場で拡大。スペインではビーチ閉鎖され、地中海沿岸当局は警戒を強めている。"
+    }
+  },
+  "UZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c5c246445157142e93f1e2d06a5ff520",
+      "title": "Rules before resources: Europe’s investment agenda for Central Asia",
+      "url": "http://www.euronews.com/business/2026/06/24/rules-before-resources-europes-investment-agenda-for-central-asia",
+      "published_at": "2026-06-24T12:00:27.000Z",
+      "description": "European officials and financial institutions attending the Tashkent International Investment Forum highlighted regulatory stability, project preparation and cross-border connectivity as essential conditions for future investment.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "UZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "資源よりも規則を：欧州の中央アジア向け投資アジェンダ",
+      "summary": "タシュケントの国際投資フォーラムで、欧州は中央アジアへの将来投資には規制安定性、プロジェクト準備、国境を越えた連結性が不可欠と強調した。"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "32be8e9c880e68eedc3f623b9619dc59",
+      "title": "Meloni-Trump spat: What do the polls say about Meloni's popularity? ",
+      "url": "http://www.euronews.com/my-europe/2026/06/24/meloni-trump-spat-what-do-the-polls-say-about-melonis-popularity",
+      "published_at": "2026-06-24T11:44:26.000Z",
+      "description": "A dispute between Italian Prime Minister Giorgia Meloni and US President Donald Trump has sparked debate about her standing with voters.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "メローニ首相とトランプ氏の論争：メローニ氏の人気は世論調査でどう示されているか？",
+      "summary": "イタリアのメローニ首相とドナルド・トランプ氏の間の論争が、メローニ氏の支持率に関する議論を巻き起こしている。"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a03e97e7202487a725668b089964ef66",
+      "title": "Greek Supreme Court rejects Laura Kövesi appeal over EU prosecutors' terms",
+      "url": "http://www.euronews.com/my-europe/2026/06/24/greek-supreme-court-rejects-laura-kovesi-appeal-over-eu-prosecutors-terms",
+      "published_at": "2026-06-24T11:40:17.000Z",
+      "description": "Greece's top court ruled the EPPO lacked legal standing to challenge a domestic decision to limit prosecutors' terms to two years instead of five.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "GR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 68,
+      "titleJa": "ギリシャ最高裁、EU検察官の任期に関するラウラ・ケーヴェシ氏の上訴を棄却",
+      "summary": "ギリシャ最高裁は、EU検察庁が国内検察官の任期を2年に制限する決定に異議を唱える法的根拠がないと判断した。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "50bb62cb12b5091ad30a476a433ef7b8",
+      "title": "North Korea commissions warship as Kim eyes nuclear navy",
+      "url": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss",
+      "published_at": "2026-06-24T11:24:15.000Z",
+      "description": "Kim Jong Un vows to equip North Korea's navy with nuclear weapons, signaling a strategic shift in military capabilities.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "KP",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "北朝鮮、金正恩が核海軍を視野に軍艦を進水",
+      "summary": "金正恩総書記が北朝鮮海軍に核兵器を装備させると表明し、軍事能力の戦略的転換を示唆。新たな軍艦の進水式が行われた。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "21a03163263d11438d32269a92f348a3",
+      "title": "Four Gaza aid flotilla activists released from Libya detention",
+      "url": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss",
+      "published_at": "2026-06-24T09:39:49.000Z",
+      "description": "Global Sumud Flotilla group says six others remain in detention and are expected to be released within 24 hours.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LY",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ガザ援助船団の活動家4名、リビアでの拘留から解放",
+      "summary": "ガザ援助船団の活動家4名がリビアでの拘留から解放された。他の6名も24時間以内に解放される見込みだと、グローバル・スムード船団が発表した。"
+    }
+  },
+  "LB": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4f83a40f0294486d018a0660cc24016d",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "url": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-20T18:36:19.000Z",
+      "description": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "停戦合意にもかかわらず、イスラエルとヒズボラが攻撃を継続",
+      "summary": "停戦合意にもかかわらず、イスラエルとヒズボラは攻撃を継続。イスラエル軍の空爆で20人死亡、ヒズボラは南レバノンでイスラエル兵に発砲したと報じられた。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e93712693fbd9162298d36f93bbbc984",
+      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T11:10:06.000Z",
+      "description": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "国連調査委員会、イスラエルがガザで意図的に子供を標的にし、ジェノサイドを行っていると発表",
+      "summary": "国連調査委員会が、イスラエルがガザで子供を意図的に標的にし、ジェノサイドを犯していると報告。イスラエルはこの報告を「中傷的な見せかけ」として拒否した。"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "69d79daa9d49290af87fbb808777a20c",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T15:15:42.000Z",
+      "description": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "QA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "カタールでガス爆発、少なくとも13人死亡、数十人負傷",
+      "summary": "カタールのラスラファン工業地帯にある主要な液化天然ガス（LNG）処理施設で「技術的事故」が発生。少なくとも13人が死亡し、数十人が負傷した。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1716e7d5d2ffc0943a5e497b423bdaa3",
+      "title": "Sexual violence increasingly used as 'weapon of war' in Sudan, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/crel587qz8ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T18:50:10.000Z",
+      "description": "The scale and brutality of the sexual attacks is unprecedented and aimed at terrorising communities, the UN says.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "スーダンで性暴力が「戦争の武器」として増加、国連が発表",
+      "summary": "国連は、スーダンで性暴力が戦争の武器として前例のない規模と残虐さで用いられ、共同体を恐怖に陥れていると報告した。"
+    }
+  },
+  "ZM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6d8b4f9c1a64d81afc483b3cb4079cff",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body ",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T17:30:44.000Z",
+      "description": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 55,
+      "titleJa": "ザンビアの元大統領の家族、遺体の扱いを巡る最新の法廷闘争で勝利",
+      "summary": "ザンビアの元大統領エドガー・ルング氏の死後12か月が経過しても、遺体の扱いを巡って家族と政府の間の争いが続いていたが、家族側が法廷闘争に勝利した。"
+    }
+  },
+  "NE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "55f313f447c032f56442a339fd41ee1a",
+      "title": "Niger pulls out of International Criminal Court after calling it neo-colonialist",
+      "url": "https://www.bbc.co.uk/news/articles/c9320gn4k6vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T16:26:55.000Z",
+      "description": "Niger, along with Mali and Burkina Faso, had called the ICC an \"instrument of neo-colonialist repression\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ニジェールが国際刑事裁判所から脱退、「新植民地主義的」と批判",
+      "summary": "ニジェールが国際刑事裁判所を「新植民地主義的抑圧の手段」と非難し、脱退を表明した。マリやブルキナファソも同様の姿勢を示している。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "78decf9c492eef393219922d812d64e2",
+      "title": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
+      "url": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs",
+      "published_at": "2026-06-18T20:00:25.000Z",
+      "description": "Despite comprising 50 percent of the population, women hold just 4.5 percent of seats in the National Assembly. Nigeria consistently ranks near the bottom globally and in Africa on women’s parliamentary representation.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "特別議席法案はナイジェリアが必要とする男女同権を実現できるか？",
+      "summary": "ナイジェリアでは女性が人口の半分を占めるにもかかわらず、国民議会における議席はわずか4.5%にとどまっている。特別議席法案が男女同権をもたらすかどうかが問われている。"
+    }
+  },
+  "AF": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8aabdb582bd0f89532d48ccd42e47800",
+      "title": "How AI is upgrading African dictatorship",
+      "url": "https://globalvoices.org/2026/05/22/how-ai-is-upgrading-african-dictatorship",
+      "published_at": "2026-05-22T08:00:30.000Z",
+      "description": "A March 2026 study by the Institute of Development Studies (IDS) and the African Digital Rights Network found that 11 African governments had collectively spent more than USD 2 billion on AI-powered surveillance systems.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "AF",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 88,
+      "titleJa": "AIがいかにアフリカの独裁体制を強化しているか",
+      "summary": "2026年3月の調査によると、アフリカの11政府がAIを搭載した監視システムに20億ドル以上を費やしており、AIが独裁体制を強化している実態が明らかになった。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2de2352410b733978292508aeedb16f2",
+      "title": "Rubbish as a resource: How communities in Mozambique transform waste into climate solutions",
+      "url": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions",
+      "published_at": "2026-06-02T18:00:51.000Z",
+      "description": "Faced with rapid urbanization, fragile waste management systems, youth unemployment and growing climate vulnerability, artists, activists, musicians, and community entrepreneurs in Mozambique develop local responses to address an environmental crisis.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 72,
+      "titleJa": "ゴミを資源として活用：モザンビークのコミュニティはいかにして廃棄物を気候変動対策に変えるか",
+      "summary": "モザンビークでは、都市化、廃棄物管理、若年失業、気候変動脆弱性といった問題に直面しながらも、地域社会がゴミを気候変動対策へと転換する独自の解決策を開発している。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5328388f40ecf592dad1f1a0f860afcb",
+      "title": "Ugandan activists make the case for ecofeminism",
+      "url": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism",
+      "published_at": "2026-06-01T18:00:17.000Z",
+      "description": "In this edition of Undertones, we explore a narrative calling for women to play a central role in climate-related decision-making in Uganda.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ウガンダの活動家たちがエコフェミニズムを提唱",
+      "summary": "ウガンダでは、女性が気候変動関連の意思決定において中心的な役割を果たすべきだと主張するエコフェミニズムの動きが活発になっている。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b26267da3467152defb4f300f14cc265",
+      "title": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
+      "url": "https://globalvoices.org/2026/05/28/somalia-drought-fuel-prices-and-conflicts-heighten-famine-risk",
+      "published_at": "2026-05-28T16:00:40.000Z",
+      "description": "According to the Integrated Food Security Phase Classification, in May 2026, Somalia is facing one of the worst food crises in its history.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "ソマリア：干ばつ、燃料価格、紛争が飢饉のリスクを高める",
+      "summary": "ソマリアは干ばつ、燃料価格の高騰、紛争により、2026年5月には史上最悪の食糧危機に直面すると予測されている。"
+    }
+  },
+  "RO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1ffe055ffd07780d84712f6c92a327bd",
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T23:31:21.000Z",
+      "description": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "100の病院が国家サイバー攻撃を打ち破るため、いかにしてペンと紙に切り替えたか",
+      "summary": "ルーマニアの数十の病院が国家サイバー攻撃によりオフラインになり、専門家が対応。医療システムは一時的にペンと紙での運用に切り替わった。"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9be7f18d783d8bc87b210f2ca6083e35",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "url": "https://www.bbc.co.uk/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-20T16:34:15.000Z",
+      "description": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ゼレンスキー大統領、剥奪されたポーランド最高勲章を返還",
+      "summary": "ゼレンスキー宇大統領は、剥奪されたポーランドの最高勲章を返還。両国の「困難で痛ましい共有の過去」について対話に開かれていると述べた。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5b02f154518b14eac28135d197b0c6d0",
+      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+      "url": "https://www.bbc.co.uk/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-18T15:46:36.000Z",
+      "description": "A refinery and a shopping centre burned after almost 200 Ukrainian drones were launched towards an area to the south-east of the Russian capital.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "ウクライナによる過去最大規模の石油精製所攻撃後、モスクワ住民が「黒い雨」を訴える",
+      "summary": "ウクライナによるモスクワ南東の石油精製所への大規模ドローン攻撃後、住民が「黒い雨」を訴えた。精製所とショッピングセンターが炎上した。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c12c6b7af1aee151a05afd6743a00664",
+      "title": "Trump anticipates better relationship with Colombia under new leader",
+      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-23T10:27:04.000Z",
+      "description": "Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "トランプ氏、新指導者の下でのコロンビアとの関係改善を期待",
+      "summary": "トランプ氏は、コロンビアの新大統領となることが示唆されているアベラルド・デ・ラ・エスプリエラ氏の支持を得ており、今後の両国関係改善に期待を示している。"
+    }
+  },
+  "BO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0ba3dbf096f491b93b0fecbe3dd79489",
+      "title": "Bolivian president declares state of emergency",
+      "url": "https://www.bbc.co.uk/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-20T15:27:09.000Z",
+      "description": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ボリビア大統領が非常事態宣言",
+      "summary": "反政府デモが数週間にわたり続き、基礎物資の不足を引き起こしたことを受け、ボリビア大統領が非常事態を宣言した。これにより国内情勢は緊迫している。"
+    }
+  },
+  "DO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fcae18309c49607608ca188cc2ebae12",
+      "title": "Meet three young people driving ecological activism in the Dominican Republic",
+      "url": "https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic",
+      "published_at": "2026-06-09T18:00:12.000Z",
+      "description": "The DR’s tourism star is on the rise, but that narrative of prosperity conceals the less visible, more urgent issue of environmental pressure on coasts, rivers, and reefs.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ドミニカ共和国で生態系保護活動を推進する3人の若者たち",
+      "summary": "ドミニカ共和国では観光業が成長しているが、その裏で沿岸、河川、サンゴ礁への環境負荷という差し迫った問題が隠されている。"
+    }
+  },
+  "BR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa22a3b6f60da94ad194e042f3d46cec",
+      "title": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far right’s gender contradictions",
+      "url": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions",
+      "published_at": "2026-06-22T06:00:51.000Z",
+      "description": "With a personable approach to politics and a pastoral tone to her speeches, Michelle Bolsonaro juggles the roles of being her imprisoned husband’s caretaker and a political figure wannabe",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ブラジルの元ファーストレディ、キリスト教保守主義を両立させ、極右のジェンダー矛盾に切り込む",
+      "summary": "ミシェル・ボルソナロは、政治への親しみやすいアプローチと牧歌的な演説で、投獄された夫の世話役と政治家志望の役割を両立している。"
+    }
+  },
+  "VE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4a3f3fb50ac6b57b3d4fc427f3dee5bf",
+      "title": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
+      "url": "https://globalvoices.org/2026/06/24/__trashed-6",
+      "published_at": "2026-06-24T06:00:35.000Z",
+      "description": "An interview with Venezuelan visual artist and photographer Santiago Méndez, who has exhaustively documente queerness and Pride in Caracas for the last three years.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "プライドの3年間：サンティアゴ・メンデスのクィア・ベネズエラ視覚アーカイブ",
+      "summary": "ベネズエラの視覚芸術家サンティアゴ・メンデスが、カラカスでのクィアとプライドを3年間にわたり記録した視覚アーカイブについてのインタビュー。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a06a52b4189a05374b27644183770117",
+      "title": "Three dead in Philippines high school shooting over bullying 'grudge'",
+      "url": "https://www.bbc.co.uk/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T09:45:52.000Z",
+      "description": "Police say they believe the attack was motivated by a \"grudge\" over bullying.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "フィリピンの高校銃撃事件、いじめの「恨み」で3人死亡",
+      "summary": "フィリピンの高校でいじめに対する「恨み」が動機とみられる銃撃事件が発生し、3人が死亡したと警察が発表した。"
+    }
+  },
+  "TW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "627d5775bdb27b88efb862fc3754a7b0",
+      "title": "China's import of custard apples is sparking fears in Taiwan",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T04:37:27.000Z",
+      "description": "Taiwan's agriculture ministry is worried that Beijing wants to weaponise a local specialty: the atemoya.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TW",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "中国のカスタードアップル輸入が台湾で懸念を引き起こす",
+      "summary": "中国がカスタードアップルの輸入を増やすことに対し、台湾農業省は北京が地元の特産品であるアテモヤを武器として利用しようとしているのではないかと懸念している。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1277b024f1fcdecd2bdc1257adfb4b45",
+      "title": "Japan quintuples visa fees in first price hike since 1978",
+      "url": "https://www.bbc.co.uk/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-22T03:45:51.000Z",
+      "description": "Authorities say they do not expect the hikes to have an \"immediate impact on inbound tourism\".",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "日本、1978年以来初の値上げでビザ料金を5倍に引き上げ",
+      "summary": "日本当局は1978年以来初めてビザ料金を5倍に引き上げたが、これが外国人観光客に直ちに影響を与えるとは予想していないと述べている。"
+    }
+  },
+  "CH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1bfb671059ac047dca4f7e92fdb49442",
+      "title": "WTO to open its doors to the public on 5 July",
+      "url": "https://www.wto.org/english/news_e/news26_e/open_18jun26_418_e.htm",
+      "published_at": "2026-06-18T00:00:00.000Z",
+      "description": "On 5 July 2026, the WTO will welcome the public to its headquarters in Geneva to mark the 100th anniversary of the WTO's home (Centre William Rappard). The Open Day offers an opportunity for visitors to explore this historic building and its artworks and to enjoy a range of activities taking place on the lakeside terrace.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "CH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 30,
+      "titleJa": "WTO、7月5日に一般公開",
+      "summary": "WTOは7月5日、ジュネーブにある本部ビル（ウィリアム・ラッパード・センター）の100周年を記念し、一般公開イベントを開催します。"
+    }
+  }
+}
