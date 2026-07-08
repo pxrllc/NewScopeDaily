@@ -1,0 +1,762 @@
+{
+  "FR": {
+    "count": 8,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "59d825c12ba93e3607df7194729daf41",
+      "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+      "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T19:55:59.000Z",
+      "description": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "マリーヌ・ル・ペン氏、フランス大統領選に出馬し、最高裁に有罪判決の上訴へ",
+      "summary": "強硬右派の国民連合党首マリーヌ・ル・ペン氏がフランス大統領選への出馬を表明。有罪判決を受けながらも立候補可能とされ、最高裁に上訴する。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9557b6c7cb7ad2abb700bfe0911f26fa",
+      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T05:05:31.000Z",
+      "description": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 82,
+      "titleJa": "ロシアで燃料不足が深刻化 – プーチン大統領はウクライナ戦争で方針転換するか？",
+      "summary": "モスクワでも燃料供給が困難になる中、経済的圧力によりプーチン大統領がウクライナ戦争の方針を変えるか注目される。"
+    }
+  },
+  "CN": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3dd7a111d6a1e2f9dfe9207cf64e6628",
+      "title": "China sentences official to death for taking $325m in bribes ",
+      "url": "https://www.bbc.co.uk/news/articles/c33y0n1v1xjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T03:36:56.000Z",
+      "description": "The 69-year-old helped companies secure valuable contracts in exchange for money, a court heard.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "中国、3億2500万ドルの賄賂を受け取った幹部に死刑判決",
+      "summary": "中国の裁判所は、3億2500万ドル（約470億円）の賄賂を受け取り、企業が契約を獲得するのを助けた69歳の幹部に死刑を言い渡した。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c73a668ba29474850c7bcc21f6d73770",
+      "title": "The Australian tree reshaping the world's wildfires",
+      "url": "https://www.dw.com/en/the-australian-tree-reshaping-the-world-s-wildfires/a-77560208?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-08T08:13:00.000Z",
+      "description": "As Europe experiences another summer of extreme heat and wildfire warnings, one tree imported from Australia is coming under renewed scrutiny across the world: eucalyptus.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "世界の山火事を再構築するオーストラリアの樹木",
+      "summary": "ヨーロッパが猛暑と山火事の危険に直面する中、世界中でオーストラリア原産ユーカリの木が再注目されており、その影響が議論されています。"
+    }
+  },
+  "US": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b734a0042838b1d2496506f89f7738f9",
+      "title": "Trump says MoU with ‘vicious, violent’ Iran is over",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-mou-with-vicious-violent-iran-is-over?traffic_source=rss",
+      "published_at": "2026-07-08T09:14:50.000Z",
+      "description": "Trump says MoU with 'vicious, violent' Iran is over",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "トランプ氏、「悪質で暴力的な」イランとの覚書は終了したと発言",
+      "summary": "トランプ大統領が、イランとの間で交わされていた覚書が終了したと表明し、その関係を「悪質で暴力的」と評した。"
+    }
+  },
+  "CU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8bf49cdd4157c20c6a4d994f6ab4a82c",
+      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+      "published_at": "2026-07-06T19:30:09.000Z",
+      "description": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January\nCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said.\nThe impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the already dwindling supply of fuel for Cuba’s power plants.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "「このままでは苦痛だ」：キューバ、6か月で3度目の全国停電に苦しむ",
+      "summary": "キューバで今年に入り3度目となる全国的な停電が発生。米国による禁輸措置で燃料不足が悪化し、既に電力供給に苦しんでいた島国に深刻な影響を与えている。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4bbbf13981e4850d59163ef3ee8c7b0c",
+      "title": "Germany news: Verdict due in Berlin doctor murder trial",
+      "url": "https://www.dw.com/en/germany-news-verdict-due-in-berlin-doctor-murder-trial/live-77870812?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-08T09:39:00.000Z",
+      "description": "A Berlin court is to deliver its verdict in the case of a doctor accused of murdering 15 seriously ill patients. Meanwhile, lawmakers are debating plans to expand digital investigation powers for police. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ドイツニュース：ベルリンの医師殺人事件、判決間近",
+      "summary": "ベルリンの裁判所が、重病患者15人を殺害したとされる医師の事件で判決を下す予定。警察のデジタル捜査権限拡大も議論中。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "615e6ab8306363c3869a081be7e94710",
+      "title": "India orders Meta to remove ads promoting child sexual abuse",
+      "url": "https://www.bbc.co.uk/news/articles/cql11969g2qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T05:52:45.000Z",
+      "description": "The order comes days after the BBC published an investigation about the platform showing such ads to users.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "インド、メタに児童性的虐待を助長する広告の削除を命令",
+      "summary": "インド政府は、BBCの調査報道を受け、Metaに対しプラットフォーム上の児童性的虐待を助長する広告を削除するよう命じた。"
+    }
+  },
+  "PK": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "58f9c976b2c444bf51526968599b5437",
+      "title": "Search under way after Boeing 737 plane vanishes off Pakistan coast",
+      "url": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T01:11:50.000Z",
+      "description": "The plane, carrying five people, rapidly descended before losing contact, authorities say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PK",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "パキスタン沖でボーイング737型機が消息を絶ち、捜索活動が進行中",
+      "summary": "パキスタン沖でボーイング737型機が消息不明となり、5人を乗せたまま急降下した後、連絡が途絶えた。捜索活動が続いている。"
+    }
+  },
+  "IR": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "983d94306acfbf60850622838cff9c64",
+      "title": "Iran war: Trump says ceasefire 'over' after fresh strikes",
+      "url": "https://www.dw.com/en/iran-war-trump-says-ceasefire-over-after-fresh-strikes/live-77869350?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-08T02:56:00.000Z",
+      "description": "The US president said it's a \"waste of time\" dealing with Tehran after the US struck dozens of Iranian targets overnight in response to Iranian attacks in the Strait of Hormuz. DW has the latest.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イラン戦争：新たな空爆後、トランプ氏が停戦「終わり」と発言",
+      "summary": "米国がホルムズ海峡でのイラン攻撃に対応しイランの標的を空爆した後、トランプ大統領はテヘランとの交渉は「時間の無駄」であり停戦は「終わった」と述べた。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a4c472c851d1c8875e25bc31f90e9fa8",
+      "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
+      "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-07T19:46:00.000Z",
+      "description": "Kyiv suffered heavy Russian strikes ahead of the NATO summit in Ankara. Experts say Russian President Vladimir Putin is trying to send a message.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "NATO首脳会議を前にキーウが攻撃：プーチンの狙いは何か？",
+      "summary": "アンカラでのNATO首脳会議を前に、キーウがロシアによる激しい攻撃を受けた。専門家はプーチン大統領がメッセージを送ろうとしていると分析。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a3a33ae5828eb0d7ee559ae4bf336f46",
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "published_at": "2026-07-07T15:17:19.000Z",
+      "description": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally \nA homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.\nCatnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepetalactone – also has insect-repelling properties but this has not previously been commercialised.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "UG",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 40,
+      "titleJa": "猫薄荷ローション、蚊よけ剤としてディートと同等の効果があることを研究が発見",
+      "summary": "ウガンダで行われた試験で、猫薄荷ローションが蚊よけ剤ディートと同等の効果を持つことが判明。植物由来の化合物が昆虫忌避特性を持つことが商業化の可能性を示唆。"
+    }
+  },
+  "LR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6fc30878cfd6ad49e1bf6e8d5a80fd09",
+      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+      "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+      "published_at": "2026-07-07T06:30:31.000Z",
+      "description": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubes\nAuthorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police found more than 200kg of cocaine falsely declared as Maggi seasoning cubes.\nThe shipment, with an estimated value of $19m (£14.2m), was discovered at the international airport in Monrovia on 8 June, but the suspects were not named until a press briefing at the weekend.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "LR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "リベリアでコカイン200kg超が押収され、5人が訴追",
+      "summary": "リベリアのモンロビア空港で、調味料と偽って申告された200kg以上のコカインが押収され、5人が訴追された。これは同国史上最大級の麻薬押収事件。"
+    }
+  },
+  "EG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5403d6404065a142bd3bdad7c572e564",
+      "title": "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina",
+      "url": "https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights?traffic_source=rss",
+      "published_at": "2026-07-08T09:10:41.000Z",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "EG",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "ワールドカップ27日目：エジプト、アルゼンチンに議論の的となる敗戦後敗退",
+      "summary": "ワールドカップ27日目、エジプトはアルゼンチンに議論の的となる敗戦を喫し、大会を去った。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ea12998b5d22e8a6fb5d5cae1e72edde",
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "published_at": "2026-07-04T15:14:18.000Z",
+      "description": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF\nFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.\nThe drones hit schools and fuel stations, killing more than 20 people, including students, she said. “Over the past few months, seeing 40 or 45 drones is the norm. You can literally count them,” said the aid volunteer, whose name has been changed for fear of retribution.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "「状況はひどい」：ドローン攻撃にさらされるスーダン都市での援助活動家たちの生活",
+      "summary": "スーダンのエルオベイド市が、軍とRSFの紛争でドローン攻撃に頻繁にさらされ、学校や燃料補給所が標的となり、20人以上が死亡。援助活動家が悲惨な状況を語る。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cce1e7e45a43810595e768a24890d57b",
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "published_at": "2026-07-06T16:41:47.000Z",
+      "description": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties\nCanada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts that will further deepen its Nato ties before a crucial summit this week.\nOn Monday the prime minister, Mark Carney, announced the winner of a tightly contested battle for the lucrative government contract to replace its fleet of ageing, secondhand subs, most of which are undergoing maintenance.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "カナダ、入札競争の末ドイツ製ハイテク潜水艦12隻を購入へ",
+      "summary": "カナダが、老朽化した潜水艦隊の更新のため、ドイツの企業連合から12隻の最新潜水艦を購入することを決定。数十億ドル規模の国防契約でNATOとの連携を強化する。"
+    }
+  },
+  "VE": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8f23a2f4d4cc2f40ddeb09cf7068e6bc",
+      "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
+      "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+      "published_at": "2026-07-05T21:50:42.000Z",
+      "description": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster\nVenezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,000 people, vowing the country would not descend into social unrest.\nMany Venezuelans have expressed anger at what they see as the US-backed government’s inadequate response to the 24 June disaster before international teams arrived.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "VE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "ロドリゲス氏、ベネズエラの緊急地震対応を擁護、死者数は急増の見込み",
+      "summary": "ベネズエラの暫定大統領が、3000人以上が死亡したとされる双子地震への政府対応を擁護。国民の不満が高まる中、社会不安は起きないと表明。"
+    }
+  },
+  "CH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0e2178f9212803d6a5bacafeea8b72a4",
+      "title": "Switzerland fans’ joy as team reaches World Cup quarter-final",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/switzerland-fans-joy-as-team-reaches-world-cup-quarter-final?traffic_source=rss",
+      "published_at": "2026-07-08T10:21:35.000Z",
+      "description": "Switzerland fans’ joy as team reaches World Cup quarter-final",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CH",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "スイスのファン、代表チームのワールドカップ準々決勝進出に歓喜",
+      "summary": "スイス代表がワールドカップ準々決勝に進出し、ファンは歓喜に沸いている。"
+    }
+  },
+  "NG": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "78decf9c492eef393219922d812d64e2",
+      "title": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
+      "url": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs",
+      "published_at": "2026-06-18T20:00:25.000Z",
+      "description": "Despite comprising 50 percent of the population, women hold just 4.5 percent of seats in the National Assembly. Nigeria consistently ranks near the bottom globally and in Africa on women’s parliamentary representation.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "特別議席法案はナイジェリアが必要とするジェンダー平等を達成できるか？",
+      "summary": "人口の50%を占めるにもかかわらず、女性は国民議会のわずか4.5%の議席しか持たない。ナイジェリアは女性の議会代表において世界的に下位に位置する。"
+    }
+  },
+  "SY": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0bf7fda96ff71c877dc6eb7389690bf7",
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T18:03:56.000Z",
+      "description": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "マクロン仏大統領の訪問中にダマスカスで爆弾爆発、18人負傷",
+      "summary": "マクロン仏大統領がシリアを訪問中、首都ダマスカスで爆弾が爆発し、18人が負傷した。大統領宮殿でマクロン氏を迎えていた。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "119fd7c2d23347d3db4ecc44706e8ab3",
+      "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T17:44:57.000Z",
+      "description": "Three women and one man were travelling in a car after visiting their family home, Lebanese state media reported.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "最新の停戦後、レバノンに対するイスラエル攻撃で校長を含む4人が死亡",
+      "summary": "最新の停戦後、レバノンで発生したイスラエルによる攻撃で、校長を含む民間人4人が車中で殺害された。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3f9f8090d3ac3055c0796f8485168299",
+      "title": "Israeli police officer filmed throwing stun grenade into car in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T18:52:48.000Z",
+      "description": "Israel's police force says the officer acted \"not in accordance with procedure\" and that it has opened an investigation.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 60,
+      "titleJa": "ヨルダン川西岸で車に閃光弾を投げ込むイスラエル警察官の映像が公開",
+      "summary": "イスラエル警察官がヨルダン川西岸で車内に閃光弾を投げ込む様子が撮影された。警察は規定違反として調査を開始。"
+    }
+  },
+  "AT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3a8770ebfd59741265e79287d475a790",
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T17:22:38.000Z",
+      "description": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "AT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "オーストリアの裁判所、元シリア情報機関幹部に拷問と性的虐待で有罪判決",
+      "summary": "ウィーンの裁判所で、元シリア情報機関幹部がアサド政権の反対派に対する拷問と性的虐待で有罪判決を受けた。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c9d65ae21e41335394450231002ce8f1",
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T11:12:00.000Z",
+      "description": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 35,
+      "titleJa": "ジンバブエ人サッカー選手、南アフリカで銃撃を生き延びる",
+      "summary": "南アフリカでジンバブエ人サッカー選手が銃撃される事件が発生。南アフリカ警察は殺人未遂事件として捜査しているが、逮捕者はまだいない。"
+    }
+  },
+  "SL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4e97285c06c5e84a33dbf03ce906b381",
+      "title": "The African fishermen who blame Chinese trawlers for their woes",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-05T23:30:40.000Z",
+      "description": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SL",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 60,
+      "titleJa": "中国トロール船が原因だと非難するアフリカの漁師たち",
+      "summary": "シエラレオネの漁師たちは、中国の大型漁船が違法に魚群を乱獲しているせいで漁獲量が減少していると訴えている。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4c9cbb31dd1ffa6507680d02afde6f08",
+      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
+      "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-04T00:51:44.000Z",
+      "description": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "生徒より牛が多い？ケニアの地方で大量の学校閉鎖が起きる背景とは",
+      "summary": "ケニアの地方で、生徒数の激減により2,000校以上の小学校が閉鎖の危機に瀕している。その原因を探る。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2cb78c94f4cf53d505e4adf625fcaf5f",
+      "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-04T21:20:25.000Z",
+      "description": "As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 45,
+      "titleJa": "34試合無敗 — モロッコがワールドカップ優勝候補である理由",
+      "summary": "カナダを破りワールドカップのベスト8に進出したモロッコは、もはやおとぎ話ではない。その強さの理由を分析する。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "eeb236d89e04429e580eb764278d3544",
+      "title": "Hit South African show gets the world talking about polygamy and cheating",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-26T23:02:23.000Z",
+      "description": "The Zulu-language series about a man with multiple wives is a worldwide hit.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 30,
+      "titleJa": "南アフリカの人気番組、一夫多妻制と浮気について世界中で話題に",
+      "summary": "一夫多妻制の男性を巡るズールー語の連続ドラマが世界的なヒットとなり、一夫多妻制や浮気について議論を巻き起こしている。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5c0ad3fa2a2c0c224697c7e730bf48b1",
+      "title": "Online visibility becomes currency for young Cameroonians",
+      "url": "https://globalvoices.org/2026/07/05/online-visibility-becomes-currency-for-young-cameroonians",
+      "published_at": "2026-07-05T08:00:27.000Z",
+      "description": "In Cameroon, many young people combine university studies, part-time jobs, and social media content creation, turning their online presence into a valuable source of income while diversifying their earning opportunities.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "オンラインでの可視性がカメルーンの若者にとっての通貨となる",
+      "summary": "カメルーンの若者は大学の勉強、パートタイムの仕事、ソーシャルメディアでのコンテンツ作成を組み合わせ、オンラインでの存在感を貴重な収入源に変えている。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0dcb5c26d7e299cf00c35a2990c6ee10",
+      "title": "Ghana’s queer movement is losing a fight it could be ‘winning’",
+      "url": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning",
+      "published_at": "2026-06-15T06:00:10.000Z",
+      "description": "Passing the anti-LGBTQ+ bill days after receiving global acclaim for human rights advocacy would expose Ghana’s rank hypocrisy, potentially undermining the very reparations dialogue the government claims to prioritize.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ガーナのクィア運動は『勝利』する可能性のある戦いに負けている",
+      "summary": "人権擁護で世界的な称賛を受けた数日後に反LGBTQ+法案が可決されれば、ガーナの偽善が露呈し、政府が優先する賠償対話が損なわれる可能性がある。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2de2352410b733978292508aeedb16f2",
+      "title": "Rubbish as a resource: How communities in Mozambique transform waste into climate solutions",
+      "url": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions",
+      "published_at": "2026-06-02T18:00:51.000Z",
+      "description": "Faced with rapid urbanization, fragile waste management systems, youth unemployment and growing climate vulnerability, artists, activists, musicians, and community entrepreneurs in Mozambique develop local responses to address an environmental crisis.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ゴミを資源として：モザンビークのコミュニティはいかにして廃棄物を気候変動対策に変えるか",
+      "summary": "都市化、脆弱な廃棄物管理、若年失業、気候変動脆弱性に直面するモザンビークのコミュニティが、廃棄物を活用して環境危機に対処する地元の解決策を開発している。"
+    }
+  },
+  "BE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "72520ce1066edf0fa2d1e31b8a26c4e7",
+      "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T07:07:29.000Z",
+      "description": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "BE",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "「これを覆せ」―ベルギーが米国をからかい、トランプの動きが彼らを奮い立たせたと言う",
+      "summary": "ベルギーのニコラ・ラスキンは、FIFAが米国人ストライカーを対戦させた決定が、シアトルでの決勝トーナメント16回戦に向けてチームを奮い立たせたと語った。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1397ae11bb74c1b5a97d6782ab8a4f8f",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-04T07:52:55.000Z",
+      "description": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ケイコ・フジモリ氏、投票数週間後にペルー大統領選挙の勝者と宣言される",
+      "summary": "投票からほぼ1ヶ月後、ケイコ・フジモリ氏がペルー大統領選挙の激戦を制し、勝者と宣言された。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "687814f9c84736b9c9d57723099a576e",
+      "title": "Tears of relief? Messi adds another incredible chapter to World Cup career",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T20:28:19.000Z",
+      "description": "Argentina great Lionel Messi sheds tears as they fight back to beat Egypt and reach the World Cup quarter-finals.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "安堵の涙か？ メッシ、ワールドカップキャリアにまたしても驚くべき章を追加",
+      "summary": "アルゼンチンの偉大なリオネル・メッシが、エジプトを破りワールドカップ準々決勝進出を果たし、涙を見せた。"
+    }
+  },
+  "MX": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bc4bed69b68bec4f75e72bbdcb5670a5",
+      "title": "Selling identities: The commercialization of Mayan culture",
+      "url": "https://globalvoices.org/2026/07/01/a-sales-narrative-the-commercialization-of-mayan-identities",
+      "published_at": "2026-07-01T12:00:13.000Z",
+      "description": "In this edition, we explore a narrative shared by Grupo Xcaret and the Gran Consejo Maya de Quintana Roo that presents Mayan symbols and identities as a trademark.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "アイデンティティの販売：マヤ文化の商業化",
+      "summary": "グループXcaretとキンタナ・ルー州マヤ大評議会が、マヤのシンボルとアイデンティティを商標として提示する物語を探る。マヤ文化の商業化に関する問題提起。"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa22a3b6f60da94ad194e042f3d46cec",
+      "title": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far right’s gender contradictions",
+      "url": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions",
+      "published_at": "2026-06-22T06:00:51.000Z",
+      "description": "With a personable approach to politics and a pastoral tone to her speeches, Michelle Bolsonaro juggles the roles of being her imprisoned husband’s caretaker and a political figure wannabe",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ブラジルの元ファーストレディ、キリスト教保守主義と極右のジェンダー矛盾を操る",
+      "summary": "ミシェル・ボルソナーロ元ファーストレディが、夫の世話人と政治家志望という役割を両立させ、キリスト教保守主義と極右のジェンダー矛盾を露呈させる手腕を探る。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "64222a81ccf9ff9642a14d6ee90353a1",
+      "title": "A mountain of rubbish in Indonesia has been on fire for more than a week",
+      "url": "https://www.bbc.co.uk/news/articles/c1ly1vddj6qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T04:22:48.000Z",
+      "description": "Environmental activists say the blaze is a symptom of the country's growing waste crisis.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "インドネシアで1週間以上ゴミの山が燃え続けている",
+      "summary": "インドネシアでゴミの山が1週間以上燃焼。環境活動家は、これが国内の廃棄物危機の一症状だと指摘している。"
+    }
+  },
+  "LK": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "56956e7677e8ab1db628717ed4df36e8",
+      "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+      "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-06T14:19:26.000Z",
+      "description": "The two days of violence at Negombo Prison are the worst prison riots in the country in years.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "LK",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スリランカの刑務所暴動で26人死亡、100人以上負傷",
+      "summary": "スリランカのネゴンボ刑務所で2日間にわたる暴動が発生し、26人が死亡、100人以上が負傷。国内で近年最悪の刑務所暴動となった。"
+    }
+  }
+}
