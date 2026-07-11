@@ -1,0 +1,862 @@
+{
+  "IR": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2283a6764febadd2cce496cfef62a638",
+      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T08:11:50.000Z",
+      "description": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ホルムズ海峡でのタンカー被弾後、米イランが報復攻撃を応酬",
+      "summary": "ホルムズ海峡でのタンカー被弾を受け、米国がミサイル施設などを攻撃したと発表、イランも米軍基地を攻撃したと主張し、両国が報復攻撃を応酬している。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2656e03d56133ce26031fc76c70b5ba8",
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T14:08:26.000Z",
+      "description": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "スペイン南部で山火事、少なくとも12人死亡、23人行方不明",
+      "summary": "スペイン南部アルメリア近郊で発生した山火事により、少なくとも12人が死亡、23人が行方不明。犠牲者の一部は英国人である可能性も。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "65c5c97f082c609e034ff4b0beb57a75",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T13:53:11.000Z",
+      "description": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PH",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "東アジア、破壊的な台風に備える中、フィリピンで地滑りにより15人死亡",
+      "summary": "東アジアが破壊的な台風に備える中、フィリピンでは地滑りにより15人が死亡。台風バヴィは台湾と中国南東部に向かうと予想される。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0948fe9835cfe98ad5837b8f358a4d4e",
+      "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+      "published_at": "2026-07-07T15:06:41.000Z",
+      "description": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match\nProsecutors in France have opened an investigation into the racist attack on Kylian Mbappé by a Paraguayan senator, with officials weighing whether to demand that the senator be charged with aggravated public insult or incitement to hatred or violence.\nThe Paris prosecutor’s office told the Guardian on Tuesday it had launched the inquiry after the French Football Federation (FFF) filed a complaint with the national unit for combating online hate.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "フランス検察、パラグアイ上院議員によるキリアン・エムバペへの人種差別的侮辱を捜査",
+      "summary": "フランス検察は、パラグアイの上院議員によるサッカー選手キリアン・エムバペへの人種差別的な侮辱行為について捜査を開始した。フランスサッカー連盟の告発を受けての対応。"
+    }
+  },
+  "US": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2b128f29e1a197a9ba26d05b206014c2",
+      "title": "US wants Iran to pledge to halt Hormuz attacks — officials",
+      "url": "https://www.dw.com/en/us-wants-iran-to-pledge-to-halt-hormuz-attacks-officials/live-77913349?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-11T03:20:00.000Z",
+      "description": "Washington reportedly wants Tehran to publicly vow to end attacks on vessels in the strategic Strait of Hormuz. Donald Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "US",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "米国、イランにホルムズ海峡での攻撃停止を誓約するよう要求 — 当局者",
+      "summary": "米国当局者によると、ワシントンはテヘランに対し、戦略的ホルムズ海峡での船舶攻撃停止を公に誓約するよう求めている。トランプ氏はイランが暗殺を試みれば壊滅させると警告した。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9f48b5a19858b92c83bbd6306e056961",
+      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-11T08:23:45.000Z",
+      "description": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "TH",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 40,
+      "titleJa": "タイでクリケット場ほどの長さの新恐竜種が発見される",
+      "summary": "タイでウラガサウルス・カラシネンシスと名付けられた、体長がクリケット場ほどもある新種の植物食恐竜が発見された。"
+    }
+  },
+  "UA": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e34aaebe85d075037ebeab9fe481607d",
+      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T23:02:35.000Z",
+      "description": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシア、ウクライナの都市ザポリージャの学校、オフィス、バスに照準",
+      "summary": "前線に近い人口密度の高いウクライナの都市ザポリージャで、ロシアが学校やオフィス、バスを標的にし、治安情勢が悪化している。"
+    }
+  },
+  "CV": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "df3f0805a4f601f518aca7d906587608",
+      "title": "New species named after Cape Verde goalkeeper Vozinha",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T19:30:06.000Z",
+      "description": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CV",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 25,
+      "titleJa": "カーボベルデのゴールキーパー、ヴォジーニャにちなんで新種を命名",
+      "summary": "ワールドカップでの活躍を称え、カーボベルデのゴールキーパー、ヴォジーニャにちなんで新種のウミウシが命名された。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7bf3499b978ecf207bf39437f281e777",
+      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
+      "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-09T11:09:17.000Z",
+      "description": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "インドの州で11歳少女のレイプ・殺人事件後、緊張が高まる",
+      "summary": "インドのある州で、行方不明だった11歳少女がレイプされ殺害された事件が発覚。これを受け、地域で緊張が高まっている。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5ecf56e8e45cd7d2447a6db047b2d8d8",
+      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T15:09:08.000Z",
+      "description": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "ドイツの学校襲撃で13歳の少女2人が重傷、ティーンエイジャーを逮捕",
+      "summary": "ドイツの学校襲撃事件で13歳の少女2人が重傷を負い、ティーンエイジャーが逮捕された。警察が大規模な捜査を実施中。"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ebaf5d8a9f20fc92c800535414378157",
+      "title": "Poland could cut arms aid to Ukraine as WWII spat continues",
+      "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-11T05:19:00.000Z",
+      "description": "As Poland observes a day of remembrance for the victims of a Ukrainian nationalist military unit, there are increasing signs that it could cut off its neighbor from military aid, even as the war against Russia continues.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ポーランド、第二次世界大戦の確執が続く中、ウクライナへの武器援助を停止する可能性",
+      "summary": "ポーランドは、ロシアとの戦争が続くにもかかわらず、ウクライナへの軍事援助を打ち切る可能性が高まっている。背景には第二次世界大戦中のウクライナ民族主義軍部隊の犠牲者追悼がある。"
+    }
+  },
+  "CU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e0539a363ba38409a33b0261b39f8818",
+      "title": "Cuba suffers second nationwide blackout in five days",
+      "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-10T23:27:00.000Z",
+      "description": "Cuba's electricity grid has crumbled amid a six-month US fuel blockade and already-dilapidated energy infrastructure.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "キューバ、5日間で2度目の全国的な停電に見舞われる",
+      "summary": "キューバは、6ヶ月に及ぶ米国の燃料封鎖と老朽化したエネルギーインフラのため、5日間で2度目となる全国的な停電に見舞われている。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "78decf9c492eef393219922d812d64e2",
+      "title": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
+      "url": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs",
+      "published_at": "2026-06-18T20:00:25.000Z",
+      "description": "Despite comprising 50 percent of the population, women hold just 4.5 percent of seats in the National Assembly. Nigeria consistently ranks near the bottom globally and in Africa on women’s parliamentary representation.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "特別議席法案はナイジェリアが必要とするジェンダー平等を達成できるか？",
+      "summary": "国民の半数を占める女性が国会でわずか4.5％の議席しか持たないナイジェリアで、特別議席法案のジェンダー平等への影響を問う。"
+    }
+  },
+  "EG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "89f30bac42b9e09770eec1e9c05a92ad",
+      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+      "published_at": "2026-07-09T12:59:24.000Z",
+      "description": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’\nAn LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt.\nThe Scarlet Lady’s 2,000 passengers, including the Broadway performer Patti LuPone, woke on Thursday morning to find a note placed under their cabin doors informing them that the ship was urgently looking for alternative ports.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "LGBTQ+クルーズ船、トルコに続きエジプトも入港拒否",
+      "summary": "LGBTQ+クルーズ船「スカーレット・レディ」がトルコ海域への入港を拒否された後、エジプトにも入港を拒否された。乗客2000人が急遽別の寄港地を探している。"
+    }
+  },
+  "VE": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6b4ac47736cd39383c28e5a8b26299e8",
+      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "published_at": "2026-07-11T00:37:54.000Z",
+      "description": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help\nThe death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday.\nAt least 4,118 people were killed and 16,740 injured in the back-to-back quakes on 24 June that flattened entire districts in the coastal state of La Guaira, Venezuelan parliament chief Jorge Rodriguez wrote on Telegram. Thousands more are listed as missing.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "VE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "ベネズエラの地震による死者4,000人超、復旧作業の規模が大きくのしかかる",
+      "summary": "ベネズエラで発生した連続地震による死者が4,000人を超え、約17,000人が負傷した。国連や大統領は財政支援を要請しており、復旧作業の困難さが浮き彫りになっている。"
+    }
+  },
+  "MX": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fdb39828d8d7961fb7448b4a4de22638",
+      "title": "Mexico investigates whether US lied about role in capture of drug lord",
+      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
+      "published_at": "2026-07-09T18:17:49.000Z",
+      "description": "Reporting suggests FBI involved in seizure of Ismael ‘El Mayo’ Zambada García from Mexican territory in 2024\nMexico has launched an investigation into whether the US lied about its involvement in the capture and secretive transfer of a top Sinaloa cartel member in 2024, in what would be a potential violation of the country’s sovereignty.\nThe US has long denied it played any role in the operation to detain the drug lord Ismael “El Mayo” Zambada García, a founder of the Sinaloa cartel, inside Mexico. Recent reporting by the local media outlet Pie de Nota, however, suggested that the FBI was involved in his capture.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "メキシコ、麻薬王逮捕における米国の関与について虚偽報告の有無を調査",
+      "summary": "メキシコが、シナロア・カルテルの麻薬王逮捕における米国の関与について、米国が虚偽の報告をしたかどうかを調査している。主権侵害の可能性が浮上している。"
+    }
+  },
+  "TT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "98706a1ffb8c696c7ca216ade3d5e66a",
+      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+      "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+      "published_at": "2026-07-08T14:01:35.000Z",
+      "description": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy\nSome of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 2018 ruling to remove colonial-era homophobic laws that criminalise anal sex between consenting men.\nThe country’s “buggery law”, often referred to as its “sodomy” law, was created in 1925 and was written into Trinidad and Tobago’s 1986 Sexual Offences Act. In 2017 a Trinidadian LGBTQ+ rights activist, Jason Jones, challenged the law, and in 2018 a high court ruled that it infringed upon his constitutional right to privacy and equality.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "TT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "トリニダード・トバゴの反同性愛法を巡る控訴審、英国判事が審理を開始",
+      "summary": "英国の判事が、トリニダード・トバゴの植民地時代の反同性愛法が復活した判決について控訴審を開始した。同法は合意に基づく男性間の性行為を犯罪としている。"
+    }
+  },
+  "AL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "31c03862b5c0cc7de015097a816a7704",
+      "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
+      "url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
+      "published_at": "2026-07-11T10:14:39.000Z",
+      "description": "Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "AL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "クシュナー氏支援のアルバニアリゾート向け土地、偽造契約が発覚か",
+      "summary": "アルバニアのクシュナー氏支援リゾート向け土地売買で偽造契約書疑惑が浮上。検察が捜査し、プロジェクトへの抗議活動も激化している。"
+    }
+  },
+  "CN": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ce05d5db1b278dd98b3cf5957ed5353b",
+      "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+      "published_at": "2026-07-11T09:32:57.000Z",
+      "description": "Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "台風バビ、中国へ接近し数十万人が避難",
+      "summary": "スーパー台風バビが中国に接近し、数十万人が避難。勢力は弱まったものの、依然危険な状況が続いている。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7b48fd7eadb73bd8bd57988d7bc3d25d",
+      "title": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+      "url": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss",
+      "published_at": "2026-07-11T08:43:10.000Z",
+      "description": "Police seized 74kg of gold bars and $20m cash in various currencies.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ID",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "インドネシアの反汚職検察官が辞任、警察が金塊と現金を押収",
+      "summary": "インドネシアで反汚職検察官が辞任。警察は彼の関与が疑われる事件で74kgの金塊と2000万ドルの現金を差し押さえた。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c05be05a1b09415276d6daf834bd5b97",
+      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-09T21:04:09.000Z",
+      "description": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "パレスチナ人、ガザのワールドカップ上映会主催者がイスラエル空爆で死亡したことを悼む",
+      "summary": "イスラエル・ハマス戦争中に著名な人道支援家となった援助活動家モハメド・アル・ワヒディ氏が、イスラエルの空爆で死亡し、パレスチナ人が追悼している。"
+    }
+  },
+  "IQ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ab6e220907ba3ff96085b729938a4918",
+      "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T14:56:24.000Z",
+      "description": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ハメネイ師の棺、シーア派聖廟を巡りイラクで式典開催",
+      "summary": "イランの故最高指導者ハメネイ師の遺体がナジャフとカルバラに運ばれ、イラクのシーア派聖地で5日間にわたる葬儀が続けられている。"
+    }
+  },
+  "SY": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0bf7fda96ff71c877dc6eb7389690bf7",
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T18:03:56.000Z",
+      "description": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "マクロン仏大統領の訪問中、ダマスカスで爆弾爆発により18人負傷",
+      "summary": "マクロン仏大統領のダマスカス訪問中に爆弾が爆発し、18人が負傷した。国営テレビは、シリア大統領がマクロン氏を歓迎したと報じた。"
+    }
+  },
+  "GB": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa03a91c7d913c9a0b0ff10b3b8d9876",
+      "title": "UK triple murder suspect arrested in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T20:09:57.000Z",
+      "description": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GB",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "英国の連続殺人容疑者、南アフリカで逮捕",
+      "summary": "英国の連続殺人容疑者が南アフリカで逮捕され、英国検察当局が起訴を承認。国際的な犯罪捜査の進展。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f239ef15ad6d8b195a8bb2311ed237cb",
+      "title": "'Honoured and grateful' - Morocco fan reflects on World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20yw63yn68o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T14:46:17.000Z",
+      "description": "Morocco fan reflects on their World Cup journey.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "「光栄で感謝している」 - モロッコ人ファンがワールドカップを振り返る",
+      "summary": "モロッコのサッカーファンが、自国のワールドカップでの素晴らしい旅路を振り返り、その感動と感謝を語った。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b6f87482b0ae3113bfc10b080b2ba8cf",
+      "title": "Uganda judges push back against lawyers' bid to scrap 'colonial titles'",
+      "url": "https://www.bbc.co.uk/news/articles/cwydzr9p1geo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-09T11:31:21.000Z",
+      "description": "Lawyers are calling for an end to traditions like bowing before judges and addressing them as \"My Lord or \"My Lady\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ウガンダの裁判官、「植民地時代の称号」廃止を求める弁護士の動きに抵抗",
+      "summary": "ウガンダの裁判官が、弁護士たちが提唱する「My Lord」などの伝統的称号や敬礼の廃止案に反発している。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e4f2067107fb599b19195bf714dcfeda",
+      "title": "Fears of a massacre in this city on the front line of Sudan's war",
+      "url": "https://www.bbc.co.uk/news/articles/c20yyjdzw7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T23:32:04.000Z",
+      "description": "El-Obeid has been under \"siege-like conditions\" for 18 months says the UN human rights chief.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダン紛争の最前線にあるこの都市で虐殺の懸念",
+      "summary": "スーダンの紛争最前線にある都市エル＝オベイドが18か月にわたり包囲され、国連人権チーフが虐殺の懸念を表明した。"
+    }
+  },
+  "SL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4e97285c06c5e84a33dbf03ce906b381",
+      "title": "The African fishermen who blame Chinese trawlers for their woes",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-05T23:30:40.000Z",
+      "description": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SL",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "中国のトロール船が苦境の原因だと非難するアフリカの漁師たち",
+      "summary": "シエラレオネの漁師たちが、大型中国船による違法な乱獲が漁業資源を枯渇させ、彼らの生活を脅かしていると訴えている。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4c9cbb31dd1ffa6507680d02afde6f08",
+      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
+      "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-04T00:51:44.000Z",
+      "description": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "生徒より牛が多い？ ケニアの地方で大規模な学校閉鎖が起きる背景",
+      "summary": "ケニアの地方で、生徒数の激減により2,000以上の小学校が閉鎖の危機に直面しており、その背景にある社会問題が探られている。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5c0ad3fa2a2c0c224697c7e730bf48b1",
+      "title": "Online visibility becomes currency for young Cameroonians",
+      "url": "https://globalvoices.org/2026/07/05/online-visibility-becomes-currency-for-young-cameroonians",
+      "published_at": "2026-07-05T08:00:27.000Z",
+      "description": "In Cameroon, many young people combine university studies, part-time jobs, and social media content creation, turning their online presence into a valuable source of income while diversifying their earning opportunities.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "カメルーンの若者にとってオンライン上の可視性が通貨となる",
+      "summary": "カメルーンの若者は、学業やアルバイトと並行してSNSコンテンツを作成し、オンラインプレゼンスを貴重な収入源に変えている。"
+    }
+  },
+  "AF": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c413faffd0672f7446bb3b3d36cf52a4",
+      "title": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
+      "url": "https://globalvoices.org/2026/06/29/fighting-western-imports-the-justification-of-the-anti-lgbtq-agenda-in-africa",
+      "published_at": "2026-06-29T06:00:14.000Z",
+      "description": "In this edition, we uncover a narrative that portrays anti-LGBTQ+ movements in Africa as a form of resistance to colonialism.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "AF",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "西洋からの輸入と戦う：アフリカにおける反LGBTQ+アジェンダの正当化",
+      "summary": "アフリカにおける反LGBTQ+運動は、植民地主義への抵抗として描かれる物語を明らかにしている。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0dcb5c26d7e299cf00c35a2990c6ee10",
+      "title": "Ghana’s queer movement is losing a fight it could be ‘winning’",
+      "url": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning",
+      "published_at": "2026-06-15T06:00:10.000Z",
+      "description": "Passing the anti-LGBTQ+ bill days after receiving global acclaim for human rights advocacy would expose Ghana’s rank hypocrisy, potentially undermining the very reparations dialogue the government claims to prioritize.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ガーナのクィア運動は「勝てる」はずの戦いに負けつつある",
+      "summary": "反LGBTQ+法案の可決は、人権擁護で評価されたガーナの偽善を露呈し、政府が優先する賠償交渉を損なう可能性がある。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2de2352410b733978292508aeedb16f2",
+      "title": "Rubbish as a resource: How communities in Mozambique transform waste into climate solutions",
+      "url": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions",
+      "published_at": "2026-06-02T18:00:51.000Z",
+      "description": "Faced with rapid urbanization, fragile waste management systems, youth unemployment and growing climate vulnerability, artists, activists, musicians, and community entrepreneurs in Mozambique develop local responses to address an environmental crisis.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 60,
+      "titleJa": "ゴミを資源として：モザンビークのコミュニティはいかにして廃棄物を気候変動対策に変えるか",
+      "summary": "モザンビークのコミュニティは、急速な都市化と気候変動の脆弱性に直面し、廃棄物を気候変動対策へと転換する。"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9c55948fbbf3c92f45a9d20d3b2f51b8",
+      "title": "Family mourn British teenager who died in Greece ",
+      "url": "https://www.bbc.co.uk/news/articles/c75yp6r13wvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T21:18:04.000Z",
+      "description": "The parents of the boy - who has not been named - said their son will be \"missed beyond words\".",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "ギリシャで死去した英国人ティーンエイジャーの家族が追悼",
+      "summary": "ギリシャで亡くなった英国人ティーンエイジャーの家族が、言葉にならないほどの悲しみと追悼の意を表明。"
+    }
+  },
+  "PY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2f1b412554e087b090ab3fa9639869c8",
+      "title": "Mbappe condemns racist posts from Paraguay senator",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-07T08:51:24.000Z",
+      "description": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ムバッペ、パラグアイの上院議員による人種差別投稿を非難",
+      "summary": "フランスのサッカー選手キリアン・ムバッペが、自身の出自や教育を嘲笑する人種差別的な発言をしたパラグアイの上院議員を非難した。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1397ae11bb74c1b5a97d6782ab8a4f8f",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-04T07:52:55.000Z",
+      "description": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ケイコ・フジモリ、投票から数週間後にペルー大統領選挙の勝者と宣言される",
+      "summary": "投票から約1ヶ月後、失脚したアルベルト・フジモリ元大統領の娘ケイコ・フジモリが、僅差のペルー大統領選挙で勝利を宣言された。"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa22a3b6f60da94ad194e042f3d46cec",
+      "title": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far right’s gender contradictions",
+      "url": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions",
+      "published_at": "2026-06-22T06:00:51.000Z",
+      "description": "With a personable approach to politics and a pastoral tone to her speeches, Michelle Bolsonaro juggles the roles of being her imprisoned husband’s caretaker and a political figure wannabe",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ブラジルの元ファーストレディ、キリスト教保守主義と極右のジェンダー矛盾の間で奮闘",
+      "summary": "ブラジルのミシェル・ボルソナロ元ファーストレディが、キリスト教保守主義と極右のジェンダー矛盾を抱えながら、政治的役割を模索している。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "86a105f80c960119b3256b4abea0fea9",
+      "title": "Colombia becomes the first Latin American country to ban female genital mutilation",
+      "url": "https://globalvoices.org/2026/07/06/colombia-becomes-the-first-latin-american-country-to-ban-female-genital-mutilation",
+      "published_at": "2026-07-06T04:09:07.000Z",
+      "description": "Colombia just prohibited female genital mutilation after approving a bill called “Girls Without Ablation.” It is a law born within the communities that needed it most.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "コロンビア、中南米で初めて女性器切除を禁止",
+      "summary": "コロンビアが「切除なき少女たち」法案を承認し、中南米で初めて女性器切除を禁止した。"
+    }
+  },
+  "AU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7efe09b5c018ecbae2f997e229219d5c",
+      "title": "Acclaimed pianist loses Gaza speech case against Melbourne orchestra",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyvwwep30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-10T01:27:18.000Z",
+      "description": "Jayson Gillham sued the orchestra for workplace discrimination after they cancelled one of his shows.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "著名ピアニスト、メルボルン管弦楽団に対するガザ演説訴訟で敗訴",
+      "summary": "ジェイソン・ギルハム氏がガザに関する発言を理由に公演をキャンセルされ、メルボルン管弦楽団を提訴。職場差別を巡る訴訟で敗訴した。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fc3031e6a5508ec606860744b1f70714",
+      "title": "How an app in South Korea will let victims track their stalkers",
+      "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-09T22:09:57.000Z",
+      "description": "Officials say the app will help stalking victims, but some experts question the impact it might have.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "韓国のアプリがストーカー被害者の追跡を可能にする方法",
+      "summary": "韓国でストーカー被害者が加害者を追跡できるアプリが登場。当局は役立つと主張するが、専門家は影響に疑問を呈している。"
+    }
+  },
+  "PK": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1cc2ba880a7923b789ba38e1da83aa60",
+      "title": "Five crew remain missing after plane wreckage found in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/c5yze1vvlzgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T16:39:15.000Z",
+      "description": "Pakistan's Airports Authority said efforts are under way to find those who were on board the private cargo plane.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PK",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "パキスタンで飛行機残骸発見後も5人の乗員が行方不明",
+      "summary": "パキスタンで民間貨物機の残骸が発見されたが、乗員5人の捜索が続いている。空港当局が発表した。"
+    }
+  },
+  "BD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "68412270d6f725222e74321d970813a4",
+      "title": "A country that made huge progress on measles now reports 120,000 cases",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-08T22:03:05.000Z",
+      "description": "Hundreds of children are dying from measles in Bangladesh, where hospitals are overwhelmed.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "BD",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "麻疹で大きな進展を遂げた国が現在12万件の症例を報告",
+      "summary": "バングラデシュで麻疹が12万件報告され、数百人の子どもたちが命を落とし、病院はひっ迫している。"
+    }
+  },
+  "GE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bb3b8150be7b34d8e5ca79ef10afa398",
+      "title": "DG Ngozi Okonjo-Iweala welcomes President Kavelashvili of Georgia to the WTO",
+      "url": "https://www.wto.org/english/news_e/news26_e/dgno_08jul26_445_e.htm",
+      "published_at": "2026-07-08T00:00:00.000Z",
+      "description": "WTO Director-General Ngozi Okonjo-Iweala welcomed the President of Georgia, Mikheil Kavelashvili, to the WTO on 8 July to discuss Georgia's economic and trade performance, its engagement in the multilateral trading system, and current developments in the global trading environment.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "GE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "Ngozi Okonjo-Iweala事務局長がジョージアのカベラシュヴィリ大統領をWTOに歓迎",
+      "summary": "WTO事務局長はジョージア大統領を迎え、同国の経済・貿易実績、多角的貿易システムへの関与、および世界の貿易情勢について協議した。"
+    }
+  }
+}
