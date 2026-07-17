@@ -1,0 +1,862 @@
+{
+  "IR": {
+    "count": 11,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c1b3ff4460901647e8de52049d169f09",
+      "title": "Iran war: US hits bridges as Tehran retaliates across region",
+      "url": "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-17T08:11:00.000Z",
+      "description": "The US launched a sixth night of strikes on Iran, with Tehran saying attacks on bridges killed several people. Iran has fired retaliatory strikes on US targets across the region. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "イラン戦争：米国が橋を攻撃、テヘランは地域全体で報復",
+      "summary": "米国がイランへの空爆を6夜連続で実施し、イランは橋への攻撃で複数の死者が出たと発表。イランも地域内の米軍標的に報復攻撃を行った。"
+    }
+  },
+  "US": {
+    "count": 8,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9da5955c6dd4497cb2790c793b37ee2a",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-17T11:06:39.000Z",
+      "description": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "トランプ氏、中国が2020年選挙に干渉したと主張し、中間選挙を前に投票の安全性を疑問視",
+      "summary": "トランプ氏が中国の2020年選挙干渉を主張し、中間選挙前の投票セキュリティに疑問を投げかけた。中国は主張を捏造と非難。"
+    }
+  },
+  "MM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "781ce3fa70bd9b7e8b225e54e8ca899f",
+      "title": "More than 500 Rohingya vanished at sea - what happened?",
+      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-17T03:07:11.000Z",
+      "description": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "MM",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "500人以上のロヒンギャが海で消息を絶つ――何が起こったのか？",
+      "summary": "ミャンマーを出発したロヒンギャ約530人を乗せた2隻の船が6月29日以来消息不明となり、その行方が懸念されている。"
+    }
+  },
+  "JP": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "900e86648b205a4d3b02da23a944b393",
+      "title": "Japan passes legislation banning violation of national flag",
+      "url": "https://www.aljazeera.com/news/2026/7/17/japan-passes-legislation-banning-violation-of-national-flag?traffic_source=rss",
+      "published_at": "2026-07-17T10:56:14.000Z",
+      "description": "Critics claim latest element of PM Takaichi's conservative drive threatens free speech, invites political abuse.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "日本が国旗毀損を禁止する法案を可決",
+      "summary": "日本で国旗毀損禁止法案が可決された。高市首相の保守的な動きの一環で、批判者は言論の自由を脅かすと主張している。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a79ffa2d56d69725e12fbb80f6ce6aa9",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-17T02:37:45.000Z",
+      "description": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "フィリピン、中国メディアの猿動画を人種差別的として非難",
+      "summary": "中国国営メディアが南シナ海の領有権を主張するフィリピン衣装の猿のAI動画を公開し、フィリピンが人種差別的だと強く非難した。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e86bb1095ed3dd3b98cd419c3ec1709e",
+      "title": "School bus crash kills at least 20 pupils in Uganda ",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-17T10:04:27.000Z",
+      "description": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UG",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ウガンダでスクールバスが衝突、少なくとも生徒20人死亡",
+      "summary": "ウガンダでスクールバスが衝突し、生徒少なくとも20人が死亡、数十人が負傷。機械的故障が原因とみられている。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e1c8a37a372d33d06420833f53283ef6",
+      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities ",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-17T02:15:23.000Z",
+      "description": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 78,
+      "titleJa": "カナダの火災が米国で大気質警報を発令、主要都市が煙に覆われる",
+      "summary": "カナダで発生した800件以上の火災による煙がトロントやニューヨーク、米国中西部まで広がり、大気質警報が発令された。"
+    }
+  },
+  "GB": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2318105eb01c462c99db882c32212dc3",
+      "title": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T19:50:54.000Z",
+      "description": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "スターマー首相、退任前の最後の訪問でウクライナへの「揺るぎない支援」を表明",
+      "summary": "退任するスターマー英首相がウクライナを訪問し、ゼレンスキー大統領に対し、ロシアとの戦争における英国の継続的な支援を確約した。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3bfb92b511d1a45fb8c777de5acd5049",
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T04:28:22.000Z",
+      "description": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "俳優サム・ニールが肺炎で死去、代理人が確認",
+      "summary": "俳優サム・ニールが月曜日にシドニーで肺炎のため死去したと代理人が発表。家族は「突然で予期せぬ死だった」とコメントしている。"
+    }
+  },
+  "CN": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fe1133cd9251c22b00d42d25b4712080",
+      "title": "China: Landslide buries buildings, traps people",
+      "url": "https://www.dw.com/en/china-landslide-buries-buildings-traps-people/a-77999378?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-17T08:51:00.000Z",
+      "description": "An undetermined number of people have been reported trapped under a landslide in southwest China. Rescue efforts are ongoing.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 87,
+      "titleJa": "中国：土砂崩れで建物が埋没、人々が閉じ込められる",
+      "summary": "中国南西部で土砂崩れが発生し、数不明の人々が閉じ込められている。救助活動が継続中。"
+    }
+  },
+  "ZA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "edd0206cbac324bb90ec7a645f5d28f5",
+      "title": "Mandela Day: Has South Africa failed his vision?",
+      "url": "https://www.dw.com/en/mandela-day-has-south-africa-failed-his-vision/a-77980740?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-17T07:47:00.000Z",
+      "description": "Three decades after apartheid, many South Africans say Nelson Mandela's vision remains unfulfilled. Inequality, xenophobia and anti-migrant protests continue to test his legacy.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 78,
+      "titleJa": "マンデラの日：南アフリカは彼のビジョンに失敗したのか？",
+      "summary": "アパルトヘイト終焉から30年、多くの南アフリカ人がネルソン・マンデラのビジョンが未達成だと感じている。不平等や外国人排斥、反移民抗議が彼の遺産を試している。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b12aee726269268681d6dc59c1efa3e",
+      "title": "Germany news: Macron and Merz lead bilateral cabinet talks",
+      "url": "https://www.dw.com/en/germany-news-macron-and-merz-lead-bilateral-cabinet-talks/live-77998510?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-17T07:28:00.000Z",
+      "description": "Berlin and Paris are seeking to deepen security cooperation as ministers meet in western Germany. Meanwhile, a court has delivered its verdict on an alleged supporter of the far-right NSU terror group. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 68,
+      "titleJa": "ドイツニュース：マクロンとメルツが二国間閣僚協議を主導",
+      "summary": "ベルリンとパリは、西ドイツでの閣僚会議で安全保障協力の深化を目指している。また、極右NSUテロ組織の支持者とされる人物に対する裁判の判決も出た。"
+    }
+  },
+  "IN": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5ef248ac9e8e24b82a8f3e679097c110",
+      "title": "Air India crash report likely to be ready in October, say investigators",
+      "url": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T09:45:21.000Z",
+      "description": "The crash killed 260 people, including 241 on board, with only one passenger surviving.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "エア・インディア墜落事故報告書、10月に完成の見込みと捜査官が発表",
+      "summary": "エア・インディア墜落事故の調査報告書が10月にも完成する見込みだと捜査当局が発表。この事故で260人が死亡し、乗客は1人だけが生き残った。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ccdb7ccbd644e0b119aaebfdcc6ad9cd",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "published_at": "2026-07-16T04:30:13.000Z",
+      "description": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets\nA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus spyware – to target journalists, human rights defenders, French politicians and Spanish cabinet ministers and police officers.\nPegasus, which is manufactured by the Israel-based NSO Group, allows its operator to access everything on a target’s mobile phone, including emails, text messages and photographs. It can also activate the phone’s recorder and camera, turning it into a listening device.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "モロッコ情報機関の内部告発者、Pegasusハッキングソフトウェアの広範な使用を暴露",
+      "summary": "モロッコ情報機関の元職員が、Pegasusスパイウェアをジャーナリストや人権活動家、フランスやスペインの政治家に使用していたことを暴露。国家による監視の実態が明らかに。"
+    }
+  },
+  "AR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "383f54e984557e11f22c1ff51c02d37e",
+      "title": "Argentina face action over Falklands banner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T12:01:37.000Z",
+      "description": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "アルゼンチン、フォークランド諸島バナーを巡り処分に直面",
+      "summary": "FIFAは、ワールドカップ準決勝でアルゼンチン代表選手がフォークランド諸島（マルビナス諸島）の領有権を主張するバナーを掲げた件で、懲戒処分を検討している。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "07c09b6e13e7c78bae15a50229cdaa34",
+      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "published_at": "2026-07-16T05:01:23.000Z",
+      "description": "President Lula’s office says US move is result of pressure on White House by family of predecessor Jair Bolsonaro\nBrazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of some Brazilian products.\nThe office of the president, Luiz Inácio Lula da Silva, described the tariffs as “a regrettable milestone” in the history of relations between the two countries and said they were the result of pressure exerted on the White House by the family of the far-right former president Jair Bolsonaro.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ブラジル、米国が製品に25%関税を課せば報復すると表明",
+      "summary": "ブラジルは、米国が一部製品に25%の関税を課す決定に対し報復すると表明。ルーラ大統領府は、この動きはボルソナーロ前大統領の家族による圧力の結果だと述べた。"
+    }
+  },
+  "MX": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a6b5abdd59434299deb1743ca3a8056d",
+      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
+      "published_at": "2026-07-15T20:58:43.000Z",
+      "description": "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operations\nMexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immigration and Customs Enforcement (ICE) custody or during raids, the Mexican government said Tuesday.\nThe request follows the death of Mexican immigrant Lorenzo Salgado Araujo, who was shot and killed by an ICE agent in Houston. Since the beginning of Donald Trump’s second term, 17 Mexican immigrants have died during immigration enforcement, 14 in ICE custody and three in agency operations.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "メキシコ、米国州司法長官に移民ICE死亡事件の捜査を要請",
+      "summary": "メキシコ政府は、米国移民税関執行局（ICE）の拘留下や作戦中に死亡した移民の事件について、米国州司法長官に刑事捜査を正式に要請した。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "78ac6c4a31be6b959934421bf16f2b4e",
+      "title": "Hungary's Magyar demands migration fine refund from EU ",
+      "url": "http://www.euronews.com/my-europe/2026/07/17/hungarys-magyar-demands-migration-fine-refund-from-eu",
+      "published_at": "2026-07-17T10:57:59.000Z",
+      "description": "The Hungarian leader argues that the EU's stance has shifted as other member states pursue similar border policies. He also wants €2 billion in lost recovery funds returned in an upcoming budget deal.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ハンガリー、EUに移民罰金返還を要求",
+      "summary": "ハンガリーの指導者が、EUの移民政策の変更を理由に、課せられた罰金の返還と20億ユーロの復興基金の返却をEUに要求している。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1c1bb0bebf8b3ff1200887af4b4ef2f4",
+      "title": "Kim Jong Un hosts top Chinese official in Pyongyang",
+      "url": "http://www.euronews.com/2026/07/17/kim-jong-un-hosts-top-chinese-official-in-pyongyang",
+      "published_at": "2026-07-17T10:33:23.000Z",
+      "description": "China has sought to reassert its position in the Korean peninsula in recent years. Chinese President Xi Jinping made his own visit to Pyongyang in June as part of this push.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "金正恩が平壌で中国高官を接待",
+      "summary": "金正恩委員長が平壌で中国の要人を迎え、中朝間の連携が強化されている。これは中国が朝鮮半島での影響力を再主張する動きの一環。"
+    }
+  },
+  "FR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5e11634ac61544bdbb8c71b17eef70a5",
+      "title": "French MPs approve assisted dying law with strict rules after years of argument",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T17:29:26.000Z",
+      "description": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "フランス議会、長年の議論を経て厳格な条件付き安楽死法案を承認",
+      "summary": "フランスの議員が、厳格な基準を満たす末期患者の成人に対して安楽死を許可する法案を承認した。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a319998040eb2672d6cefb0c1e3e126d",
+      "title": "Diesel and petrol prices jump in Portugal: find out what you'll pay from Monday",
+      "url": "http://www.euronews.com/business/2026/07/17/diesel-and-petrol-prices-jump-in-portugal-find-out-what-youll-pay-from-monday",
+      "published_at": "2026-07-17T09:17:49.000Z",
+      "description": "Petrol and diesel prices will increase in the week of 20 to 26 July, and the rise is expected to be particularly significant.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "PT",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "ポルトガルでディーゼルとガソリン価格が高騰：月曜日からいくら払うことになるか",
+      "summary": "ポルトガルでは7月20日から26日の週にディーゼルとガソリンの価格が大幅に上昇する見込みで、特に著しい値上げが予想される。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7640339d8591e53a7bdfa248c746be06",
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T12:21:32.000Z",
+      "description": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "スペインの森林火災で死亡した中に英国人7人",
+      "summary": "スペインの森林火災で13人の犠牲者が出たが、そのうち12人は外国人であり、英国人が7人含まれていたとスペイン当局が発表した。"
+    }
+  },
+  "IL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "16e3dc23a51dfaa46937d66aa1aec68c",
+      "title": "Israel headed for October election as parliament dissolved",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
+      "published_at": "2026-07-17T09:42:05.000Z",
+      "description": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "議会解散を受け、イスラエルは10月選挙へ",
+      "summary": "議会解散に伴い、イスラエルは10月の選挙に向かうことになった。ネタニヤフ首相の政治的存続が問われる事態だ。"
+    }
+  },
+  "UA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e01121548ecb6a941022aad1d9e1c503",
+      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T21:21:19.000Z",
+      "description": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシアの攻撃で14人死亡、ウクライナは黒海の石油タンカーを攻撃",
+      "summary": "ロシアの攻撃によりウクライナで14人の民間人が死亡し、これに対しウクライナは黒海でロシアの船舶20隻を攻撃した。"
+    }
+  },
+  "LB": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3533eafd2981c91922c6a180c4dd74e4",
+      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
+      "published_at": "2026-07-17T09:24:03.000Z",
+      "description": "Berlin warns against a 'security vacuum' in Lebanon's south once UNIFIL mandate expires at year's end.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ドイツ、レバノンの国連平和維持軍をEU部隊に置き換えるよう再度要請",
+      "summary": "ドイツは、年末にUNIFILの任期が切れた後、レバノン南部での「治安の空白」を避けるため、EU部隊の派遣を再度要請した。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "55d28973bc0c0ff548d1bada991c2ce7",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-14T17:13:27.000Z",
+      "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "北ガザの警察署へのイスラエル空爆で7人死亡と当局発表",
+      "summary": "北ガザのハマスが運営する警察署へのイスラエル軍の空爆で7人が死亡。イスラエル軍は「テロリスト」を標的にしたと発表した。"
+    }
+  },
+  "SA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9b3193ebfb99fffcc9c69de1cbf8531b",
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-14T10:02:43.000Z",
+      "description": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "サヌア空港への攻撃後、イエメンのフーシ派がサウジアラビアにミサイルを発射",
+      "summary": "イランが支援するフーシ派はサヌア空港への攻撃をサウジアラビアのせいだとし、報復としてアブハ空港を標的としたミサイルをサウジアラビアに発射した。"
+    }
+  },
+  "GH": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0dcb5c26d7e299cf00c35a2990c6ee10",
+      "title": "Ghana’s queer movement is losing a fight it could be ‘winning’",
+      "url": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning",
+      "published_at": "2026-06-15T06:00:10.000Z",
+      "description": "Passing the anti-LGBTQ+ bill days after receiving global acclaim for human rights advocacy would expose Ghana’s rank hypocrisy, potentially undermining the very reparations dialogue the government claims to prioritize.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ガーナのクィア運動は「勝てたはず」の戦いに敗れている",
+      "summary": "ガーナで反LGBTQ+法案が可決されると、人権擁護で評価された同国の偽善が露呈し、賠償対話が損なわれる恐れがある。"
+    }
+  },
+  "DZ": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7183cef6efe375413358afef74d1e127",
+      "title": "Children among dead at Algeria foster care home blaze - president",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-16T16:14:45.000Z",
+      "description": "Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "DZ",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "アルジェリアの里親施設火災で子供たちが死亡 - 大統領",
+      "summary": "アルジェリアの里親施設で火災が発生し、子供を含む11人が死亡、19人が負傷したと大統領が発表した。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0fa10ea5b57293f83b797f779d1b7e7e",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T23:02:49.000Z",
+      "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 45,
+      "titleJa": "コンゴ民主共和国の森で「隠れていた」オレンジ色の唇を持つ新種のサルが発見される",
+      "summary": "コンゴ民主共和国の熱帯雨林で、科学者たちがオレンジ色の唇を持つ新種のサルを発見したと発表。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8ccda7a16d557b135f3943da3c0a2164",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-11T23:27:45.000Z",
+      "description": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "ケニアで女性の姓を持つ男性が嘲笑に立ち向かう方法",
+      "summary": "ケニアでは子供が父親のファーストネームを姓として継ぐ慣習があるが、変化する伝統の中で女性の姓を持つ男性が直面する課題が報じられた。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "00acf467e0212aae2351357b6c663f7f",
+      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-11T00:46:15.000Z",
+      "description": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ナイジェリアで偽の大統領評議会が約100万ドルの予算を獲得した経緯",
+      "summary": "ナイジェリアで偽の大統領評議会が偽造された任命書に基づき約100万ドルの予算を得ていたことが発覚。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5c0ad3fa2a2c0c224697c7e730bf48b1",
+      "title": "Online visibility becomes currency for young Cameroonians",
+      "url": "https://globalvoices.org/2026/07/05/online-visibility-becomes-currency-for-young-cameroonians",
+      "published_at": "2026-07-05T08:00:27.000Z",
+      "description": "In Cameroon, many young people combine university studies, part-time jobs, and social media content creation, turning their online presence into a valuable source of income while diversifying their earning opportunities.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "オンラインの可視性がカメルーンの若者の通貨になる",
+      "summary": "カメルーンの若者が大学の勉強、パートタイムの仕事、ソーシャルメディアでのコンテンツ作成を組み合わせ、オンラインでの存在を収入源に変え、収益機会を多様化している。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2de2352410b733978292508aeedb16f2",
+      "title": "Rubbish as a resource: How communities in Mozambique transform waste into climate solutions",
+      "url": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions",
+      "published_at": "2026-06-02T18:00:51.000Z",
+      "description": "Faced with rapid urbanization, fragile waste management systems, youth unemployment and growing climate vulnerability, artists, activists, musicians, and community entrepreneurs in Mozambique develop local responses to address an environmental crisis.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "ごみは資源：モザンビークのコミュニティはいかにして廃棄物を気候変動対策に変えるか",
+      "summary": "モザンビークのコミュニティは、都市化や劣悪な廃棄物管理、若年層の失業、気候変動への脆弱性に直面し、廃棄物を気候変動対策に変える取り組みを開発している。"
+    }
+  },
+  "IT": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7c56b687992c23c8e8715979294b3c64",
+      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T11:44:28.000Z",
+      "description": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "イタリアのメローニ首相、選挙改革を巡る僅差の投票で予想外の挫折",
+      "summary": "イタリアのメローニ首相が、選挙改革を巡る僅差の採決で敗北を喫し、来年の総選挙を前に野党から辞任要求が上がった。"
+    }
+  },
+  "BE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d17a21489ca4bc2672da02ee62209a0d",
+      "title": "Six people found dead in lift shaft after fire in central Brussels building",
+      "url": "https://www.bbc.co.uk/news/articles/c9323knejyzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-14T15:16:07.000Z",
+      "description": "The bodies were recovered in a rescue operation that lasted several hours, officials say.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "BE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "ブリュッセル中心部のビル火災後、エレベーターシャフトで6人の遺体を発見",
+      "summary": "ブリュッセル中心部の建物で火災が発生し、数時間にわたる救助活動の後、エレベーターシャフトから6人の遺体が見つかったと当局が発表した。"
+    }
+  },
+  "VE": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "69d6c28bb501de0a7671256bc767c4e2",
+      "title": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and years of structural neglect",
+      "url": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect",
+      "published_at": "2026-07-15T04:00:57.000Z",
+      "description": "The dual earthquakes revealed how geology, corruption, and a longstanding humanitarian emergency amplified destruction across La Guaira, Caracas and seven other Venezuelan cities.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "なぜベネズエラの地震は壊滅的だったのか：地質、脆弱性、そして長年の構造的放置",
+      "summary": "ベネズエラで発生した2つの地震は、地質、汚職、長期にわたる人道危機が破壊をいかに拡大させたかを明らかにした。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5a09ed2c7a4543452cf93c2367f998cf",
+      "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+      "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-13T10:30:51.000Z",
+      "description": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "警察官に変装した男らがエクアドルの麻薬王の兄弟を殺害",
+      "summary": "エクアドルで、警察官を装った男たちが麻薬王「エル・フィト」の兄弟であるダビッド・マシアスを殺害した。「エル・フィト」は米国で裁判を待っている。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "86a105f80c960119b3256b4abea0fea9",
+      "title": "Colombia becomes the first Latin American country to ban female genital mutilation",
+      "url": "https://globalvoices.org/2026/07/06/colombia-becomes-the-first-latin-american-country-to-ban-female-genital-mutilation",
+      "published_at": "2026-07-06T04:09:07.000Z",
+      "description": "Colombia just prohibited female genital mutilation after approving a bill called “Girls Without Ablation.” It is a law born within the communities that needed it most.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "コロンビア、ラテンアメリカ初の女性性器切除禁止国に",
+      "summary": "コロンビアが「切除なき少女たち」法案を承認し、ラテンアメリカで初めて女性性器切除を禁止した。"
+    }
+  },
+  "TH": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "972c9583820b51b847c38b83d668e262",
+      "title": "Bangkok's bar fire is the city's latest deadly blaze - will anything ever change?",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e68n3jz5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T22:03:47.000Z",
+      "description": "The same horrific scenes have played out before, spurring calls for action. So why has this happened again?",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "バンコクのバー火災はまたもや死者を出した炎上事故 - 何か変わるのか？",
+      "summary": "バンコクで発生したバー火災は、またしても多くの死者を出し、過去にも同様の悲劇が繰り返されてきたことから、状況改善への疑問が投げかけられている。"
+    }
+  },
+  "HK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4a8c9f43d66412f877bb08f76b0bef70",
+      "title": "Five arrested after Hong Kong police raid independent bookshops",
+      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-15T16:51:07.000Z",
+      "description": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "HK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "香港警察が独立系書店を家宅捜索、5人を逮捕",
+      "summary": "香港警察が「扇動的な」書籍を販売した疑いで独立系書店を家宅捜索し、5人を逮捕した。当局は、これらの書籍が「当局への憎悪」を煽ったと主張している。"
+    }
+  },
+  "BT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "062e05e1d9e7b42fabbb57f63269360a",
+      "title": "Bhutan resumes negotiations to join the WTO after 18-year hiatus",
+      "url": "https://www.wto.org/english/news_e/news26_e/acc_09jul26_455_e.htm",
+      "published_at": "2026-07-09T00:00:00.000Z",
+      "description": "At the 5th meeting of the Working Party on the Accession of Bhutan held on 9 July, WTO members welcomed the country back to the negotiating table after 18 years. Bhutan reaffirmed its strong commitment to joining the WTO, while highlighting the positive economic developments achieved since 2008.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "BT",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "ブータン、18年の休止期間を経てWTO加盟交渉を再開",
+      "summary": "ブータンは18年ぶりにWTO加盟交渉の場に戻り、加盟への強いコミットメントと2008年以降の経済発展を強調した。"
+    }
+  },
+  "GE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bb3b8150be7b34d8e5ca79ef10afa398",
+      "title": "DG Ngozi Okonjo-Iweala welcomes President Kavelashvili of Georgia to the WTO",
+      "url": "https://www.wto.org/english/news_e/news26_e/dgno_08jul26_445_e.htm",
+      "published_at": "2026-07-08T00:00:00.000Z",
+      "description": "WTO Director-General Ngozi Okonjo-Iweala welcomed the President of Georgia, Mikheil Kavelashvili, to the WTO on 8 July to discuss Georgia's economic and trade performance, its engagement in the multilateral trading system, and current developments in the global trading environment.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "GE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "オコンジョ=イウェアラ事務局長、グルジアのカベラシュヴィリ大統領をWTOに歓迎",
+      "summary": "オコンジョ=イウェアラWTO事務局長は、グルジアのカベラシュヴィリ大統領を迎え、同国の経済・貿易実績や多角的貿易体制への関与について議論した。"
+    }
+  }
+}
