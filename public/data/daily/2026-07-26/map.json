@@ -1,0 +1,922 @@
+{
+  "DE": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b34c8e562a5cfc2de86cd83bc4a4c372",
+      "title": "Germany launches manhunt after Berlin Pride van ramming",
+      "url": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-26T05:51:00.000Z",
+      "description": "Police believe the 21-year-old suspect, named as Abdul B., has links to the Islamist scene. One person was killed and several others injured in the attack. Follow DW for more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "ドイツ、ベルリンのプライドイベントでのバン突入事件後、容疑者の大規模捜索を開始",
+      "summary": "警察は、21歳の容疑者アブドゥル・Bがイスラム過激派グループと関係があると見ています。この攻撃で1人が死亡し、数人が負傷しました。"
+    }
+  },
+  "FR": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0308a7a143adf82f864d6ebea11a17a2",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated ",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-26T09:16:46.000Z",
+      "description": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "フランス、火災の「旋風」と闘い、さらに5万5千人が避難",
+      "summary": "フランスとスペインで山火事が猛威を振るい、5万5千人が追加で避難。これまでに34万人以上が避難を余儀なくされている。"
+    }
+  },
+  "US": {
+    "count": 8,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9f6ee5a26e28f8a3e70ad528e72f8145",
+      "title": "What tariffs has Trump introduced and why?",
+      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T08:28:16.000Z",
+      "description": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "US",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 88,
+      "titleJa": "トランプ氏が導入した関税とは何か、その理由は？",
+      "summary": "トランプ氏の不安定な貿易政策が世界経済に混乱をもたらし、米国の一部物価上昇を引き起こした関税について解説。"
+    }
+  },
+  "PS": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "844c107590a8287f9912ea1b96ab8622",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T22:49:59.000Z",
+      "description": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ヨルダン川西岸でパレスチナ人4人とイスラエル人2人が射殺される",
+      "summary": "ヨルダン川西岸での銃撃事件で、パレスチナ人4人とイスラエル人2人が死亡。パレスチナ側は入植者による襲撃を、イスラエル軍はパレスチナ人による発砲を主張している。"
+    }
+  },
+  "IN": {
+    "count": 8,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9b7149eb410f6af07cb5994fd6a6fd6e",
+      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T16:12:34.000Z",
+      "description": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "インドのゴキブリ抗議デモ：警察官が「ペレット銃」を発砲する映像が公開",
+      "summary": "インドのデリーで、教育改革を求める「ゴキブリ抗議デモ」に数千人が参加。映像には警察官がペレット銃を発砲する様子が映っており、緊張が高まっている。"
+    }
+  },
+  "UA": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "cc14762ea27b03c4fd0b8b8df0777176",
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-20T00:19:12.000Z",
+      "description": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "「誰もが死を恐れている」：ウクライナでの兵士募集が暴力的様相に",
+      "summary": "ウクライナでは、兵士の募集活動が困難に直面し、徴兵官に対する攻撃が激化していると警察が報告。国民が死を恐れる状況を浮き彫りにする。"
+    }
+  },
+  "SA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "743eae2909a9f1c7db7dfe7b1ff1efb1",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T06:34:40.000Z",
+      "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イラン支援のフーシ派、サウジアラビアへのミサイル攻撃を主張",
+      "summary": "イランが支援するフーシ派がサウジアラビアへのミサイル攻撃を主張。米軍はイランの封鎖を回避しようとしたタンカーを無力化したと発表した。"
+    }
+  },
+  "PK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "72402ec932e1562f90864f61c73686c0",
+      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-26T10:11:00.000Z",
+      "description": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the elections to be boycotted.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "パキスタン支配下のカシミール選挙は緊張を和らげるか？",
+      "summary": "パキスタン支配下のカシミールで、インド支配下のカシミールからの避難民の議席を巡る抗議活動が数週間続いた後、選挙が実施されます。一部の地元団体は選挙のボイコットを呼びかけています。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "367cc2fecd3c43938ab22c46b0fb6c1f",
+      "title": "Sudan civil war: Civilians used as 'human shields'",
+      "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-26T09:56:00.000Z",
+      "description": "The situation in the besieged city of El Obeid in Sudan is worsening by the day, with rights organizations warning of mass atrocities. Children are traumatized and do not dare go to school.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "スーダン内戦：市民が「人間の盾」として利用される",
+      "summary": "スーダンの包囲された都市エル・オベイドでは状況が日々悪化しており、人権団体は大規模な残虐行為を警告しています。子どもたちはトラウマを抱え、学校に行くこともできません。"
+    }
+  },
+  "VN": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4c0d5471c995c3a82297f900f3f6d2c5",
+      "title": "Vietnamese vessel sinks in South China Sea, 23 missing",
+      "url": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-23-missing/a-78118211?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-07-26T07:46:00.000Z",
+      "description": "A Vietnamese-registered cargo ship carrying 62 crew members sank near Yongshu Reef in the South China Sea, one of the world's most important and contested maritime spaces.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "VN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "南シナ海でベトナム船が沈没、23人行方不明",
+      "summary": "南シナ海の永暑礁付近で、ベトナム船籍の貨物船が沈没し、乗組員62名のうち23名が行方不明となっています。ここは世界で最も重要かつ係争の多い海域の一つです。"
+    }
+  },
+  "BR": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2f58baabbae69629eebac8258ffec85d",
+      "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
+      "published_at": "2026-07-24T11:49:19.000Z",
+      "description": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon\nIndigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are running rampant across the region, destroying rainforest, building roads and trafficking drugs.\nEarlier this month, masked men armed with semi-automatic weapons entered homes in Apiwtxa, a village in the Kampa do Rio Amônia Indigenous territory, intimidating people and searching for targets.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "マスクを被った男たちがアマゾン地域を侵略し「人質」に、組織犯罪が急増",
+      "summary": "ブラジルとペルー国境のアマゾン地域で、組織犯罪集団が先住民コミュニティを「人質」に取り、森林破壊や麻薬密売を行っていると地元リーダーが報告。武装した男たちが家々に侵入する事件も発生。"
+    }
+  },
+  "AO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "79cfbd79c945eb96303f263e9cfdc224",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "published_at": "2026-07-23T14:24:01.000Z",
+      "description": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year\nTwo Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.\nLev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. They had denied the charges, claiming they were in Angola for cultural and business activities.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "AO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "アンゴラでテロとスパイ行為によりロシア人2人が投獄",
+      "summary": "アンゴラの裁判所は、昨年クーデターを計画し、デモを組織したとしてロシア人2人にテロとスパイ行為の有罪判決を下し、それぞれ8年と11年の禁固刑を言い渡した。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b9b839b2dd7251900069b801f7455e2f",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "published_at": "2026-07-23T14:06:01.000Z",
+      "description": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences\nThe British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement.\nWhile the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers to hold British soldiers accountable for any offences committed in the country.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "英国防省、英兵訴追権限を巡りケニアでの陸軍訓練を中止",
+      "summary": "ケニア政府が二国間防衛協定の批准を拒否したため、英陸軍はケニアでの訓練中止を余儀なくされた。ケニアは英兵の犯罪行為に対する地元当局の権限強化を求めている。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5e9106d43afdeab2898a0de464943842",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "published_at": "2026-07-21T22:39:00.000Z",
+      "description": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease\nA humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus.\nThe UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agency (UKHSA) said.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "DRCでの勤務後、ロンドンの病院でエボラウイルス感染の医療従事者を監視",
+      "summary": "コンゴ民主共和国（DRC）でエボラ患者を治療していた英国人援助活動家が、エボラウイルスに曝露した可能性があり、ロンドンの専門病院で監視下にある。"
+    }
+  },
+  "ST": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a3ee91dee03f5dc1d895b06fd21d3693",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "published_at": "2026-07-19T04:00:16.000Z",
+      "description": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent\nVoters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to burnish its democratic credentials.\nAccording to the National Election Commission, about 142,000 people are registered to vote in the tiny African state’s elections, approximately 15% of whom live in the diaspora.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ST",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 55,
+      "titleJa": "サントメ・プリンシペ、緊迫した大統領選挙へ",
+      "summary": "アフリカの小国サントメ・プリンシペで大統領選挙が行われ、現職のカルロス・ビラ・ノバ氏が独立候補として2期目を目指す。約14.2万人が有権者登録をしている。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e25c42b34a96a35592ab929199f6363d",
+      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
+      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "published_at": "2026-07-24T17:58:00.000Z",
+      "description": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record\n\nHow dangerous are wildfires and how can we stop them from getting worse?\n\nFresh wildfires have broken out in western Canada and forests continued to ⁠burn in Ontario as the country ⁠battled what the prime ​minister, Mark Carney, called one of the most intense wildfire seasons on record.\nNearly 34,000 lightning strikes over the past week led to a series of fires ⁠and evacuation orders in southern British Columbia. There were 25 evacuation orders and 90 active wildfires in the province as of Friday morning, and authorities said warming ⁠and drying conditions could cause them to grow.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "カナダ西部で数千回の落雷が新たな森林火災を引き起こす",
+      "summary": "カナダ西部で過去1週間で約3.4万回の落雷があり、ブリティッシュコロンビア州を中心に新たな森林火災が多数発生。今年度の森林火災シーズンは過去最も激しいものの一つとされている。"
+    }
+  },
+  "GY": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "36a7a62ab3c3368394bbd9584b68f23e",
+      "title": "Death toll from Guyana ferry disaster continues to rise",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-22T10:16:51.000Z",
+      "description": "The bodies of 53 people have been recovered, but dozens remain missing after the ferry capsized late on Saturday.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "GY",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "ガイアナのフェリー事故、死者数が増加の一途",
+      "summary": "ガイアナで土曜日の夜にフェリーが転覆した事故で、これまでに53人の遺体が収容されたが、依然として数十人が行方不明となっている。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "49031bd5e8d83a00875f6f64d1964032",
+      "title": "Pedro Sánchez: \"The scale of the disaster we are living through is very hard to accept\"",
+      "url": "http://www.euronews.com/my-europe/2026/07/26/pedro-sanchez-the-scale-of-the-disaster-we-are-living-through-is-very-hard-to-accept",
+      "published_at": "2026-07-26T09:58:25.000Z",
+      "description": "The joint appearance by the unified command tackling the fires in Madrid, Ávila and Toledo and the prime minister underlined close cooperation. They urge the public to focus on prevention and act with caution.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "ペドロ・サンチェス：「私たちが経験している災害の規模は受け入れがたい」",
+      "summary": "マドリード、アビラ、トレドでの火災に対処する統合司令部とスペイン首相の共同会見。首相は、火災の規模が非常に深刻であり、国民に予防と注意を促した。"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f4e9c6bd068bca9b87416fd78342f875",
+      "title": "Guardiola turns down Italy manager job",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T09:47:25.000Z",
+      "description": "Former Manchester City manager Pep Guardiola turns down the chance to coach Italy.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "グアルディオラ、イタリア代表監督のオファーを辞退",
+      "summary": "元マンチェスター・シティ監督のペップ・グアルディオラが、イタリア代表監督の就任オファーを断った。"
+    }
+  },
+  "RO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b7a1968e6dd80b2c1d0e23a37cdb0653",
+      "title": "Romanian forces shoot down third drone in three days",
+      "url": "http://www.euronews.com/my-europe/2026/07/26/romanian-forces-shoot-down-third-drone-in-three-days",
+      "published_at": "2026-07-26T08:36:01.000Z",
+      "description": "The Romanian Prosecutor General's Office has determined that a drone intercepted by Romanian forces on Friday was of the Shahed-type used by Russia in its war against Ukraine, officials have said.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "RO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "ルーマニア軍、3日間で3機目のドローンを撃墜",
+      "summary": "ルーマニア軍が3日間で3機目のドローンを撃墜。ルーマニア検察総長室は、このドローンがロシアがウクライナ戦争で使用するシャヘド型であると断定した。"
+    }
+  },
+  "IR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b9413a783a00a29e9642220dd4e3457b",
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T04:49:24.000Z",
+      "description": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "「彼らの罪は何だったのか？」：BBC、イランの学校を訪問、攻撃で120人の子供が死亡",
+      "summary": "イランのミナーブで発生した学校への攻撃により120人の子供が死亡。約5ヶ月経った今も、教師や母親たちの悲しみは深く、現場の悲惨さが伝えられている。"
+    }
+  },
+  "JP": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9724d478f70807052fb1a7129b9945c5",
+      "title": "Could you run a country on just three hours of sleep? Japan's PM says she does",
+      "url": "https://www.bbc.co.uk/news/videos/cz05l8ndy0mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T22:03:09.000Z",
+      "description": "Japan’s prime minister Sanae Takaichi says she survives on zero to three hours a night, and people are reacting.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "睡眠時間わずか3時間で国を運営できるか？日本の首相が語る",
+      "summary": "日本の高市早苗首相が、毎晩0〜3時間の睡眠で職務をこなしていると発言し、国民の間で議論を呼んでいる。この睡眠習慣が国の運営にどう影響するかに関心が集まっている。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8280bc11f142a1e239ecedb5d5571338",
+      "title": "Israeli protesters denounce deadly settler violence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss",
+      "published_at": "2026-07-26T10:06:52.000Z",
+      "description": "Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "イスラエル人抗議者が致命的な入植者暴力を非難",
+      "summary": "数十人のイスラエル人活動家がテルアビブで、占領下のヨルダン川西岸地区における入植者による暴力行為に抗議した。"
+    }
+  },
+  "TN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0251eb2782825435239185e68345aaf2",
+      "title": "Thousands rally against Tunisia’s president five years after power grab",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+      "published_at": "2026-07-26T08:55:46.000Z",
+      "description": "Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "TN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "権力掌握から5年、チュニジア大統領に反対する数千人規模の集会",
+      "summary": "チュニジアの首都で数千人が行進し、権力掌握から5年を迎えたカイス・サイード大統領の辞任を要求した。"
+    }
+  },
+  "YE": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a517abe91e672ab91a66955bc77f9ec2",
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T01:59:49.000Z",
+      "description": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "フーシ派攻撃、中東の紛争拡大と世界経済へのさらなる打撃を懸念",
+      "summary": "イランが支援するイエメンのフーシ派がサウジ船舶を標的にすると脅しており、中東紛争の拡大と世界経済への影響が懸念されている。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2aa761a7ccd930c939af3dd209de6716",
+      "title": "Dancing with Shakira at World Cup was 'very, very, very, very, very good' - Ghetto Kids",
+      "url": "https://www.bbc.co.uk/news/articles/cly5j2gq587o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T14:45:22.000Z",
+      "description": "The child stars tell the BBC of their excitement entertaining their biggest crowd yet at the World Cup final.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 20,
+      "titleJa": "シャキーラとワールドカップで踊ったのは「最高に最高だった」とゲットー・キッズ",
+      "summary": "ゲットー・キッズがワールドカップ決勝でシャキーラと共演した喜びを語り、これまでで最大の観客を前にパフォーマンスした興奮を伝えた。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "14aac6165aff6de80580cdd5ee880d09",
+      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T11:53:49.000Z",
+      "description": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "南アフリカ大統領、「ファームゲート」に関する弾劾調査の一時停止を勝ち取る",
+      "summary": "南アフリカのラマポーザ大統領が、2020年に私有農場から多額の現金が盗まれた件に関する弾劾調査の一時停止を求める申し立てで勝訴した。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4b4f4c68d985ef1e29c8b520b98a743a",
+      "title": "Seven stars to watch at Wafcon 2026 and why",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crk8jvpdnvno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T18:18:40.000Z",
+      "description": "As the biggest ever Women's Africa Cup of Nations gets ready for kick-off, BBC Sport Africa picks seven players to keep an eye on in Morocco.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 30,
+      "titleJa": "2026年WAFCONで注目すべき7人のスター選手とその理由",
+      "summary": "史上最大規模となる女子アフリカネイションズカップ（WAFCON）の開幕を控え、BBCスポーツアフリカがモロッコ大会で注目すべき7選手を紹介する。"
+    }
+  },
+  "SN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "87e73cc24b9e1d653e66bdeb125fb7d4",
+      "title": "Africa prepares for historic Olympic moment at Dakar 2026",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cp87p3n1zrpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T09:40:06.000Z",
+      "description": "The Dakar 2026 Youth Olympics are set to have a \"monumental\" impact when the Senegalese capital becomes the first African city to host an Olympic event.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SN",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "アフリカ、2026年ダカール大会で歴史的なオリンピックの瞬間を準備",
+      "summary": "セネガル首都ダカールがアフリカ初のオリンピックイベント開催都市となる2026年ユースオリンピックは、「記念碑的」な影響をもたらすと期待されている。"
+    }
+  },
+  "TZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "81dacdf1da182db5a2e870638374546a",
+      "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T12:55:58.000Z",
+      "description": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "TZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "反政府デモで逮捕されたタンザニア人講師がテロ容疑で起訴される",
+      "summary": "民主的改革を求める計画されたデモを巡り、130人以上が拘束された中、タンザニア人講師がテロ容疑で起訴された。"
+    }
+  },
+  "SO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "feec97f87249719d4076d31b5294bd61",
+      "title": "Coming home from Al-Shabaab: What determines whether communities forgive in Somalia",
+      "url": "https://globalvoices.org/2026/07/18/coming-home-from-al-shabaab-what-determines-whether-communities-forgive-in-somalia",
+      "published_at": "2026-07-18T08:44:41.000Z",
+      "description": "People whose immediate family had been killed by al-Shabaab were measurably less willing to accept defectors, a reminder that reconciliation has to compete with real grief and fear.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "アル・シャバーブからの帰還：ソマリアでコミュニティが許しを与えるかを決めるもの",
+      "summary": "ソマリアにおいて、テロ組織アル・シャバーブから帰還した人々に対し、コミュニティが許しを与えるかどうかの要因を探る。家族を失った人々は許しがたいと感じる現実を提示。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5c0ad3fa2a2c0c224697c7e730bf48b1",
+      "title": "Online visibility becomes currency for young Cameroonians",
+      "url": "https://globalvoices.org/2026/07/05/online-visibility-becomes-currency-for-young-cameroonians",
+      "published_at": "2026-07-05T08:00:27.000Z",
+      "description": "In Cameroon, many young people combine university studies, part-time jobs, and social media content creation, turning their online presence into a valuable source of income while diversifying their earning opportunities.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "オンラインでの存在感がカメルーンの若者にとっての通貨となる",
+      "summary": "カメルーンの若者たちが学業やアルバイトと並行してソーシャルメディアでの活動を行い、そのオンラインでの存在感を収入源に変え、収益機会を多様化している状況を描写。"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "78decf9c492eef393219922d812d64e2",
+      "title": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
+      "url": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs",
+      "published_at": "2026-06-18T20:00:25.000Z",
+      "description": "Despite comprising 50 percent of the population, women hold just 4.5 percent of seats in the National Assembly. Nigeria consistently ranks near the bottom globally and in Africa on women’s parliamentary representation.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "特別議席法案はナイジェリアが必要とするジェンダー平等を達成できるか？",
+      "summary": "ナイジェリアの国会における女性議員の著しい少なさを是正するため、「特別議席法案」がジェンダー平等を実現できるかについて考察。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0dcb5c26d7e299cf00c35a2990c6ee10",
+      "title": "Ghana’s queer movement is losing a fight it could be ‘winning’",
+      "url": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning",
+      "published_at": "2026-06-15T06:00:10.000Z",
+      "description": "Passing the anti-LGBTQ+ bill days after receiving global acclaim for human rights advocacy would expose Ghana’s rank hypocrisy, potentially undermining the very reparations dialogue the government claims to prioritize.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 88,
+      "titleJa": "ガーナのクィア運動は「勝利」できるはずの戦いに負けつつある",
+      "summary": "ガーナで反LGBTQ+法案が可決されれば、人権擁護で評価を得たばかりのガーナ政府の偽善が露呈し、政府が優先する賠償対話が損なわれる可能性について警鐘を鳴らす。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "cc8463dda311929307dcf92ce9d38419",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T06:15:35.000Z",
+      "description": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ウクライナによるワイルドベリーズへの攻撃でロシア企業が苦境に",
+      "summary": "ウクライナのドローン攻撃により、ロシア最大のオンライン小売業者ワイルドベリーズの複数の倉庫が被害を受け、ロシア企業が圧迫されている。"
+    }
+  },
+  "VE": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6a58511290355031471617cab3d890c7",
+      "title": "Former Venezuelan President Nicolás Maduro to face trial next June ",
+      "url": "https://www.bbc.co.uk/news/articles/cr5936455gmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-22T17:59:40.000Z",
+      "description": "Maduro and his wife, who were seized and bought to the US earlier this year, deny the weapons and drug charges against them.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ニコラス・マドゥロ元ベネズエラ大統領、来年6月に裁判へ",
+      "summary": "元ベネズエラ大統領のマドゥロ氏とその妻が、今年初めに米国で逮捕され、来年6月に武器・麻薬密売の容疑で裁判に直面する。両容疑を否認。"
+    }
+  },
+  "NI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ee2b894d5ad1837e808453362bb338f2",
+      "title": "Nicaragua's legislature debates barring opposition from elections",
+      "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T15:54:41.000Z",
+      "description": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "NI",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ニカラグア議会、野党の選挙参加禁止を議論",
+      "summary": "ニカラグアで、オルテガ大統領が野党への「壁、封鎖」を要求した数日後、議会が野党の選挙参加を禁止する法案を議論している。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "09ccff448cfac99d4404df67b9b5b209",
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-22T20:56:26.000Z",
+      "description": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "ペルーで火災により同家族10人が死亡と警察発表",
+      "summary": "ペルーの首都リマで発生した火災で、一家10人が死亡したと警察が発表。当局は放火の可能性も視野に入れ、火災の原因を調査中。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "da00c5532d6bfad7fd82a289ee943fa6",
+      "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+      "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T11:21:47.000Z",
+      "description": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CL",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "チリが大雨に見舞われ洪水と避難、その様子を映像で",
+      "summary": "チリが豪雨に見舞われ、コキンボとワスコで「非常事態宣言」が発令され、複数の町が洪水に見舞われ住民が避難している。"
+    }
+  },
+  "CO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "86a105f80c960119b3256b4abea0fea9",
+      "title": "Colombia becomes the first Latin American country to ban female genital mutilation",
+      "url": "https://globalvoices.org/2026/07/06/colombia-becomes-the-first-latin-american-country-to-ban-female-genital-mutilation",
+      "published_at": "2026-07-06T04:09:07.000Z",
+      "description": "Colombia just prohibited female genital mutilation after approving a bill called “Girls Without Ablation.” It is a law born within the communities that needed it most.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 95,
+      "titleJa": "コロンビア、ラテンアメリカ初の女性性器切除禁止国に",
+      "summary": "コロンビアは「切除のない少女たち」法案を可決し、ラテンアメリカで初めて女性性器切除を禁止しました。これはコミュニティのニーズから生まれた重要な法律です。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8488368a7a7cfeb659da82f084858915",
+      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
+      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-13T00:05:46.000Z",
+      "description": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "メキシコの「フェンタニル王」と称される中国人卒業生",
+      "summary": "カルテル関係者や元同僚が、中国人卒業生の張志東が中国の化学物質をメキシコの麻薬製造工場にどのように結びつけたかについて語っている。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6c30ad1ebfde5d7770b85bd6116b3889",
+      "title": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against humanity",
+      "url": "https://globalvoices.org/2026/07/19/70-years-on-argentine-court-declares-operation-massacre-a-crime-against-humanity",
+      "published_at": "2026-07-19T17:21:27.000Z",
+      "description": "The victims’ families testified in court for the first time: \"We want justice served. Even though their killers are no longer here, I want the truth known.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "70年を経てアルゼンチン裁判所が「虐殺作戦」を人道に対する罪と認定",
+      "summary": "アルゼンチンの裁判所は、70年前の「虐殺作戦」を人道に対する罪と認定しました。被害者家族は初めて法廷で証言し、真実の解明と正義を訴えました。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7919f80beb8a8e0cd36a3691fc571512",
+      "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T22:15:14.000Z",
+      "description": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "大ヒット：アレックス・エアラのウィンブルドンでの活躍が、いかにしてフィリピン人にテニスへの愛をもたらしたか",
+      "summary": "アレックス・エアラのウィンブルドンでの活躍により、フィリピンでテニス人気が急上昇。かつて富裕層のスポーツだったテニスが、バスケットボールやボクシングが盛んな同国で新たなブームを迎えている。"
+    }
+  },
+  "KR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b688c1ee79f85c5c85de8f01a12b9e62",
+      "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dgz7e4m8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T22:03:49.000Z",
+      "description": "Night-time deliveries are ubiquitous in hyper-connected Korea, stirring a debate about working conditions.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "「体が蝕まれる」：韓国の超便利な深夜配送がもたらす人的コスト",
+      "summary": "韓国で普及している深夜配送が、労働者の健康に大きな負担を与えている。超便利なサービスが、過酷な労働条件に関する全国的な議論を巻き起こしている。"
+    }
+  },
+  "CN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8ba0f358b30abf596561fd0ac49f848e",
+      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-23T23:50:38.000Z",
+      "description": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "中国のAI企業ムーンショットAIがアンソロピックから盗用、トランプ元大統領の技術顧問が発言",
+      "summary": "中国のAI企業ムーンショットAIが、米国のアンソロピックから技術を盗用したとトランプ元大統領の技術顧問が主張。この疑惑は、中国のAI企業が米政府の監視を強めている中で浮上した。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9f3e028c6a4c1d035fafb317370a151e",
+      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T13:33:06.000Z",
+      "description": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "インドネシアの赤ちゃんがシンガポールへ人身売買された。彼らは今どうなるのか？",
+      "summary": "少なくとも12人のインドネシアの赤ちゃんがシンガポールに人身売買された事件が発生。彼らの今後の処遇についてはまだ不明な点が多く、国際的な懸念が高まっている。"
+    }
+  }
+}
