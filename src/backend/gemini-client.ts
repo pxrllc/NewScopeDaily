@@ -36,6 +36,7 @@ export class GeminiClient {
                 } catch (error: any) {
                     const status = error?.status ?? error?.code;
                     const isRetryable = status === 'UNAVAILABLE' || status === 503 || status === 429;
+                    console.log(`[${model}] Error detail: status=${status} message=${error?.message}`);
                     if (isRetryable && attempt < maxRetries) {
                         console.log(`[${model}] API unavailable (attempt ${attempt}/${maxRetries}), waiting 60s...`);
                         await this.delay(60000);
