@@ -87,9 +87,12 @@ export class DataGenerator {
     }
 
     // Generate RSS, Atom, and JSON Feeds in public/ directory
-    public generateFeeds(articles: Article[]) {
+    public generateFeeds(
+        articles: Article[],
+        summaries?: { world: string; regional: string; date: string; regionalFocus?: string }
+    ) {
         const publicDir = path.join(this.outputDir, '..');
-        
+
         // Sort articles by publication date descending (newest first)
         const sortedArticles = [...articles].sort((a, b) => {
             return new Date(b.published_at).getTime() - new Date(a.published_at).getTime();
@@ -116,6 +119,34 @@ export class DataGenerator {
                 link: "https://pxrllc.github.io/NewScopeDaily/"
             }
         });
+
+        // Add daily topic summaries (world / regional) as feed items so subscribers
+        // get the digest, not just the raw article list.
+        if (summaries) {
+            const pageLink = `https://pxrllc.github.io/NewScopeDaily/?date=${summaries.date}`;
+            const plainExcerpt = (md: string) =>
+                md.replace(/^[ \t]*[-*]\s+/gm, '').replace(/[#*_>`]/g, '').trim().slice(0, 200);
+
+            const topics: { title: string; md: string; idSuffix: string }[] = [
+                { title: `🌍 世界のトップニュース - ${summaries.date}`, md: summaries.world, idSuffix: 'world' },
+                {
+                    title: `📍 地域フォーカス${summaries.regionalFocus ? `: ${summaries.regionalFocus}` : ''} - ${summaries.date}`,
+                    md: summaries.regional,
+                    idSuffix: 'regional'
+                }
+            ];
+
+            topics.forEach(topic => {
+                feed.addItem({
+                    title: topic.title,
+                    id: `${pageLink}#${topic.idSuffix}`,
+                    link: pageLink,
+                    description: plainExcerpt(topic.md),
+                    content: marked.parse(topic.md) as string,
+                    date: new Date(`${summaries.date}T00:00:00+09:00`)
+                });
+            });
+        }
 
         sortedArticles.forEach(article => {
             const title = article.titleJa || article.title;

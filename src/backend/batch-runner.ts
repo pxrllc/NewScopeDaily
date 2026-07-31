@@ -106,6 +106,7 @@ async function main() {
         // 3. Summarize
         let worldSummary = "# World Summary (Generation Failed)";
         let regionalSummary = "# Regional Summary (Generation Failed)";
+        let focusRegion = "";
 
         try {
             console.log("Generating World Summary...");
@@ -114,7 +115,7 @@ async function main() {
             // Determine Regional Focus
             const day = new Date().getDay();
             const regions = ['Middle East', 'Asia', 'Africa', 'Middle East', 'Latin America', 'Europe', 'Africa'];
-            const focusRegion = regions[day];
+            focusRegion = regions[day];
 
             console.log(`Generating Regional Summary (${focusRegion})...`);
             regionalSummary = await gemini.generateDailySummary(processedArticles, 'regional', date, focusRegion);
@@ -139,7 +140,7 @@ async function main() {
         generator.generateMapJson(date, processedArticles);
         generator.saveSummaries(date, worldSummary, regionalSummary);
         generator.generateSourcesJson(finalArticles);
-        generator.generateFeeds(finalArticles);
+        generator.generateFeeds(finalArticles, { world: worldSummary, regional: regionalSummary, date, regionalFocus: focusRegion });
 
 
         // 5. Generate Date Manifest for Frontend Navigation
