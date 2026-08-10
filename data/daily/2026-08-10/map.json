@@ -1,0 +1,842 @@
+{
+  "RU": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ed9e570f44987e78a21b05f9de3484a1",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-06T15:41:05.000Z",
+      "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ウクライナ、ロシア領奥深くの石油精製所2ヶ所を攻撃",
+      "summary": "ウクライナ軍がロシア領内の石油精製所2ヶ所を攻撃。ウクライナ大統領は、これらの攻撃がロシアが戦争資金に充てている収入を制限することを目的としていると述べています。"
+    }
+  },
+  "CN": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "99df406c99e8098c9db099f61d9c512e",
+      "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
+      "published_at": "2026-08-10T08:44:34.000Z",
+      "description": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "中国、台風ドルフィン襲来で100万人を避難",
+      "summary": "中国では、台風ドルフィンが接近したため、100万人もの住民が避難を余儀なくされている。"
+    }
+  },
+  "TH": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "15273bab35b69bbcad7bbae2e454a554",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-07T21:19:27.000Z",
+      "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "タイ首相、銃撃事件で8人死亡を受け厳格な銃規制法導入を公約",
+      "summary": "14歳の少年による銃撃事件で8人が死亡したことを受け、タイ首相はより厳格な銃規制法の導入を約束した。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "20b9065ce0402104a179a35a9cd5ecb1",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-08T19:00:22.000Z",
+      "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "オーストラリアは地球の絶滅ホットスポットだが、ある動物が希望の光を示す",
+      "summary": "オーストラリアは世界で最も多くの固有種が生息するが、それらを驚くべき速さで失っている。しかし、ある動物が希望を与えている。"
+    }
+  },
+  "IE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "04fed5edd7a41a0291ef3fd5e01819c6",
+      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-10T09:33:25.000Z",
+      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "容疑者である犯罪組織のボス、アイルランドで初夜を拘留施設で過ごす",
+      "summary": "ドバイから引き渡された容疑者の犯罪組織ボス、キナハンがアイルランドで拘留の初夜を迎えた。彼の法廷への輸送には防弾・防爆バンが使用された。"
+    }
+  },
+  "IL": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4cbc5a925ce53423e471a4ad27c63df7",
+      "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+      "url": "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-09T23:11:00.000Z",
+      "description": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, setting himself against a US-backed roadmap endorsed by the group.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ネタニヤフ首相、トランプ氏と対立しガザ和平案を拒否",
+      "summary": "イスラエル首相は、ハマスが完全に武装解除するまで自国はガザから撤退しないと述べ、同グループが支持する米国主導のロードマップに反対の姿勢を示した。"
+    }
+  },
+  "ZA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f1dc61f75b67912b98a91831b91c6e47",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-09T23:05:29.000Z",
+      "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "南アフリカ特殊部隊が幹部刑事を殺害した証拠がBBCに共有される",
+      "summary": "南アフリカの特殊部隊が運転中の幹部刑事フラン・マシパ氏を射殺したとされる証拠がBBCに提供された。この事件では8人の容疑者が訴追されている。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "599f778d31910fc4cefaa1f026c54b25",
+      "title": "Germany news: Low water on Rhine could sever freight route",
+      "url": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-10T06:22:00.000Z",
+      "description": "Germany's inland shipping association has warned that the Rhine could soon become effectively split in two as water levels continue to fall. In Berlin, a man was shot dead near a busy central transport hub. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ドイツニュース：ライン川の低水位が貨物輸送ルートを寸断する可能性",
+      "summary": "ドイツの内陸水運協会は、水位が下がり続けるライン川がまもなく事実上分断される可能性があると警告。また、ベルリンの交通量の多い中心部近くで男性が射殺された。"
+    }
+  },
+  "IT": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d6e4dbd711d0c29d9b603360894b75ac",
+      "title": "Etna eruption: arrivals halted at Catania airport",
+      "url": "http://www.euronews.com/my-europe/2026/08/10/etna-eruption-arrivals-halted-at-catania-airport",
+      "published_at": "2026-08-10T09:11:33.000Z",
+      "description": "Due to the eruption of Mount Etna, Catania airport has announced the suspension of incoming flights until 17:00 on Monday 10 August.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 65,
+      "titleJa": "エトナ山噴火：カターニア空港、到着便を停止",
+      "summary": "エトナ山の噴火により、カターニア空港は8月10日月曜日の17時まで到着便の運航を停止すると発表した。"
+    }
+  },
+  "CA": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "08545df88774dd313e0811455cf1278a",
+      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+      "published_at": "2026-08-09T18:20:25.000Z",
+      "description": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts\nCanada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires that killed one person and forced about 22,000 people to flee their homes in frantic evacuations.\nA total of 102 wildfires were raging across the province on Sunday, of which nearly half were categorised as “out of control”, according to the BC Wildfire Service. Of those fires, 78 ignited during the past week.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "カナダ政府、「制御不能」な山火事で数千人が避難する中介入",
+      "summary": "カナダのブリティッシュコロンビア州で発生した大規模な山火事により、数万人が避難を余儀なくされ、連邦政府が緊急支援を発表した。102件の火災のうち約半分が制御不能な状態にある。"
+    }
+  },
+  "IN": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a9f024ee528bcdc77c97de812f12adac",
+      "title": "India police fire tear gas at protesters seeking exam reforms ",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-10T10:41:04.000Z",
+      "description": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "インド警察、試験改革を求める抗議者に催涙ガスを発射",
+      "summary": "ジャールカンド州で数千人の学生や求職者が集まり、試験改革を求めて抗議活動を行ったところ、警察が催涙ガスを発射した。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "570448a048691292114890050d5d540c",
+      "title": "Type 2 diabetes in young women increasingly common",
+      "url": "https://www.dw.com/en/type-2-diabetes-in-young-women-increasingly-common/a-78251712?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-10T06:06:00.000Z",
+      "description": "British researchers say rates of type 2 diabetes are growing most among women under 40. The disease is often underdiagnosed in women or diagnosed too late to reverse the condition's progression.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 60,
+      "titleJa": "若い女性における2型糖尿病がますます増加",
+      "summary": "イギリスの研究者によると、2型糖尿病の発生率が40歳未満の女性で最も増加している。この病気は女性では診断が遅れることが多く、進行を食い止めるには手遅れになる場合がある。"
+    }
+  },
+  "IR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b596bd9aba9a948efc5612ac7b504499",
+      "title": "Iran War:  Is Iran’s middle class being pushed into poverty?",
+      "url": "https://www.dw.com/en/iran-war-is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-10T04:46:00.000Z",
+      "description": "The war has intensified Iran’s economic crisis, squeezing household budgets, hurting businesses and raising fears that millions of middle-income families are slipping closer to poverty.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "イラン戦争：イランの中産階級は貧困に追いやられているのか？",
+      "summary": "戦争がイランの経済危機を激化させ、家計を圧迫し、企業に打撃を与え、何百万もの中所得世帯が貧困に近づいているという懸念が高まっている。"
+    }
+  },
+  "ES": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-04T21:45:20.000Z",
+      "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "EU、スペインのセウタ移民危機への「迅速な対応」を称賛",
+      "summary": "EUは、スペインの飛び地セウタで発生した移民危機に対するスペインの「迅速な対応」を称賛。スペインによると、先週不法入国した約7万2千人のうち、約7万人がモロッコに送還されました。"
+    }
+  },
+  "US": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3a0a41781b280947b08a9544385caeec",
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "published_at": "2026-08-06T15:41:29.000Z",
+      "description": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon\nThe US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing criticism that it is leaving a diplomatic vacuum at risk of being filled by China.\nThe US Congress has been served notice of the impending closures, which are being justified on cost grounds and follow a reassessment of the US’s bilateral relationships with a range of countries since Donald Trump returned to the White House in January 2025.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "米国、5つの領事館閉鎖へ 中国が外交的空白を埋めることを批評家が懸念",
+      "summary": "米国務省は、コスト削減を理由にカナダ、グレナダ、日本、インドネシア、カメルーンの5つの在外公館を閉鎖すると発表した。これにより、中国が外交的空白を埋める可能性があり、批判を招いている。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fcfd135844b2019fb963580580616d8b",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "published_at": "2026-08-06T16:18:46.000Z",
+      "description": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation\nThe virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials fear, as confirmed cases pass 4,000.\nAfrica’s public health watchdog said the time for incremental action was over as they announced plans to scale up every aspect of the response and go “door to door” looking for patients.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CD",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "コンゴ民主共和国での大規模なエボラ出血熱、ウイルスが変異している可能性と当局",
+      "summary": "コンゴ民主共和国で4,000件を超えるエボラ出血熱の大規模な発生があり、ウイルスが変異している可能性が懸念されている。公衆衛生当局は、患者を発見するため戸別訪問を含む対応の強化を発表した。"
+    }
+  },
+  "UG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c099f42705248bc57247c216570d77aa",
+      "title": "Why Uganda is winning the battle against Ebola as virus spreads in DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-01T23:03:15.000Z",
+      "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 85,
+      "titleJa": "コンゴ民主共和国でエボラウイルスが拡散する中、ウガンダがその戦いに勝利している理由",
+      "summary": "ウガンダが約2週間前に最後のエボラ患者を退院させ、ウイルスとの戦いに勝利している一方、コンゴ民主共和国ではエボラが依然として拡散している理由を説明する。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "913f9abb522f365a3552ff18f6203b17",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-04T15:07:52.000Z",
+      "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 77,
+      "titleJa": "2023年のイスラエル空爆で死亡したパレスチナ人112人の合同葬儀がガザで行われる",
+      "summary": "2023年のイスラエル空爆で死亡したパレスチナ人112人の遺体がガザ市のがれきの下から回収され、合同葬儀が行われた。犠牲者は2つの大家族のメンバーだった。"
+    }
+  },
+  "LB": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "09ab5ca2d1e5d704e239b79119ed4f87",
+      "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
+      "published_at": "2026-08-10T09:20:12.000Z",
+      "description": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "イスラエルがレバノン南部で家屋を破壊する中、苦悩する地元住民が見守る",
+      "summary": "レバノン南部でイスラエル軍による家屋の破壊活動が行われ、苦悩する地元住民がその様子を見守っている。"
+    }
+  },
+  "UA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5cb551382dce06c30679dad4614e4f92",
+      "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
+      "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
+      "published_at": "2026-08-10T09:09:08.000Z",
+      "description": "They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "「映画のよう」ウクライナの地上ロボットがいかに戦争のルールを変えているか",
+      "summary": "ウクライナの地上ロボットは、弾薬運搬、特攻任務、敵陣地占領能力を示し、戦争のルールを変えつつあると報じられている。"
+    }
+  },
+  "SA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8d725012d274032000579935331b7366",
+      "title": "Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T23:41:10.000Z",
+      "description": "Dozens, many from Tigray, are awaiting execution - some called the BBC to tell their stories.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "サウジアラビアの死刑囚エチオピア人らが処刑を免れようとBBCに電話",
+      "summary": "サウジアラビアで数十人のエチオピア人死刑囚（多くはティグレ出身）が処刑を待っており、その一部はBBCに電話をかけ、窮状を訴えている。"
+    }
+  },
+  "YE": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "43e17134d1ec7819201550ccba6c02bd",
+      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-06T22:41:09.000Z",
+      "description": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "フーシ派の攻撃でイエメン政府軍兵士少なくとも30人が死亡と報道",
+      "summary": "フーシ派がマリブとハドラマウトの中央州でサウジ軍の集結地点を攻撃。イエメン政府軍兵士少なくとも30人が死亡したと報じられている。"
+    }
+  },
+  "NG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "75ff1b9c65838959e2f80666340f7572",
+      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-09T01:10:50.000Z",
+      "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ナイジェリアの集団結婚式—恋愛相手と詐欺師の見分けが難しい理由",
+      "summary": "結婚に伴う費用を負担できないカップル向けのナイジェリアの集団結婚式制度で、純粋な愛と詐欺行為を区別することが難しくなっている。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "af80a404d552c3c2a62d64a3f7b03c67",
+      "title": "Editor of top Ethiopian independent news site seized by police, publisher says",
+      "url": "https://www.bbc.co.uk/news/articles/c934vygxxezo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-07T11:17:13.000Z",
+      "description": "Rights groups say this as part of a pattern of targeting news outlets - the government has not commented.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エチオピアの主要独立系ニュースサイト編集者が警察に拘束されたと発行元が発表",
+      "summary": "人権団体は、エチオピア政府が報道機関を標的にするパターンの一部だと指摘。政府はコメントしていないが、主要独立系ニュースサイトの編集者が警察に拘束された。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cfd96a80d79f47f8e7dd9034f5d3b9c1",
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-07T00:26:52.000Z",
+      "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "スーダンの「見えない子供たち」—戦争で生まれ、法的身分を持たない",
+      "summary": "スーダンでは、レイプの結果生まれた多くの子供たちが、出生証明書を取得できず、生涯にわたる問題に直面している。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "efb68b50f74d0436deaeb6800068b474",
+      "title": "Mysterious elephant deaths in Kenya raise questions around pesticides ",
+      "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-04T23:13:04.000Z",
+      "description": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ケニアでゾウの不審死、殺虫剤をめぐり疑問が浮上",
+      "summary": "ケニアでゾウの大量死が発生し、殺虫剤が原因とされているが、専門家は懐疑的な見方を示している。"
+    }
+  },
+  "CM": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f372281f3e476d89b164b3e70fad8977",
+      "title": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they still want a fair price",
+      "url": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price",
+      "published_at": "2026-08-10T06:24:22.000Z",
+      "description": "“We produce certified cocoa respecting standards, which means we have learned to keep the environment, the people, and the cocoa bean healthy- harmony between nature, people, and cocoa.”",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "カメルーン南東部のカカオ農家、EU規制に適応するも公正な価格を要求",
+      "summary": "カメルーン南東部のカカオ農家は、EU規制に従い環境や人、カカオ豆の健康を尊重した認定生産に取り組んでいるが、公正な価格の確保を求めている。"
+    }
+  },
+  "TZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "87a83fd8b9d250060f5496c27c0df869",
+      "title": "Whose conservation, whose development? The Maasai struggle over land in northern Tanzania",
+      "url": "https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania",
+      "published_at": "2026-08-07T18:51:58.000Z",
+      "description": "Conservation has become a tool for “green grabbing”: The taking of community land in the name of environmental protection while opening space for tourism, hunting, and investment interests.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "TZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "誰のための保全、誰のための開発？タンザニア北部マサイ族の土地闘争",
+      "summary": "タンザニア北部で、環境保護を名目にしたコミュニティの土地接収（グリーン・グラビング）が観光や投資のために行われ、マサイ族が土地を巡って闘争している。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "474d715c85dc39aec24c46d4a9f1fa7e",
+      "title": "The right to nationality in Mozambique: The application of ‘Jus soli’ in the fight against statelessness",
+      "url": "https://globalvoices.org/2026/07/30/the-right-to-nationality-in-mozambique-the-application-of-jus-soli-in-the-fight-against-statelessness",
+      "published_at": "2026-07-30T05:04:21.000Z",
+      "description": "Without a legal identity, an individual is stripped of basic human rights, barred from formal education, blocked from healthcare, denied basic state services and rights, and vulnerable to institutional exploitation.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "モザンビークにおける国籍取得の権利：無国籍との闘いにおける「出生地主義」の適用",
+      "summary": "モザンビークでは、法的身分がない個人は基本的な人権を剥奪されるため、無国籍対策として出生地主義の適用が重要視されている。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "feec97f87249719d4076d31b5294bd61",
+      "title": "Coming home from Al-Shabaab: What determines whether communities forgive in Somalia",
+      "url": "https://globalvoices.org/2026/07/18/coming-home-from-al-shabaab-what-determines-whether-communities-forgive-in-somalia",
+      "published_at": "2026-07-18T08:44:41.000Z",
+      "description": "People whose immediate family had been killed by al-Shabaab were measurably less willing to accept defectors, a reminder that reconciliation has to compete with real grief and fear.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "アル・シャバブからの帰還：ソマリアでコミュニティが許しを受け入れるかを決定する要因",
+      "summary": "アル・シャバブからの脱退者に対するコミュニティの許しは、被害者家族の有無によって大きく左右され、和解には深い悲しみと恐怖が伴うことが示されている。"
+    }
+  },
+  "RS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa3e531370bbcb8b65881cb0604477e8",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-07T20:40:56.000Z",
+      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RS",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 50,
+      "titleJa": "誘拐されたセルビアの希少なワシ、救出後に野生に放たれる",
+      "summary": "セルビアで巣立ち直後に誘拐され、中東の密猟者のもとにいた希少なワシ「フェリックス」が救出され、野生に戻されました。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
+      "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-07T12:04:25.000Z",
+      "description": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "ノルウェー、インファンティーノFIFA会長の辞任を要求 メキシコとCONMEBOLは支持",
+      "summary": "ノルウェーサッカー連盟は、ワールドカップの権益売却を試みたFIFA会長ジャンニ・インファンティーノの辞任を要求。一方でメキシコとCONMEBOLの会長はインファンティーノを支持しています。"
+    }
+  },
+  "CO": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "91675e0ad8a3ea027dcfae3b06a1a0f2",
+      "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-04T23:13:01.000Z",
+      "description": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "「祖母が私の知らない間に赤ちゃんに女性器切除を施した」",
+      "summary": "コロンビアで、一部の先住民族グループに今も残る女性器切除(FGM)を禁止する画期的な法案が制定された。これは深刻な人権問題への対応だ。"
+    }
+  },
+  "BR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b610a01c81eb401660f42d08d9285cc4",
+      "title": "How an AI research tool helped challenge support for police violence in Brazil",
+      "url": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil",
+      "published_at": "2026-07-22T15:10:57.000Z",
+      "description": "In 2023, Brazil recorded 45,747 intentional violent deaths — among the highest rates in the world. Like many democracies, the country has long grappled with the issue of large-scale public support for state violence.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "AI研究ツールがブラジルにおける警察の暴力支持に異議を唱えるのにどう役立ったか",
+      "summary": "2023年に暴力死が多発したブラジルで、AI研究ツールが国家暴力への大規模な国民の支持に異議を唱え、社会問題解決に貢献。"
+    }
+  },
+  "AR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6c30ad1ebfde5d7770b85bd6116b3889",
+      "title": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against humanity",
+      "url": "https://globalvoices.org/2026/07/19/70-years-on-argentine-court-declares-operation-massacre-a-crime-against-humanity",
+      "published_at": "2026-07-19T17:21:27.000Z",
+      "description": "The victims’ families testified in court for the first time: \"We want justice served. Even though their killers are no longer here, I want the truth known.”",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "70年を経て、アルゼンチン裁判所が「虐殺作戦」を人道に対する罪と認定",
+      "summary": "70年前の「虐殺作戦」について、アルゼンチン裁判所が人道に対する罪と認定。犠牲者遺族が初めて法廷で証言し、真実と正義を求めた。"
+    }
+  },
+  "MX": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1255ebd285d21de0da99b3917f68f582",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-07T15:38:28.000Z",
+      "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "メキシコとペルー、亡命問題の後、外交関係を修復",
+      "summary": "亡命問題で断絶していたメキシコとペルーの外交関係が修復された。元ペルー首相がメキシコ大使館に亡命を求めたことが発端だった。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b82e899f37c301c84a36ac20b5a74de3",
+      "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-28T05:01:19.000Z",
+      "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 78,
+      "titleJa": "エクアドルの麻薬戦争の最前線で、警察がギャング、銃、汚職と闘う",
+      "summary": "エクアドル警察は麻薬犯罪の急増に直面し、ギャング、銃器、そして組織内の汚職と闘う最前線にいる。"
+    }
+  },
+  "VE": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "69d6c28bb501de0a7671256bc767c4e2",
+      "title": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and years of structural neglect",
+      "url": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect",
+      "published_at": "2026-07-15T04:00:57.000Z",
+      "description": "The dual earthquakes revealed how geology, corruption, and a longstanding humanitarian emergency amplified destruction across La Guaira, Caracas and seven other Venezuelan cities.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "ベネズエラの地震がなぜこれほど壊滅的だったのか：地質、脆弱性、そして長年の構造的放置",
+      "summary": "ベネズエラの二つの地震が壊滅的だったのは、地質、汚職、長年の人道危機が複合的に破壊を増幅させたためと判明。"
+    }
+  },
+  "NI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a5c693a81138f3f7c98e3cdbebfbdfdc",
+      "title": "Weaponizing citizenship: Silencing dissent in Nicaragua",
+      "url": "https://globalvoices.org/2026/07/30/weaponizing-citizenship-silencing-dissent-in-nicaragua",
+      "published_at": "2026-07-30T18:03:25.000Z",
+      "description": "In this edition, we examine an authoritarian narrative making the case for denationalization in Nicaragua.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "NI",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "市民権を武器にする：ニカラグアでの反体制派の沈黙化",
+      "summary": "ニカラグアで、権威主義政権が市民権剥奪を正当化し、反体制派を沈黙させる試みを検証。市民権が武器として使われている状況が浮き彫りに。"
+    }
+  },
+  "JP": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7fbd6bc2945e5328df67ffe31a29ec40",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-08T15:15:17.000Z",
+      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "台風ドルフィン、沖縄を襲った後中国へ向かう",
+      "summary": "台風ドルフィンが日本の沖縄を直撃し、4万4千棟以上の建物が停電し、5人が負傷した。その後、中国へ進路を変えている。"
+    }
+  },
+  "TR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6877bae9ae03a86ae9cb41ec400a73d8",
+      "title": "WTO panel issues report regarding Turkish measures on EVs and other types of vehicles",
+      "url": "https://www.wto.org/english/news_e/news26_e/629r_465_e.htm",
+      "published_at": "2026-07-28T00:00:00.000Z",
+      "description": "On 28 July, the WTO circulated the panel report in the case brought by China in \"Türkiye — Measures Concerning Electric Vehicles and Other Types of Vehicles from China\" (DS629).",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "TR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "WTOパネル、トルコによるEVなどの車両に関する措置について報告書を発行",
+      "summary": "WTOは7月28日、中国が提起した「トルコ—電気自動車およびその他の車両に関する措置」訴訟のパネル報告書を配布した。"
+    }
+  },
+  "LT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a34f11947b830a224f2a29a987e67a8b",
+      "title": "Lithuania gives EUR 30,000 to help developing economies and LDCs improve trade skillset",
+      "url": "https://www.wto.org/english/news_e/pres26_e/pr996_466_e.htm",
+      "published_at": "2026-07-28T00:00:00.000Z",
+      "description": "Lithuania is contributing EUR 30,000 (approximately CHF 28,000) in 2026 to finance training programmes for government officials from developing economies, including least-developed countries (LDCs). This contribution to the WTO Global Trust Fund will support these economies in deepening their expertise on WTO issues and help them participate more effectively in the rules-based multilateral trading system.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "LT",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "リトアニア、途上国とLDCの貿易スキル向上に3万ユーロを寄付",
+      "summary": "リトアニアは、途上国および後発開発途上国の政府職員の貿易スキル向上を支援するため、2026年に3万ユーロをWTOグローバル信託基金に拠出する。"
+    }
+  }
+}
