@@ -1,0 +1,962 @@
+{
+  "IR": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4096b1f501fe16dcdc35051fd3758b07",
+      "title": "What the new US sanctions on Iran mean for European businesses",
+      "url": "http://www.euronews.com/business/2026/08/25/what-the-new-us-sanctions-on-iran-mean-for-european-businesses",
+      "published_at": "2026-08-25T09:31:24.000Z",
+      "description": "The US has unveiled a sweeping expansion of secondary sanctions intended to sever Iran's remaining links to the global economy, warning that companies anywhere in the world that keep trading with Tehran risk losing access to the dollar system.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "米国によるイランへの新たな制裁が欧州企業に与える影響",
+      "summary": "米国がイランへの広範な二次制裁を発表。イランと取引する企業はドルシステムへのアクセスを失う可能性がある。"
+    }
+  },
+  "US": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bd3e6640d00dcaebdfc500563b7744ee",
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "published_at": "2026-08-23T19:32:59.000Z",
+      "description": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors\n\nThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futile\n\nDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.\nIn his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants the benefits of being a State, without being one!!!”\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "「もうたくさんだ！」：米加協議が貿易戦争に発展し、トランプ大統領が激しく非難",
+      "summary": "米国とカナダの貿易協議が決裂し貿易戦争に発展したことを受け、トランプ大統領がカナダを激しく非難。「カナダは州の利益を望むが州ではない！」と投稿。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ce812ed8847ab748bdc132f9b31f0a3c",
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T04:06:34.000Z",
+      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "英のドローン工場、「出所不明の攻撃」に直面する可能性と元ロシア閣僚が発言",
+      "summary": "英国がウクライナに英国製ミサイル部品の設計図提供に合意したことを受け、元ロシア閣僚が英国のドローン工場が攻撃を受ける可能性を示唆した。"
+    }
+  },
+  "FR": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "361f1c6be236bf334bba42f663d66e3e",
+      "title": "France links sharp rise in drownings to heatwaves",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T17:39:33.000Z",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "フランス、溺死者急増を熱波と関連付け",
+      "summary": "フランス政府は、熱波により人々が危険を冒して水に入り、6月19日以降301人の溺死者が出たとして、その関連性を指摘しました。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fcfa939e70188921d61e85c0f84b6c4f",
+      "title": "King of Norway's health has worsened, palace says",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T08:31:55.000Z",
+      "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "ノルウェー国王の病状が悪化と王室が発表",
+      "summary": "ノルウェーのハーラル国王が、血流細菌感染症の治療のため入院中であることが王室から発表された。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9a178bfc89689de555e16028d26f46f7",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T13:56:22.000Z",
+      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "イスラエル、ガザからの凧飛行に「強硬な」対応を警告",
+      "summary": "イスラエルはガザから飛ばされた凧に対し「強硬な」対応を取ると警告。ハマスは、最近イスラエルの国境地域で見つかった凧はガザの子供たちが飛ばしたものだと述べている。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8845975db803a62f8f3df4065dcc0b29",
+      "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
+      "url": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-25T09:25:00.000Z",
+      "description": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Prime Minister Mark Carney has refused to accept a \"bad deal.\"",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "交渉決裂後、カナダが米国製品への報復関税を発表へ",
+      "summary": "米国との貿易交渉が決裂し、カナダ政府は米国製品に対し50%の報復関税を課すと発表する見込み。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3ba17d30f09609564c0dbafb8f9cfc91",
+      "title": "German economy grows faster than estimated as exports rebound",
+      "url": "http://www.euronews.com/business/2026/08/25/german-economy-grows-faster-than-estimated-as-exports-rebound",
+      "published_at": "2026-08-25T10:07:39.000Z",
+      "description": "Europe's biggest economy expanded by more than expected between April and June, driven by strong exports, despite the disruption caused by the Iran war. Business sentiment also improved across every major sector.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "ドイツ経済、輸出回復で予想を上回る成長",
+      "summary": "ドイツ経済が予想以上に成長し、輸出が回復。イラン戦争の影響下でも企業景況感が改善した。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "24821b399d841ba34d3323a0a8b9846f",
+      "title": "Australia's music chart bars fully AI-generated music",
+      "url": "https://www.dw.com/en/australia-s-music-chart-bars-fully-ai-generated-music/a-78491743?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-25T05:52:00.000Z",
+      "description": "The ARIA chart is drawing a line between artists who use AI as a tool and songs created largely by machines.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 45,
+      "titleJa": "オーストラリアの音楽チャート、完全AI生成楽曲を排除",
+      "summary": "ARIAチャートは、AIをツールとして使用するアーティストと、主に機械によって作成された楽曲との間に線を引く。"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4292797225372fdb181232eec89dea17",
+      "title": "Haiti: Gang members kill dozens near Port-au-Prince",
+      "url": "https://www.dw.com/en/haiti-gang-members-kill-dozens-near-port-au-prince/a-78491117?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-25T01:32:00.000Z",
+      "description": "At least 40 people were killed, some of them execution-style, during the attack in Kenscoff. The local mayor described \"a night of terror\" in the town that has been plagued by gang violence for months.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "HT",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ハイチ：ポルトープランス近郊でギャングが数十人を殺害",
+      "summary": "ケンスコフでの襲撃で少なくとも40人が殺害され、中には処刑された者もいる。地元市長は「恐怖の一夜」と表現した。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "412a03a82d8939b9ec36654d2740b5bd",
+      "title": "Sudan: US proposes expanding UN arms embargo",
+      "url": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-08-24T19:39:00.000Z",
+      "description": "The US has called for a UN arms embargo for Darfur to be broadened to the whole of Sudan. The change would require Security Council approval, with Russia warning it would hurt the Sudanese army.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "スーダン：米国、国連武器禁輸措置の拡大を提案",
+      "summary": "米国は、ダルフールに対する国連武器禁輸措置をスーダン全土に拡大するよう要求しており、安全保障理事会の承認が必要となる。"
+    }
+  },
+  "NG": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2aaff008bfd94719fd543597db1e3706",
+      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+      "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "published_at": "2026-08-24T14:19:14.000Z",
+      "description": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people\nAn armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.\nThe video, posted on Facebook and WhatsApp, ⁠showed large groups of people seated in a forested area surrounded by armed men. Several children could be heard crying in the background.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ナイジェリアのモスク襲撃誘拐事件後、数百人が捕虜となっている動画が公開",
+      "summary": "ナイジェリアでモスクが襲撃され約600人が誘拐された事件後、武装集団が捕虜となった人々を示す動画を公開した。"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "db5816000569cb0af5b5ead8f84e5541",
+      "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+      "published_at": "2026-08-24T10:11:34.000Z",
+      "description": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected\nMore than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.\nA national outbreak was declared on 4 July, just over a week after a 27-year-old woman became the first confirmed case of mpox in the west African country. Since then, there have been seven confirmed cases and 46 suspected cases. Half of those patients have been children, with 16 under the age of four.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GW",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "ギニアビサウでエムポックス感染者の半数が子供、流行が拡大",
+      "summary": "ギニアビサウでエムポックスの流行が拡大し、感染者の半数以上が子供であると当局が発表。7月に国家的な流行が宣言され、46の疑い例がある。"
+    }
+  },
+  "GN": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8938f1fba507876dfbf804fd5bde02b9",
+      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "published_at": "2026-08-23T22:16:53.000Z",
+      "description": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state\nA ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.\nThe incident occurred less than a week after the government announced plans to close the ⁠site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash ⁠floods each year in crowded, underdeveloped cities across parts of West Africa.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ギニア首都のゴミ山で地滑り、30人死亡と政府発表",
+      "summary": "ギニアの首都コナクリで、豪雨により巨大なゴミ山が崩壊し地滑りが発生、30人が死亡。政府は数日前にこのゴミ山の移転計画を発表していた。"
+    }
+  },
+  "CO": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0d1bc4483529bfbd0b7e58e1db522389",
+      "title": "Landslide at unlicensed Colombian gold mine kills 13",
+      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T15:07:57.000Z",
+      "description": "Four members of an indigenous family are among the dead, witnesses said.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "コロンビアの無許可金鉱での地滑りにより13人が死亡",
+      "summary": "コロンビアの無許可金鉱で地滑りが発生し、先住民家族の4人を含む13人が死亡したと目撃者が語った。"
+    }
+  },
+  "SY": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2c9fbf0b1a5a19d6bfbff8cd9ad8a920",
+      "title": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says",
+      "url": "http://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says",
+      "published_at": "2026-08-25T09:48:37.000Z",
+      "description": "Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group al-Sharaa led to topple Assad.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "SY",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "米国のテロリスト指定解除がシリアの「暗い汚名を払拭」とアルシャラー氏",
+      "summary": "米国がシリアのテロリスト指定を解除し、経済制裁を緩和。アルシャラー氏はこれを「暗い汚名の払拭」と評価した。"
+    }
+  },
+  "DK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f2974e887be29fc7088520ba79340241",
+      "title": "Watch: Viking Age anchor recreated with hammer and bellows in Denmark",
+      "url": "http://www.euronews.com/video/2026/08/25/watch-viking-age-anchor-recreated-with-hammer-and-bellows-in-denmark",
+      "published_at": "2026-08-25T09:19:45.000Z",
+      "description": "Blacksmiths recreate a Viking Age anchor with bloomery iron and historic techniques at Aggersborg in northern Denmark.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "DK",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 30,
+      "titleJa": "映像：デンマークでハンマーとふいごを使いヴァイキング時代の錨を再現",
+      "summary": "デンマークで職人がハンマーとふいごを使い、ヴァイキング時代の錨を歴史的な技法で再現する様子が公開された。"
+    }
+  },
+  "AR": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "19c67393e44d51295ebae1eccf42a5c5",
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T06:55:06.000Z",
+      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 75,
+      "titleJa": "マラドーナの「神の手」ボールが250万ポンドで落札",
+      "summary": "ディエゴ・マラドーナが1986年W杯で「神の手」ゴールを決めたボールが競売で250万ポンド（約4億円）で落札された。"
+    }
+  },
+  "MM": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "22286ea327130a5edef847e3c2e4f919",
+      "title": "What would justice look like if there were no Rohingya left in Myanmar?",
+      "url": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss",
+      "published_at": "2026-08-25T09:46:11.000Z",
+      "description": "Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "MM",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ミャンマーにロヒンギャがいなくなったら、正義はどのように見えるだろうか？",
+      "summary": "2017年の残虐行為から9年後もロヒンギャは強制的に逃亡を強いられており、ジェノサイドが止まらない状況での正義の行方が問われている。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "17094e4eecb520f8d9b26de30240640d",
+      "title": "Roadblocks and burning tyres in Libya protests over power cuts",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss",
+      "published_at": "2026-08-25T09:45:19.000Z",
+      "description": "Roadblocks and burning tyres in Libya protests over power cuts",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "リビアで停電に抗議するデモ、道路封鎖とタイヤ燃やし",
+      "summary": "リビアで停電への抗議デモが発生し、道路が封鎖され、タイヤが燃やされるなど、社会的な不満が表面化している。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0024d2ef41b88b65d79695f616868fdf",
+      "title": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+      "url": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss",
+      "published_at": "2026-08-25T09:43:27.000Z",
+      "description": "Indonesia deploys prayers and emergency measures to combat South Sumatra's raging wildfires and hazardous haze.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ID",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "インドネシア、南スマトラの森林で猛威を振るう山火事と煙害と戦う",
+      "summary": "インドネシアは、南スマトラで広がる山火事と有害な煙害に対し、祈りと緊急措置を展開し、対応に当たっている。"
+    }
+  },
+  "RU": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b3e927ba164a190fb93137e3a6c5773f",
+      "title": "Kremlin adviser warns UK drone factories could face attacks",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+      "published_at": "2026-08-25T09:34:25.000Z",
+      "description": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "クレムリン顧問、英国のドローン工場が攻撃対象になる可能性を警告",
+      "summary": "ロシアは、英国がウクライナとミサイルの設計図を共有する決定が戦争への直接的な軍事関与だとし、英国のドローン工場が攻撃される可能性があると警告した。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b1bd1c8e6c9662b48938f2ecf7ae2768",
+      "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+      "published_at": "2026-08-25T09:05:54.000Z",
+      "description": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "「もうたくさんだ」：ケニアの看護師が賃金と労働条件を巡りストライキ",
+      "summary": "ケニアの看護師たちが賃金と労働条件の改善を求めストライキを決行。「もうたくさんだ」と訴え、公正な待遇を要求している。"
+    }
+  },
+  "TW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "623011b25faa24caea17c87885b73933",
+      "title": "Nvidia, Supermicro employees charged over export of AI servers to China",
+      "url": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
+      "published_at": "2026-08-25T08:51:48.000Z",
+      "description": "Taiwanese authorities indict nine people over alleged chip smuggling scheme.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "TW",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "NvidiaとSupermicroの従業員、AIサーバーの中国への輸出を巡り起訴",
+      "summary": "台湾当局は、NvidiaとSupermicroの従業員ら9人を、AIサーバーの中国への密輸疑惑で起訴したと発表した。"
+    }
+  },
+  "PK": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "850dfa9376ec6f93b574885809267983",
+      "title": "Pakistan says significant progress made in talks on Iran-US war",
+      "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+      "published_at": "2026-08-25T08:32:52.000Z",
+      "description": "The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "パキスタン、イラン・米国間戦争に関する協議で「大きな進展」と発表",
+      "summary": "パキスタンは、イランの首都テヘランでの外交ミッション中、イランと米国の間の戦争に関する協議で大きな進展があったと発表した。"
+    }
+  },
+  "BD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b88cb363918646f06c7fb58a60b9ff9a",
+      "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
+      "published_at": "2026-08-25T08:24:13.000Z",
+      "description": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "BD",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 88,
+      "titleJa": "ロヒンギャ難民、バングラデシュへの大量流出から9年後に抗議活動",
+      "summary": "ロヒンギャ難民が、バングラデシュへの大量流出から9年が経過した今も、難民としての権利や帰還を求め抗議活動を行っている。"
+    }
+  },
+  "PS": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "172fa98bd1bb2d8e06b102909fb05ea4",
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T15:58:57.000Z",
+      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "英国、カナダ、オーストラリア、ガザでの援助活動家殺害の刑事捜査拒否でイスラエルを非難",
+      "summary": "英国、カナダ、オーストラリアは、2024年にガザで発生したイスラエル軍による攻撃で7人の援助活動家が殺害された事件について、イスラエルが刑事捜査を拒否していることを非難しました。"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ed8a022f2ba51a960a3fae2a2788a8f3",
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T08:32:46.000Z",
+      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "南アフリカでボクシングチャンピオン殺害容疑で4人逮捕",
+      "summary": "南アフリカでボクシングチャンピオン殺害の疑いで4人が逮捕された。容疑者の1人は月曜日に殺人と殺人未遂の罪で起訴される予定。"
+    }
+  },
+  "LR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8c9b13e5aee436309ae4da9437033156",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T11:08:19.000Z",
+      "description": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "LR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "リベリア元副大統領が麻薬密売疑惑で起訴",
+      "summary": "リベリアのジュエル・ハワード・テイラー元副大統領が国際空港で逮捕され、麻薬密売疑惑で起訴された。本人はコメントしていない。"
+    }
+  },
+  "BJ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e559110ab5fa1368377b58e3537b9aef",
+      "title": "'This star is for Africa' - Angélique Kidjo on making Hollywood Walk of Fame history",
+      "url": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T15:23:02.000Z",
+      "description": "The musical icon from Benin tells the BBC about why Africa and Africans are so important to music.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "BJ",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 50,
+      "titleJa": "「この星はアフリカのもの」 - アンジェリーク・キジョーがハリウッド殿堂入りを飾る",
+      "summary": "ベナン出身の音楽界のアイコン、アンジェリーク・キジョーがハリウッドのウォーク・オブ・フェームに名を刻み、アフリカの音楽への重要性を語った。"
+    }
+  },
+  "NL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e8355dd4072e68b6bfd4bd188bc88f0d",
+      "title": "Dutch broadcaster pulls out of  2027 Eurovision Song Contest",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T10:54:22.000Z",
+      "description": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "オランダの放送局が2027年ユーロビジョン・ソング・コンテストから撤退",
+      "summary": "オランダ放送局が、参加国が軍事衝突に関与する中、ユーロビジョンが中立でないとして2027年大会から撤退を表明しました。"
+    }
+  },
+  "SE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "86f33993079b2ec617824e8bcd31b377",
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T01:34:15.000Z",
+      "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "SE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "スウェーデンで17歳の少女が剣による襲撃で死亡、警察発表",
+      "summary": "スウェーデンで剣による襲撃事件が発生し、17歳の少女が死亡、12歳と17歳の少年2人も負傷し、18歳の容疑者が逮捕されました。"
+    }
+  },
+  "UA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "41ab9b370f44fd24e5e46839e19e041a",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:56:43.000Z",
+      "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ゼレンスキー大統領は政府の汚職について何を知っていたか問われるべきだと解任された大臣がBBCに語る",
+      "summary": "ウクライナの解任された大臣が、ゼレンスキー大統領が政府の汚職について何を知っていたかを問われるべきだと述べ、戦時中の選挙実施も求めました。"
+    }
+  },
+  "CU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7e947ed419cbae0a1af08c884269519d",
+      "title": "US sanctions more Cuban companies and officials",
+      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T02:06:28.000Z",
+      "description": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国、キューバの企業・当局者にさらなる制裁を科す",
+      "summary": "マルコ・ルビオ上院議員が発表した最新の米国による制裁で、キューバの建設省と国際社会主義研究所が対象となった。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "479537a377a5ba027d9b068c2feb0ac7",
+      "title": "Peru earthquake damages buildings and causes power cuts",
+      "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T11:14:38.000Z",
+      "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "ペルー地震、建物に被害が出て停電が発生",
+      "summary": "木曜日にアヤクチョ地域でマグニチュード6.7の地震が発生し、建物に被害が生じ、広範囲で停電が引き起こされた。"
+    }
+  },
+  "PA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e79e0aecee7b1042b048c8b662690e8f",
+      "title": "Panama Canal to cut number of ships passing through due to El Niño",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-21T06:46:08.000Z",
+      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PA",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "パナマ運河、エルニーニョ現象により通過船舶数を削減へ",
+      "summary": "運河の運営会社は、エルニーニョ現象による降水量の減少が、通過する船舶数の削減を決定した理由であると発表した。"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ce74016e92f40f23595ac74a12a46e08",
+      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-19T12:25:30.000Z",
+      "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "ブラジルでバスとトラックの正面衝突により20人以上が死亡",
+      "summary": "水曜日の早朝にブラジルでバスとトラックが正面衝突し、20人以上が死亡した。事故原因はまだ不明。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "38cfab59b042beec72a9dec659d09050",
+      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-06T13:46:27.000Z",
+      "description": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ライブストリーマー殺害、メキシコのクリエイターとカルテルの関係に疑問を呈す",
+      "summary": "火曜日にコンテンツクリエイターのセサル・ガステルムが殺害され、なぜインフルエンサーが攻撃されるのかについて疑問が提起されている。"
+    }
+  },
+  "SG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "96ad40e6482ccc158b53c996d045f684",
+      "title": "British man charged in Singapore two years after alleged theft at airport",
+      "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-25T09:01:35.000Z",
+      "description": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "SG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 35,
+      "titleJa": "英国人男性、シンガポールで空港窃盗容疑により2年後に起訴",
+      "summary": "英国人男性がシンガポール空港でのデニムジャケット窃盗容疑で起訴され、最大7年の懲役刑に直面している。"
+    }
+  },
+  "NZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cb8ea2fc4fc56851e2c6ecb6f9939d49",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T12:17:34.000Z",
+      "description": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ニュージーランド、16歳未満のソーシャルメディア禁止法案を導入へ",
+      "summary": "ニュージーランド政府は16歳未満のソーシャルメディア利用を禁止する法案を提出予定だが、一部議員から反対の声が上がっている。"
+    }
+  },
+  "CN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3cc8f2761671b6579b15280602c8294e",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T23:53:32.000Z",
+      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "中国でテスラ約300万台が隠しドアハンドル問題でリコール",
+      "summary": "中国でテスラ約300万台がドアハンドル問題でリコールされた。XPeng、Xiaomi、Geelyなどの中国メーカーも影響を受ける。"
+    }
+  },
+  "HK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "62158a322a7f2ad6c1234f127aa573e1",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T07:00:53.000Z",
+      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "HK",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "SHEIN、株式市場デビューで約270億ドルの評価額を目指す",
+      "summary": "ファストファッション大手SHEINは、9月1日の香港での株式取引開始に向け、約270億ドルの評価額を目標にしている。"
+    }
+  },
+  "IN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6eae723b2edebf6a307b7f6ed85696d0",
+      "title": "New Tata boss to face formidable challenges",
+      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T22:35:00.000Z",
+      "description": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "タタの新トップは手ごわい課題に直面へ",
+      "summary": "インド企業界で最も望まれるタタ・サンズのトップの座が空席となり、新たなリーダー探しは困難を極めるだろう。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6e0b132f2dbcbc4bf865b079413491b6",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T11:50:59.000Z",
+      "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "タイ南部で数十件の組織的な放火攻撃が発生",
+      "summary": "タイ南部で数十件の組織的な放火攻撃が発生し、軍は「不安を煽る目的」と述べたが、犯行声明は出ていない。"
+    }
+  },
+  "VN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f6e41ef601d9930375aed31254113e89",
+      "title": "Rumours swirled after a Vietnamese teen was run over - then came a stunning admission",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekgzwex05o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T22:05:49.000Z",
+      "description": "Confirmation of the circumstances around Do Ngoc Phuong Thuy's death have only spurred more questions.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "VN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "ベトナム人ティーンひき逃げ後に噂が広まり、そして驚きの告白",
+      "summary": "ベトナム人ティーンの死を巡る状況の確認後、さらなる疑問が浮上し、当初の噂は驚きの告白へと変わった。"
+    }
+  },
+  "TR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6877bae9ae03a86ae9cb41ec400a73d8",
+      "title": "WTO panel issues report regarding Turkish measures on EVs and other types of vehicles",
+      "url": "https://www.wto.org/english/news_e/news26_e/629r_465_e.htm",
+      "published_at": "2026-07-28T00:00:00.000Z",
+      "description": "On 28 July, the WTO circulated the panel report in the case brought by China in \"Türkiye — Measures Concerning Electric Vehicles and Other Types of Vehicles from China\" (DS629).",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "TR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "WTOパネル、トルコによるEVなどの車種に関する措置について報告書を発行",
+      "summary": "WTOは、中国が提起した「トルコ—電気自動車およびその他の車種に関する措置」（DS629）に関するパネル報告書を公開しました。"
+    }
+  },
+  "LT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a34f11947b830a224f2a29a987e67a8b",
+      "title": "Lithuania gives EUR 30,000 to help developing economies and LDCs improve trade skillset",
+      "url": "https://www.wto.org/english/news_e/pres26_e/pr996_466_e.htm",
+      "published_at": "2026-07-28T00:00:00.000Z",
+      "description": "Lithuania is contributing EUR 30,000 (approximately CHF 28,000) in 2026 to finance training programmes for government officials from developing economies, including least-developed countries (LDCs). This contribution to the WTO Global Trust Fund will support these economies in deepening their expertise on WTO issues and help them participate more effectively in the rules-based multilateral trading system.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "LT",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 30,
+      "titleJa": "リトアニア、開発途上国と後発開発途上国の貿易スキル向上支援に3万ユーロを拠出",
+      "summary": "リトアニアは2026年に3万ユーロを拠出し、開発途上国政府関係者向けの研修を通じ、WTO専門知識の深化を支援します。"
+    }
+  },
+  "UZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6339b03695387c7844a2e347e662ae86",
+      "title": "Uzbekistan reaffirms 2026 WTO accession goal, thanks members for continuing engagement",
+      "url": "https://www.wto.org/english/news_e/news26_e/acc_27jul26_470_e.htm",
+      "published_at": "2026-07-27T00:00:00.000Z",
+      "description": "Uzbekistan reaffirmed its determination to complete its WTO accession process within 2026 at a meeting of the Working Party on the Accession of Uzbekistan on 27 and 28 July, soon after its last meeting in March. The head of Uzbekistan's delegation, Chief Negotiator Azizbek Urunov, stressed that maintaining a strong pace of engagement and addressing members' remaining concerns will be critical to bringing the accession process to a successful conclusion.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "UZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "ウズベキスタン、2026年のWTO加盟目標を再確認、継続的な関与に感謝",
+      "summary": "ウズベキスタンは7月27日・28日の作業部会で、2026年までのWTO加盟プロセス完了への決意を再確認し、加盟国に感謝しました。"
+    }
+  }
+}
