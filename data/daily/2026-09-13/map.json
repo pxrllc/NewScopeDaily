@@ -1,0 +1,922 @@
+{
+  "ID": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7000bb3cc280252eb04090cbdd3b91b5",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-13T13:30:38.000Z",
+      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ID",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "インドネシアのフェリーがジャワ海で転覆、6人死亡、130人行方不明",
+      "summary": "インドネシアのフェリー「Virgo Transport 8」が悪天候に遭遇しジャワ海で転覆。6人が死亡し、130人が行方不明のまま、船やヘリコプターによる捜索が続けられている。"
+    }
+  },
+  "US": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fe062837a67906a62fd351ec368e4c8e",
+      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-12T21:19:11.000Z",
+      "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "米国からアフガン人女性が「外国人テロリスト」裁判の初の適用で国外追放",
+      "summary": "米国に合法的に居住していたアフガン人女性が、犯罪で起訴されることなく、家族のテロとの繋がりを理由に、初の「外国人テロリスト」裁判により国外追放された。"
+    }
+  },
+  "RU": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "448aa9e3418d54ef5a7f614242b16f5c",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-12T23:51:05.000Z",
+      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ウクライナの2024年侵攻後、行方不明の数百人のロシア人について説明を求める声",
+      "summary": "2024年のクルスク攻勢後、300人以上のロシア人が行方不明と報じられているが、正確な数字は不明。ロシア国民は政府に対し、行方不明者の安否について説明を求めている。"
+    }
+  },
+  "IE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a0bd5c46e06f6ab791cf46a56c557e8c",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-12T21:25:28.000Z",
+      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "トランプ氏のアイルランド統一に関する発言は、大西洋を越えた聴衆をターゲットにした可能性",
+      "summary": "トランプ氏がアイルランド統一への願望を表明したことが世界的な主要ニュースとなった。この発言は、大西洋両岸の特定の聴衆を意識したものだった可能性がある。"
+    }
+  },
+  "UA": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "92f6ff8fd09379dcc4951b10194cd1ae",
+      "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+      "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
+      "published_at": "2026-09-13T13:05:40.000Z",
+      "description": "Russia says four people killed in Ukrainian strikes as both sides continue to attack each other with waves of drones.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "ウクライナのドローン攻撃で4人死亡、ロシアはポーランド国境近くを攻撃",
+      "summary": "ウクライナのドローン攻撃で4人が死亡。ロシアもドローンでポーランド国境近くを攻撃し、双方の攻撃が続いている。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "225b124e796eb0ed93e9575d5cd67543",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-12T19:36:50.000Z",
+      "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CL",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "チリの老人ホームで火災、入居者16人死亡",
+      "summary": "チリ中央部アラウカニア地方の老人ホームで火災が発生し、入居者16人が死亡した。10人が避難したが、多くの犠牲者が出た。"
+    }
+  },
+  "PH": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ad6765708f01d7957f9167478c157077",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-12T15:09:55.000Z",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PH",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "フィリピンのフェリー火災、死者76人に増加、依然として行方不明者も",
+      "summary": "フィリピンで発生したフェリー火災による死者数が76人に増加。有毒ガスと熱により燃え尽きた船への立ち入りが遅れ、依然として多くの行方不明者がいる。"
+    }
+  },
+  "TR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "236943c118ea716c272500ea2ea36c71",
+      "title": "Turkey: 162 arrested in LGBTQ+ raids",
+      "url": "https://www.dw.com/en/turkey-162-arrested-in-lgbtq-raids/a-79251409?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-13T13:14:00.000Z",
+      "description": "Turkish authorities have arrested at least 162 people in a weekend crackdown on the country's LGBTQ+ community. Ankara says police raids on gay bars and other venues are aimed at protecting family values.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "TR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "トルコ：LGBTQ+取り締まりで162人逮捕",
+      "summary": "トルコ当局が週末にLGBTQ+コミュニティへの取り締まりを行い、少なくとも162人を逮捕した。政府は家族の価値観保護が目的と主張している。"
+    }
+  },
+  "HR": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e3aa7a4faa5b7259bbe5ea2a26705ed5",
+      "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
+      "url": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-13T10:55:00.000Z",
+      "description": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnight.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "HR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "クロアチア：ブラチ島で「怪物」火災により避難命令",
+      "summary": "クロアチアのブラチ島で急速に広がる山火事が住宅や観光施設を脅かし、消防士が夜通し消火活動にあたった。"
+    }
+  },
+  "VU": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a57f513398bc106dd2500b93e6cb1c76",
+      "title": "Vanuatu ferry capsize leaves one dead, 30 missing",
+      "url": "https://www.dw.com/en/vanuatu-ferry-capsize-leaves-one-dead-30-missing/a-79249954?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-13T10:09:00.000Z",
+      "description": "Rescue efforts have been slow after a South Pacific inter-island ferry sank in bad weather on Friday. An investigation has already begun into negligence on the part of the operator.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "VU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "バヌアツでフェリー転覆、1人死亡30人不明",
+      "summary": "南太平洋のバヌアツで悪天候のため島間フェリーが沈没し、1人が死亡、30人が行方不明となっている。運航会社の過失について調査が開始された。"
+    }
+  },
+  "DE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6a12edaa9f3234a89366ecb91ad49df2",
+      "title": "Germany: Lower Saxony local polls in focus after AfD win",
+      "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-13T08:26:00.000Z",
+      "description": "The northwestern state of Lower Saxony is holding local elections that are being seen as a gauge of support for the far-right AfD party. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ドイツ：AfDの勝利後、ニーダーザクセン州の地方選挙に注目",
+      "summary": "ドイツ北西部のニーダーザクセン州で地方選挙が実施されており、極右政党AfDへの支持の度合いを示すものとして注目されている。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "66ee6242ff25e09dd5f5ead01f332693",
+      "title": "A Romani artist in Hungary reclaims his identity",
+      "url": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-13T08:16:00.000Z",
+      "description": "Norbert Olah is an artist. He's also Romani. For a long time, he avoided making his ethnic background a theme of his art for fear of being pigeonholed. Then it became his focus.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "ハンガリーのロマ人アーティストが自己のアイデンティティを取り戻す",
+      "summary": "ハンガリーのロマ人アーティスト、ノルベルト・オーラーは、長らく自身の民族的背景を作品のテーマにすることを避けていたが、やがてそれが彼の創作の中心となった。"
+    }
+  },
+  "SE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "51eb448380c52491343e3a6557c8ed2b",
+      "title": "Sweden election: Far right eyes power for 1st time",
+      "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-13T06:41:00.000Z",
+      "description": "The populist Sweden Democrats could enter government for the first time if incumbent Ulf Kristersson's bloc wins. The left-wing opposition led by former PM Andersson has seen its lead narrow as election day has neared.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "SE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "スウェーデン総選挙：極右政党が初の政権入りを狙う",
+      "summary": "現職の首相会派が勝利すれば、ポピュリズムのスウェーデン民主党が初めて政権入りする可能性。左派野党とのリードは選挙日が近づくにつれて縮まっている。"
+    }
+  },
+  "FR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8f226abbd73314042b9374428eb49000",
+      "title": "France: Attack ruled out in train derailment",
+      "url": "https://www.dw.com/en/france-attack-ruled-out-in-train-derailment/a-79241365?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-13T01:14:00.000Z",
+      "description": "More than 40 were injured when a train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. Investigators say there is \"no indication\" the incident was deliberate.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 60,
+      "titleJa": "フランス：列車脱線事故で攻撃の可能性は排除",
+      "summary": "フランス北西部ノルマンディー地方で列車が脱線し40人以上が負傷したが、捜査当局は意図的な攻撃の可能性を排除したと発表した。"
+    }
+  },
+  "UG": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a6c60ca0023aeaea844adcafa748115f",
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T13:12:40.000Z",
+      "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ウガンダ国王の後継者に人気TVニュースキャスターが選ばれ、王室に亀裂",
+      "summary": "ウガンダのトーロ王国で、オヨ国王の後継者選定を巡り、遺言で幼い息子が指名されていたにもかかわらず、人気TVキャスターが選ばれたことで王室に不和が生じています。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ab364b457562eae18d0e03d76c175534",
+      "title": "Six Nigerians extradited to US over $6m online romance scam",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+      "published_at": "2026-09-12T14:05:45.000Z",
+      "description": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa\nSix Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance scams were extradited to the United States on Friday.\nSouth African police confirmed they were to be extradited earlier on Friday, while local news in Africa confirmed that the Directorate for Priority Crime Investigation, known as the Hawks, facilitated their handover to officials from the US Federal Bureau of Investigation and Secret Service at Cape Town international airport, in collaboration with Interpol South Africa.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "600万ドルのオンラインロマンス詐欺でナイジェリア人6人が米国に身柄引き渡し",
+      "summary": "ブラックアックス犯罪組織のメンバーとされるナイジェリア人6人が、米国女性から600万ドルを騙し取ったロマンス詐欺の容疑で、南アフリカから米国に身柄を引き渡された。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d31c844e8d11c0277a73cc2a34067a57",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "published_at": "2026-09-09T22:19:25.000Z",
+      "description": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking\nThe US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as a terrorist organisation as the Trump administration expands its campaign against narcotics traffickers it says are destabilising Latin America.\nThe US secretary of state, Marco Rubio, made the announcement in Quito, where he met Ecuadorian president Daniel Noboa, one of several rightwing allies of Donald Trump whom Rubio is courting as a security partner during a three-nation tour through Latin America that began on Tuesday.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 78,
+      "titleJa": "悪名高きエクアドルの犯罪組織が米国によりテロリスト集団に指定される",
+      "summary": "米国は、エクアドルの悪名高き犯罪組織「ロス・ティゲロネス」をテロリスト集団に指定した。トランプ政権は、ラテンアメリカを不安定化させている麻薬密売人との戦いを拡大している。"
+    }
+  },
+  "GD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0fa5a4b69d36d2e284562e039513bcd1",
+      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+      "published_at": "2026-09-09T08:00:03.000Z",
+      "description": "Andrew Frederick’s body was found in property he was staying at in Grenada in January\nThe family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the truth about his death.\nAndrew Frederick’s body was found in the property he was staying at in Grenada on 4 January. An autopsy, performed in the same week by a privately hired pathologist, concluded that the 47-year-old’s death was a homicide.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GD",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "グレナダで死亡した英国人男性の家族、現地警察に英国捜査官との協力を要請",
+      "summary": "1月にグレナダで遺体で発見された英国人男性アンドリュー・フレデリックさんの家族が、死の真相解明のため、グレナダ当局に英国警察との協力を強く求めている。検視の結果、死因は殺人だと判明している。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "05349de6d415693f91a4f095154f44f0",
+      "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
+      "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
+      "published_at": "2026-09-09T04:46:23.000Z",
+      "description": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada\nThe father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that his life had been turned into hell, as the high-profile trial continued into its second day.\nThree men are charged in the killing of Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and their 30-year-old American friend Jack Carter Rhoad, who were on a surfing trip to Mexico’s Pacific coast in April 2024.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "「地獄だ」：殺害された豪人サーファーの父親、メキシコ殺人裁判で息子たちの遺体確認について語る",
+      "summary": "メキシコで殺害されたオーストラリア人サーファー2人の父親が、殺人裁判で息子たちの遺体確認について証言し、人生が地獄になったと語った。3人の男が兄弟と米国人友人の殺害容疑で裁判を受けている。"
+    }
+  },
+  "IR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7a73b2f03a38f65dde71f210cb293cd4",
+      "title": "Iran claims one killed in US attack on Iranian commercial ship in Hormuz",
+      "url": "https://www.euronews.com/2026/09/13/one-person-killed-after-ship-struck-in-the-strait-of-hormuz-iranian-authorities-say",
+      "published_at": "2026-09-13T11:09:00.000Z",
+      "description": "Tehran accused the United States for the latest attack on an Iranian commercial ship near Qeshm, the largest island in the Strait of Hormuz, as the blows between US and Iran in the strait continue.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イラン、ホルムズ海峡での米軍による商船攻撃で1名死亡と主張",
+      "summary": "イランがホルムズ海峡での米軍による商船攻撃で1名死亡と主張。米イラン間の緊張が高まる中、イランは米国を非難。"
+    }
+  },
+  "GB": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d685bf683198d278829253b4a417db9e",
+      "title": "Sea of EU flags seems to outnumber Union Jacks at BBC's Last Night of the Proms",
+      "url": "https://www.euronews.com/my-europe/2026/09/13/sea-of-eu-flags-seems-to-outnumber-union-jacks-at-bbcs-last-night-of-the-proms",
+      "published_at": "2026-09-13T10:26:57.000Z",
+      "description": "Ten years on from the UK's historic Brexit referendum, the nation's decision to leave the European Union appears as divisive as ever.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "BBCプロムス最終夜、EU旗がユニオン・ジャックを上回る",
+      "summary": "英国のEU離脱から10年、BBCプロムス最終夜ではEU旗がユニオン・ジャックを上回り、ブレグジットの分断が続くことを示唆。"
+    }
+  },
+  "YE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6a75b63f2a4f60ff59370200f80e012f",
+      "title": "The Houthis’ escalation in Yemen could flop",
+      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
+      "published_at": "2026-09-13T12:39:50.000Z",
+      "description": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 87,
+      "titleJa": "イエメンのフーシ派によるエスカレーションは失敗に終わる可能性",
+      "summary": "フーシ派とイランは優位性を得ようとしているが、紅海で統一戦線に直面する可能性があり、その戦略は裏目に出るかもしれない。"
+    }
+  },
+  "LB": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a644de07de27bb6f88a58ee5ee241141",
+      "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
+      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
+      "published_at": "2026-09-13T13:09:22.000Z",
+      "description": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 88,
+      "titleJa": "イスラエルによるレバノン南部破壊が避難民の永住化を招くメカニズム",
+      "summary": "イスラエルによるレバノン南部への攻撃が、生計、家屋、安全の喪失を引き起こし、多くのレバノン人避難民が永続的な困難に直面している。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "737bdd31e9fa9e15550d095fd9fa3139",
+      "title": "India vs Sri Lanka live: Asia Cup final",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
+      "published_at": "2026-09-13T12:06:09.000Z",
+      "description": "Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "AE",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "ライブ：インド対スリランカ – アジアカップ決勝",
+      "summary": "ドバイで行われるアジアカップ決勝、インド対スリランカ戦のライブ情報、チームニュース、予想、スコア、写真、テキスト解説を配信。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "20b4b4e4f66ab4cbe083eebbe1654adc",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T15:54:17.000Z",
+      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "イスラエル・ネタニヤフ首相、UAEが10月7日の攻撃を警告したとの報道で新聞を提訴へ",
+      "summary": "イスラエルのネタニヤフ首相は、アラブ首長国連邦が昨年10月7日の攻撃について警告していたという報道をした新聞を提訴すると発表した。新聞側は報道の正当性を主張している。"
+    }
+  },
+  "DZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "24c931c57dec009ac3f37516624c3fd2",
+      "title": "Algeria to sever diplomatic ties with UAE",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T15:47:43.000Z",
+      "description": "The Algerian foreign ministry did not give a reason for the move but said it had exhausted all means.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "DZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "アルジェリア、UAEとの外交関係を断絶へ",
+      "summary": "アルジェリアはアラブ首長国連邦との外交関係を断絶すると発表した。アルジェリア外務省は理由を明らかにしていないが、「あらゆる手段を尽くした」としている。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "62e4b305ef41a001ee2b6abb5b025f13",
+      "title": "How a community living under demolition orders from Israel view UK sanctions",
+      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-09T22:17:22.000Z",
+      "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "イスラエルによる取り壊し命令下にあるコミュニティが英国の制裁をどう見ているか",
+      "summary": "イスラエルによる取り壊し命令下にあるパレスチナのコミュニティが、英国の制裁をどう見ているか。BBC特派員が西岸地区の当該地域とイスラエル人入植地を取材した。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c0eabebf99ed905e40bf6204bb0c9add",
+      "title": "More than 20 children killed in DR Congo school fire",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T19:16:24.000Z",
+      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "コンゴ民主共和国の学校火災で20人以上の子供が死亡",
+      "summary": "コンゴ民主共和国東部のブカブにある学校2校で火災が発生し、避難中の将棋倒しにより20人以上の子供が死亡しました。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f73be603e3239d7b4783b3380722fc24",
+      "title": "Athletic Club forward Williams retires from Ghana duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v41ype378o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-11T16:18:27.000Z",
+      "description": "Inaki Williams says the time has come to bring his journey with the Black Stars to an end four years after making his international debut.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "アスレティック・ビルバオのフォワード、ウィリアムズがガーナ代表引退",
+      "summary": "イニャキ・ウィリアムズ選手は、国際デビューから4年でガーナ代表「ブラック・スターズ」での旅を終える時が来たと発表しました。"
+    }
+  },
+  "GM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ea8d39159d95d4fcfab509ac93c38763",
+      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-09T06:42:01.000Z",
+      "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ガンビア大統領、停電抗議後の沈静化を呼びかけ「あなたは闇の中で一人ではない」",
+      "summary": "ガンビア大統領は、6月以来続く深刻な停電による暴力的な抗議活動を受け、国民に対し落ち着きを促しました。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8038b11eee4dfd763cac0e25aa1d793b",
+      "title": "The wedding photographer of Darfur: Focusing on love in Sudan's war",
+      "url": "https://www.bbc.co.uk/news/videos/c804pkymz2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-07T08:34:37.000Z",
+      "description": "Having fled Sudan's besieged city of el-Fasher, a photographer turn his lens on more positive aspects of life.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "ダルフールのウェディング写真家：スーダン紛争の中で愛に焦点を当てる",
+      "summary": "スーダン包囲下の都市エル・ファシールから逃れてきた写真家が、紛争下での生活のよりポジティブな側面にレンズを向けています。"
+    }
+  },
+  "BG": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f4ae422e222a9e342fcb9478e84478c9",
+      "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
+      "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-12T17:38:21.000Z",
+      "description": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "BG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 60,
+      "titleJa": "ブルガリア、兵器サイト火災を調査 所有者は「破壊工作」と主張",
+      "summary": "ブルガリアで兵器サイトの火災が発生し、当局は「外部からの干渉」を排除せず調査中。所有企業は破壊工作と断定しています。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "81a96c3cc409b56ec438774309f6f913",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-11T20:34:29.000Z",
+      "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "悪名高きマフィアによる母親殺害で父親に証言した女性が悲劇的な死を遂げる",
+      "summary": "イタリアで強力なマフィア「ンドランゲタ」と自身の父親による母親殺害について証言したデニース・コスコさんが悲劇的な死を遂げました。"
+    }
+  },
+  "CH": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d4cbb91fcb3f069c47292b5997c36850",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-11T08:54:20.000Z",
+      "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "CH",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "スイスアルプスで観光バス事故、5人死亡、数十人負傷",
+      "summary": "スイスアルプス南東部で観光バスが横転し、オランダ人乗客多数が死傷。5人が死亡、数十人が負傷する大惨事となりました。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6312a9b8809ad4015e8e1f65411ceb60",
+      "title": "Colombia's new president loosens gun control rules",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-09T11:01:41.000Z",
+      "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "コロンビア新大統領が銃規制を緩和",
+      "summary": "コロンビアのアベラルド・デ・ラ・エスプリエラ新大統領が、10年間停止されていた合法銃器の携行許可を解除した。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3c6b4631fa7e1513a6c37c0cc86df201",
+      "title": "Watch: Archaeologists discover ancient tomb in Peru",
+      "url": "https://www.bbc.co.uk/news/videos/c07lpd9dgzdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-09T01:44:02.000Z",
+      "description": "The burial site of the ancient pre-Incan Chimu culture was found largely intact.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 40,
+      "titleJa": "考古学者がペルーで古代の墓を発見",
+      "summary": "ペルーで、古代プレ・インカのチムー文化の埋葬地がほぼ無傷の状態で発見された。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4fc283401a1d915ee276b36af32793b7",
+      "title": "Messi agrees to buy second Spanish club",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-09T11:56:09.000Z",
+      "description": "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "メッシ、スペインの2つ目のクラブ買収に合意",
+      "summary": "サッカー界のレジェンド、リオネル・メッシが、スペイン2部リーグのエルデンセの株式過半数を取得する「予備合意」に達したと報じられた。"
+    }
+  },
+  "AR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8c1f9de73db6392be34dd4169f5fdc42",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-08T11:09:54.000Z",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "アルゼンチン、フォークランド諸島で操業する石油会社に対し刑事訴訟を提起へ",
+      "summary": "ハビエル・ミレイ大統領がフォークランド諸島の主権主張を強めた数日後、アルゼンチンが同諸島で操業する石油会社に対し刑事訴訟を提起する方針。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "af847b29b4a06d049c6a545b6ea610f1",
+      "title": "Jamaica to hand slavery reparations petition to King Charles",
+      "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-06T16:39:45.000Z",
+      "description": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "JM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ジャマイカ、奴隷制賠償に関する請願書をチャールズ国王に提出へ",
+      "summary": "ジャマイカが奴隷制賠償に関する請願書をチャールズ国王に提出し、枢密院司法委員会への3つの質問の付託を求める。"
+    }
+  },
+  "IN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "83349b07c41a10d7e38bdc88fcebb7e6",
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-11T09:38:23.000Z",
+      "description": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "モディがプーチンと習をデリーに招く中、トランプの影がBRICSに大きく迫る",
+      "summary": "デリーで開催されるBRICS首脳会議では、モディ首相がプーチン氏と習氏を迎え、トランプ氏の影響が色濃く出ている。ブロック内の分裂から、ワシントンへの統一的対応は困難と見られる。"
+    }
+  },
+  "SG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "23cb226ab318e37c5950e31101413715",
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-11T07:59:26.000Z",
+      "description": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "SG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "元恋人に贈った豪華な贈り物36万9000ドルを取り戻す訴訟で男性が敗訴",
+      "summary": "シンガポール高等法院は、元恋人に贈った36万9000ドルの豪華な贈り物を取り戻そうとした男性の訴訟で女性の有利な判決を下した。裁判官は男性が自ら贈り物を与えたと述べた。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "def4619a064179b767908aec3eb035cd",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-11T10:50:04.000Z",
+      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "300万ドル横領容疑で仏僧を逮捕",
+      "summary": "タイ警察は、300万ドル規模の横領疑惑で仏僧を逮捕した。この僧侶は女性共犯者と性行為をする様子が撮影されており、調査が進められている。"
+    }
+  },
+  "HK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b8bd7b50bb508baf240cb9742f257149",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-11T17:32:44.000Z",
+      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "HK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "香港の天安門活動家が最高7年の実刑判決を受ける",
+      "summary": "香港で天安門事件を追悼する活動家たちが、最長7年の禁固刑を言い渡された。かつて香港は中国領内で唯一、天安門事件を公に追悼できる場所だった。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "144593523b47fa0c5e58dbb4ae2ebb94",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T12:24:54.000Z",
+      "description": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "中国東部の貨物船火災で25人死亡",
+      "summary": "中国東部の貨物船で火災が発生し、乗船していた42人のうち25人が死亡した。17人は避難できたとCCTVが報じている。"
+    }
+  },
+  "LK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3ca9ccab4307a7a54ddb3dadec29ea9f",
+      "title": "Presidential pardon for controversial Sri Lankan monk overturned",
+      "url": "https://www.bbc.co.uk/news/articles/c3revq308j4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T12:13:41.000Z",
+      "description": "Galagodaatte Gnanasara was sentenced in 2018 to six years for contempt of court and intimidating the wife of a missing cartoonist.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "LK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "スリランカの物議を醸す僧侶への大統領恩赦が覆される",
+      "summary": "2018年に法廷侮辱罪と行方不明の漫画家の妻への脅迫で有罪判決を受けたスリランカの僧侶、ガラゴダッテ・ニャナサラへの大統領恩赦が覆された。"
+    }
+  },
+  "MG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9c2c903a7a173cecb53aefc0bd5d13d4",
+      "title": "Madagascar Launches Safeguard Investigation on Certain Types of Rice",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_mdg_03sep26_478_e.htm",
+      "published_at": "2026-09-03T00:00:00.000Z",
+      "description": "On 2 September 2026, Madagascar notified the WTO’s Committee on Safeguards that it had initiated on 31 August 2026 a safeguard investigation on imports of hulled rice, semi-whitened or whitened rice, polished or glazed, and broken rice.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "MG",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "マダガスカルが特定の種類の米に対するセーフガード調査を開始",
+      "summary": "マダガスカルは2026年9月2日、特定の種類の米の輸入に関するセーフガード調査を開始したことをWTOに通知した。"
+    }
+  }
+}
