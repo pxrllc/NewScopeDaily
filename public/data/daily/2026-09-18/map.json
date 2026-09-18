@@ -1,0 +1,922 @@
+{
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "971f1d0cca16fdc30f7757e9f328c783",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T13:00:58.000Z",
+      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "マクロン大統領、ロシアによる欧州へのハイブリッド攻撃が激化していると発言",
+      "summary": "マクロン仏大統領は、ロシアによる欧州へのハイブリッド攻撃が激化していると述べ、政府に重要インフラと防衛産業施設の保護を指示した。"
+    }
+  },
+  "PH": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "32087ea5efdc2a2f64d118bf065743cb",
+      "title": "Video: Students flee deadly school shooting in the Philippines",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
+      "published_at": "2026-09-18T13:30:16.000Z",
+      "description": "A 16-year-old suspected gunman has shot two students dead and injured several others at a school in the Philippines.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "映像：フィリピンでの死者を出した学校銃乱射事件から生徒たちが逃走",
+      "summary": "フィリピンの学校で16歳の容疑者が発砲し、生徒2人が死亡、数名が負傷。生徒たちが逃げ惑う様子が映像に。"
+    }
+  },
+  "ES": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "263d4844923d1532b71527699a842f2a",
+      "title": "Police begin operation to move migrants from Ceuta beaches",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T11:59:42.000Z",
+      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "セウタの海岸から移民を移動させる警察の作戦が開始",
+      "summary": "警察は金曜日の朝、セウタの海岸で移民を移動させる作戦を開始。テントサイトの場所を確保しようと押し合う群衆に対し、威嚇発砲する場面もあった。"
+    }
+  },
+  "US": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c0f9e1e627915beb34c3b36d10e953f3",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-16T18:36:16.000Z",
+      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イラン攻撃による米軍基地の広範囲な被害を写した写真が公開",
+      "summary": "BBCのパートナーであるCBSニュースが入手した写真により、イランの攻撃で損傷した米軍機や破壊された建物など、米軍基地における広範囲な被害が明らかに。"
+    }
+  },
+  "PK": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "efb448912206b0c35045b8242268b7b9",
+      "title": "Pakistan suicide bombing targets police facility in Kohat",
+      "url": "https://www.dw.com/en/pakistan-suicide-bombing-targets-police-facility-in-kohat/a-79327432?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-18T12:54:00.000Z",
+      "description": "A police official said the explosion killed at least 16 people, injuring many more. The attacker targeted a police facility and damaged a mosque at the site. The president blamed the attack on the TTP Pakistani Taliban.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PK",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "パキスタン：コハトで警察施設が自爆攻撃の標的に、少なくとも16人死亡",
+      "summary": "パキスタンのコハトにある警察施設が自爆攻撃を受け、少なくとも16人が死亡、多数が負傷した。タリバンが犯行声明を出した。"
+    }
+  },
+  "BO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1ccc7a91decb2cd36f3fd72eee9226ff",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "published_at": "2026-09-17T20:43:38.000Z",
+      "description": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat\nA diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century.\nThe cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America. It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high humidity, according to researchers. It measures about 18in (46cm) long and weighs about 3lb (1.4kg), making it smaller than the average domestic ⁠cat.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BO",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "ボリビアで1世紀以上ぶりに新種のネコ科動物が特定される",
+      "summary": "ボリビアのユンガス森林で、1世紀以上ぶりに新種のネコ科動物が発見された。この小さな野生のネコは、一般的なイエネコよりも小さい。"
+    }
+  },
+  "NG": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "cc1abd2148f3bb9795ea8cbaea6753cc",
+      "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+      "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+      "published_at": "2026-09-18T00:23:31.000Z",
+      "description": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated\nAt least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday.\nBanji Ajaka, Ondo state’s commissioner for health, said the cases had been reported in the Odigbo and Irele local government areas. A total of 182 people are believed to have been affected and some are being treated in the hospital, he said.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "メタノール含有疑いのアルコール飲料を飲み、ナイジェリアで約50人が死亡",
+      "summary": "ナイジェリア南部で、メタノールが混入しているとみられる自家製アルコール飲料を飲んだ後、少なくとも48人が死亡し、約100人が治療を受けている。"
+    }
+  },
+  "JP": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1dfd8d9525cdd974218ea1bafbf7416f",
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T07:14:57.000Z",
+      "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "JP",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 90,
+      "titleJa": "日本が金利を31年ぶりの高水準に引き上げ、物価上昇を抑制",
+      "summary": "日本は物価上昇を抑制するため、金利を31年ぶりの高水準に引き上げた。世界の中央銀行も高エネルギー価格によるインフレ抑制のため利上げしている。"
+    }
+  },
+  "DE": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9983355f8f3c327c6c006faf0204dc7b",
+      "title": "Rise of the AfD: The all-or-nothing party",
+      "url": "https://www.dw.com/en/rise-of-the-afd-the-all-or-nothing-party/a-79326208?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-18T12:24:00.000Z",
+      "description": "The Alternative for Germany party is riding high after its latest electoral triumph in Saxony-Anhalt. But one question remains: Does the far-right party actually want to govern?",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "AfDの台頭：一か八かの政党",
+      "summary": "ドイツのための選択肢党（AfD）がザクセン＝アンハルト州での選挙で勝利し勢いを増している。極右政党が本当に政権を担う意思があるのかが問われている。"
+    }
+  },
+  "IN": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9e42bbea1d24c8d0dc35cdb59a694ba9",
+      "title": "Jagtar Singh Johal granted bail nine years after being detained in India",
+      "url": "https://www.bbc.co.uk/news/articles/cwp845p6q2qqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T12:05:17.000Z",
+      "description": "Th Sikh activist from Dumbarton was arrested in 2017 in India in connection with alleged terror offences.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ジャグター・シン・ジョーハル、インドでの拘束から9年後に保釈される",
+      "summary": "2017年にインドでテロ関連容疑で逮捕されたダンバートン出身のシーク教活動家ジャグター・シン・ジョーハルが、9年ぶりに保釈を認められた。"
+    }
+  },
+  "MW": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f35415b47e26156784c78ad068187bc8",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "published_at": "2026-09-18T11:21:36.000Z",
+      "description": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week\nA British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abductors were killed.\nNusrat Osman was abducted outside her home in the southern city of Blantyre on 11 September at about 12.30pm. Police had offered a reward of 30m Malawi kwacha (£12,950) for information leading to her rescue and the arrest of the perpetrators.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MW",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "マラウイで誘拐された英国人女性、銃撃戦の末に警察が救出",
+      "summary": "マラウイで先週誘拐された英国人女性が、警察による銃撃戦の末に救出された。容疑者4人が死亡した。"
+    }
+  },
+  "ER": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c36807fdc256bf962dbc976ace9ef022",
+      "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
+      "url": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers",
+      "published_at": "2026-09-18T08:30:12.000Z",
+      "description": "More than 180 writers sign letter renewing calls for information on 12 authors detained incommunicado since 2001 crackdown on free speech by Isaias Afwerki\nMore than 180 writers have signed a letter to Eritrean president Isaias Afwerki calling for proof of life for 12 writers arrested in 2001.\nNobel laureates Olga Tokarczuk and JM Coetzee join prominent writers including Colm Tóibín, Elif Shafak, Isabel Allende, Ben Okri, Yann Martel, Kamila Shamsie and Tsitsi Dangarembga in signing the letter organised by PEN International and dated 18 September, marking 25 years since a government crackdown on the independent press. “Within days, Eritrea’s free press and the nation’s independent voices were systematically crushed,” opens the letter.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ER",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "「真実を要求する」：オルガ・トカルチュクとJ.M.クッツェー、消息不明のエリトリア人作家たちの安否確認を求める声を主導",
+      "summary": "180人以上の作家がエリトリア大統領に対し、2001年の言論弾圧以来拘束されている12人の作家たちの安否確認を要求する書簡に署名した。"
+    }
+  },
+  "ZM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1e4398351de103079547898973c150cb",
+      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+      "url": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+      "published_at": "2026-09-17T04:00:39.000Z",
+      "description": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory\nIt sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a home of their own after their family tells them to leave. They dodge cars and hunters in search of a new life, navigating bushmeat snares and the hostility of a human-dominated landscape until they find a new haven on the African savannah.\nBut this is exactly what happened in Zambia last year, when three endangered African wild dogs made the longest-ever recorded single journey of any mammal from the continent. The brothers travelled more than 2,500 miles (4,100km) over eight months in their “dispersal” – when a young dog comes of age and must establish new territory to find a mate and start a family of their own.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ZM",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "「ディズニー映画のよう」：3匹のリカオン兄弟がアフリカ最長の大移動",
+      "summary": "3匹の絶滅危惧種リカオンの兄弟が、ザンビアで2,500マイル以上を旅し、アフリカの哺乳類として史上最長の大移動を記録した。"
+    }
+  },
+  "CA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e1660dbc936c26e2af1b7da9c104efe6",
+      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
+      "published_at": "2026-09-17T15:46:15.000Z",
+      "description": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means\n\nEurope live – latest updates\n\nMark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.\nPoliticians queued to shake his hand and take selfies. One described the speech as a historic moment. “Europe has extended a hand, and Canada has taken it,” said the German Green MEP Terry Reintke, who borrowed a Canadian ice hockey shirt for the occasion.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ストラスブールでは笑顔も、カナダのEU準加盟計画には不確実性",
+      "summary": "マーク・カーニーがカナダのEU初の準加盟国となる提案を歓迎したが、その意味は不透明である。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "33e81297b7f521693fa9f25df33d1d3c",
+      "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+      "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+      "published_at": "2026-09-16T13:15:02.000Z",
+      "description": "Passionate documentary maker  won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile \nPatricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subsequent social and political turmoil in films such as The Battle of Chile and Nostalgia for the Light, has died aged 85. According to Chilean news outlet Emol, Guzmán died on Tuesday in Paris after a cardiorespiratory arrest.\nGuzmán’s chief preoccupation throughout his career was the carnage unleashed by Augusto Pinochet’s coup in 1973 against Salvador Allende, Chile’s elected president. He later told the Guardian: “I’m a film-maker who was very marked by the ways of the dictator. It has remained with me for ever. I cannot leave it behind.” However, he resisted the idea that he was an activist, political film-maker, adding: “I’m not a sociologist. Neither am I a politician. I make films that are metaphorical and poetic; I interpret reality through my own personal way of looking.”\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CL",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "「チリの戦い」監督パトリシオ・グスマン氏、85歳で死去",
+      "summary": "チリのピノチェト政権の影響を探るドキュメンタリー映画で国際的に評価された映画監督パトリシオ・グスマン氏が85歳で死去した。"
+    }
+  },
+  "BR": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d188b775bb6c583f8f88fbefca7f39d1",
+      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+      "published_at": "2026-09-15T19:14:00.000Z",
+      "description": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates\nBrazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, as two rival judges lock horns on the eve of the presidential election with unpredictable consequences for Latin America’s largest democracy.\nThe politically charged dispute exploded into public view on Tuesday as judges traded insults and accusations during a heated supreme court hearing that was livestreamed into millions of Brazilian homes.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ブラジル最高裁判所内で激しい対立が勃発、大統領選挙を目前に",
+      "summary": "大統領選挙を目前に控え、ブラジル最高裁判所で2人の判事が対立し、1980年代の民主化以来最大の危機に直面している。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "968feca89e18951cd638897e11bbe577",
+      "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
+      "published_at": "2026-09-18T13:36:58.000Z",
+      "description": "Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "PT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "ロナウド、ネーションズリーグのポルトガル代表に残留。ジーザス監督が初招集メンバー発表",
+      "summary": "クリスティアーノ・ロナウドがネーションズリーグに向けたポルトガル代表に選出された。ジーザス監督が初めて発表した招集メンバーに含まれている。"
+    }
+  },
+  "SA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b98e63f7b6a4caf98d5705dd40934e25",
+      "title": "Pakistan pledges full committment to defence of Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/9/18/pakistan-pledges-full-committment-to-defence-of-saudi-arabia?traffic_source=rss",
+      "published_at": "2026-09-18T13:00:18.000Z",
+      "description": "Assurance comes amid questions over Pakistan and Turkiye's stance on Riyadh's fight with Houthis following defence pact.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "パキスタン、サウジアラビア防衛への全面的なコミットメントを誓約",
+      "summary": "パキスタンがサウジアラビアの防衛に対し全面的なコミットメントを誓約した。これは、防衛協定後のフーシ派との戦いにおける両国の立場に関する疑問の中で表明された。"
+    }
+  },
+  "YE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "76afe095c1a6b8f8dfc240663f5e7a66",
+      "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
+      "url": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines?traffic_source=rss",
+      "published_at": "2026-09-18T12:52:29.000Z",
+      "description": "Stretched by its war with Iran, Washington may have little choice but to trust Houthi assurances on shipping.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "フーシ派がバブ・エル・マンデブ海峡を掌握する中、米国は傍観する構えか",
+      "summary": "フーシ派がバブ・エル・マンデブ海峡を掌握する中、米国はイランとの戦争で手一杯のため、フーシ派の海運に関する保証を信頼せざるを得ない状況にあるようだ。"
+    }
+  },
+  "TR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0d02208eef6907778d69337f24251099",
+      "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists ",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-15T22:26:05.000Z",
+      "description": "The arrests are an escalation in the Turkish government's campaign targeting LGBTQ+ community and activists.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "TR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "トルコ、LGBTQ+活動家を弾圧、数十人を逮捕",
+      "summary": "トルコ政府がLGBTQ+コミュニティと活動家への弾圧を強化し、数十人を逮捕した。"
+    }
+  },
+  "SY": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "24cbe1da1b767d06f1afe9d0b7f1fa85",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T05:00:18.000Z",
+      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "アサド政権が米ジャーナリストの誘拐を数週間にわたり計画していた、とBBCが報道",
+      "summary": "シリアのアサド政権が、米国人ジャーナリスト、オースティン・タイス氏の誘拐を計画し、元指導者の承認を得ていたと報じられた事件の概要。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "775eaf120d5ca49ca5d3732dfb4f0ff4",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-16T17:16:47.000Z",
+      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 88,
+      "titleJa": "ガザで戦争被害の建物が崩壊し、子供8人を含む21人死亡と救助隊が発表",
+      "summary": "昨年イスラエル軍の攻撃を受けたガザ市内の6階建てビルが崩壊し、子供8人を含む21人が死亡したと救助隊が報じた痛ましい事件。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3b401036cdfe7552ffa598fb8ffd91c5",
+      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T18:26:20.000Z",
+      "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "イスラエル大臣、ガザに関するドキュメンタリーを制作した映画製作者の市民権剥奪を脅迫",
+      "summary": "ガザでの民間人大量殺害をイスラエル軍が実行したと告発するドキュメンタリーについて、イスラエル政府高官が反逆罪に当たり得るとし、市民権剥奪の可能性を示唆。"
+    }
+  },
+  "EG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5cbeedb334fd4719555e0d2c3208ec75",
+      "title": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-15T06:02:35.000Z",
+      "description": "A take on the hit US TV series has become an unlikely tool for Egyptians to complain about life amid strict surveillance.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "EG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "エジプトの問題をパロディ化したAI『スポンジ・ボブ』が当局の監視対象に",
+      "summary": "エジプトでAIを活用した「スポンジ・ボブ」のパロディが、厳しい監視下にある社会問題への不満を表現する手段となり、当局の注目を集めている。"
+    }
+  },
+  "ZA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f4016392629e86e1cfa9b968f89496c0",
+      "title": "Abducted South African journalist found dead with gunshot wounds",
+      "url": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T06:46:31.000Z",
+      "description": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "誘拐された南アフリカ人ジャーナリストが銃創で死亡しているのが発見される",
+      "summary": "ベテラン放送ジャーナリストのオーウェン・ンドロブ氏がヨハネスブルグ近郊で武装集団に誘拐された数時間後、銃創のある遺体で発見された。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e29ca5b2f8859e84f17e89b02490cd36",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-12T10:00:05.000Z",
+      "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "「まるで放たれた犬のようだ」 – ケニアの外国人業者取り締まりへの恐怖",
+      "summary": "ケニア当局による外国人業者への取り締まりが強化され、恐怖を感じた移民が国外へ逃亡。政府は事態の収拾に苦慮している。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8038b11eee4dfd763cac0e25aa1d793b",
+      "title": "The wedding photographer of Darfur: Focusing on love in Sudan's war",
+      "url": "https://www.bbc.co.uk/news/videos/c804pkymz2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-07T08:34:37.000Z",
+      "description": "Having fled Sudan's besieged city of el-Fasher, a photographer turn his lens on more positive aspects of life.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 60,
+      "titleJa": "ダルフールの結婚写真家：スーダン戦争の中で愛に焦点を当てる",
+      "summary": "スーダン包囲下の都市エル・ファシャから避難した写真家が、戦争の最中にも人生のポジティブな側面に焦点を当て、結婚式の写真を撮り続けている。"
+    }
+  },
+  "NE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "02948fa707286f74b1eb5eaef303bebf",
+      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-05T04:03:51.000Z",
+      "description": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ロシアは西アフリカで敵と戦うより味方を守るのが得意なのか？",
+      "summary": "ロシア軍は西アフリカでジハード主義者を打ち破るために投入されたが、ニジェールの軍事指導部も防衛しているとの見方がある。"
+    }
+  },
+  "MZ": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "78c33f6e3c5fb9fa8bd2f3423ee3c8ae",
+      "title": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula protests",
+      "url": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests",
+      "published_at": "2026-08-25T18:58:23.000Z",
+      "description": "Women in Nampula turned the capulana into a symbol of resistance, while social media amplified protests, digital activism, and debates regarding state control and civic rights in Mozambique.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 78,
+      "titleJa": "モザンビーク：ナンブラでの抗議活動で、女性、カプラナドレス、警察の暴力が際立つ",
+      "summary": "モザンビークのナンブラで、女性たちがカプラナドレスを抵抗の象徴とし、警察の暴力に抗議。ソーシャルメディアがこの抗議活動を増幅させた。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f060d3bd5090fad77cb38d609c768371",
+      "title": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
+      "url": "https://globalvoices.org/2026/09/03/indigenous-plants-offer-ghanaians-an-alternative-to-costly-western-medicine",
+      "published_at": "2026-09-03T03:02:39.000Z",
+      "description": "About 60 to 70 percent of the Ghanaian population depends on the traditional medicine market for their medical care, according to a 2023 study in Frontiers in Pharmacology.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ガーナの固有植物が、高価な西洋医学に代わる選択肢を提供",
+      "summary": "ガーナでは人口の約60～70%が伝統医療に依存。固有植物が高価な西洋医学に代わる手頃な選択肢を提供している現状が報告されている。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8593b5000a3b671de192b509d9e1b7e4",
+      "title": "The devastating impact of copper and cobalt mining pollution in Lualaba, DRC",
+      "url": "https://globalvoices.org/2026/08/29/the-devastating-impact-of-copper-and-cobalt-mining-pollution-in-lualaba-drc",
+      "published_at": "2026-08-29T18:19:58.000Z",
+      "description": "The slogan 'DRC, a solution country' to the energy transition is merely a facade, masking the mining pollution that destroys the environment and human lives alike.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "コンゴ民主共和国ルアラバ州における銅・コバルト採掘による壊滅的な汚染の影響",
+      "summary": "「コンゴ民主共和国、解決策の国」というスローガンは、環境と人命を破壊する鉱業汚染を覆い隠すものに過ぎないと指摘されている。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7d02a3dd5495e8ee470b151e411050d6",
+      "title": "In Cameroon, before the scroll, there was the dance floor",
+      "url": "https://globalvoices.org/2026/08/26/in-cameroon-before-the-scroll-there-was-the-dance-floor",
+      "published_at": "2026-08-26T06:57:57.000Z",
+      "description": "Every holiday season, young people from Ebolowa in the South of Cameroon, and surrounding villages gather for community dance nights that combine entertainment, socializing, and economic activity.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 45,
+      "titleJa": "カメルーンでは、スクロールする前にダンスフロアがあった",
+      "summary": "カメルーン南部では、祝祭の季節に若者たちが集まり、娯楽、交流、経済活動を兼ねたコミュニティダンスナイトを楽しんでいる。"
+    }
+  },
+  "SE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2f4c541f5fb0ebb6011fba8d88f1e647",
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T12:41:05.000Z",
+      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "SE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "スウェーデン首相、選挙敗北で辞任",
+      "summary": "選挙での敗北を受け、スウェーデンのクリステルソン首相が辞任。左派野党が次期政権を樹立する見込み。"
+    }
+  },
+  "UA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e0534dce84c190eb74ede715b9c2d32d",
+      "title": "Zelensky appoints new chief prosecutor after predecessor's corruption scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c539mwvl10g4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T14:52:24.000Z",
+      "description": "Former chief prosecutor Ruslan Kravchenko after searches of his offices by Ukrainian anti-corruption officials.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ゼレンスキー大統領、前任者の汚職スキャンダルを受け新検事総長を任命",
+      "summary": "前任者の汚職スキャンダルを受け、ウクライナのゼレンスキー大統領が新たな検事総長を任命した。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2db9fd6b9a628ef0d85c0217298c8d6e",
+      "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T06:52:47.000Z",
+      "description": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GB",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 60,
+      "titleJa": "ヒーリー財務相、EU財務相に「メイド・イン・ヨーロッパ」制度への英国参加を要請へ",
+      "summary": "英国のヒーリー財務相は、EU財務相に対し「メイド・イン・ヨーロッパ」制度への英国参加を要請する予定。"
+    }
+  },
+  "XK": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "822c083a6793bf6d8c0250c22fd252d5",
+      "title": "Kosovo's former president sentenced to 25 years for war crimes",
+      "url": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-16T11:42:50.000Z",
+      "description": "Hashim Thaci has been jailed for crimes including torture and murder during Kosovo's independence war with Serbia.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "XK",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "コソボの元大統領、戦争犯罪で25年の判決",
+      "summary": "コソボの元大統領がセルビアとの独立戦争中の拷問や殺人などの戦争犯罪で25年の実刑判決を受けた。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1099b3e9b2537390c079d5557b0abb73",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot ",
+      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-14T11:28:36.000Z",
+      "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "メキシコのカルテル抗争激化地域で数千人が暴力の終結を要求",
+      "summary": "シナロア・カルテルのライバル派閥間の抗争が激化するクリヤカンで、数千人が暴力の終結を求めるデモを行った。"
+    }
+  },
+  "CO": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "908867c2475ca6b653258d30f9a22528",
+      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-16T11:02:54.000Z",
+      "description": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "報告書によると、コロンビアとブラジルが環境活動家にとって最も危険な国に",
+      "summary": "グローバル・ウィットネスの報告書は、2025年に殺害された環境活動家の52%がコロンビアとブラジルで発生したと指摘した。"
+    }
+  },
+  "VE": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8ae6722857a0da41692fa02b2ad6062c",
+      "title": "Venezuela’s earthquakes leave children facing trauma, displacement and food insecurity",
+      "url": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity",
+      "published_at": "2026-08-28T13:00:49.000Z",
+      "description": "As families seek refuge, Venezuela’s youngest children grapple with fear, disrupted routines and the loss of basic nutritional security.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ベネズエラの地震が子供たちにトラウマ、避難、食料不安をもたらす",
+      "summary": "家族が避難を求める中、ベネズエラの幼い子供たちは、恐怖、日常の乱れ、そして基本的な栄養の安全の喪失に苦しんでいる。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7297023831965383779dca5d1ecc5242",
+      "title": "Trump's response is key as Argentina's Falklands demands get louder",
+      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-05T06:20:04.000Z",
+      "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "アルゼンチンのフォークランド諸島要求が高まる中、トランプ氏の反応が鍵に",
+      "summary": "アルゼンチンのミレイ大統領がフォークランド諸島問題で「変化の風」を約束する中、ドナルド・トランプ氏が英国支配への立場を変えるかどうかに注目が集まる。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06765a4c8412971d54914dc44a7906de",
+      "title": "Ecuador detains former minister José Serrano after U.S. deportation",
+      "url": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation",
+      "published_at": "2026-09-18T02:00:10.000Z",
+      "description": "Deported from the United States, Ecuador’s former “superminister” now faces grave criminal investigations and political accusations in a justice system facing questions over due process.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エクアドルが元大臣ホセ・セラーノを米国送還後に拘束",
+      "summary": "米国から送還されたエクアドルの元「スーパー大臣」が、犯罪捜査と政治的告発に直面しており、その司法手続きの適正性が問われている。"
+    }
+  },
+  "NI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a5c693a81138f3f7c98e3cdbebfbdfdc",
+      "title": "Weaponizing citizenship: Silencing dissent in Nicaragua",
+      "url": "https://globalvoices.org/2026/07/30/weaponizing-citizenship-silencing-dissent-in-nicaragua",
+      "published_at": "2026-07-30T18:03:25.000Z",
+      "description": "In this edition, we examine an authoritarian narrative making the case for denationalization in Nicaragua.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "NI",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "市民権の武器化：ニカラグアにおける異議の沈黙",
+      "summary": "この記事では、ニカラグアで市民権剥奪を正当化する権威主義的な物語について検証する。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a81df6e2c8d509098612a795dcf3dc92",
+      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T05:05:09.000Z",
+      "description": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "オーストラリア、外国人留学生、「ビザホッパー」、バックパッカーを対象とした移民取り締まりを強化",
+      "summary": "オーストラリア政府は、2028年までに純海外移民を22万5千人に削減するため、留学生や短期滞在者などを対象とした移民規制の強化に乗り出している。"
+    }
+  },
+  "NP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "efb8e8fe7d83f3c6aa7af1686281ea8c",
+      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T10:31:35.000Z",
+      "description": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NP",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 85,
+      "titleJa": "ネパール、新たな洪水調査結果を基に国連気候災害基金から数百万ドルを請求へ",
+      "summary": "ネパールは、先月のネパール・チベット国境での大規模洪水は気候変動が要因だったとする新たな研究に基づき、国連気候災害基金に数百万ドルの請求を行う予定。"
+    }
+  },
+  "SG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "932dfd47c2e1a2ba26e8241436460bea",
+      "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
+      "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-16T22:13:36.000Z",
+      "description": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "SG",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "シンガポール、20億ドルの不正資金オークション「フォートノックス」の内部",
+      "summary": "シンガポール警察が押収した20億ドル相当の高級品が競売にかけられる。BBCは、その品々が保管されている要塞化された施設を訪れた。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0e463f2e104b8603988cd5d2ad98e144",
+      "title": "Russian Federation notifies launch of safeguard investigation on certain flat steel products",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_rus_14sep26_485_e.htm",
+      "published_at": "2026-09-14T00:00:00.000Z",
+      "description": "On 9 September 2026, the Russian Federation notified the WTO’s Committee on Safeguards regarding the initiation on 7 September 2026 of a safeguard investigation on certain flat steel products with polymer coating imported into the customs territory of the Eurasian Economic Union.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "RU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "ロシア連邦、特定のフラット鋼材に対するセーフガード調査の開始を通知",
+      "summary": "ロシア連邦がWTOに、ユーラシア経済連合への輸入ポリマーコーティング平鋼製品に対するセーフガード調査を開始したことを通知した。"
+    }
+  }
+}
