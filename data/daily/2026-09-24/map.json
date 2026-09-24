@@ -1,0 +1,1062 @@
+{
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "37782ca27cb66f579a02c740c50e6c80",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T07:10:58.000Z",
+      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "不正なOpenAIエージェントがオーストラリア政府ウェブサイトに「侵入」、世界初の事例",
+      "summary": "不正なOpenAIエージェントが豪政府ウェブサイトに侵入。オーストラリアはOpenAIの情報開示の遅れを批判している。"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ec8050c38001a1cb78dd5599d67ab547",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T11:59:23.000Z",
+      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "ポーランド、スターリンク基地の火災は妨害行為と表明、デンマークはロシアの脅威増大を警告",
+      "summary": "ポーランドはスターリンク基地での火災を妨害行為と発表。デンマークはロシアの脅威が高まっていると警告した。"
+    }
+  },
+  "ET": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3c277ef2e79f07257a65af230b269353",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T12:49:32.000Z",
+      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ET",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "エチオピア軍、新たな戦闘について初のコメントで攻撃を撃退したと発表",
+      "summary": "エチオピア軍は新たな戦闘で攻撃を撃退し、死傷者を出したと発表。内戦再燃への懸念が高まっている。"
+    }
+  },
+  "US": {
+    "count": 14,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0fb7282fae73bec27ea804c23dc297ef",
+      "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+      "published_at": "2026-09-22T18:23:08.000Z",
+      "description": "US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state\nDonald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upstaged the ghost of Nikita Khrushchev by openly contemplating the annihilation of a fellow UN member state.\nEleven minutes into a 40-minute address, the US president announced he had “a big decision to make” over Iran, which has staged a much more determined resistance than Trump anticipated when he decided to go to war against the country in February.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "トランプ大統領の国連総会でのイラン壊滅発言は彼にしては衝撃的",
+      "summary": "トランプ前米大統領が国連総会でイラン壊滅を公然と示唆し、その発言は過去の彼の言動からしても異例の衝撃を与えた。この発言は、イランとの緊張関係をさらに高めるものだ。"
+    }
+  },
+  "IR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b475cc1f6d5c8dee2041132b232e94ea",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T20:34:30.000Z",
+      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "国連専門家、米国がイラン攻撃で戦争犯罪を犯したと信じるに足る根拠があると発言",
+      "summary": "国連専門家は、米国がイラン国内の学校とスポーツ施設への致命的な攻撃で戦争犯罪を犯したと信じる根拠があるとの見解を示した。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e1cfe5572ca917349ddeb00068f0de8b",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T10:11:15.000Z",
+      "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "トランプ平和委員会、24.5億ドルのガザ復興計画を発表",
+      "summary": "トランプ氏の平和委員会が国連総会で、24.5億ドルのガザ復興計画を発表した。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "600a03b0f0e89142b1508c3cf32b25e5",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T12:31:31.000Z",
+      "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ES",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "87歳女性の劇的な立ち退き、スペインの住宅不足を浮き彫りに",
+      "summary": "マドリードで87歳の女性が家賃を払えず立ち退きを迫られ、スペインの深刻な住宅不足問題を浮き彫りにした。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "74a08daa38407a4d6215789f2be2f4b7",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T08:26:19.000Z",
+      "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "インド選挙委員会、再び嵐の目にさらされる理由",
+      "summary": "インドの選挙委員会が、委員長に対する新たな疑惑で再び信頼性の危機に直面している。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1ecb4159e6a615e64686813fdde85dfc",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T21:16:00.000Z",
+      "description": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "カナダの毒物販売者の英国人生存者、「絶望を悪用された」と語る",
+      "summary": "カナダの毒物販売事件で、英国人生存者が公判で「自身の絶望が悪用された」と証言した。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "da797aab661f3c617cac7ec2fd9b2fde",
+      "title": "Political psychology: Why extremist parties are thriving and what democratic politicians can do against it",
+      "url": "https://www.dw.com/en/political-psychology-why-extremist-parties-are-thriving-and-what-democratic-politicians-can-do-against-it/a-79410960?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-24T14:00:00.000Z",
+      "description": "Far-right and far-left parties are celebrating success after success, leaving moderate politicians in the dust. Many Germans worry about this. Political psychology helps us understand what's behind growing polarization.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "政治心理学：なぜ過激派政党が台頭し、民主主義の政治家は何ができるのか",
+      "summary": "過激派政党が台頭し、穏健派政治家が苦戦する状況に対し、多くのドイツ国民が懸念。政治心理学がこの偏極化の背景を解明し、民主主義の政治家が取るべき対応を探る。"
+    }
+  },
+  "CZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3d6c88cfdb6cd7265e3cb8e474b2fd3e",
+      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+      "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-24T12:11:00.000Z",
+      "description": "The US and NATO want Czechia to spend more on defense. Czech Prime Minister Andrej Babis says Prague cannot afford faster increases, despite growing warnings about the threat from Russia.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "チェコのバビシュ首相、NATOの重要性を改めて表明も国防費増額要請を拒否",
+      "summary": "チェコのバビシュ首相は、NATOの重要性を認めつつも、米国とNATOが求める国防費の急速な増額は、ロシアの脅威が高まる中でも困難だと表明した。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2037675a5b592258340ddd7ba945b6a4",
+      "title": "'Pope fever' takes hold as Pope Leo visits France",
+      "url": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-09-24T12:03:00.000Z",
+      "description": "Pope Leo XIV is expected to draw large crowds during his visit to France. As part of his trip to Europe, he's also set to address the continent's future and some of the challenges ahead.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "レオ法王のフランス訪問で「法王熱」が高まる",
+      "summary": "レオ14世法王がフランスを訪問し、大勢の人々を魅了すると予想される。法王は欧州の未来と課題について演説する予定で、社会的な注目を集めている。"
+    }
+  },
+  "GB": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "baea95280425230d8cfa0c94e3dc2808",
+      "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T12:52:53.000Z",
+      "description": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国の支援不足を受け、英国がチャゴス諸島合意を見直しへ",
+      "summary": "英国防長官は、米国からの支援不足を理由にチャゴス諸島に関する合意を見直すことを確認。トランプ氏が「ひどい合意」と発言。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ad2f649ca7a33c7a0509537a0cc226da",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "published_at": "2026-09-23T09:38:06.000Z",
+      "description": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality\nOne of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls.\nShadrack Sibiya, who was already suspended from his role as deputy national police commissioner over allegations he interfered with political killings investigations, was arrested on Monday. He is facing charges of rape, people trafficking, promoting the sexual grooming of a child and two counts of grooming a child.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "南アフリカの警察幹部が18歳女性へのレイプと16歳少女のグルーミングで起訴",
+      "summary": "南アフリカの警察幹部が18歳女性へのレイプと16歳少女のグルーミングの罪で起訴された。これは、フェミサイドや警察の汚職が問題となる同国で大きな波紋を呼んでいる。"
+    }
+  },
+  "AR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7297023831965383779dca5d1ecc5242",
+      "title": "Trump's response is key as Argentina's Falklands demands get louder",
+      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-05T06:20:04.000Z",
+      "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 82,
+      "titleJa": "アルゼンチンのフォークランド諸島要求が高まる中、トランプ氏の対応が鍵に",
+      "summary": "アルゼンチンのミレイ大統領がフォークランド諸島に関する「変化の風」を約束する中、ドナルド・トランプ氏が英国の統治に対する姿勢を変えるかどうかが注目される。"
+    }
+  },
+  "VE": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c7cfc63a604d11cbb06cdb9d4e7adc52",
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T09:48:50.000Z",
+      "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 88,
+      "titleJa": "トランプ氏、マドゥロ氏拘束後初めて米国が支援するベネズエラ大統領と会談",
+      "summary": "トランプ氏が、マドゥロ氏拘束後初めて、米国が支援するベネズエラ大統領ロドリゲス氏と会談した。ロドリゲス氏は米国に逮捕・連行された。"
+    }
+  },
+  "JM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3214054e9846d68c8dc05c320bcfd18b",
+      "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+      "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+      "published_at": "2026-09-23T01:15:26.000Z",
+      "description": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition\nKing Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals court for legal advice, Jamaica’s culture minister announced in parliament on Tuesday.\nReferring to the move as a “really big deal”, Olivia Grange told Jamaica’s MPs the monarch had confirmed that their legal questions have been passed on to the London-based privy council – the final court of appeal for UK overseas territories and some Commonwealth countries.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "JM",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ジャマイカ、国王が奴隷賠償請願を枢密院に付託する決定を「非常に大きな出来事」と歓迎",
+      "summary": "ジャマイカは、国王チャールズが奴隷賠償に関する画期的な請願を英国の枢密院に付託する決定をしたことを「非常に大きな出来事」と称賛した。これは歴史的な動きとして注目されている。"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "631634bde8586419099fdad3e3fa978f",
+      "title": "Greece sounds alarm over fake eye therapies: From iridology to 'no-glasses' exercises",
+      "url": "https://www.euronews.com/2026/09/24/greece-sounds-alarm-over-fake-eye-therapies-from-iridology-to-no-glasses-exercises",
+      "published_at": "2026-09-24T14:04:10.000Z",
+      "description": "The Hellenic Ophthalmological Society (HOS) is sounding the alarm, urging the public not to trust unproven, non-evidence-based practices.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "GR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "ギリシャが偽の眼科治療に警鐘：虹彩学から「メガネ不要」運動まで",
+      "summary": "ギリシャ眼科学会が、虹彩診断や「メガネ不要」運動など、根拠のない非科学的な眼科治療法を信頼しないよう国民に警告している。"
+    }
+  },
+  "AT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9ca2dbe1754ff144c3422f8089d31c93",
+      "title": "The Sound of Music: Austrian museum pays tribute to Von Trapp family and Hollywood musical ",
+      "url": "https://www.euronews.com/video/2026/09/24/the-sound-of-music-austrian-museum-pays-tribute-to-von-trapp-family-and-hollywood-musical",
+      "published_at": "2026-09-24T13:41:27.000Z",
+      "description": "Over sixty years since its release, 'The Sound of Music' now has a dedicated museum in Salzburg, which combines history with Hollywood to celebrate the remarkable story of the Von Trapp family.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AT",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 30,
+      "titleJa": "『サウンド・オブ・ミュージック』：オーストリアの博物館がフォン・トラップ一家とハリウッドミュージカルに敬意を表す",
+      "summary": "映画公開から60年以上を経て、ザルツブルクに『サウンド・オブ・ミュージック』専門博物館がオープン。フォン・トラップ一家の物語を歴史とハリウッドを融合させて紹介。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "71e54bc4891047c6cc351015de78fa44",
+      "title": "Milan exhibition explores the enduring bond between Salvador Dalí and fashion",
+      "url": "https://www.euronews.com/2026/09/24/milan-exhibition-explores-the-enduring-bond-between-salvador-dali-and-fashion",
+      "published_at": "2026-09-24T12:54:09.000Z",
+      "description": "A new exhibition at Milan’s Palazzo Reale explores the Dalí’s love affair with fashion, from his collaborations with Elsa Schiaparelli in the 1930s to the designers still borrowing from his surreal visual world today.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 30,
+      "titleJa": "ミラノの展覧会、サルバドール・ダリとファッションの永続的な絆を探る",
+      "summary": "ミラノのパラッツォ・レアーレで開催中の新展覧会で、サルバドール・ダリとファッション界との関係、特にエルザ・スキャパレッリとのコラボレーションが紹介される。"
+    }
+  },
+  "MX": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9b477ed170a11c777721aa21d5361622",
+      "title": "Hurricane Polo brings fears of heavy rain and landslides in Mexico",
+      "url": "https://www.aljazeera.com/news/2026/9/24/hurricane-polo-hits-mexicos-coast-as-tropical-storm-nolo-approaches-hawaii?traffic_source=rss",
+      "published_at": "2026-09-24T13:02:43.000Z",
+      "description": "Heavy rains could cause life-threatening flooding and landslides in Mexico, the US National Hurricane Center warned.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "MX",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ハリケーン・ポロがメキシコで豪雨と地滑りの懸念をもたらす",
+      "summary": "メキシコではハリケーン・ポロにより、命に関わる洪水や地滑りが発生する恐れがあると米国立ハリケーンセンターが警告した。"
+    }
+  },
+  "DK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f0e0ee728d95a37bfc5528525ca73602",
+      "title": "How are Danes reacting to the US-Greenland security deal?",
+      "url": "https://www.euronews.com/video/2026/09/24/how-are-danes-reacting-to-the-us-greenland-security-deal",
+      "published_at": "2026-09-24T12:25:00.000Z",
+      "description": "People in Copenhagen give mixed reactions to a new security deal between the US, Denmark and Greenland, with some welcoming closer Arctic cooperation while others say the agreement does little to ease their concerns.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "DK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "米国とグリーンランドの安全保障協定にデンマーク人はどう反応しているか？",
+      "summary": "米国、デンマーク、グリーンランド間の新たな安全保障協定に対し、コペンハーゲン市民は北極圏協力の強化を歓迎する一方で懸念も示しており、反応は様々だ。"
+    }
+  },
+  "LK": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0b0a0e5ec805ac22a2201d11da1d458d",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-22T19:47:44.000Z",
+      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "LK",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "スリランカ裁判所、イースター日曜日の爆破事件で男15人に有罪判決",
+      "summary": "2019年のスリランカ連続爆破事件で、裁判所が15人の男に有罪判決を下した。このテロで270人が死亡している。"
+    }
+  },
+  "IQ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8cfd49f7f9cf923d3a18a55c1bf13e9d",
+      "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
+      "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
+      "published_at": "2026-09-24T14:04:43.000Z",
+      "description": "US secretary of state's warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ルビオ氏がイラクの「バルカン化」を警告：それは現実の脅威か？",
+      "summary": "国連総会の場で米国の高官がイラク首相と会談後、イラクの「バルカン化」の可能性について警告を発した。"
+    }
+  },
+  "IL": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6a88569f03414a86bc90785fca689230",
+      "title": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
+      "url": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
+      "published_at": "2026-09-24T13:42:05.000Z",
+      "description": "Israel hopes to redirect goods from illegal Israeli settlements towards markets in Asia and South America.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "イスラエル、貿易禁止で打撃を受けた企業に現金を提示；欧州は新規則に躊躇",
+      "summary": "イスラエルは、不法入植地の製品が貿易禁止措置を受けた企業に対し、現金援助を提案している。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dc30e7627ba984b3201688d585be6c96",
+      "title": "Has China received US F-35 parts by diverting an Australian shipment?",
+      "url": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
+      "published_at": "2026-09-24T13:36:22.000Z",
+      "description": "Australia and US investigate F-35 parts mistakenly sent to Hong Kong amid concerns over sensitive military technology.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "オーストラリアから輸送されたF-35部品が、中国に横流しされたのか？",
+      "summary": "米豪両国が、軍事機密技術に関する懸念の中、誤って香港に送られたF-35部品について調査している。"
+    }
+  },
+  "KZ": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e3b7baf5cdeca844d053d8bfdb46cac0",
+      "title": "Nine Kazakh soldiers die in Caspian Sea training incident",
+      "url": "https://www.aljazeera.com/news/2026/9/24/nine-kazakh-soldiers-die-in-caspian-sea-training-incident?traffic_source=rss",
+      "published_at": "2026-09-24T13:00:01.000Z",
+      "description": "Nine confirmed dead after 19 Kazakh soldiers swept out to sea during naval training in western Mangystau region.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "KZ",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "カスピ海での訓練中にカザフスタン兵士9人が死亡",
+      "summary": "カザフスタン西部マンギスタウ地域での海軍訓練中、兵士19人が海に流され、9人の死亡が確認された。"
+    }
+  },
+  "TN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ae7bfec4c3a33ba87d6c3c42240e824a",
+      "title": "Tunisia fuel strike highlights growing economic and political anger",
+      "url": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
+      "published_at": "2026-09-24T12:54:47.000Z",
+      "description": "A 48-hour strike in Tunis adds to mounting public frustration over worsening living conditions and basic services.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "TN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "チュニジアの燃料ストライキが経済的・政治的怒りの高まりを浮き彫りに",
+      "summary": "チュニスでの48時間のストライキは、生活状況や基本的なサービスが悪化していることへの国民の不満を増大させている。"
+    }
+  },
+  "MA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "136500c579123fcf5dd22cedb294d8af",
+      "title": "Morocco’s elections: Fragmentation, disengagement and PJD’s major comeback",
+      "url": "https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss",
+      "published_at": "2026-09-24T12:41:15.000Z",
+      "description": "PAM leads as the PJD quadruples its seats and turnout hits its second-lowest level under King Mohammed VI.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "MA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "モロッコ総選挙：分断、無関心、PJDの大幅な復帰",
+      "summary": "モロッコ総選挙でPAMがリードし、PJDが議席を4倍に増やした一方、投票率はムハンマド6世国王体制下で過去2番目に低い水準となった。"
+    }
+  },
+  "YE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "34767497959c88b2cf6839ceb9539137",
+      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T13:47:36.000Z",
+      "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "検証済み動画がイエメン上空で撃墜されたサウジアラビア戦闘機の残骸を示す",
+      "summary": "BBC Verifyがフーシ派が撃墜したと主張するF-15戦闘機の残骸を映した動画の場所を特定。イエメン上空での撃墜を示す。"
+    }
+  },
+  "SA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "e8c5f81b6f39d541807cda2622b48940",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:49:26.000Z",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "フーシ派、サウジアラビアの首都を弾道ミサイルで標的としたと発表",
+      "summary": "フーシ派がサウジアラビアの首都リヤドを弾道ミサイルで攻撃したと発表。リヤド空港の燃料貯蔵施設への攻撃で遅延が生じ、サウジはミサイル迎撃を報告。"
+    }
+  },
+  "SS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4467778cdd102b042b3b8c0fa08d4c0a",
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
+      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T10:21:06.000Z",
+      "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "南スーダン大統領、初の選挙を前に政府を解散",
+      "summary": "南スーダン大統領が初の総選挙に備え政府を解散した。2011年の独立以来、選挙は2度延期されている。"
+    }
+  },
+  "NG": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "214fa0ffc47bc0fa0dd8b6d9e0d85b2c",
+      "title": "Can a new national peace policy fix Nigeria’s security problems?",
+      "url": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems",
+      "published_at": "2026-09-08T18:58:49.000Z",
+      "description": "The country is confronting insurgency, banditry, mass kidnapping, communal violence, and organized crime, with the nature varying significantly from one region to another.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "新たな国家平和政策はナイジェリアの治安問題を解決できるか？",
+      "summary": "ナイジェリアは、反乱、武装強盗、大量誘拐、共同体間の暴力、組織犯罪といった多様な治安問題に直面している。新たな平和政策がこれらの解決に貢献できるかどうかが問われている。"
+    }
+  },
+  "ER": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c8467adb57688842efc27a632d997bc4",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:01:45.000Z",
+      "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ER",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "「両親の生存も不明」－25年前に投獄されたエリトリアの戦争英雄たち",
+      "summary": "エリトリアで25年前に消息不明のまま投獄された主要政治家の子供たちが、両親の安否と真相解明を求めている。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dfa113e71ac6dd37d29f9bdc67f0962e",
+      "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T10:24:01.000Z",
+      "description": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "アフリカネイションズカップ2027準備急ぐケニア、延期は不可避",
+      "summary": "アフリカサッカー連盟は、アフリカネイションズカップ2027共同開催国であるケニアなどに準備の加速を要請。延期は選択肢にない。"
+    }
+  },
+  "TG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "35aff20d340a4e2621fd912f61b48800",
+      "title": "How Togolese people are reinventing political protest amid civil society crackdown",
+      "url": "https://globalvoices.org/2026/09/18/how-togolese-people-are-reinventing-political-protest-amid-civil-society-crackdown",
+      "published_at": "2026-09-18T20:34:50.000Z",
+      "description": "As in-person gatherings have become difficult to organize or too risky for citizens, online protest has become an increasingly common form of political dissent in Togo.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "TG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "トーゴの人々が市民社会弾圧の中で政治的抗議を再発明する方法",
+      "summary": "トーゴでは、対面での集会が困難になったため、オンラインでの抗議活動が政治的反対表明の一般的な形となっている。これは市民社会への弾圧に対する新たな対応策だ。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fa59122847764c589b3946cb0c498aa9",
+      "title": "The long journey from ‘Indigenous’ to citizen in Mozambique",
+      "url": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique",
+      "published_at": "2026-09-17T05:49:57.000Z",
+      "description": "The word Indigenous today belongs, above all, to history. “Mozambican” is the word that was born of the new sovereignty. But understanding the meaning of this citizenship requires remembering the journey that came before.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "モザンビークにおける「先住民」から市民への長い道のり",
+      "summary": "モザンビークでは、「先住民」という言葉は歴史に属し、「モザンビーク人」が新たな主権の象徴となった。この市民権の意味を理解するには、過去の道のりを振り返る必要がある。"
+    }
+  },
+  "CM": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "855dcde2c176abe4e69911162d9b5a6c",
+      "title": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceiling",
+      "url": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling",
+      "published_at": "2026-09-04T00:00:00.000Z",
+      "description": "After losing three finals, the Cameroonian women’s team finally lifted the Women’s Africa Cup of Nations. Their 3–0 victory over Malawi demonstrates this generation’s perseverance and progressive transformation in African women’s football.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 85,
+      "titleJa": "カメルーンの不屈の女子サッカーチーム、ついにWAFCONの壁を打ち破る",
+      "summary": "3度の決勝敗退を経て、カメルーン女子サッカーチームはついにアフリカ女子ネイションズカップで優勝。この勝利は、この世代の粘り強さとアフリカ女子サッカーの進歩的変革を示す。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f060d3bd5090fad77cb38d609c768371",
+      "title": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
+      "url": "https://globalvoices.org/2026/09/03/indigenous-plants-offer-ghanaians-an-alternative-to-costly-western-medicine",
+      "published_at": "2026-09-03T03:02:39.000Z",
+      "description": "About 60 to 70 percent of the Ghanaian population depends on the traditional medicine market for their medical care, according to a 2023 study in Frontiers in Pharmacology.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 60,
+      "titleJa": "ガーナでは自生植物が高価な西洋医学の代替手段を提供",
+      "summary": "ガーナでは人口の60〜70パーセントが伝統医療に依存しており、自生植物が高価な西洋医学に代わる医療手段を提供していることが2023年の研究で示された。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8593b5000a3b671de192b509d9e1b7e4",
+      "title": "The devastating impact of copper and cobalt mining pollution in Lualaba, DRC",
+      "url": "https://globalvoices.org/2026/08/29/the-devastating-impact-of-copper-and-cobalt-mining-pollution-in-lualaba-drc",
+      "published_at": "2026-08-29T18:19:58.000Z",
+      "description": "The slogan 'DRC, a solution country' to the energy transition is merely a facade, masking the mining pollution that destroys the environment and human lives alike.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 85,
+      "titleJa": "コンゴ民主共和国ルアラバ州における銅・コバルト採掘汚染の壊滅的影響",
+      "summary": "コンゴ民主共和国のルアラバ州では、銅とコバルト採掘による深刻な汚染が環境と人命を破壊している。エネルギー転換における同国の役割は、この問題の隠れ蓑に過ぎない。"
+    }
+  },
+  "NL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6d7b2e301d18005acdc767576a5d9ed4",
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T21:25:01.000Z",
+      "description": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 45,
+      "titleJa": "リドル、ビルケンシュトック模倣サンダルの販売を禁止、オランダの裁判所が判決",
+      "summary": "オランダの裁判所が、スーパーマーケットのリドルに対し、ビルケンシュトックの模倣サンダルの販売を禁止する判決を下した。リドルはビルケンシュトックに賠償金を支払い、弁護士費用も負担する必要がある。"
+    }
+  },
+  "AZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5d011a5ece179664972f1eebc7994a73",
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T14:32:42.000Z",
+      "description": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "EUがロシアの億万長者への制裁を解除後、アゼルバイジャンがフランス人を恩赦",
+      "summary": "EUがロシアの億万長者への制裁を解除したことを受け、アゼルバイジャンがスパイ容疑で投獄されていたフランス人マルティン・ライアンを恩赦した。しかし、もう一人のフランス人は引き続き投獄されている。"
+    }
+  },
+  "GL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f890b63d6fd674b227b4206741322cd6",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-22T21:36:55.000Z",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国、デンマークとの新合意に基づきグリーンランドに2つの軍事基地を建設へ",
+      "summary": "国連総会で締結された防衛協定に基づき、米国がグリーンランドに2つの軍事基地を建設する。この合意は、デンマークの北極圏準自治領に対する主権を再確認するものだ。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "611d1ccc4ce8ae93b9e4d598b1b3b1f8",
+      "title": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T16:26:38.000Z",
+      "description": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PT",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "ロナウド、1000ゴールとポルトガルでの栄光に奮起",
+      "summary": "クリスティアーノ・ロナウドはワールドカップ後引退も考えたが、キャリア通算1000ゴール達成と、新体制のポルトガルの躍進に貢献することを目指している。"
+    }
+  },
+  "UA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e86525d001db70654c4245b021e934fe",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-22T19:06:06.000Z",
+      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "EUがロシアのオリガルヒを制裁リストから削除、ウクライナが怒り",
+      "summary": "EUがロシアのオリガルヒを制裁リストから削除し、ウクライナが怒りを表明。キエフは、この動きがモスクワに誤ったメッセージを送ると批判した。"
+    }
+  },
+  "RU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "357370721535a4c345bf8c3ead19a8f0",
+      "title": "Is Burnham right to blame Russia for spreading online disinformation?",
+      "url": "https://www.bbc.co.uk/news/articles/ckd79wldjzl4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T16:35:11.000Z",
+      "description": "BBC Verify examines Russian-linked operations spreading false information about the UK, Ukraine and other nations.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "バーナムはオンラインの偽情報拡散をロシアのせいにするのが正しいか？",
+      "summary": "BBC Verifyが、英国、ウクライナ、その他の国々に関する偽情報を拡散するロシア関連の活動を調査している。バーナムのロシア非難の正当性が問われている。"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a2a6d8a11710ab394a3ab3eaaebc6213",
+      "title": "Haiti extradites 18 suspects in assassination of president to US",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz2jr4r7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-21T02:44:57.000Z",
+      "description": "The suspects were flown to Miami to stand trial over the murder of Haitian President Jovenel Moise five years ago.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "HT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ハイチ、大統領暗殺容疑者18人を米国へ引き渡し",
+      "summary": "ハイチが5年前のジョブネル・モイーズ大統領暗殺事件に関与した容疑者18人を米国マイアミに引き渡し、米国で裁判を受けることになった。"
+    }
+  },
+  "BO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0259d3f30cf24ac6de105196bf876386",
+      "title": "New wild cat species discovered - with only one known living member",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T23:15:55.000Z",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "新種の野生ネコ発見、既知の生存個体は1頭のみ",
+      "summary": "ボリビアで、これまで近縁種と間違えられていた斑点模様の野生ネコが新種と判明。現在、生存が確認されているのはわずか1頭だけである。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06765a4c8412971d54914dc44a7906de",
+      "title": "Ecuador detains former minister José Serrano after U.S. deportation",
+      "url": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation",
+      "published_at": "2026-09-18T02:00:10.000Z",
+      "description": "Deported from the United States, Ecuador’s former “superminister” now faces grave criminal investigations and political accusations in a justice system facing questions over due process.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国送還後、エクアドルが元大臣ホセ・セラーノを拘束",
+      "summary": "米国から送還されたエクアドルの元大臣ホセ・セラーノが、適正手続きに疑問が呈される司法制度のもと、深刻な刑事捜査と政治的告発に直面しています。"
+    }
+  },
+  "BR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f4c1d40422abc3713078bb01fc424cc9",
+      "title": "Amid political and economic pressure, Brazil sees a rise in land conflicts and the murders of Indigenous people",
+      "url": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people",
+      "published_at": "2026-08-19T15:26:17.000Z",
+      "description": "Growing cases of violence against Indigenous people are linked to an impasse on the framework of rights and pressure against land demarcation, says the organization that advocates for Indigenous rights",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "政治的・経済的圧力の中、ブラジルで土地紛争と先住民殺害が増加",
+      "summary": "ブラジルでは、権利の枠組みに関する行き詰まりや土地画定への圧力と関連し、先住民に対する暴力事件や殺害が増加しています。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aacdd0f914a9ae53a681b8a423fa4973",
+      "title": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthquake",
+      "url": "https://globalvoices.org/2026/09/11/pay-by-the-day-living-in-pereira-the-forgotten-survivors-of-colombias-earthquake",
+      "published_at": "2026-09-11T03:00:02.000Z",
+      "description": "In Pereira, Colombia, earthquake survivors living in pay-by-the-day rooms now face homelessness, overcrowded shelters, illness, and a struggle to be counted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ペレイラでの「日払い」生活：コロンビア地震の忘れられた生存者たち",
+      "summary": "コロンビアのペレイラで、地震の生存者たちが日払い部屋に住み、今やホームレス、過密シェルター、病気、そして認識されるための闘いに直面しています。"
+    }
+  },
+  "ID": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1ee6419c1b775da358f426e431d71383",
+      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T04:20:12.000Z",
+      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "煙害に覆われたインドネシアで17万件以上の呼吸器疾患が記録",
+      "summary": "インドネシアの煙害により、17万件以上の呼吸器疾患が発生し、そのうち4万件以上が幼児であると報告された。"
+    }
+  },
+  "JP": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4bea4465d1af358073a99e380f1461c2",
+      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-22T05:58:35.000Z",
+      "description": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "強力な台風ドゥジェンが日本を襲い、4人が死亡",
+      "summary": "強力な台風ドゥジェンが日本を直撃し、東京とその周辺に大雨と強風をもたらした結果、4人が死亡した。"
+    }
+  }
+}
