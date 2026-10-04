@@ -1,0 +1,942 @@
+{
+  "UA": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2a59cf622cfdcd91195c7063be259b5b",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T12:09:04.000Z",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ドイツ首相が電撃訪問する中、キエフの橋がさらなるロシアのドローン攻撃で被弾",
+      "summary": "ドイツ首相の訪問中に、ウクライナの首都キエフの橋がロシアによるドローン攻撃を受け、大きな火球が発生した。これは継続する紛争の一部である。"
+    }
+  },
+  "YE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "7f4ed63a5030289a36bbe35f977ad283",
+      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
+      "url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+      "published_at": "2026-10-04T13:31:15.000Z",
+      "description": "Fighting escalates in Taiz governorate as Yemen's government and Houthis battle for control of key strategic locations.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イエメンのタイズ県で戦闘が激化しているのはなぜか？",
+      "summary": "イエメンのタイズ県で政府軍とフーシ派が戦略的拠点の支配を巡って戦闘を激化。"
+    }
+  },
+  "ET": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d63c74aad4258d30c3819833d54dc8d6",
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-02T11:24:13.000Z",
+      "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "ティグレでの新たな戦闘がエチオピア全土の紛争をいかに引き起こすか",
+      "summary": "ティグレ人民解放戦線と国軍間の緊張激化の背景を探り、新たな戦闘がエチオピア全土に広がる紛争を引き起こす可能性について考察します。"
+    }
+  },
+  "AU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "646414250572cdbc14720d87de3eb4f1",
+      "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
+      "published_at": "2026-10-04T14:00:32.000Z",
+      "description": "Annual population growth for the North American nation has slowed to just 0.5% – and the economy is ‘adjusting’\n\nGet our breaking news email, free app or daily news podcast\n\nWould slashing net overseas migration “trash the economy” or deliver the necessary population “reset” to restore Australia’s stagnant living standards?\nLabor and an ascendant One Nation have presented starkly different visions of what a migration program in the national interest looks like.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "移民削減は経済を破綻させるか、豪州の生活水準をリセットするか？カナダが手がかりに",
+      "summary": "移民削減が豪州経済に与える影響と生活水準への再設定について議論されており、カナダの人口成長減速が比較対象となっている。"
+    }
+  },
+  "JP": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "dcd48b5cd8857432de8cd64de7e8455e",
+      "title": "Japan raises permanent residency fee by 20 times",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T02:57:43.000Z",
+      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "JP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "日本、永住権手数料を20倍に引き上げ",
+      "summary": "日本政府は、増加する外国人居住者の管理を目的とした入国管理政策の一環として、永住権申請手数料を20倍に引き上げた。"
+    }
+  },
+  "BR": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5db623ac63c80fc91cb664883c47bc60",
+      "title": "Brazil goes to polls in decisive election for future of Latin America",
+      "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+      "published_at": "2026-10-04T13:52:33.000Z",
+      "description": "Lula and Flávio Bolsonaro face off in battle between leftwing incumbent and far-right son of jailed ex-president\nBrazilians are going to the polls in the first round of a highly polarised and high-stakes presidential election that could change not only the direction of Latin America’s largest country but that of the entire region.\nThe election on Sunday pits the leftwing president, Luiz Inácio Lula da Silva, who is seeking a fourth non-consecutive term, against the far-right senator Flávio Bolsonaro, an ally of Donald Trump and the son of the former president Jair Bolsonaro, who is serving a 27-year sentence for attempting a coup after his failed 2022 re-election attempt.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ブラジル、ラテンアメリカの未来を決定する選挙に突入",
+      "summary": "ブラジルで、ラテンアメリカの方向性を左右する大統領選挙の第1回投票が実施。現職の左派ルラと、極右のフラビオ・ボルソナーロが対決する。"
+    }
+  },
+  "US": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5b0b9841796a0db74a4cfc7a36434464",
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "published_at": "2026-09-30T19:51:24.000Z",
+      "description": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights\nWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court and programs that would reward ideological allies in Europe who protect “western civilizational norms”.\nOn Wednesday, the state department obligated the funds to the grantees hours before the deadline despite congressional concerns and requests not to do so, according to a source familiar with the negotiations. The state department declined to comment on questions from the Guardian specifically on whether it had obligated the funds and had “blown” holds from Congress due to concerns about the money’s use.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "トランプ政権、人権資金を海外の極右アジェンダ推進に転用",
+      "summary": "トランプ政権が、国務省の人権資金1億7500万ドル以上を、反共産主義や南アフリカの白人アフリカーナー支援など、極右的な政策に転用したと報じられた。"
+    }
+  },
+  "ES": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aee58668452f14dc4c510f4a19abb44e",
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T23:42:33.000Z",
+      "description": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "スペインと中国が接近、EU内で多くの反発",
+      "summary": "世界的な混乱の中、スペインと中国が接近しており、EU加盟国の多くがこれに反発。両国の同盟関係は珍しい組み合わせとして注目されている。"
+    }
+  },
+  "BA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "41081719ceb7771131f4580d5e54e7cd",
+      "title": "Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?",
+      "url": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
+      "published_at": "2026-10-04T14:21:20.000Z",
+      "description": "Bosnian Serb leader's controversial comments ahead of Bosnia and Herzegovina's high-stakes elections.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "BA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ドディクはボスニアを「死んだ」と宣言。無関係なレトリックか、深刻な脅威か？",
+      "summary": "ボスニア・ヘルツェゴビナの選挙を前に、セルビア系指導者の物議を醸す発言が政治的緊張を高めている。"
+    }
+  },
+  "IN": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d1a19ef8b053c4f3844f47789caa82fc",
+      "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
+      "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-30T23:41:34.000Z",
+      "description": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "インドの森林村で危機が重なり、32人の子供が死亡",
+      "summary": "インドのバラガート地区にある森林村で、はしかとマラリアの流行により5月以降少なくとも32人の子供が死亡する危機が発生している。"
+    }
+  },
+  "LV": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e7510915bbfd47f83eb48102c3a9a2cd",
+      "title": "Latvia's pro-European ruling party wins election as populists gain ground",
+      "url": "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground",
+      "published_at": "2026-10-04T11:13:53.000Z",
+      "description": "With more than 99.9 per cent of votes counted, Prime Minister Andris Kulbergs' United List party was in the lead with 35.4 percent, according to state TV.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "LV",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ラトビアで親欧州派与党が選挙に勝利、ポピュリストが台頭",
+      "summary": "ラトビアで選挙が行われ、親欧州派の与党が勝利したが、ポピュリスト勢力も票を伸ばした。首相の統一リスト党が35.4％でリード。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "749d8166aa7c910ac4fad598f2994b87",
+      "title": "Germany news: Many believe Merkel more capable than Merz",
+      "url": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-04T08:29:00.000Z",
+      "description": "Nearly half of Germans view former Chancellor Angela Merkel as better suited to handle Germany's challenges than current Chancellor Friedrich Merz. Also, today is the last day of Oktoberfest in Munich. DW has the latest.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 50,
+      "titleJa": "ドイツのニュース：多くの人がメルケル氏をメルツ氏よりも有能だと評価",
+      "summary": "ドイツ人のほぼ半数が、アンゲラ・メルケル前首相がフリードリヒ・メルツ現首相よりもドイツの課題に対処するのに適していると考えている。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4c5765571e1f0dda067342dec9c78ed2",
+      "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+      "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "published_at": "2026-10-03T09:00:56.000Z",
+      "description": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down\nAllegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facilities and power stations in western Libya have upended plans for the Tripoli-based government of national unity (GNU) to continue cooperating with Haftar on a plan to unify the country.\nSaddam Haftar, the deputy commander of the so-called Libyan National Army (LNA), has increasingly been seen by the US as an important figure in its plans to unify Libyan security, judicial and political institutions.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "LY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "リビアの統一協議が暗礁に、軍閥の息子が燃料施設へのドローン攻撃と関連付けられ",
+      "summary": "リビア西部政府は、軍閥ハリファ・ハフタルの息子が燃料施設へのドローン攻撃に関与した疑いがあり、統一計画が頓挫したと発表した。"
+    }
+  },
+  "EG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "01ab62c436e769b286bc32ff2a122ac1",
+      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "published_at": "2026-10-02T08:55:42.000Z",
+      "description": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins\nOn the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.\nDepicting the Pharaoh Tutankhamun and Queen Nefertiti, the painting was among 40 murals commissioned to beautify the city for Xi’s arrival and was painted by a group of young volunteers, Rasmet Basma, in Tahrir Square.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "カイロの壁画、ツタンカーメンとネフェルティティが褐色肌で描かれ論争に",
+      "summary": "エジプト・カイロで、中国国家主席の訪問を前に設置された壁画が、ファラオの人種に関する論争を呼び、塗り消された。"
+    }
+  },
+  "ZA": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2ff13b47a0b667aad924440dafbaccff",
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-28T17:26:21.000Z",
+      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "南アフリカの一部で7月以降12人の女性が殺害。これまでに分かっていること",
+      "summary": "南アフリカの一部で7月以降、12人の女性が殺害されました。ラマポーザ大統領はこれを「国家の良心への汚点」と述べており、深刻な社会問題です。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "96a0f5adb9cc926219efb29c6bd39e57",
+      "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+      "published_at": "2026-09-30T12:47:15.000Z",
+      "description": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policy\nBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠Donald Trump’s hardline ⁠immigration ​policy.\nHowever, Burundi will only accept those not accused of crime or terrorism links, said ⁠Nancy Ninette Mutoni, a spokesperson for the country’s president, Évariste Ndayishimiye. Tuesday’s announcement gave no details of numbers, timing or financial ⁠details.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "BI",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ブルンジ、米国からの「第三国」移民送還者の受け入れに合意",
+      "summary": "ブルンジが、トランプ政権の強硬な移民政策に基づき、米国から「第三国」出身の移民送還者を受け入れることに合意した。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "55349eae63ada7e849cbd5a4983a2e11",
+      "title": "'I have complete confidence in Jordan': Le Pen backs Bardella after three days of silence",
+      "url": "https://www.euronews.com/2026/10/04/i-have-complete-confidence-in-jordan-le-pen-backs-bardella-after-three-days-of-silence",
+      "published_at": "2026-10-04T13:57:25.000Z",
+      "description": "After three days of silence, the National Rally's French presidential candidate has responded to Mediapart's release of new alleged evidence of antisemitic remarks by the party leader.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "「ジョーダンを完全に信頼している」：ルペンが3日間の沈黙の後バルデラを支持",
+      "summary": "フランスのルペン氏が3日間の沈黙を経て、国民連合のバルデラ氏への信頼を表明。党首の反ユダヤ主義的発言に関する疑惑に応じた。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4f868b8e9d1870f6f9471d170cd75ff9",
+      "title": "Somali president: Ethiopia can access our port, but must negotiate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
+      "published_at": "2026-10-04T13:22:22.000Z",
+      "description": "Somali President Hassan Sheikh Mohamud says  Addis Ababa has yet to come to Mogadishu to negotiate access to sea ports.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ソマリア大統領：エチオピアは我が国の港にアクセスできるが、交渉が必要だ",
+      "summary": "ソマリア大統領はエチオピアが同国港にアクセスできるが、交渉が必要だと表明した。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d8408da4bd6749379170f012b93ce1d2",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T04:57:20.000Z",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "AE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "フライデューバイ副操縦士が斧で機長を攻撃、UAE当局が発表",
+      "summary": "UAE当局によると、イスラエル行きフライデューバイ便の副操縦士が斧で機長を攻撃。男は機体乗っ取りを試みた疑い。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7d093b5074a63c2c31e1e0bc97f4fff9",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T19:59:24.000Z",
+      "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ネタニヤフ首相、フライデューバイ襲撃犯は「イスラム過激派に感化されていた」と発言",
+      "summary": "イスラエル首相が、フライデューバイ機乗っ取り犯は「イスラム過激派に感化され」、機体を墜落させる意図があったと述べた。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e971479f926e2e7b56907cb345deff6a",
+      "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-30T18:15:15.000Z",
+      "description": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "中国が英国の研究に資金提供し、その成果を北京のスパイに送っているとMI5が警告",
+      "summary": "MI5は、中国が英国の研究機関に資金提供し、その成果を中国のスパイ機関に送っていると警告。英国の大学は、中国国営企業との関係を断つよう求められている。"
+    }
+  },
+  "IQ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b5ba395d7099743d2a4a1974e4cd2b7",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-30T11:36:23.000Z",
+      "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IQ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "イラクから英国と米国の最後の部隊が撤退、対イスラム国任務が終了",
+      "summary": "イラク政府の要求に応じ、英国と米国の連合軍がイラクから撤退。対イスラム国任務が終了した。"
+    }
+  },
+  "PS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "da2b7a41d4637d2e1c612b24d09b42fd",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-30T05:02:50.000Z",
+      "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ガザでの攻撃後、少女が感染症治療のため複数回の手術を受ける",
+      "summary": "ガザでイスラエル軍のヘリコプター攻撃によりテントが被弾し、負傷した少女が感染症治療のため複数回の手術を受けている。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "469846f3fcf2136c3eecba4e77163513",
+      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T13:13:33.000Z",
+      "description": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "ジンバブエの大富豪ウィックネル・チヴァヨ夫妻、ヘリコプター墜落事故で死亡",
+      "summary": "ジンバブエの大富豪ウィックネル・チヴァヨとその妻がヘリコプター墜落事故で亡くなりました。チヴァヨは派手な生活とアフリカの大統領との繋がりで知られていました。"
+    }
+  },
+  "DZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "04d0904e35b6df80b5480fa912b77625",
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T16:31:35.000Z",
+      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "DZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "アルジェリア、致死的な山火事を受けて放火犯に死刑を導入",
+      "summary": "夏に国内北東部で200人以上が死亡した山火事を受け、アルジェリアは放火犯に対する死刑制度を導入。これは重大な政策変更です。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b3d116c3224e83159e5c035706978d0",
+      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T23:46:12.000Z",
+      "description": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "政治を「楽しく、トレンディに、セクシーに」：Z世代がケニアの次期選挙をいかに形作るか",
+      "summary": "ケニアで大規模な若者の有権者登録キャンペーンが行われ、Z世代が次期選挙に大きな影響を与える可能性が示唆されています。支持先は未定です。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2624805ae45642125da1f9459c344d66",
+      "title": "The journalist crowned king in Uganda after bitter succession dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-29T20:09:27.000Z",
+      "description": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "激しい後継者争いの末、ジャーナリストがウガンダで国王に即位",
+      "summary": "ウガンダでジャーナリストのキジャナンゴマ氏が、王室が認めない若い後継者を巡る争いの末、国王として即位しました。伝統的な王位継承における混乱です。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "214fa0ffc47bc0fa0dd8b6d9e0d85b2c",
+      "title": "Can a new national peace policy fix Nigeria’s security problems?",
+      "url": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems",
+      "published_at": "2026-09-08T18:58:49.000Z",
+      "description": "The country is confronting insurgency, banditry, mass kidnapping, communal violence, and organized crime, with the nature varying significantly from one region to another.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "新しい国家平和政策はナイジェリアの治安問題を解決できるか？",
+      "summary": "ナイジェリアは反乱、誘拐、暴力、組織犯罪など複雑な治安問題に直面。新しい国家平和政策がこれらの解決につながるかどうかが問われている。"
+    }
+  },
+  "TG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "35aff20d340a4e2621fd912f61b48800",
+      "title": "How Togolese people are reinventing political protest amid civil society crackdown",
+      "url": "https://globalvoices.org/2026/09/18/how-togolese-people-are-reinventing-political-protest-amid-civil-society-crackdown",
+      "published_at": "2026-09-18T20:34:50.000Z",
+      "description": "As in-person gatherings have become difficult to organize or too risky for citizens, online protest has become an increasingly common form of political dissent in Togo.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "TG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "市民社会弾圧の中、トーゴの人々はいかに政治的抗議活動を再発明しているか",
+      "summary": "トーゴでは対面での集会が困難または危険になったため、オンラインでの抗議活動が政治的異議申し立ての一般的な形として台頭している。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fa59122847764c589b3946cb0c498aa9",
+      "title": "The long journey from ‘Indigenous’ to citizen in Mozambique",
+      "url": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique",
+      "published_at": "2026-09-17T05:49:57.000Z",
+      "description": "The word Indigenous today belongs, above all, to history. “Mozambican” is the word that was born of the new sovereignty. But understanding the meaning of this citizenship requires remembering the journey that came before.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "モザンビークにおける「先住民」から市民への長い道のり",
+      "summary": "モザンビークでは「先住民」の言葉は歴史となり、新主権のもと「モザンビーク人」が生まれた。この市民権の意味を理解するには、過去の道のりを辿る必要がある。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "855dcde2c176abe4e69911162d9b5a6c",
+      "title": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceiling",
+      "url": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling",
+      "published_at": "2026-09-04T00:00:00.000Z",
+      "description": "After losing three finals, the Cameroonian women’s team finally lifted the Women’s Africa Cup of Nations. Their 3–0 victory over Malawi demonstrates this generation’s perseverance and progressive transformation in African women’s football.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "カメルーンの不屈のライオネス、ついにWAFCONのガラスの天井を打ち破る",
+      "summary": "カメルーン女子サッカーチーム「ライオネス」が3度の決勝敗退を経て、ついに女子アフリカネイションズカップで優勝。アフリカ女子サッカーの粘り強さと進歩を示す勝利だ。"
+    }
+  },
+  "RU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "efd06d01c3e21a31419cd05cb4a8dc02",
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T19:38:30.000Z",
+      "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "プーチン大統領、カリーニングラード防衛のため「あらゆる兵器を使用する用意がある」と西側諸国に警告",
+      "summary": "プーチン露大統領が西側諸国に対し、カリーニングラード防衛のためにあらゆる兵器を使用する準備があると警告。西側の発言への対応だと主張。"
+    }
+  },
+  "KR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "872608e817addd40547014ac75466f65",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-02T03:09:13.000Z",
+      "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "KR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "捕虜問題でウクライナが謝罪しない場合、ソウルは「さらなる措置」を警告",
+      "summary": "韓国のイ・ジェミョン大統領が捕虜問題に関するウクライナの謝罪がない場合、「さらなる行動」を警告。ウクライナが朝鮮半島での戦争を誘発しようとしていると非難した。"
+    }
+  },
+  "CH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "57cf8874c04f2e6c7f769de4e1518ba3",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T00:08:23.000Z",
+      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "CH",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 85,
+      "titleJa": "スイスの氷河が「壊滅的な」氷の損失を被り、水供給に脅威",
+      "summary": "スイスの氷河が「壊滅的」な氷の損失を被り、水供給が危機に。気候変動の進行により、急速な融解はもはや驚くべきことではないと科学者が警告。"
+    }
+  },
+  "SI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d9f60b4230b94963537eef9a1cafb3a2",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T11:37:46.000Z",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "SI",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 40,
+      "titleJa": "トランプ氏のAI改名提唱がスロベニアのウェブサイト名に「前例のない」需要を呼ぶ",
+      "summary": "トランプ前大統領がAIを「スーパーインテリジェンス（SI）」と改名するよう提唱したことで、スロベニアのドメイン名（.si）に前例のない需要が生じている。"
+    }
+  },
+  "CU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "03e5acd7e774bf30d4c07c9caea21f51",
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T23:00:05.000Z",
+      "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "裕福なキューバ系アメリカ人、ハバナ陥落を待ち望む",
+      "summary": "フロリダのキューバ系亡命者たちは、キューバでの政権交代が目前に迫っていると期待感を高めている。"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bd2937226939255deac40d5720912769",
+      "title": "More than 5,000 people killed or injured in Haiti due to gang violence this year, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0z00wr14xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-02T10:22:52.000Z",
+      "description": "The United Nations said violent gangs continue to \"adapt and expand\" across the country, further threatening its stability.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "HT",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "国連、ハイチで今年ギャング暴力により5,000人以上が死傷と発表",
+      "summary": "国連によると、ハイチではギャングの暴力が拡大し続け、今年すでに5,000人以上が死傷。国の安定をさらに脅かしている。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "427aa17a16482558198115b5db76700a",
+      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-29T10:34:53.000Z",
+      "description": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "ハリケーン・ポロがメキシコ太平洋岸に上陸",
+      "summary": "ハリケーン・ポロが人気の観光地であるバハカリフォルニア半島に上陸。メキシコ太平洋沿岸に大きな影響を及ぼす可能性がある。"
+    }
+  },
+  "VE": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8ae6722857a0da41692fa02b2ad6062c",
+      "title": "Venezuela’s earthquakes leave children facing trauma, displacement and food insecurity",
+      "url": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity",
+      "published_at": "2026-08-28T13:00:49.000Z",
+      "description": "As families seek refuge, Venezuela’s youngest children grapple with fear, disrupted routines and the loss of basic nutritional security.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ベネズエラの地震が子供たちにトラウマ、避難、食料不安をもたらす",
+      "summary": "ベネズエラの地震により、幼い子供たちは恐怖、日常の崩壊、食料不足といった深刻な影響を受け、多くの家族が避難生活を送っている。"
+    }
+  },
+  "BO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0259d3f30cf24ac6de105196bf876386",
+      "title": "New wild cat species discovered - with only one known living member",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T23:15:55.000Z",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 65,
+      "titleJa": "新たな野生ネコ種が発見される — 既知の生存個体は1匹のみ",
+      "summary": "ボリビアで、これまで近縁種と誤認されてきた斑点のある野生ネコが新種として特定された。既知の生存個体は1匹のみである。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7297023831965383779dca5d1ecc5242",
+      "title": "Trump's response is key as Argentina's Falklands demands get louder",
+      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-05T06:20:04.000Z",
+      "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "アルゼンチンのフォークランド諸島に関する要求が強まる中、トランプ氏の対応が鍵に",
+      "summary": "アルゼンチンのミレイ大統領がフォークランド諸島を巡る「変化の風」を約束する中、ドナルド・トランプ氏が英国の統治に対する姿勢を変えるかどうかが注目されている。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06765a4c8412971d54914dc44a7906de",
+      "title": "Ecuador detains former minister José Serrano after U.S. deportation",
+      "url": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation",
+      "published_at": "2026-09-18T02:00:10.000Z",
+      "description": "Deported from the United States, Ecuador’s former “superminister” now faces grave criminal investigations and political accusations in a justice system facing questions over due process.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "エクアドル、米国追放後のホセ・セラーノ元大臣を拘束",
+      "summary": "米国から追放されたエクアドルのホセ・セラーノ元大臣が重大な刑事捜査と政治的告発に直面。司法制度の適正手続きが問われている。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aacdd0f914a9ae53a681b8a423fa4973",
+      "title": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthquake",
+      "url": "https://globalvoices.org/2026/09/11/pay-by-the-day-living-in-pereira-the-forgotten-survivors-of-colombias-earthquake",
+      "published_at": "2026-09-11T03:00:02.000Z",
+      "description": "In Pereira, Colombia, earthquake survivors living in pay-by-the-day rooms now face homelessness, overcrowded shelters, illness, and a struggle to be counted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "ペレイラの「日払い」生活：コロンビア地震の忘れられた生存者たち",
+      "summary": "コロンビアのペレイラで、地震の生存者たちが日払いの部屋に暮らし、ホームレス、過密な避難所、病気に直面。存在を認識されずに苦闘している。"
+    }
+  },
+  "AF": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "a7765c1a5ca90dff189aa742e8130de7",
+      "title": "Pakistan launches deadly air strikes on Afghanistan",
+      "url": "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T08:06:28.000Z",
+      "description": "The Afghan Taliban says nine civilians have died while Pakistan says the strikes killed 22 militants.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AF",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "パキスタンがアフガニスタンに致命的な空爆を実施",
+      "summary": "パキスタンがアフガニスタンに空爆を行い、タリバンは民間人9人の死亡を報告。パキスタン側は武装勢力22人を殺害したと主張。"
+    }
+  },
+  "SG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bfd702f80874aca411b871dce92b7c94",
+      "title": "Singapore launches matchmaking service for government workers",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-30T09:42:36.000Z",
+      "description": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "SG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "シンガポール、公務員向けお見合いサービスを開始",
+      "summary": "シンガポール政府は、少子高齢化問題への対策として、公務員向けにお見合いサービス「FirstDate」を開始した。"
+    }
+  },
+  "NZ": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5343e23440d77f8cde919ccbc7b3ca0c",
+      "title": "Watch: Couple describe relief at rescue after whale destroys their yacht",
+      "url": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-30T11:01:58.000Z",
+      "description": "Jeremy and Jemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NZ",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 55,
+      "titleJa": "クジラにヨットを破壊され救助された夫婦が安堵を語る",
+      "summary": "ニュージーランド沖500マイルで、ヨットがマッコウクジラと衝突し破壊された。救助されたジェレミーとジェマ・クーパー夫妻がその安堵を語った。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e456ab161968ee943e6f79fe18bc9477",
+      "title": "WTO, Asian Development Bank and World Bank bring TS4D initiative to Asia and the Pacific",
+      "url": "https://www.wto.org/english/news_e/news26_e/ts4d_28sep26_499_e.htm",
+      "published_at": "2026-09-28T00:00:00.000Z",
+      "description": "The WTO, the Asian Development Bank and the World Bank Group jointly organized a regional conference in Manila on 28-29 September that brought for the first time the Trade in Services for Development (TS4D) initiative to the Asia-Pacific region. The event allowed trade officials and other stakeholders from the region to discuss the role of services trade in development, exchange views on the use of analytical tools developed under the initiative and share best practices and policy approaches for supporting services trade in the region.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "PH",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 55,
+      "titleJa": "WTO、アジア開発銀行、世界銀行がアジア太平洋地域にTS4Dイニシアティブを導入",
+      "summary": "WTO、ADB、世界銀行がマニラで地域会議を開催し、開発のためのサービス貿易（TS4D）イニシアティブをアジア太平洋地域に初めて導入した。"
+    }
+  }
+}
