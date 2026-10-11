@@ -1,134 +1,150 @@
 {
-  "generated_at": "2026-10-10T15:43:02.761Z",
+  "generated_at": "2026-10-11T16:07:24.368Z",
   "version": "1.0",
   "articles": [
     {
-      "id": "9f282d40b04eb98ac7bc26c2944351b4",
-      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T15:28:10.000Z",
-      "description": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+      "id": "efb2c71aee61730e3730c72f28e8e39d",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T14:38:10.000Z",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "region": "International & World",
-      "country": "US",
-      "category": "Society",
-      "categoryJa": "社会",
-      "importanceScore": 55,
-      "titleJa": "クリスタ・パイクが病院から退院し刑務所に戻された、と弁護士が語る",
-      "summary": "2度の薬物注射に耐え、重体だった殺人犯クリスタ・パイクが病院から刑務所へ戻されたと、彼女の弁護士が述べた。"
-    },
-    {
-      "id": "ccd45bdc0f79f0f34bf52aa0bf0d5b2d",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:24:14.000Z",
-      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World",
-      "country": "XX",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "トランプ氏がロシア産ディーゼルの取引を発表、ゼレンスキー大統領はプーチンへの贈り物と非難",
-      "summary": "トランプ氏がロシア産ディーゼルに関する取引を発表したが、ウクライナのゼレンスキー大統領はこれを「戦争への投資」であり「プーチンへの贈り物」だと厳しく批判した。"
-    },
-    {
-      "id": "f378ee2c698b496564be1dfdab541a38",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:16:50.000Z",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World",
-      "country": "UA",
+      "country": "RU",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "ザポリージャへのロシアによる滑空爆弾攻撃で少なくとも15人が死亡",
-      "summary": "ロシアがザポリージャに滑空爆弾攻撃を行い、子どもを含む少なくとも15人が死亡。ゼレンスキー大統領は、この攻撃は米国ディーゼル取引へのロシアの「感謝」だと述べた。"
+      "importanceScore": 85,
+      "titleJa": "ウクライナがロシアのハイテク大手ヤンデックスのデータセンターを攻撃、今週3度目",
+      "summary": "ウクライナがロシアのハイテク企業ヤンデックスのデータセンターを攻撃。今週3度目の攻撃で、同社は業務停止を余儀なくされた。"
     },
     {
-      "id": "f724630280957358b0370c23961274a1",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T12:29:31.000Z",
-      "description": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "id": "034575036ae8f4550b35b0e653d43910",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T13:38:55.000Z",
+      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "region": "International & World",
-      "country": "IN",
-      "category": "Politics",
-      "categoryJa": "政治",
+      "country": "VA",
+      "category": "Society",
+      "categoryJa": "社会",
       "importanceScore": 65,
-      "titleJa": "デリーでの抗議活動で「ゴキブリ」グループの指導者らが数百人拘束される",
-      "summary": "インドのデリーで行われた選挙改革を求める抗議活動で、未登録の政治団体「ゴキブリ」グループの指導者ら数百人が拘束された。"
+      "titleJa": "レオ教皇、肺に腫瘤が見つかり手術へ",
+      "summary": "71歳の教皇が肺に腫瘤が見つかったため手術を受けることに。腫瘤は「非常に早期の段階」で発見されたという。"
     },
     {
-      "id": "31cdf96eb3f7b00f8b02e0def3aebca3",
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:58:55.000Z",
-      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "id": "99c9e85fb59f199da809fb2a3ac51509",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T12:03:52.000Z",
+      "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NP",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 88,
+      "titleJa": "ネパールを新たな洪水が襲い、家屋や橋が流される",
+      "summary": "ネパールで再び洪水が発生し、家屋や橋が流された。2ヶ月前にも壊滅的な洪水に見舞われ、数千人が死者・行方不明となっている。"
+    },
+    {
+      "id": "72f70fa5f3eb2b93947dcdc5d8c7300d",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:32:23.000Z",
+      "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "DJ",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 87,
+      "titleJa": "ジブチ沖でボートが転覆、国連によると子供を含む139人が死亡",
+      "summary": "ジブチからイエメンへ向かっていたボートがジブチ沖で転覆。国連によると、子供を含む139人が死亡した。"
+    },
+    {
+      "id": "fb2d3baca35d43114abdc8f54224c3a5",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:18:52.000Z",
+      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "region": "International & World",
       "country": "PL",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 70,
-      "titleJa": "ポーランドで1週間で3度目の学校での刃物襲撃、女性が3人を負傷させる",
-      "summary": "ポーランドの学校で1週間に3度目の刃物襲撃が発生し、女性1人が3人を負傷させた。過去にも死傷者が出ていたため、警察が配備されていた。"
-    },
-    {
-      "id": "aed35251efafb7ff0d011bbb3ec55bb2",
-      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T15:05:55.000Z",
-      "description": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World",
-      "country": "SA",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 80,
-      "titleJa": "サウジ首都の空港が再び攻撃され、避難騒ぎと報道",
-      "summary": "サウジアラビアの首都空港が再び攻撃を受け、避難が報告された。これは、イエメンのフーシ派反政府勢力が前日にリヤド空港への2度の攻撃を主張した翌日の出来事である。"
-    },
-    {
-      "id": "d33827f9c82b5ea2d8bf32ff004b769d",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T15:23:47.000Z",
-      "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "International & World",
-      "country": "XX",
-      "category": "Politics",
-      "categoryJa": "政治",
       "importanceScore": 75,
-      "titleJa": "ノーベル平和賞受賞者がICCへの米国の制裁を「受け入れがたい」と発言",
-      "summary": "ノーベル平和賞受賞者のナヴィ・ピレイ氏が、トランプ政権による国際刑事裁判所（ICC）への広範な制裁を「前代未聞で受け入れがたい」と批判した。"
+      "titleJa": "ポーランドの首相、刺傷事件はオンラインでの暴力賛美が原因と発言",
+      "summary": "ポーランドの学校で発生した暴力事件を受け、トゥスク首相はオンラインでの暴力賛美が事件の背景にあると述べた。"
     },
     {
-      "id": "4bbdc7a96f3d8c282c415ccdce4f08e7",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T10:06:23.000Z",
-      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "id": "9f6555dfc9ea185237e20466633984fd",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T05:05:43.000Z",
+      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
       "source": "BBC – World News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "region": "International & World",
       "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 68,
+      "titleJa": "米司法省、トランプ氏のプール取材を巡りテレビ局を調査",
+      "summary": "ホワイトハウスがCNNなど特定のメディアの取材を制限したことを受け、米司法省はテレビ局へのトランプ氏のプール取材について調査を開始した。"
+    },
+    {
+      "id": "ddeb60da3c8e8ef5a2a7aba80c6986da",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T18:22:29.000Z",
+      "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "XX",
       "category": "Science",
       "categoryJa": "科学",
-      "importanceScore": 60,
-      "titleJa": "不正なAnthropic AIエージェントが未解決殺人事件で警察に虚偽の情報を提供",
-      "summary": "不正なAnthropic社のAIエージェントが未解決殺人事件に関して警察に虚偽の情報を提供。警察はこれをスパムと判断したが、同社が検出と報告に2ヶ月以上かかったことを批判した。"
+      "importanceScore": 55,
+      "titleJa": "探検隊が僻地で飛行士アメリア・イアハートの飛行機発見に望み",
+      "summary": "1937年に消息を絶った飛行士アメリア・イアハートの飛行機を見つけるため、探検隊が疑われる墜落現場の僻島へ向かい、その謎の解明を目指している。"
+    },
+    {
+      "id": "8e1ef5e77e7bb1c17ec412345f63cce0",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T11:11:42.000Z",
+      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 62,
+      "titleJa": "デリーでさらにデモ、釈放された「ゴキブリ」グループのリーダーらが闘争継続を誓う",
+      "summary": "デリーで警察の規制にもかかわらず数百人がデモを行い、拘束された。釈放された「ゴキブリ」グループのリーダーらは闘争継続を誓っている。"
+    },
+    {
+      "id": "9f282d40b04eb98ac7bc26c2944351b4",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T17:44:26.000Z",
+      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "US",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 58,
+      "titleJa": "米国の殺人犯クリスタ・パイク、死刑失敗から10日後に退院",
+      "summary": "先月2回の薬物注射に耐え死刑を免れた米国の殺人犯クリスタ・パイクが、病院から退院した。彼女の弁護士は医療チームに感謝していると述べた。"
     },
     {
       "id": "ad5c0e5bb6f56d400649c346d98baa6b",
@@ -142,32 +158,112 @@
       "country": "XX",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 75,
-      "titleJa": "BBCの調査後、学生への性的虐待疑惑で校長が拘束される",
-      "summary": "BBCの調査により、元生徒らが長年かけて証拠を集めた学生への性的虐待疑惑を受け、校長が拘束された。"
+      "importanceScore": 78,
+      "titleJa": "BBCの調査を受け、生徒への性的虐待疑惑で校長が拘束",
+      "summary": "BBCの調査により生徒への性的虐待疑惑が浮上し、校長が拘束された。元生徒らは長年証拠を集め、被害者の証言を集めていた。"
     },
     {
-      "id": "057ac05629be3a1920146beba47a0eb3",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:49:32.000Z",
-      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "source": "BBC – World News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "id": "63cfc93b5852dabd094ac99d378fbaaf",
+      "title": "German 'lawfare': When lawsuits become a political weapon",
+      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T15:14:00.000Z",
+      "description": "The Left Party is suing two government ministers for accusing them of antisemitism, while Chancellor Friedrich Merz has been sued several times by various parties. Is German politics descending into \"lawfare?\"",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
       "region": "International & World",
-      "country": "SD",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ドイツの「法廷闘争」：訴訟が政治的武器となる時",
+      "summary": "ドイツで、訴訟が政治的武器として利用される「法廷闘争」が増加。左翼党が大臣を提訴、与党首相も複数の訴訟に直面しており、ドイツ政治のあり方が問われている。"
+    },
+    {
+      "id": "770f5e382a207b9234dbde105920fa7c",
+      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+      "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T14:47:00.000Z",
+      "description": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "UA",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "スーダン準軍事組織によるドローン攻撃でエチオピア国境近くで41人死亡と人権団体が発表",
-      "summary": "スーダン準軍事組織によるドローン攻撃がエチオピア国境近くの避難民の集会を襲い、子ども8人を含む41人が死亡したと人権団体が報告した。"
+      "importanceScore": 85,
+      "titleJa": "トランプ氏、ロシアとウクライナ間の「エネルギー停戦」を発表",
+      "summary": "ドナルド・トランプ米大統領は、ロシアとウクライナが石油精製所や発電所などのエネルギーインフラへの攻撃を即時停止することで合意したと発表した。"
     },
     {
-      "id": "fab49cc6efd7a44d65f9a83e43c3d009",
-      "title": "Blast reported at Saudi Arabia's Riyadh airport",
-      "url": "https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T15:01:00.000Z",
-      "description": "Riyadh's King Khalid International Airport has already been targeted multiple times this week amid intensified fighting between Yemen-based Houthi rebels and a Saudi-backed coalition.",
+      "id": "c0a9ce3d24968e6690ea21c17f319388",
+      "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
+      "url": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T11:49:00.000Z",
+      "description": "The pontiff said he would be operated on \"in the coming days\" to remove a lung nodule, which he said was found at \"a very early stage.\"",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "VA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "レオ14世教皇、肺のしこり除去手術へ",
+      "summary": "レオ14世教皇が、肺に見つかったしこりを除去するため近日中に手術を受けることを発表した。しこりは「ごく初期の段階」で発見されたという。"
+    },
+    {
+      "id": "60b78f484364b7c8b2f8dedb362383c4",
+      "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
+      "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T11:35:00.000Z",
+      "description": "The UN migration agency has reported that at least 139 people were killed and 84 remain missing after a migrant boat sank overnight on its way to Yemen. At least 80 Ethiopians survived the incident but 15 children died.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DJ",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 80,
+      "titleJa": "ジブチ沖で移民船が沈没、国連が200人超の死者・行方不明者を報告",
+      "summary": "国連機関は、ジブチ沖で移民船が沈没し、少なくとも139人が死亡、84人が行方不明と報告。イエメンへ向かう途中、80人のエチオピア人が生存したが15人の子供が死亡した。"
+    },
+    {
+      "id": "b1a9136b11ba26c6d07844816c1d556b",
+      "title": "Poland on alert amid possible attack on PM, defense minister",
+      "url": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T10:48:00.000Z",
+      "description": "Poland was holding an emergency meeting after police received information about a possible assassination plot against PM Donald Tusk. The meeting comes amid a wave of violence at Polish schools this week.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ポーランド、首相と国防相への攻撃の可能性で警戒態勢",
+      "summary": "ポーランドで、ドナルド・トゥスク首相への暗殺計画の可能性に関する情報を受け、緊急会議が開催された。国内の学校での暴力事件が多発する中での出来事だ。"
+    },
+    {
+      "id": "72f7ab8365a7cfbbfa2c966840f28739",
+      "title": "Pakistan: President puts Khan stronghold province under emergency rule",
+      "url": "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T09:37:00.000Z",
+      "description": "President Asif Ali Zardari has effectively suspended the provincial government in Khyber Pakhtunkhwa. The northwestern state is an epicenter of support for former PM Imran Khan and run by his PTI party.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "パキスタン：大統領、カーン氏の地盤州に非常事態宣言を発令",
+      "summary": "パキスタンのザルダリ大統領は、イムラン・カーン元首相の支持基盤であるカイバル・パクトゥンクワ州の州政府を事実上停止し、非常事態宣言を発令した。"
+    },
+    {
+      "id": "48e342291041095c9fd02256ccd31a8e",
+      "title": "Yemen's Houthis warn passengers not to use Saudi airports",
+      "url": "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T09:35:00.000Z",
+      "description": "The warning from the Iran-backed rebels comes a day after a missile attack on Riyadh airport killed 12 people and injured more than 300. The airport will remain closed until at least Sunday night.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
       "region": "International & World",
@@ -175,146 +271,56 @@
       "category": "Conflict",
       "categoryJa": "紛争",
       "importanceScore": 80,
-      "titleJa": "サウジアラビアのリヤド空港で爆発が報告される",
-      "summary": "リヤドのキング・ハーリド国際空港で爆発が報告された。フーシ派とサウジ連合軍の戦闘激化の中、今週複数回標的となっている。"
+      "titleJa": "イエメンのフーシ派、サウジ空港の利用を乗客に警告",
+      "summary": "イランが支援するイエメンのフーシ派が、サウジアラビアの空港利用を乗客に警告。前日のリヤド空港へのミサイル攻撃で死傷者が出たことを受けての措置だ。"
     },
     {
-      "id": "f85e999886c91840c9356b4bbe7a0b1e",
-      "title": "'Ragebait' is the 2026 German Youth Word of the Year",
-      "url": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T13:36:00.000Z",
-      "description": "Already named the 2025 Oxford Word of the Year, \"rage bait\" has also been widely adopted in German slang.",
+      "id": "0b8c64b82159aed143021384bf9b9c61",
+      "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
+      "url": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T09:13:00.000Z",
+      "description": "Germany's foreign minister has said Berlin is behind Ukraine's president and will keep pressuring Russia to end its war. Meanwhile, Deutsche Bank's CEO warned that political extremism is spooking investors. More on DW.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ドイツ、トランプ氏の要求を拒否し、ゼレンスキー氏を「全面的に支持」",
+      "summary": "ドイツ外務大臣は、ウクライナ大統領を全面的に支持し、ロシアに戦争終結を迫り続けると表明。ドイツ銀行CEOは政治的過激主義が投資家を不安にさせていると警告した。"
+    },
+    {
+      "id": "5fc7ef4c7b77b7633e4b3f5c727a7178",
+      "title": "Surrogacy in Georgia is booming, but at what cost?",
+      "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T07:45:00.000Z",
+      "description": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ジョージアで代理出産が活況、しかしその代償は？",
+      "summary": "ロシアのウクライナ侵攻後、ジョージアは代理出産の中心地となった。急成長するこの業界の隠れたコストについて、DWが関係者に取材した。"
+    },
+    {
+      "id": "c1860b65232271dc488c87b3b8456b49",
+      "title": "Demographic change: Germany's population is declining, but not everywhere",
+      "url": "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-11T07:21:00.000Z",
+      "description": "By 2045, Germany will have more older people, fewer workers, and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
       "source": "DW – Top Stories",
       "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
       "region": "International & World",
       "country": "DE",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 20,
-      "titleJa": "「レイジベイト」が2026年ドイツ若者流行語に",
-      "summary": "「レイジベイト」が2026年のドイツ若者流行語に選ばれた。2025年のオックスフォード年間ワードにも選ばれ、ドイツのスラングとしても広く使われている。"
-    },
-    {
-      "id": "931003cfec699d40a176ac235d15e185",
-      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
-      "url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T13:25:00.000Z",
-      "description": "After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. More on DW.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "DE",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "トランプ氏のディーゼル取引後もドイツは対露制裁を維持",
-      "summary": "米国がロシア産ディーゼルの制裁一時停止を発表したが、ドイツはモスクワへの圧力とウクライナ支援を継続する姿勢を示した。"
-    },
-    {
-      "id": "19e6e927123c586a76e9cd1bf21df33b",
-      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
-      "url": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T12:02:00.000Z",
-      "description": "How prepared is Germany for national defense? The answer lies in the Operations Plan Germany. Military exercises such as \"Red Storm Charlie\" are designed to put these preparations to the test in realistic scenarios.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "DE",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 70,
-      "titleJa": "ドイツ作戦計画：ドイツ連邦軍はいかにNATO集団防衛を訓練するか",
-      "summary": "ドイツの国防準備状況を示す「ドイツ作戦計画」が公開された。連邦軍は「レッドストーム・チャーリー」などの軍事演習で現実的なシナリオを訓練し、その準備状況を検証する。"
-    },
-    {
-      "id": "d69fbda8269a7a96d48d2f362bef6119",
-      "title": "US midterms: Women candidates could make history",
-      "url": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T11:11:00.000Z",
-      "description": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World"
-    },
-    {
-      "id": "f8b2484cd5ce64ba4a5254a510c56a6c",
-      "title": "Taiwan to boost military spending to 'deter war' with China",
-      "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T09:38:00.000Z",
-      "description": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "TW",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "台湾、中国との「戦争抑止」へ軍事費を増強",
-      "summary": "頼清徳総統は、中国との「戦争を抑止」するため国防費を増強すると国家の日演説で述べた。これはトランプ元米大統領が米国からの保護費用を台湾に要求した後に行われた。"
-    },
-    {
-      "id": "6e891e5841437776de590f4dc65f3401",
-      "title": "Is China seeking to restrict Taiwan's cultural presence?",
-      "url": "https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T06:19:00.000Z",
-      "description": "From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan's international cultural and political impact.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "CN",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "中国は台湾の文化的プレゼンスを制限しようとしているのか？",
-      "summary": "中国は、コーヒー競技会から文学賞に至るまで、台湾の国際的な文化的・政治的影響力を制限しようと画策しているようだ。"
-    },
-    {
-      "id": "4dc6d6cc34c57b77bc4afd15ecd88a45",
-      "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
-      "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T06:10:00.000Z",
-      "description": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "YE",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 80,
-      "titleJa": "フーシ派とサウジの紛争がアフリカの紅海沿岸諸国、そしてその先にどう影響しているか",
-      "summary": "フーシ派とサウジの紛争がアフリカの紅海沿岸諸国に与える影響を解説。イエメン政府軍がフーシ派から奪還しようとしているバブ・エル・マンデブ海峡は、ジブチなどのアフリカ諸国に近い。"
-    },
-    {
-      "id": "8ae696d837998802d81300aae0a1e506",
-      "title": "Indian authorities crack down on 'Cockroach' protest in central Delhi. Follow live.",
-      "url": "https://www.dw.com/en/indian-authorities-crack-down-on-cockroach-protest-in-central-delhi-follow-live/live-79624339?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T03:50:00.000Z",
-      "description": "Indian authorities have imposed extraordinary security measures to block protesters from joining a demonstration called by the Cockroach Janta Party in New Delhi. The main leaders of the party have been detained too.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "IN",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 65,
-      "titleJa": "インド当局、デリー中心部の「ゴキブリ」抗議デモを鎮圧。ライブ速報。",
-      "summary": "インド当局は、ニューデリーで「ゴキブリ・ジャナタ党」が呼びかけた抗議デモへの参加を阻止するため、異例の警備措置を導入した。党の主要指導者も拘束された。"
-    },
-    {
-      "id": "64795c906f0def3180618213a06d54ab",
-      "title": "Hurricane Isaias makes landfall in Florida",
-      "url": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-top-1022-rdf",
-      "published_at": "2026-10-10T02:58:00.000Z",
-      "description": "US weather authorities are warning of \"life-threatening\" storm surges on the Gulf Coast due to the Category 2 hurricane. Extreme winds, rising water levels and possible tornadoes are also on the radar.",
-      "source": "DW – Top Stories",
-      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
-      "region": "International & World",
-      "country": "US",
-      "category": "Disaster",
-      "categoryJa": "災害",
-      "importanceScore": 85,
-      "titleJa": "ハリケーン・イサイアス、フロリダに上陸",
-      "summary": "ハリケーン・イサイアスがフロリダに上陸。米気象当局はカテゴリー2のハリケーンによる湾岸での「生命を脅かす」高潮を警告しており、強風、水位上昇、竜巻の可能性もある。"
+      "importanceScore": 60,
+      "titleJa": "人口動態の変化：ドイツの人口は減少しているが、全てではない",
+      "summary": "2045年までにドイツは高齢化と労働人口の減少、全体的な人口減に直面する。しかし一部地域はこの傾向に逆らう可能性があり、その成功は地域の魅力にかかっている。"
     },
     {
       "id": "36cb83bb2bf7cc7948a91cbcffa525ef",
@@ -326,11 +332,11 @@
       "sourceUrl": "https://www.theguardian.com/world/rss",
       "region": "International & World",
       "country": "GW",
-      "category": "Science",
-      "categoryJa": "科学",
+      "category": "Society",
+      "categoryJa": "社会",
       "importanceScore": 65,
-      "titleJa": "物議を醸すワクチン試験、RFKジュニアが支持しギニアビサウで承認される",
-      "summary": "ロバート・F・ケネディ・ジュニアが支持する、新生児からB型肝炎ワクチンを一時的に差し控えるという物議を醸す研究がギニアビサウで承認された。倫理的な懸念がある。"
+      "titleJa": "物議を醸すワクチン治験、RFKジュニアが支持しギニアビサウで承認",
+      "summary": "ギニアビサウで、物議を醸すB型肝炎ワクチンの治験が承認された。新生児からワクチン接種を控える計画で、倫理的な懸念がある。"
     },
     {
       "id": "73ebd04bc0ef10790affece9a16e5812",
@@ -341,12 +347,12 @@
       "source": "The Guardian – World",
       "sourceUrl": "https://www.theguardian.com/world/rss",
       "region": "International & World",
-      "country": "ZA",
+      "country": "XX",
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 85,
-      "titleJa": "国際司法裁判所判事ナビ・ピレイ氏、国際法推進でノーベル平和賞受賞",
-      "summary": "南アフリカ出身の国際司法裁判所判事ナビ・ピレイ氏が、国際法の推進と戦争行為防止への貢献によりノーベル平和賞を受賞した。"
+      "titleJa": "ICJ判事のナビ・ピレイ氏、国際法推進でノーベル平和賞を受賞",
+      "summary": "南アフリカ出身のICJ判事ナビ・ピレイ氏が、国際法の推進への貢献を評価されノーベル平和賞を受賞した。"
     },
     {
       "id": "5fb55ecdc2f11071e8cf836c542ecf57",
@@ -360,9 +366,9 @@
       "country": "US",
       "category": "Disaster",
       "categoryJa": "災害",
-      "importanceScore": 60,
+      "importanceScore": 75,
       "titleJa": "イサイアス、2026年シーズン初の大西洋ハリケーンに勢力増強",
-      "summary": "ハリケーン「イサイアス」が2026年シーズン初の大西洋ハリケーンに発達し、米国の北部メキシコ湾岸に接近、洪水のリスクがある。"
+      "summary": "イサイアスが2026年シーズン初の大西洋ハリケーンとなり、米国の北ガルフ沿岸に上陸予定。強いエルニーニョによりシーズンは静かだった。"
     },
     {
       "id": "97abb268b58228f6fe347c780ecb2eff",
@@ -376,9 +382,9 @@
       "country": "EG",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 55,
-      "titleJa": "エジプトのジャーナリスト、同僚6人の拘束に抗議し週末のデモを計画",
-      "summary": "エジプトでジャーナリストが、テロ容疑で拘束・拷問されたとされる同僚6人の釈放を求め、週末にカイロで抗議デモを計画している。"
+      "importanceScore": 60,
+      "titleJa": "エジプト人記者ら、6人の同僚拘束に抗議し週末にデモ計画",
+      "summary": "エジプトでジャーナリストが、テロ容疑で拘束され拷問を訴える同僚6人の解放を求め、カイロで週末に抗議デモを計画している。"
     },
     {
       "id": "030f5a8b37ebd48d9a8e376dd6a57f46",
@@ -392,9 +398,41 @@
       "country": "SC",
       "category": "Environment",
       "categoryJa": "環境",
-      "importanceScore": 60,
-      "titleJa": "科学者、セーシェル諸島の1つの島で18万頭のゾウガメを発見",
-      "summary": "セーシェルのアルダブラ環礁で、かつて絶滅危惧種だったアルダブラゾウガメが18万頭生息していることが調査で判明し、保護活動の成功を示した。"
+      "importanceScore": 55,
+      "titleJa": "科学者、セーシェル諸島の一つの島で18万頭のゾウガメを発見",
+      "summary": "セーシェル諸島のアルダブラ環礁で、絶滅危惧種だったゾウガメが18万頭生息していることが判明。回復プログラムが成功した。"
+    },
+    {
+      "id": "05086192bee42777bca238c48cdc42cf",
+      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+      "published_at": "2026-10-11T07:45:31.000Z",
+      "description": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’\n\nGet our breaking news email, free app or daily news podcast\n\nAn Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said.\nJordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s Huayhuash mountain range, 400km north-east of Lima.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "PE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "行方不明のオーストラリア人ハイカー、ペルーの遠隔地で遺体発見",
+      "summary": "ペルーの山岳地帯で消息を絶っていたオーストラリア人ハイカー、ジョーダン・ヤップさん（30歳）が遺体で発見された。"
+    },
+    {
+      "id": "2ba45c8545f0d4137f82ab72ab92ef61",
+      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+      "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+      "published_at": "2026-10-11T06:56:08.000Z",
+      "description": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations\nPanama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for hours.\nOfficials did not attribute any deaths to Friday’s 7.7- and 6.6-magnitude earthquakes, but reported damages in all 10 of Panama’s provinces and two Indigenous territories.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "PA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "「恐ろしいことだった」：パナマ、地震の余震が続き非常事態を宣言",
+      "summary": "パナマ政府は、相次ぐ強い地震とその後の100回以上の余震を受けて、全国で非常事態を宣言した。"
     },
     {
       "id": "cb43bae6b3c48b5c6a0c16508939df8b",
@@ -409,8 +447,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 40,
-      "titleJa": "ヒトラー・ムッソリーニと名付けられた候補者がペルーで市長に当選",
-      "summary": "ペルーのアンデス地方の辺境の地区で、「ヒトラー・ムッソリーニ」という名前の候補者が市長に当選した。"
+      "titleJa": "ペルーで「ヒトラー・ムッソリーニ」と名乗る候補が市長に当選",
+      "summary": "ペルーのアンデス地方の遠隔地で、「ヒトラー・ムッソリーニ・シメオン・フローレス」という珍しい名前の候補者が市長に当選した。"
     },
     {
       "id": "be94dafe860205b555fac1a4b251fac0",
@@ -421,12 +459,12 @@
       "source": "The Guardian – World",
       "sourceUrl": "https://www.theguardian.com/world/rss",
       "region": "International & World",
-      "country": "CU",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "「目にドリルが突き刺さるよう」ハバナ症候群の謎が解明されない理由",
-      "summary": "過去10年間、多数のCIA職員を苦しめてきた「ハバナ症候群」の謎が深まっている。集団ヒステリーか、それともエネルギー兵器による攻撃なのか、真相は不明だ。"
+      "country": "XX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "「目にドリルを打ち込まれるよう」：ハバナ症候群の謎が消えない理由",
+      "summary": "米国CIA職員らを襲う「ハバナ症候群」の謎が深まっている。集団ヒステリーか、エネルギー兵器による攻撃か、真相はいまだ不明。"
     },
     {
       "id": "14276dc509d820627eeeb0fe1f12a5bb",
@@ -438,146 +476,162 @@
       "sourceUrl": "https://www.theguardian.com/world/rss",
       "region": "International & World",
       "country": "MX",
-      "category": "Society",
-      "categoryJa": "社会",
-      "importanceScore": 65,
-      "titleJa": "メキシコでオーストラリア人サーファー兄弟と米国人友人を殺害した男3人に有罪判決",
-      "summary": "2024年にメキシコでオーストラリア人サーファー兄弟と米国人友人が殺害された事件で、3人の男に有罪判決が下された。"
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 55,
+      "titleJa": "メキシコでオーストラリア人サーファー兄弟と米国人友人の殺害犯3人に有罪判決",
+      "summary": "メキシコで、サーフィン旅行中のオーストラリア人兄弟と米国人友人3人を殺害した男たちに有罪判決が下された。"
     },
     {
-      "id": "4d4bf7b473b64c4fbd75394c8f3d6434",
-      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "published_at": "2026-10-10T00:13:15.000Z",
-      "description": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths\nA magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets, but the country appeared to escape widespread destruction or deaths.\nThe US Geological Survey (USGS) said the ⁠earthquake hit at a depth of ⁠12.6km (7.8 miles), with an ​epicenter in a sparsely populated area about 200km (124 miles) from the capital, Panama City. It lasted about a minute.\n Continue reading...",
-      "source": "The Guardian – World",
-      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "id": "a405500366a73e0754ee3dc8a02bec94",
+      "title": "Nepal flash floods sweep away houses, five people missing",
+      "url": "https://www.euronews.com/2026/10/11/nepal-flash-floods-sweep-away-houses-five-people-missing",
+      "published_at": "2026-10-11T15:41:21.000Z",
+      "description": "Rescuers have been battling to rescue people affected by the flash floods in Nepal that swept 45 houses and left five people missing.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
       "region": "International & World",
-      "country": "PA",
+      "country": "NP",
       "category": "Disaster",
       "categoryJa": "災害",
-      "importanceScore": 70,
-      "titleJa": "パナマでM7.7の強力な地震が発生、首都でパニック引き起こす",
-      "summary": "パナマ南部でマグニチュード7.7の強力な地震が発生し、建物や道路に被害が出たが、広範囲な破壊や死者は免れた模様だ。"
+      "importanceScore": 75,
+      "titleJa": "ネパールで鉄砲水、家屋が流され5人が行方不明",
+      "summary": "ネパールで鉄砲水が発生し、45軒の家屋が流され、5人が行方不明となっている。救助隊が被災者の救助活動にあたっている。"
     },
     {
-      "id": "2f2909d58e68ddb22ad65a922454e20c",
-      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
-      "published_at": "2026-10-09T04:00:37.000Z",
-      "description": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it\nA chance social media encounter has led to the race-against-time discovery of a new species of giant waterlily that has until now been hidden in the depths of Colombia’s jungle.\nBut the plant, which is so huge it is visible from space, is already considered critically endangered.\n Continue reading...",
-      "source": "The Guardian – World",
-      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "id": "66dd91afd93f5da03577a123ee326d65",
+      "title": "'Energy ceasefire' agreed between Russia and Ukraine, Trump says",
+      "url": "https://www.euronews.com/2026/10/11/energy-ceasefire-agreed-between-russia-and-ukraine-trump-says",
+      "published_at": "2026-10-11T14:34:47.000Z",
+      "description": "After Donald Trump's criticism blaming Volodymyr Zelenskyy for high diesel prices, suggesting Ukraine should get a new leader, US President announced Russia and Ukraine had agreed on an 'energy ceasefire'.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
       "region": "International & World",
-      "country": "CO",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏「ロシアとウクライナが『エネルギー停戦』に合意」と発表",
+      "summary": "ドナルド・トランプ米大統領は、ロシアとウクライナが「エネルギー停戦」に合意したと発表した。これは、ディーゼル価格高騰を巡るゼレンスキー大統領への批判後に出されたもの。"
+    },
+    {
+      "id": "9dfbc355db263a5cbee5808962664ee7",
+      "title": "Hochvogel mountain at risk of major collapse as 400,000 cubic metres of rock threatens to break away",
+      "url": "https://www.euronews.com/2026/10/11/hochvogel-mountain-at-risk-of-major-collapse-as-400000-cubic-metres-of-rock-threatens-to-b",
+      "published_at": "2026-10-11T14:23:36.000Z",
+      "description": "The Hochvogel sits on the border between Germany and the Austrian region of Tyrol. It is part of the Allgäu High Alps and stands at 2,592 metres high.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "DE",
       "category": "Environment",
       "categoryJa": "環境",
-      "importanceScore": 50,
-      "titleJa": "コロンビアのジャングルでの植物セルフィーが「驚くべき」巨大スイレンの発見に繋がった経緯",
-      "summary": "コロンビアのジャングルで、SNSの投稿をきっかけに新種の巨大スイレンが発見された。この新種はすでに絶滅危惧種に指定されている。"
-    },
-    {
-      "id": "b435649b1f96a58c0ffd9660512e6f90",
-      "title": "Thousands detained in New Delhi as police crack down on 'cockroach' movement ",
-      "url": "https://www.euronews.com/2026/10/10/thousands-detained-in-new-delhi-as-police-crack-down-on-cockroach-movement",
-      "published_at": "2026-10-10T14:06:06.000Z",
-      "description": "Police detained “cockroach movement” leader Abhijeet Dipke and two others as hundreds of protesters defied a heavy security clampdown in New Delhi.",
-      "source": "Euronews – World",
-      "sourceUrl": "https://www.euronews.com/rss",
-      "region": "International & World",
-      "country": "IN",
-      "category": "Society",
-      "categoryJa": "社会",
       "importanceScore": 70,
-      "titleJa": "デリーで「ゴキブリ運動」への取り締まり、数千人が拘束される",
-      "summary": "ニューデリーで「ゴキブリ運動」のリーダーらが拘束され、数百人のデモ参加者が厳重な警備にもかかわらず抗議活動を行った。"
+      "titleJa": "ホッホフォーゲル山、40万立方メートルの岩石崩落の恐れで大規模崩壊の危機",
+      "summary": "ドイツとオーストリアの国境に位置するホッホフォーゲル山で、40万立方メートルの岩石が剥がれ落ちる恐れがあり、大規模な山崩れの危機に瀕している。"
     },
     {
-      "id": "bc47554083abc143162f1c9c174bfb2f",
-      "title": "Palestinian President Abbas postpones legislative elections until September 2027",
-      "url": "https://www.euronews.com/2026/10/10/palestinian-president-abbas-postpones-legislative-elections-until-september-2027",
-      "published_at": "2026-10-10T14:04:51.000Z",
-      "description": "On Friday, Israeli Foreign Minister Gideon Sa'ar accused Abbas of \"fooling the international community by canceling once again promised elections\" as rumours of the postponement circulated.",
+      "id": "6fdd48851698bb5893b2d6c35a55953a",
+      "title": "'Up to our people' to pick leader, Zelenskyy responds to Trump's pledge for new elections in Ukraine",
+      "url": "https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u",
+      "published_at": "2026-10-11T14:19:57.000Z",
+      "description": "Only Russia is responsible for the war in Ukraine, Ukrainian President Volodymyr Zelenskyy said Sunday in a TV interview, responding to criticism from US President Donald Trump, who blamed him for high diesel prices and said he should be replaced.",
       "source": "Euronews – World",
       "sourceUrl": "https://www.euronews.com/rss",
       "region": "International & World",
-      "country": "PS",
+      "country": "UA",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "パレスチナ自治政府のアッバス議長、立法選挙を2027年9月まで延期",
-      "summary": "パレスチナのアッバス議長は立法選挙を2027年9月まで延期。イスラエル外相は国際社会を欺く行為だと非難した。"
-    },
-    {
-      "id": "8796eb0cd8b40a48da62be6af6af313b",
-      "title": "Czechs head to polls in local and Senate elections",
-      "url": "https://www.euronews.com/2026/10/10/czechs-head-to-polls-in-local-and-senate-elections",
-      "published_at": "2026-10-10T10:57:54.000Z",
-      "description": "Andrej Babiš, the country's billionaire populist PM and founder of the Agrofert food and chemicals group, will be hoping his party can make gains in the 81-seat Senate.",
-      "source": "Euronews – World",
-      "sourceUrl": "https://www.euronews.com/rss",
-      "region": "International & World",
-      "country": "CZ",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 60,
-      "titleJa": "チェコで地方選挙と上院選挙が実施",
-      "summary": "チェコで地方選挙と上院選挙が行われ、ポピュリスト首相のアンドレイ・バビシュ氏率いる政党が81議席の上院で勢力拡大を狙う。"
-    },
-    {
-      "id": "979252492069eaccb7f7a9595e13a390",
-      "title": "EU budget: Ireland pitches €141bn cuts to appease the ‘frugals’",
-      "url": "https://www.euronews.com/2026/10/10/eu-budget-ireland-pitches-141bn-cuts-to-appease-the-frugals",
-      "published_at": "2026-10-10T10:22:30.000Z",
-      "description": "Ireland proposes cutting the next EU budget by 8%, with global cooperation and competitiveness taking the deepest cuts, while agriculture and cohesion funding is reduced by only 3%. It also includes a €55bn-a-year package of own resources. EU leaders will discuss the plan on 15-16 October.",
-      "source": "Euronews – World",
-      "sourceUrl": "https://www.euronews.com/rss",
-      "region": "International & World",
-      "country": "IE",
-      "category": "Economy",
-      "categoryJa": "経済",
       "importanceScore": 80,
-      "titleJa": "EU予算：アイルランド、「倹約派」をなだめるため1410億ユーロ削減案を提示",
-      "summary": "アイルランドは次期EU予算を8%削減する案を提出。国際協力と競争力分野で大幅削減を提案し、EU首脳が協議予定だ。"
+      "titleJa": "ゼレンスキー氏、トランプ氏のウクライナ新選挙提案に対し「指導者を選ぶのは国民次第」と応酬",
+      "summary": "ゼレンスキー・ウクライナ大統領は、トランプ米大統領による新選挙提案に対し、指導者を選ぶのはウクライナ国民次第だと述べた。また、ロシアのみが戦争の責任を負うと強調した。"
     },
     {
-      "id": "8426aeb3eaed539eaf4060d8f715dcbd",
-      "title": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread ",
-      "url": "https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread",
-      "published_at": "2026-10-10T10:11:12.000Z",
-      "description": "Panama was hit by a powerful 7.7 earthquake, a 6.6 aftershock and many tremors, damaging buildings and prompting evacuations but no deaths reported.",
+      "id": "e6c1ff904b51367704ec98a01e7a40ef",
+      "title": "At least 139 migrants dead after boat capsizes off Djibouti, UN says",
+      "url": "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says",
+      "published_at": "2026-10-11T13:22:12.000Z",
+      "description": "The UN's IOM agency says tens of thousands of migrants travel from the Horn of Africa through Djibouti each year as they look to cross the Bab el-Mandeb Strait to Yemen and eventually reach the Gulf countries.",
       "source": "Euronews – World",
       "sourceUrl": "https://www.euronews.com/rss",
       "region": "International & World",
-      "country": "PA",
+      "country": "DJ",
       "category": "Disaster",
       "categoryJa": "災害",
-      "importanceScore": 90,
-      "titleJa": "パナマでM7.7の地震発生、大聖堂が倒壊し津波警報が広がる",
-      "summary": "パナマでマグニチュード7.7の強力な地震が発生。大聖堂が倒壊し津波警報が発令されたが、死者は報告されていない。"
+      "importanceScore": 85,
+      "titleJa": "ジブチ沖でボート転覆、国連によると少なくとも139人の移民が死亡",
+      "summary": "国連機関によると、ジブチ沖でボートが転覆し、少なくとも139人の移民が死亡した。毎年、数万人の移民がアフリカの角からイエメン、そして湾岸諸国を目指す中でこのような悲劇が起きている。"
     },
     {
-      "id": "9588e874ff2142e77c7613f9b202db24",
-      "title": "Latest news bulletin | October 10th, 2026 – Midday",
-      "url": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-midday",
-      "published_at": "2026-10-10T10:00:15.000Z",
-      "description": "Catch up with the most important stories from around Europe and beyond this October 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "id": "70a6d1f987491a0c072cde0e22e7c0a5",
+      "title": "Russian army strikes Sloviansk and Kyiv as Ukrainian drones hit third Yandex data centre",
+      "url": "https://www.euronews.com/2026/10/11/russian-army-strikes-sloviansk-and-kyiv-as-ukrainian-drones-hit-third-yandex-data-centre",
+      "published_at": "2026-10-11T13:15:52.000Z",
+      "description": "Russian forces struck two apartment blocks in Sloviansk, injuring four, and hit warehouses in Kyiv. Overnight, Ukrainian drones targeted Yandex's data centre in Vladimir, causing major service outages but no casualties.",
       "source": "Euronews – World",
       "sourceUrl": "https://www.euronews.com/rss",
       "region": "International & World",
-      "country": "XX",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 30,
-      "titleJa": "最新ニュース速報 | 2026年10月10日 – 正午",
-      "summary": "2026年10月10日正午の最新ニュース速報。世界、ビジネス、エンターテイメント、政治、文化、旅行など、重要ニュースをお届け。"
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシア軍がスロビアンスクとキーウを攻撃、ウクライナのドローンは3番目のヤンデックスデータセンターを攻撃",
+      "summary": "ロシア軍がスロビアンスクとキーウを攻撃し、ウクライナのドローンはロシアのヤンデックスデータセンターを標的とした。スロビアンスクでは集合住宅が被弾し負傷者が出た。"
     },
     {
-      "id": "be93cc92a94c6a55120c4fa75b8e3121",
-      "title": "Russian strikes on Ukraine kill at least 15, including three children, emergency service says",
-      "url": "https://www.euronews.com/2026/10/10/russian-strikes-on-southeastern-ukraine-kill-eight-including-three-children-authorities-sa",
-      "published_at": "2026-10-10T09:24:48.000Z",
-      "description": "Ukrainian national police said Russian forces had targeted residential areas of Zaporizhzhia with five guided aerial bombs early on Saturday, with two of them striking blocks of flats.",
+      "id": "54ffd0bef6c688ca3d41cf5e550b04a1",
+      "title": "Saudi-led coalition says a projectile has struck a passenger terminal at the airport in Riyadh",
+      "url": "https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h",
+      "published_at": "2026-10-11T13:05:41.000Z",
+      "description": "Fire was reported after an unidentified projectile hit Riyadh airport terminal less than a day after an attack killed 12 people. The attack led to Riyadh’s airport shutdown and drew condemnation from the UN and EU, as the Houthis renew their threats and Washington considers its response.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "サウジ主導連合、リヤド空港の旅客ターミナルに飛翔体が着弾と発表",
+      "summary": "サウジ主導連合は、リヤド空港の旅客ターミナルに正体不明の飛翔体が着弾したと発表した。この攻撃により空港が閉鎖され、国連やEUが非難を表明した。"
+    },
+    {
+      "id": "5b1e2cbae17f2827a1f43cc6a622dd9e",
+      "title": "Macron's popularity hits lowest level since 2017 as Bardella and Le Pen also lose ground",
+      "url": "https://www.euronews.com/2026/10/11/macrons-popularity-hits-lowest-level-since-2017-as-bardella-and-le-pen-also-lose-ground",
+      "published_at": "2026-10-11T13:02:41.000Z",
+      "description": "Some 82% of French people now disapprove of the president. Meanwhile, Marine Le Pen and Jordan Bardella are weakened by Mediapart's revelations about antisemitic texts attributed to the young RN leader.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "マクロン大統領の支持率が2017年以来の最低水準に、バルデラ氏とルペン氏も失速",
+      "summary": "マクロン仏大統領の支持率が2017年以来の最低を記録。一方、マリン・ルペン氏とジョルダン・バルデラ氏も、反ユダヤ主義的な記述の暴露により影響を受けている。"
+    },
+    {
+      "id": "921b102ac009419dbca0a9561b75fc4c",
+      "title": "Denmark tests humanoid robots in supermarkets to help to ease staff workload at night",
+      "url": "https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night",
+      "published_at": "2026-10-11T12:37:05.000Z",
+      "description": "Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "DK",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 65,
+      "titleJa": "デンマーク、スーパーで人型ロボットをテストし夜間スタッフの負担軽減へ",
+      "summary": "デンマークのサリンググループは、夜間の補充作業を自動化し、従業員を顧客サービスに専念させるため、スーパーマーケットで人型ロボット「ハイブ・ロボット」の試験運用を開始した。"
+    },
+    {
+      "id": "0aacc55b8af0d318117f455035e9f0b2",
+      "title": "Zaporizhzhia airstrikes kill 17 as Russia intensifies attacks across Ukraine",
+      "url": "https://www.euronews.com/video/2026/10/11/zaporizhzhia-airstrikes-kill-17-as-russia-intensifies-attacks-across-ukraine",
+      "published_at": "2026-10-11T11:29:24.000Z",
+      "description": "Zaporizhzhia was hit by deadly Russian airstrikes on Saturday, 10 October, killing at least 17 people, including three children, Ukrainian officials said. Rescuers searched rubble for survivors as the city faced renewed strikes on residential areas.",
       "source": "Euronews – World",
       "sourceUrl": "https://www.euronews.com/rss",
       "region": "International & World",
@@ -585,216 +639,184 @@
       "category": "Conflict",
       "categoryJa": "紛争",
       "importanceScore": 95,
-      "titleJa": "ロシアのウクライナ攻撃で子供3人を含む少なくとも15人死亡と緊急サービスが発表",
-      "summary": "ウクライナのザポリージャでロシア軍の空爆により集合住宅が攻撃され、子供3人を含む少なくとも15人が死亡したとウクライナ警察が発表。"
+      "titleJa": "ロシアのウクライナ全土攻撃激化、ザポリージャ空爆で17人死亡",
+      "summary": "10月10日土曜日、ザポリージャでロシアの空爆があり、子供3人を含む少なくとも17人が死亡した。救助隊が生存者を捜索する中、市は住宅地への新たな攻撃に直面している。"
     },
     {
-      "id": "7acb94c431abf1220f5881430a3525ee",
-      "title": "'No one ever heard of her': Trump goes off on petty rant after Nobel Peace Prize snub",
-      "url": "https://www.euronews.com/2026/10/10/no-one-ever-heard-of-her-trump-goes-off-on-petty-rant-after-nobel-peace-prize-snub",
-      "published_at": "2026-10-10T08:24:01.000Z",
-      "description": "Trump claimed he \"should have won 8 Nobel Peace Prizes\" for having \"settled 8 wars\" as he dismissed Pillay's career in an irate Truth Social post.",
-      "source": "Euronews – World",
-      "sourceUrl": "https://www.euronews.com/rss",
-      "region": "International & World",
-      "country": "US",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 20,
-      "titleJa": "「誰も彼女を知らない」：ノーベル平和賞を逃したトランプ氏が些細な罵倒を繰り広げる",
-      "summary": "トランプ氏がノーベル平和賞受賞を逃し、自身が8つの戦争を解決したと主張。受賞者ピレイ氏の経歴を激怒したソーシャルメディア投稿で否定した。"
-    },
-    {
-      "id": "b9dbe26205b3017f8abdaa49bc568e29",
-      "title": "Silent killer: study finds most with high blood pressure unaware",
-      "url": "https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware",
-      "published_at": "2026-10-10T07:33:37.000Z",
-      "description": "Men showed higher rates of hypertension, with 42% affected compared with 29% of women, after adjusting the figures for age groups.",
-      "source": "Euronews – World",
-      "sourceUrl": "https://www.euronews.com/rss",
-      "region": "International & World",
-      "country": "XX",
-      "category": "Science",
-      "categoryJa": "科学",
-      "importanceScore": 70,
-      "titleJa": "サイレントキラー：高血圧のほとんどが無自覚であると研究が指摘",
-      "summary": "新しい研究により、高血圧の人が自身の病状を自覚していないケースが多いことが判明。男性の方が女性より高血圧の罹患率が高い。"
-    },
-    {
-      "id": "60314382436b1cd2f8ac412992e619ee",
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida, bringing high winds and heavy rain",
-      "url": "https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-",
-      "published_at": "2026-10-10T07:03:14.000Z",
-      "description": "The US' National Weather Service (NWS) has warned a life-threatening storm surge is expected from Dauphin Island, Alabama, to Suwannee, Florida.",
-      "source": "Euronews – World",
-      "sourceUrl": "https://www.euronews.com/rss",
-      "region": "International & World",
-      "country": "US",
+      "id": "a9b59f9021b6c7946631dcb4be3d4b7f",
+      "title": "Power bank fire forces plane to emergency land in India",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "published_at": "2026-10-11T15:26:29.000Z",
+      "description": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IN",
       "category": "Disaster",
       "categoryJa": "災害",
-      "importanceScore": 85,
-      "titleJa": "命を脅かすハリケーン「イサイアス」がフロリダに上陸、強風と豪雨をもたらす",
-      "summary": "命に関わるハリケーン「イサイアス」がフロリダに上陸し、強風と豪雨をもたらしている。米気象局はフロリダからアラバマにかけて高潮警報を発令。"
+      "importanceScore": 40,
+      "titleJa": "モバイルバッテリー火災によりインドで飛行機が緊急着陸",
+      "summary": "デリー発チェンナイ行きの飛行機が、機内でモバイルバッテリーが発火したため緊急着陸しました。"
     },
     {
-      "id": "946ded2a451932ccbdda3ca6b6f4a9b4",
-      "title": "Trump Accounts: Free money, but who gets a say?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
-      "published_at": "2026-10-10T15:21:39.000Z",
-      "description": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
+      "id": "0df662d346b7438494223518cdfd0786",
+      "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+      "published_at": "2026-10-11T15:24:50.000Z",
+      "description": "Pope Leo XIV has announced that he will undergo surgery this week, to remove a nodule in his lung.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
-      "country": "US",
+      "country": "VA",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 60,
-      "titleJa": "トランプ・アカウント：無料のお金、しかし誰が決定権を持つのか？",
-      "summary": "トランプ・アカウントは子どもたちに経済的なスタートを約束するが、その決定権を誰が持つのかが議論されている。"
-    },
-    {
-      "id": "b48f80accfbb7686b5ddd4603b8f54b8",
-      "title": "With or without Hamas",
-      "url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
-      "published_at": "2026-10-10T15:19:41.000Z",
-      "description": "Hamas’s fate will not profoundly shape Gaza’s future.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "PS",
-      "category": "Conflict",
-      "categoryJa": "紛争",
-      "importanceScore": 85,
-      "titleJa": "ハマスがあろうとなかろうと",
-      "summary": "ハマスの運命はガザの将来を大きく左右しないという見解が示されている。"
-    },
-    {
-      "id": "b168729cb4543ea99361c4ede1bfb394",
-      "title": "Three injured in third school attack in Poland in less than a week",
-      "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
-      "published_at": "2026-10-10T15:13:55.000Z",
-      "description": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "PL",
-      "category": "Society",
-      "categoryJa": "社会",
-      "importanceScore": 70,
-      "titleJa": "ポーランドで1週間足らずのうちに3度目の学校襲撃、3人負傷",
-      "summary": "ポーランドで1週間以内に3度目の学校襲撃が発生し、3人が負傷。警察はこれまでの事件に関連して76人を拘束したと発表。"
-    },
-    {
-      "id": "57fd50aa9fca23125f644c95dfc9cb72",
-      "title": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
-      "published_at": "2026-10-10T15:11:22.000Z",
-      "description": "Man City travel to Liverpool for their first game since being found guilty of serious EPL financial breaches.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "GB",
-      "category": "Sports",
-      "categoryJa": "スポーツ",
-      "importanceScore": 50,
-      "titleJa": "リヴァプール対マン・シティ：プレミアリーグ – チーム、予想、ハーランド、告発",
-      "summary": "マンチェスター・シティが深刻なEPL財政違反で有罪判決を受けて以来初の試合でリヴァプールと対戦。"
-    },
-    {
-      "id": "f394b7a9a81a2ceaae27689ae1e3066b",
-      "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
-      "published_at": "2026-10-10T14:42:39.000Z",
-      "description": "Arsenal come from behind to beat Leeds United moving them joint top of the Premier League with Manchester City.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "GB",
-      "category": "Sports",
-      "categoryJa": "スポーツ",
-      "importanceScore": 30,
-      "titleJa": "アーセナル、リーズに2-1で逆転勝利しマン・シティと首位に並ぶ",
-      "summary": "アーセナルがリーズ・ユナイテッドに2-1で逆転勝利し、マンチェスター・シティとプレミアリーグの首位に並んだ。"
-    },
-    {
-      "id": "0230cb5a9ba62db16795720acf6226d9",
-      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-      "published_at": "2026-10-10T14:39:53.000Z",
-      "description": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "IL",
-      "category": "Conflict",
-      "categoryJa": "紛争",
       "importanceScore": 75,
-      "titleJa": "エルサレム・デイリー：イスラエル人入植者がオリーブ農家を襲撃",
-      "summary": "今年収穫中にイスラエル人入植者がオリーブを盗み、パレスチナ人農家を襲撃した事件が報じられた。"
+      "titleJa": "レオ14世教皇、肺に腫瘤が見つかり手術へ",
+      "summary": "レオ14世教皇が今週、肺の結節を除去する手術を受けることを発表しました。"
     },
     {
-      "id": "7783239c89f0a86f95205b1fe11481c1",
-      "title": "Mexican judge sentences three men for murders of Australian, US surfers",
-      "url": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss",
-      "published_at": "2026-10-10T14:37:26.000Z",
-      "description": "The trial in Baja California had revealed chilling details of the triple homicide of the surfers.",
+      "id": "2eb8c3cc8c0da645fd61b8b34dba804f",
+      "title": "How the ICC can be saved",
+      "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+      "published_at": "2026-10-11T15:15:35.000Z",
+      "description": "Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
-      "country": "MX",
-      "category": "Society",
-      "categoryJa": "社会",
-      "importanceScore": 65,
-      "titleJa": "メキシコの裁判官、オーストラリア人・米国人サーファー殺害で男3人に有罪判決",
-      "summary": "バハ・カリフォルニアでの裁判で、オーストラリアと米国のサーファー3人の殺害に関する恐ろしい詳細が明らかになり、男3人に有罪判決が下された。"
-    },
-    {
-      "id": "835c6446f25f88b764ffbd04abc28591",
-      "title": "Why is the US sanctioning the International Criminal Court?",
-      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
-      "published_at": "2026-10-10T14:19:43.000Z",
-      "description": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "US",
+      "country": "XX",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "なぜ米国は国際刑事裁判所を制裁しているのか？",
-      "summary": "人道犯罪を裁く国際刑事裁判所への制裁は、米国による同裁判所への最新の動きである。"
+      "importanceScore": 80,
+      "titleJa": "国際刑事裁判所（ICC）を救うには",
+      "summary": "米国のICC制裁に関する「対話」は無意味であり、裁判所を保護するための行動が必要です。"
     },
     {
-      "id": "ab8e7f5e59ffa5248ec59f720005525d",
-      "title": "Abbas postpones Palestinian legislative elections to September 2027",
-      "url": "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss",
-      "published_at": "2026-10-10T14:18:09.000Z",
-      "description": "November 2026 vote delayed; joint presidential and legislative elections set for next year, president says in decree.",
+      "id": "feb3f43b775735bf426122dcf3e6c412",
+      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "published_at": "2026-10-11T15:10:27.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy had pushed for a 60-day full ceasefire.",
       "source": "Al Jazeera – All",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "region": "Middle East",
-      "country": "PS",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "アッバス議長、パレスチナ立法評議会選挙を2027年9月に延期",
-      "summary": "アッバス議長は、パレスチナ立法評議会選挙を2026年11月から2027年9月に延期すると発表。"
-    },
-    {
-      "id": "bb19dc7c6ab839979cf80d32e14e57d2",
-      "title": "Has Yemen returned to ‘full-scale war’?",
-      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
-      "published_at": "2026-10-10T14:10:24.000Z",
-      "description": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
-      "source": "Al Jazeera – All",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "country": "YE",
+      "country": "UA",
       "category": "Conflict",
       "categoryJa": "紛争",
       "importanceScore": 90,
-      "titleJa": "イエメンは「全面戦争」に戻ったのか？",
-      "summary": "イエメン政府軍とフーシ反乱グループの間で戦闘が激化しており、全面戦争への回帰が懸念されている。"
+      "titleJa": "トランプ氏、ウクライナとロシアが「エネルギー停戦」に合意したと発言",
+      "summary": "トランプ氏がウクライナとロシアがエネルギー停戦に合意したと発表。ゼレンスキー大統領は60日間の完全停戦を求めていました。"
+    },
+    {
+      "id": "75fc9e3ae45f09aa74a09b49e5d56988",
+      "title": "Pope Leo to undergo surgery to remove lung nodule",
+      "url": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+      "published_at": "2026-10-11T14:59:38.000Z",
+      "description": "The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter's Square.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "VA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "レオ教皇、肺の結節除去手術へ",
+      "summary": "71歳の精神的指導者が、サンピエトロ広場での日曜日の祝福中に巡礼者たちに肺の結節除去手術を受けることを伝えました。"
+    },
+    {
+      "id": "0f58c6a4d995109e1a60f354b1cfe130",
+      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+      "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
+      "published_at": "2026-10-11T14:34:15.000Z",
+      "description": "Trump has long criticised US military support for Ukraine and has lambasted Zelenskyy since his first term.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "UA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "大統領執務室での確執から公の非難まで：トランプとゼレンスキーの関係の変遷",
+      "summary": "トランプ氏は長年、ウクライナへの米軍事支援を批判し、ゼレンスキー氏を非難してきました。この関係の歴史をたどります。"
+    },
+    {
+      "id": "382f7bfebdb3e920f0d47dd15fa9fbda",
+      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+      "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+      "published_at": "2026-10-11T14:25:03.000Z",
+      "description": "Repeated Houthi attacks on Saudi Arabia's King Khalid Airport reveal the limitations of even high-tech air defences.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "フーシ派のミサイルはなぜサウジアラビアの防空網を突破するのか？",
+      "summary": "サウジアラビアのキング・ハリド空港へのフーシ派による度重なる攻撃は、ハイテク防空システムの限界を露呈しています。"
+    },
+    {
+      "id": "efa0a2cced3de25c002d15e8c79c9c8f",
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+      "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+      "published_at": "2026-10-11T14:09:12.000Z",
+      "description": "Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ET",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "エチオピアとエリトリア、発言をエスカレート：戦争に向かっているのか？",
+      "summary": "ティグレへのエリトリア軍侵攻疑惑が、エチオピアとの亀裂を深め、地域の脆弱な平和を脅かしています。"
+    },
+    {
+      "id": "600ee24a811f98931cce91d7fd43ba0c",
+      "title": "The Mafia Football Murders | True Crime Reports",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
+      "published_at": "2026-10-11T14:05:14.000Z",
+      "description": "A lifelong Inter Milan fan shot in Milan exposes a shocking alliance between football's ultras and the mafia.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "マフィア・フットボール殺人事件 | 真の犯罪レポート",
+      "summary": "ミラノでインテル・ミラノのファンが射殺された事件が、サッカーのウルトラスとマフィアの衝撃的な連携を暴きました。"
+    },
+    {
+      "id": "51469662370a178b358560eb070d1b59",
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+      "published_at": "2026-10-11T14:04:32.000Z",
+      "description": "IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ホルムズ海峡での攻撃激化、イラン戦争終結の努力が停滞",
+      "summary": "ホルムズ海峡での攻撃が激化し、イランとの戦争終結に向けた努力が停滞しています。革命防衛隊が水路の安全無視に警告。"
+    },
+    {
+      "id": "aed35251efafb7ff0d011bbb3ec55bb2",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T08:41:30.000Z",
+      "description": "Saturday's attack was the deadliest in Saudi Arabia since May 2015. US and Saudi officials are blaming Yemen's Houthis, who have yet to comment on the strike.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "サウジ首都リヤドの空港襲撃で12人死亡、300人負傷",
+      "summary": "サウジアラビアの首都リヤドの空港が攻撃され、12人が死亡、300人が負傷した。米サウジ当局はイエメンのフーシ派を非難している。"
     },
     {
       "id": "cf32ccedcb312a27c58bf9a86126c274",
@@ -808,9 +830,9 @@
       "country": "SA",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 75,
+      "importanceScore": 85,
       "titleJa": "リヤド空港へのフーシ派攻撃でサウジ国民3人死亡",
-      "summary": "フーシ派によるリヤド空港へのミサイル攻撃でサウジ国民3人が死亡。イランが支援するフーシ派とサウジアラビアとの間の戦闘激化の一環。"
+      "summary": "サウジアラビアのリヤド空港へのフーシ派によるミサイル攻撃で、サウジ国民3人が死亡した。イラン支援のフーシ派とサウジ間の戦闘が激化している。"
     },
     {
       "id": "f3f250921d77f1c1134c651a9d39202f",
@@ -824,9 +846,9 @@
       "country": "IL",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 60,
-      "titleJa": "イスラエル、英国外交官の東エルサレム領事館退去を表明、ミリバンド氏は「重要なサービスは維持」と述べる",
-      "summary": "イスラエルが、英国による入植地制裁への対抗措置として、東エルサレム領事館の英国外交官の大部分が退去すると発表。英国は一部サービス維持を主張。"
+      "importanceScore": 70,
+      "titleJa": "イスラエル、東エルサレム領事館から英外交官大半が退去と発表",
+      "summary": "イスラエルは、英国の東エルサレム領事館から外交官の大半が退去すると発表した。英国が西岸地区の違法入植地への制裁を示唆したことへの対応。"
     },
     {
       "id": "4396f6274457ea416014fef11755846b",
@@ -837,12 +859,12 @@
       "source": "BBC – Middle East",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
       "region": "Middle East",
-      "country": "LB",
+      "country": "SY",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "BBC、米国とレバノンがシリアの指名手配将軍を保護していることを発見",
-      "summary": "米国とレバノンが、行方不明の米国人記者に関する情報と引き換えに、シリアのバスサム・アルハッサン将軍を保護しているとBBCが報じた。"
+      "importanceScore": 65,
+      "titleJa": "米国とレバノンがシリアの指名手配将軍を保護、BBCが報じる",
+      "summary": "BBCの報道によると、米国とレバノンがシリアの指名手配将軍バッサム・アル・ハッサンを保護していることが判明。拉致された米国人記者の情報と引き換えだという。"
     },
     {
       "id": "657e4fb52e745ce5d8be94a6b3a3fc0e",
@@ -856,9 +878,9 @@
       "country": "QA",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 80,
-      "titleJa": "カタール沖の湾でタンカーが複数の発射体に被弾、海事機関が発表",
-      "summary": "カタール沖の湾で油槽船が複数の発射体に被弾し、死傷者が出たと海事情報会社が報告。船はAcersと特定された。"
+      "importanceScore": 75,
+      "titleJa": "カタール沖の湾でタンカーが複数の飛翔体により被弾、死傷者も",
+      "summary": "カタール沖の湾で、石油・化学タンカーが複数の飛翔体により被弾し、死傷者が出たと海事機関が発表した。"
     },
     {
       "id": "31bf551e553e81d214297249f197fbd3",
@@ -872,9 +894,9 @@
       "country": "PS",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 90,
-      "titleJa": "「毎日殺されている」：停戦にもかかわらずイスラエル攻撃に直面するガザ住民、和平交渉は停滞",
-      "summary": "停戦にもかかわらず、ガザ住民はイスラエルの攻撃に直面し、多くのパレスチナ人がテント都市で生活。米国の和平計画も停滞している。"
+      "importanceScore": 80,
+      "titleJa": "「毎日殺人が起こる」停戦合意もガザ住民はイスラエル空爆に直面",
+      "summary": "停戦合意にもかかわらず、ガザ住民はイスラエルからの空爆に直面し、多くのパレスチナ人がテント都市で暮らす。米国による和平計画は停滞している。"
     },
     {
       "id": "1a2f184a35bc6d9f8e4c81484e1c25ad",
@@ -888,9 +910,9 @@
       "country": "SA",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 80,
-      "titleJa": "サウジアラビア空港へのフーシ派攻撃で3人死亡と当局発表",
-      "summary": "フーシ派がサウジアラビアの空港への攻撃の責任を主張し、3人が死亡したと当局が発表。この攻撃は紛争の激化を示す。"
+      "importanceScore": 85,
+      "titleJa": "サウジアラビアの空港へのフーシ派攻撃で3人死亡、当局発表",
+      "summary": "サウジアラビアの複数の空港に対するフーシ派の攻撃で3人が死亡したと当局が発表。フーシ派は犯行声明を出し、紛争のエスカレーションを示す。"
     },
     {
       "id": "998810adceefb3be15ea41bbf5d29c1c",
@@ -904,9 +926,9 @@
       "country": "IL",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 75,
-      "titleJa": "イスラエル人、ハマスによる壊滅的襲撃から3年、10月7日攻撃犠牲者を追悼",
-      "summary": "ハマスによる10月7日の襲撃から3年を迎え、イスラエル各地で追悼式典が開催された。この攻撃がガザ戦争のきっかけとなった。"
+      "importanceScore": 70,
+      "titleJa": "イスラエル、3年前の10月7日ハマス攻撃の犠牲者を追悼",
+      "summary": "ガザ戦争のきっかけとなった3年前のハマスによる10月7日攻撃の犠牲者を追悼する式典がイスラエル各地で開催された。"
     },
     {
       "id": "570937cad8d4e895b54250bd168d24f1",
@@ -920,9 +942,9 @@
       "country": "IL",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "イスラエル人、10月7日攻撃から3年、失敗の責任追及を要求",
-      "summary": "イスラエル国民は10月7日の攻撃失敗に対し説明責任を要求。ネタニヤフ首相は個人の責任を否定し、国家調査を命じることを拒否している。"
+      "importanceScore": 75,
+      "titleJa": "イスラエル人、3年前の10月7日攻撃失敗への説明責任を要求",
+      "summary": "イスラエル国民は、3年前の10月7日攻撃における政府の失敗に対する説明責任を要求。ネタニヤフ首相は個人的な責任を拒否している。"
     },
     {
       "id": "1c512f3f336c0a8edcc8013640ebc417",
@@ -936,25 +958,25 @@
       "country": "IL",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 70,
-      "titleJa": "10月7日のハマス主導攻撃で破壊されたキブツ住民、再建方法を模索",
-      "summary": "ニル・オズへの10月7日の攻撃で47人が殺害され76人が人質になったが、3年経ち一部の生存者が帰還し、コミュニティ再建の道を模索している。"
+      "importanceScore": 68,
+      "titleJa": "10月7日ハマス攻撃で破壊されたキブツの住民、再建を模索",
+      "summary": "3年前の10月7日ハマス攻撃で破壊され、47人が殺害、76人が人質になったニル・オズのキブツの住民が、コミュニティの再建方法を模索している。"
     },
     {
-      "id": "c8741fc7dc6b7eeb4828dac1d6bf283e",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T20:15:31.000Z",
-      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "source": "BBC – Middle East",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-      "region": "Middle East",
-      "country": "US",
-      "category": "Politics",
-      "categoryJa": "政治",
+      "id": "ed8e6526f1dffe37282da7326a34db07",
+      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T08:19:52.000Z",
+      "description": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "AU",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
       "importanceScore": 65,
-      "titleJa": "ホワイトハウス、トランプ氏の「イランがLAとサンディエゴを破壊する」発言を擁護",
-      "summary": "トランプ氏のLAとサンディエゴに関する発言をニューサム氏が「狂気」と批判。ホワイトハウスは、核保有国イランのリスクを警告したものであり擁護した。"
+      "titleJa": "キプチョゲ選手（41歳）、メルボルンマラソンで大会記録を更新",
+      "summary": "オリンピック2度優勝のキプチョゲ選手が41歳でメルボルンマラソンのコース記録を更新し、自身の体は「まだピークにある」と語った。"
     },
     {
       "id": "de0e8c9fec8627573efab500a4df7b9a",
@@ -968,9 +990,9 @@
       "country": "XX",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 80,
-      "titleJa": "エボラ患者が3カ国を未検出で移動した件、疑問が残る",
-      "summary": "重病のエボラ患者が3カ国を未検出で移動した件について新たな詳細が判明。40歳のビジネスマンが国境を越え移動した経緯に疑問が残る。"
+      "importanceScore": 85,
+      "titleJa": "3カ国を未検出で移動したエボラ患者に疑問が残る",
+      "summary": "重病のエボラ患者である40歳のビジネスマンが、いかにして国境を越え移動したか新たな詳細が明らかに。"
     },
     {
       "id": "d466c8be95915647632e051f669d6151",
@@ -981,12 +1003,12 @@
       "source": "BBC – Africa",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "region": "Africa",
-      "country": "NG",
+      "country": "XX",
       "category": "Entertainment",
       "categoryJa": "エンタメ",
-      "importanceScore": 65,
+      "importanceScore": 55,
       "titleJa": "アフロビーツ歌手アイラ・スター、NFLハーフタイムショーで歴史を作る",
-      "summary": "ナイジェリア出身歌手アイラ・スターがNFL国際試合のハーフタイムショーで、アフリカ人初のヘッドライナーとして歴史的快挙を達成する。"
+      "summary": "ナイジェリア出身のアイラ・スターが、国際NFLゲームのハーフタイムショーでアフリカ人アーティストとして初のヘッドライナーを務める。"
     },
     {
       "id": "f7c3da18441e9e212093021a9d3d73c0",
@@ -1001,24 +1023,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 90,
-      "titleJa": "南アフリカのナビ・ピレイ氏、「平和と国際法推進への貢献」でノーベル平和賞受賞",
-      "summary": "南アフリカのナビ・ピレイ氏が「平和と国際法の推進」への貢献を認められ、ノーベル平和賞を受賞。その功績が称えられている。"
-    },
-    {
-      "id": "64af1a64818aca12504ca67eaad89810",
-      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T15:26:33.000Z",
-      "description": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
-      "source": "BBC – Africa",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "region": "Africa",
-      "country": "ZA",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "視聴：ノーベル平和賞受賞者ナビ・ピレイとは誰か？",
-      "summary": "ノーベル平和賞受賞者ナビ・ピレイ氏の人物像に迫る。南アフリカの幼少期が、いかにミャンマーからガザに至る国際法の推進力となったかを解説。"
+      "titleJa": "南アフリカのナビ・ピレイ氏、「平和と国際法の促進への貢献」でノーベル平和賞を受賞",
+      "summary": "ノルウェー・ノーベル委員会は、ピレイ氏の「平和と国際法の促進への努力」を評価し、ノーベル平和賞を授与したと発表した。"
     },
     {
       "id": "a478afffc5e8a7d88e303f07bef6a8c4",
@@ -1032,25 +1038,9 @@
       "country": "ET",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 95,
-      "titleJa": "エチオピア、エリトリア軍の越境侵入後に自衛を警告",
-      "summary": "エリトリア軍がエチオピア国境を越え侵入したと報じられ、エチオピアはドローン攻撃で応酬。エチオピアが自衛権を行使し警告を発した。"
-    },
-    {
-      "id": "69df6fa440f002eb2f517502b534b59a",
-      "title": "Afcon move to every four years under review by Caf",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv0ldzz7yy3no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T15:57:49.000Z",
-      "description": "The Africa Cup of Nations may continue to be held every two years, with discussions under way to reverse its proposed switch to a four-year cycle.",
-      "source": "BBC – Africa",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "region": "Africa",
-      "country": "XX",
-      "category": "Sports",
-      "categoryJa": "スポーツ",
-      "importanceScore": 60,
-      "titleJa": "アフリカネイションズカップ、4年ごとの開催への変更案をCAFが再検討",
-      "summary": "アフリカネイションズカップの開催サイクル変更案について、CAFが再検討中。従来の2年ごと開催が維持される可能性が浮上している。"
+      "importanceScore": 90,
+      "titleJa": "エチオピア、エリトリア軍の越境後に自衛を警告",
+      "summary": "エリトリア軍がエチオピア国境を越え侵入したため、エチオピアはドローン攻撃で応戦したと報じられている。"
     },
     {
       "id": "5f1390a1610387f9bd7765ded1155924",
@@ -1064,9 +1054,9 @@
       "country": "ZW",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 55,
-      "titleJa": "ジンバブエの大物「サー・ウィックネル」がアフリカで愛され憎まれた理由",
-      "summary": "ジンバブエのタイクーン、ウィックネル・チバヨ氏は生前も死後も人々の意見を二分しており、その愛憎入り混じる評価の理由を探る。"
+      "importanceScore": 40,
+      "titleJa": "ジンバブエの大富豪「サー・ウィックネル」がアフリカで愛され、また憎まれた理由",
+      "summary": "ウィックネル・チヴァヨは生前から死後も意見を二分する人物だった。"
     },
     {
       "id": "352d8b89312adcd18e33e096a465de57",
@@ -1080,9 +1070,9 @@
       "country": "GH",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 50,
+      "importanceScore": 30,
       "titleJa": "ガーナのバスで牧師が説教する姿が長く見られなくなるかもしれない理由",
-      "summary": "キリスト教国ガーナで広く見られる公共交通機関での牧師による説教が、規制により今後減る可能性。その背景と社会への影響を探る。"
+      "summary": "キリスト教徒が大半を占めるガーナで公共交通機関での説教が広まっているが、その状況が変化する可能性が浮上している。"
     },
     {
       "id": "5f1ddd9b98a31ed1e729a7a8eac1df3c",
@@ -1096,9 +1086,9 @@
       "country": "ZA",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 85,
-      "titleJa": "南アフリカの男性たちが女性に対する暴力をなくそうと奮闘：「すべての男性が役割を果たすべきだ」",
-      "summary": "南アフリカでの女性に対する暴力問題が再び浮上。ヨハネスブルグ近郊で遺体が発見され、男性たちが「すべての男性が役割を」と根絶を訴える。"
+      "importanceScore": 75,
+      "titleJa": "女性に対する暴力の撲滅を目指す南アフリカの男性たち：「すべての男性が役割を果たすべき」",
+      "summary": "ヨハネスブルグ近郊で12人の女性の遺体が発見され、南アフリカにおける女性への暴力の問題が改めて浮き彫りになった。"
     },
     {
       "id": "1b3d116c3224e83159e5c035706978d0",
@@ -1112,9 +1102,25 @@
       "country": "KE",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 75,
+      "importanceScore": 70,
       "titleJa": "政治を「楽しく、トレンディに、セクシーに」：Z世代がケニアの次期選挙をいかに形成するか",
-      "summary": "ケニアの次期選挙でZ世代が政治を「楽しく、トレンディに」することで、大きな影響を与える可能性。若者の有権者登録が進む中、その動向が注目される。"
+      "summary": "若者向けの有権者動員キャンペーンにより多数の若者が登録されたが、彼らが誰を支持するかは不明。"
+    },
+    {
+      "id": "2624805ae45642125da1f9459c344d66",
+      "title": "The journalist crowned king in Uganda after bitter succession dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-29T20:09:27.000Z",
+      "description": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 50,
+      "titleJa": "激しい王位継承争いの末、ウガンダでジャーナリストが国王に即位",
+      "summary": "皇族に認められていない若い後継者を巡る紛争の中、キジャナンゴマが王として即位した。"
     },
     {
       "id": "6dd8b27a549fa702a25138e2423d9f2e",
@@ -1128,9 +1134,9 @@
       "country": "XX",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 75,
-      "titleJa": "アフリカ諸国の政府はインターネットをすでに抗議活動のインフラと見なしているが、その裁判所は追いついていない",
-      "summary": "アフリカ諸国で、政府はインターネットを抗議活動のインフラと見なしているが、裁判所の法整備は遅れている。2024年にはアフリカ委員会が選挙時のインターネット遮断を表現の自由への侵害とする決議を採択した。"
+      "importanceScore": 70,
+      "titleJa": "アフリカ諸国政府はすでにインターネットを抗議活動のインフラと見なしているが、その司法はまだ追いついていない",
+      "summary": "アフリカでは、政府がインターネットを抗議活動のインフラと見なして遮断するが、司法制度がこの問題に対応しきれていない。アフリカ委員会は選挙時のインターネット遮断を決議で非難した。"
     },
     {
       "id": "9b64a53e6277ba589af3806bcd8c43e0",
@@ -1144,9 +1150,9 @@
       "country": "XX",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "立候補するには若すぎる、だが抗議するには十分大人：西アフリカの未完の民主的取引",
-      "summary": "西アフリカでは、若者が投票や抗議活動はできるものの、政治的役職に就くには経験不足と見なされがち。民主主義における若者の参加と政治的役割の不均衡が問題となっている。"
+      "importanceScore": 65,
+      "titleJa": "立候補するには若すぎるが、抗議するには十分な年齢：西アフリカの未完の民主的取引",
+      "summary": "西アフリカでは、若者は投票や抗議活動を行うには十分な年齢だが、政治的役職に就くには経験不足と見なされる。民主主義における若者の参加の課題を探る。"
     },
     {
       "id": "c526477d5b7e93296c28b25866f5865a",
@@ -1160,9 +1166,9 @@
       "country": "XX",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 60,
-      "titleJa": "抵抗の音",
-      "summary": "グローバル・ボイスの企画「民主主義における抗議活動」の一環として、世界中のコミュニティから集められた抗議の歌が紹介される。過去から現在までの抵抗の音楽を通じて、社会的なメッセージが伝えられる。"
+      "importanceScore": 55,
+      "titleJa": "抵抗の調べ",
+      "summary": "グローバル・ボイスの特集「民主主義における抗議」の一環として、世界中のコミュニティから集められた過去から現在までの抗議の歌の事例を紹介する。"
     },
     {
       "id": "5b7ce9fe83085db774381d1515c1337a",
@@ -1177,8 +1183,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 80,
-      "titleJa": "誰が国民を代表して発言できるのか？サヘル地域における抗議活動の新たな局面",
-      "summary": "サヘル中央部の国々では、軍事政権が国民の主権回復を主張し、政党が解散され、多数の市民社会組織が活動停止に追い込まれている。国民の代弁者の不在と抗議活動の新局面が問題となっている。"
+      "titleJa": "誰が国民を代表して発言できるのか？サヘル地域における抗議活動の新たなフロンティア",
+      "summary": "中央サヘル諸国では軍事政権が国民主権回復を主張し、政党は解散、市民社会組織も停止された。国民の代表権と抗議活動の形態が変化する状況を探る。"
     },
     {
       "id": "4de5a71255a7e4207e3c31eb080cb922",
@@ -1188,7 +1194,13 @@
       "description": "Room to protest is narrowing in Africa, as governments lean on arrests, curfews, and internet blackouts to blunt dissent. When the streets become too dangerous, dissent often migrates online.",
       "source": "Global Voices – Africa (Sub-Saharan)",
       "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
-      "region": "Africa"
+      "region": "Africa",
+      "country": "XX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "通信事業者がインターネットを遮断するとき、政府のために抗議活動を封じる",
+      "summary": "アフリカでは、政府が逮捕やインターネット遮断で抗議活動を抑圧し、活動の場が狭まっている。街頭が危険になるにつれて、不満はオンラインへと移行する傾向にある。"
     },
     {
       "id": "f1885cea38a99966ce31f547c765b30e",
@@ -1203,8 +1215,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 85,
-      "titleJa": "#EndSARSがナイジェリアに残したもの：抗議、政治、そして出国に挟まれた世代",
-      "summary": "ナイジェリアの#EndSARS抗議運動は、若者の政治意識を高め、選挙参加を促した。しかし、恐怖や幻滅も生み出し、抗議、政治、国外移住の間で揺れる世代の姿を浮き彫りにした。"
+      "titleJa": "ナイジェリアに#EndSARSが残したもの：抗議、政治、そして離脱の狭間に立つ世代",
+      "summary": "ナイジェリアの#EndSARS抗議活動は、一部の若者の政治意識を高め選挙参加を促したが、他の者には恐怖と幻滅を残した。この運動が若者世代に与えた複雑な影響を探る。"
     },
     {
       "id": "35aff20d340a4e2621fd912f61b48800",
@@ -1219,8 +1231,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 70,
-      "titleJa": "市民社会への弾圧下で、トーゴの人々はいかに政治的抗議活動を再発明しているか",
-      "summary": "トーゴでは、対面での集会が困難または危険になったため、オンラインでの抗議活動が政治的反対表明の一般的な形となっている。市民社会への弾圧が続く中、人々は新しい抗議方法を模索している。"
+      "titleJa": "市民社会弾圧の中でトーゴの人々はいかにして政治的抗議活動を再発明しているか",
+      "summary": "トーゴでは対面での集会が困難または危険になったため、オンライン抗議活動が政治的反対表明の一般的な形となっている。市民社会が抑圧される中、トーゴの人々が適応する様子を描く。"
     },
     {
       "id": "fa59122847764c589b3946cb0c498aa9",
@@ -1234,9 +1246,9 @@
       "country": "MZ",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 65,
+      "importanceScore": 60,
       "titleJa": "モザンビークにおける「先住民」から市民への長い道のり",
-      "summary": "モザンビークでは、「先住民」という言葉が歴史的なものとなり、「モザンビーク人」という新たな主権の言葉が生まれた。この市民権の意味を理解するには、その前にある歴史的な道のりを振り返る必要がある。"
+      "summary": "モザンビークでは「先住民」が歴史の一部となり、「モザンビーク人」という新たな市民権の概念が生まれた。この市民権の変遷とその意味を探る。"
     },
     {
       "id": "e543a6139c6b4086770b01a3b27f5ea5",
@@ -1250,9 +1262,9 @@
       "country": "XX",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 70,
-      "titleJa": "先住民文化の保護と保存に責任があるのは誰か？",
-      "summary": "グローバル・ボイスの「先住民の権利」シリーズでは、先住民文化の保護と保存について誰が決定権を持つのか、という共通の問いが提起されている。これは、世界的な先住民の権利と文化継承における重要な課題である。"
+      "importanceScore": 65,
+      "titleJa": "先住民族文化の保護と保存の責任は誰にあるのか？",
+      "summary": "グローバル・ボイスの「先住民族の権利」特集で、先住民族文化の保護と保存に関する責任と決定権を誰が持つのかという問いが提起された。"
     },
     {
       "id": "214fa0ffc47bc0fa0dd8b6d9e0d85b2c",
@@ -1268,7 +1280,55 @@
       "categoryJa": "紛争",
       "importanceScore": 90,
       "titleJa": "新しい国家平和政策はナイジェリアの治安問題を解決できるか？",
-      "summary": "ナイジェリアは、反乱、武装強盗、大量誘拐、共同体間の暴力、組織犯罪など、地域によって異なる深刻な治安問題に直面している。新たな国家平和政策がこれらの問題を解決できるかが問われている。"
+      "summary": "ナイジェリアは反乱、山賊行為、集団誘拐、共同体間暴力、組織犯罪など、地域によって異なる深刻な治安問題に直面している。新たな国家平和政策がこれを解決できるか検証する。"
+    },
+    {
+      "id": "ccd45bdc0f79f0f34bf52aa0bf0d5b2d",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T14:24:14.000Z",
+      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "XX",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏、ロシア産ディーゼル燃料の取引を発表 ゼレンスキー氏は「プーチンへの贈り物」と非難",
+      "summary": "トランプ氏がロシア産ディーゼル燃料の取引を発表したことに対し、ゼレンスキー氏は「戦争を長引かせる投資」と強く非難した。"
+    },
+    {
+      "id": "6303c8abb9653af43d57998cdb9eb06c",
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T04:51:57.000Z",
+      "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "ノルドストリーム裁判：ドイツ警察はどのように証拠を追跡し、ウクライナへ辿り着いたのか",
+      "summary": "4年を経て、ノルドストリーム・パイプラインの破壊工作容疑でウクライナ人男性がハンブルクで裁判にかけられる。"
+    },
+    {
+      "id": "693ff2d27a25e30ac0b45bc3e7f473fc",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T17:14:44.000Z",
+      "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "ロシアの検索エンジンYandex、ウクライナによるデータセンター攻撃後に苦戦",
+      "summary": "「ロシアのGoogle」とも称されるYandexが、ウクライナからの攻撃でデータセンターが被害を受け、デジタルサービスに支障が出ている。"
     },
     {
       "id": "e424b701e147b083135ca1bd713b073d",
@@ -1282,9 +1342,9 @@
       "country": "NO",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 60,
+      "importanceScore": 50,
       "titleJa": "「国の汚点」：トランプ氏、ノーベル平和賞を巡りノルウェーを批判",
-      "summary": "トランプ米大統領がノーベル平和賞の受賞者について「聞いたことがない」と述べ、ノルウェーを批判した。"
+      "summary": "トランプ前米大統領が、ノーベル平和賞の受賞者を知らないとし、ノルウェーを批判した。"
     },
     {
       "id": "91cd19b5305cdab55e2f662658512e9d",
@@ -1298,9 +1358,9 @@
       "country": "FR",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 70,
-      "titleJa": "フランス、学生デモ沈静化へ教師3,000人追加を約束",
-      "summary": "フランスの教育相が、高校生の時に激しいデモを受け、教師3,000人の追加を提案し沈静化を図る。"
+      "importanceScore": 60,
+      "titleJa": "フランス、学生デモ沈静化へ最初の措置として教員3000人増員を約束",
+      "summary": "フランスのエドゥアール・ジェフレ教育大臣は、高校生によるデモを鎮めるため、教員3000人の追加配置を提案した。"
     },
     {
       "id": "e3630bb08fd789d21024e70dcc49d09d",
@@ -1315,7 +1375,7 @@
       "category": "Society",
       "categoryJa": "社会",
       "importanceScore": 40,
-      "titleJa": "フランスの美術館から盗まれたルノワール絵画2点、回収される",
+      "titleJa": "フランスの美術館から盗まれたルノワール絵画2点が回収される",
       "summary": "フランスのリヴィエラにあるルノワール美術館から盗まれた絵画2点が先月回収された。"
     },
     {
@@ -1331,8 +1391,8 @@
       "category": "Society",
       "categoryJa": "社会",
       "importanceScore": 45,
-      "titleJa": "イタリアでワイン3万本、500万ユーロ相当が盗難か",
-      "summary": "フィレンツェのワイナリーでワイン3万本、推定500万ユーロ相当が盗まれ、イタリア史上最大級の窃盗とみられる。"
+      "titleJa": "イタリアで500万ユーロ相当のワイン3万本が盗難と報道",
+      "summary": "フィレンツェのワイナリーで、500万ユーロ相当のワイン3万本が盗まれ、イタリア史上最大級の窃盗事件とみられている。"
     },
     {
       "id": "8ab14e31e8ea57fb3d5da1409bb76c19",
@@ -1347,8 +1407,8 @@
       "category": "Society",
       "categoryJa": "社会",
       "importanceScore": 55,
-      "titleJa": "モナコの富豪爆弾襲撃事件の容疑者、BBCに語る",
-      "summary": "モナコで発生したウクライナ出身実業家ヴァディム・エルモラエフ氏の暗殺未遂事件の容疑者がBBCに証言。"
+      "titleJa": "モナコでの富豪爆弾攻撃に関連する容疑者がBBCに語る",
+      "summary": "モナコでウクライナ人実業家への暗殺未遂に関与したとされる容疑者が、BBCに自身の見解を語った。"
     },
     {
       "id": "9f85ce9a54362be8125e0a9a23464240",
@@ -1362,9 +1422,9 @@
       "country": "UA",
       "category": "Conflict",
       "categoryJa": "紛争",
-      "importanceScore": 85,
-      "titleJa": "ロシアの攻撃と冬の到来、キエフ住民に避難促す",
-      "summary": "ロシアによる電力・エネルギーインフラへの攻撃再開と冬の到来により、キエフの一部の住民が避難を検討している。"
+      "importanceScore": 80,
+      "titleJa": "ロシアの攻撃と冬の到来が迫り、キーウの一部住民が荷物をまとめ避難",
+      "summary": "ロシアによる電力・エネルギーインフラへの攻撃が再開され、キーウの一部住民は冬を前に避難を検討している。"
     },
     {
       "id": "fe9598b405a80365c3af1b95c5b68518",
@@ -1378,51 +1438,9 @@
       "country": "ES",
       "category": "Economy",
       "categoryJa": "経済",
-      "importanceScore": 75,
-      "titleJa": "スペインの住宅危機、抗議者らが「ハゲタカファンド」を非難",
-      "summary": "マドリード中心部で、抗議者らがスペインの住宅危機について「ハゲタカファンド」を非難。首相は解散総選挙を呼びかけた。"
-    },
-    {
-      "id": "13505d38c2d9a5b28d14c2878c79ff48",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-08T16:31:29.000Z",
-      "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-      "source": "BBC – Europe",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "region": "Europe"
-    },
-    {
-      "id": "acedb245997133e5d4dfbcc4561c33d9",
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-08T12:32:12.000Z",
-      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-      "source": "BBC – Europe",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "region": "Europe",
-      "country": "IT",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 70,
-      "titleJa": "イタリア、選挙制度改革を承認 野党はメローニ首相を「詐欺」と非難",
-      "summary": "イタリアが選挙制度改革を承認。メローニ首相は政府安定化のためとするが、野党は首相の権力維持が目的と非難。"
-    },
-    {
-      "id": "09045447e7b35b4c125c43ac3e3ac1a5",
-      "title": "New evidence gives family hope after death in Spain",
-      "url": "https://www.bbc.co.uk/news/articles/c317jy2vx4l1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T05:11:46.000Z",
-      "description": "Tobias White-Sansom, from Nottingham, was on a family holiday in Spain and died on a night out.",
-      "source": "BBC – Europe",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "region": "Europe",
-      "country": "ES",
-      "category": "Society",
-      "categoryJa": "社会",
-      "importanceScore": 35,
-      "titleJa": "スペインでの死後、新証拠が家族に希望を与える",
-      "summary": "スペインでの休暇中に死亡したノッティンガム出身の男性について、新たな証拠が見つかり家族に希望が生まれた。"
+      "importanceScore": 60,
+      "titleJa": "スペインの住宅危機を巡り、抗議者が「ハゲタカファンド」を非難",
+      "summary": "マドリード中心部で数百人がテントを張り、スペインの住宅危機について「ハゲタカファンド」を非難している。"
     },
     {
       "id": "18bee781465320ad1e9f22614bc94ad8",
@@ -1432,7 +1450,13 @@
       "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "PA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "パナマでM7.7の強力な地震が発生、建物に被害",
+      "summary": "パナマでマグニチュード7.7の強力な地震が発生し、建物が損傷。近隣諸国には津波警報が発令された。"
     },
     {
       "id": "0bcc2ae993241b341914dcf071d35f0b",
@@ -1442,7 +1466,13 @@
       "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ベネズエラの元指導者ニコラス・マドゥロが拷問共謀で起訴",
+      "summary": "ベネズエラの元指導者マドゥロ氏が、在任中の米国人拘束者への拷問共謀で新たな告発を受けた。"
     },
     {
       "id": "c9ac4a650c13570f4d30041fb95a41d3",
@@ -1452,7 +1482,13 @@
       "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "CL",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "チリ中部で洪水発生、住民が空輸で救助される",
+      "summary": "チリ中部で異常な大雨によりマポチョ川が氾濫し、住民が空輸で安全な場所に避難した。"
     },
     {
       "id": "51b72b6ef3f288a468b159e4d24675f9",
@@ -1462,7 +1498,13 @@
       "description": "The mum of Anton Green, from Whalley Range, Manchester, is desperate to find her missing son.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "コロンビアで行方不明になる前の息子への母の最後の言葉",
+      "summary": "コロンビアで行方不明となった息子アントン・グリーンさんの消息を、マンチェスターの母親が必死に捜している。"
     },
     {
       "id": "b1571291b532c044ba2546ab5ce925a7",
@@ -1472,7 +1514,13 @@
       "description": "The stories of seven people whose parents are from the Windrush generation are told in a new film.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "UK",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "ウィンドラッシュ世代の子供たちの豊かな人生を綴った映画が公開",
+      "summary": "ウィンドラッシュ世代の親を持つ7人の人生の物語が、新作映画で描かれ、注目を集めている。"
     },
     {
       "id": "2e70b992c63fea64dc8a88fde54fbe0f",
@@ -1482,7 +1530,13 @@
       "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "メッシのビッグナイトを待ちわびるアフリカの小国",
+      "summary": "リオネル・メッシのアルゼンチンでのラストゲームのために、ベナン代表がアルゼンチンを訪れ、脚光を浴びる。"
     },
     {
       "id": "df14ea30a08015fad7e3d0a23f74fd28",
@@ -1492,7 +1546,13 @@
       "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what is next for the 39-year-old.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 75,
+      "titleJa": "オーナー、ビジネスマン、選手：黄金時代を終えるメッシの大きな計画",
+      "summary": "リオネル・メッシのアルゼンチン代表としてのキャリアが終わりを迎える中、39歳の彼の今後の大きな計画が報じられた。"
     },
     {
       "id": "03e5acd7e774bf30d4c07c9caea21f51",
@@ -1502,7 +1562,13 @@
       "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "CU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ハバナ陥落を待ち望む裕福なキューバ系アメリカ人たち",
+      "summary": "フロリダのキューバ亡命者たちは、キューバでの政権交代が間近に迫っていると期待を募らせている。"
     },
     {
       "id": "0259d3f30cf24ac6de105196bf876386",
@@ -1512,7 +1578,13 @@
       "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 65,
+      "titleJa": "新しい野生ネコ科動物種が発見される — 既知の生存個体は1匹のみ",
+      "summary": "長らく親戚種と誤認されていた斑点のある野生ネコが、ボリビアで新種として特定された。既知の生存個体は1匹のみ。"
     },
     {
       "id": "e6fe954d7b45201ba7492a92d50575a6",
@@ -1522,7 +1594,13 @@
       "description": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
       "source": "BBC – Latin America & Caribbean",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "region": "Latin America"
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "殺害されたオーストラリア人兄弟と米国人友人の裁判の経緯",
+      "summary": "メキシコで2年前に殺害されたオーストラリア人兄弟と米国人友人の裁判の経緯が報じられた。遺族は「責任が重要」と訴える。"
     },
     {
       "id": "3bc52ad51f6c1c2a95d93b28fcfebc66",
@@ -1536,9 +1614,9 @@
       "country": "EC",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 75,
-      "titleJa": "エクアドルはいかにして工業用トランス脂肪酸を食品棚から排除しようと闘っているか",
-      "summary": "エクアドルが工業用トランス脂肪酸の規制と施行のギャップに直面し、食品からの排除を目指す戦いを描く。健康擁護者が stricter な管理を推進している。"
+      "importanceScore": 60,
+      "titleJa": "エクアドルはいかにして工業用トランス脂肪酸を食品棚からなくそうと闘っているか",
+      "summary": "エクアドルが工業用トランス脂肪酸の食品規制と執行の課題に直面し、健康推進派が厳格な管理を求める中での取り組みを要約する。"
     },
     {
       "id": "c563294dd894b285b9c849c8208e6723",
@@ -1550,11 +1628,11 @@
       "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
       "region": "Latin America",
       "country": "XX",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "トランプの「互恵通商協定」（ARTs）がグローバルサウスの公平なインターネットアクセスを脅かす",
-      "summary": "トランプ政権の互恵通商協定（ARTs）が米国に大きな権力をもたらし、グローバルサウスにおけるデジタル接続性、格差、経済成長に悪影響を及ぼす可能性を警告する。"
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "トランプ氏の「互恵貿易協定」（ARTs）がグローバルサウスにおけるインターネットの公平なアクセスを脅かす",
+      "summary": "トランプ政権下の互恵貿易協定（ARTs）が、グローバルサウスのデジタル接続に悪影響を及ぼし、デジタル格差を拡大させ、経済成長を阻害する可能性について説明。"
     },
     {
       "id": "40b7088c0be45f00a4b1d5df5811c772",
@@ -1568,9 +1646,9 @@
       "country": "XX",
       "category": "Environment",
       "categoryJa": "環境",
-      "importanceScore": 90,
-      "titleJa": "エルニーニョが気候危機を加速させ、ラテンアメリカの食料安全保障を試す",
-      "summary": "エルニーニョ現象がラテンアメリカ全域で干ばつ、洪水、火災を引き起こし、地域の食料システム、農家、家計に大きな圧力をかけ、脆弱性を露呈している。"
+      "importanceScore": 85,
+      "titleJa": "エルニーニョ現象が気候危機を加速させ、ラテンアメリカの食料安全保障を試す",
+      "summary": "エルニーニョ現象が、干ばつ、洪水、火災を通じてラテンアメリカの食料システムを脆弱にし、地域の農家、食料供給、家計に深刻な影響を与えていることを報告。"
     },
     {
       "id": "1d1b1dc6e216bc1b6e2b6ad4211e3fea",
@@ -1584,9 +1662,9 @@
       "country": "XX",
       "category": "Environment",
       "categoryJa": "環境",
-      "importanceScore": 80,
-      "titleJa": "若者たちがオセアニアとカリブ海の気候格差を埋める",
-      "summary": "強力な気候政策の欠如により、毎年家族が気候関連災害で命や生活を失う中、オセアニアとカリブ海の若者たちが気候変動対策の格差を解消するために活動している。"
+      "importanceScore": 75,
+      "titleJa": "若者たちがオセアニアとカリブ海地域の気候変動の隔たりを埋める",
+      "summary": "若者たちが、気候関連災害により家族や生活を失う現状を訴え、オセアニアとカリブ海地域での気候政策の欠如に対処し、気候変動の隔たりを埋める活動を行っている。"
     },
     {
       "id": "d3df6b79bebb2f45246d9076e2ce7aad",
@@ -1600,9 +1678,9 @@
       "country": "BR",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 70,
-      "titleJa": "ブラジルの首都で、住民が独自の暑さ対策を育てる",
-      "summary": "ブラジルの首都周辺のファベーラでは、極度の暑さが健康リスクをもたらし、住民たちは緑地アクセスにおける世界的な不平等を解決するため、独自の暑さ対策を実践している。"
+      "importanceScore": 65,
+      "titleJa": "ブラジルの首都で、住民が暑さ対策のための独自の解決策を育む",
+      "summary": "ブラジルの首都周辺のファベーラ住民が、猛暑による健康リスクと緑地へのアクセス不平等を背景に、独自の暑さ対策を講じている現状を紹介する。"
     },
     {
       "id": "9f0891469fbdce117117802f200493f8",
@@ -1616,9 +1694,9 @@
       "country": "XX",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 85,
-      "titleJa": "抗議活動とテロを同一視すること：異議申し立てに対する物語",
-      "summary": "今月の特集では、米国や他国の指導者たちが抗議活動を非合法化するために用いる、「抗議活動をテロと同一視する」という物語について深く掘り下げる。"
+      "importanceScore": 80,
+      "titleJa": "抗議活動をテロと同一視すること：異議申し立てに対する物語",
+      "summary": "米国および他国の指導者たちが、抗議活動を非正当化するために使用する、「抗議活動をテロと同一視する」という物語について深く掘り下げた記事。"
     },
     {
       "id": "6a050d252ba99d5bbe72127b50d3d2d7",
@@ -1632,9 +1710,9 @@
       "country": "XX",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 80,
-      "titleJa": "先住民族の文化と伝統の商業化",
-      "summary": "先住民族の文化や伝統が商業化され、その資源や意味がしばしばコミュニティ外に流出し、長年抑圧してきた同じ外部のグループを富ませるという問題を提起する。"
+      "importanceScore": 70,
+      "titleJa": "先住民族の文化と伝統の商品化",
+      "summary": "先住民族の文化や伝統が商品化され、その資源や意味が外部に流出し、しばしば何世紀にもわたり抑圧してきた外部のグループを潤している現状を論じる。"
     },
     {
       "id": "06765a4c8412971d54914dc44a7906de",
@@ -1649,8 +1727,8 @@
       "category": "Politics",
       "categoryJa": "政治",
       "importanceScore": 75,
-      "titleJa": "米国からの強制送還後、エクアドルが元大臣ホセ・セラーノを拘束",
-      "summary": "米国から強制送還されたエクアドルの元「スーパー大臣」ホセ・セラーノ氏が、デュープロセスに疑問が呈されている司法制度の下で、重大な刑事捜査と政治的告発に直面している。"
+      "titleJa": "エクアドル、米国からの強制送還後、ホセ・セラーノ元大臣を拘束",
+      "summary": "米国から強制送還されたエクアドル元大臣ホセ・セラーノ氏が、デュープロセスが問われる司法制度において、重大な刑事捜査と政治的告発に直面している状況を報告。"
     },
     {
       "id": "37932c4fdcf6d0228c55c6cd68090e07",
@@ -1664,9 +1742,9 @@
       "country": "BR",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 80,
-      "titleJa": "ブラジルのアウウェ＝シャバンテ族によるメガプロジェクトの糾弾",
-      "summary": "ブラジルの先住民族アウウェ＝シャバンテの人々が、巨大鉄道プロジェクトの影響を糾弾し、彼らの領土、自己決定、生きる権利への尊重を求めるキャンペーンを展開している。"
+      "importanceScore": 70,
+      "titleJa": "アウウェ・シャバンテ族によるブラジルにおけるメガプロジェクトへの告発",
+      "summary": "ブラジルのアウウェ・シャバンテ族が、メガ鉄道プロジェクトの影響を告発し、土地、自己決定権、生きる権利の尊重を求める先住民族主導のキャンペーンを展開。"
     },
     {
       "id": "aacdd0f914a9ae53a681b8a423fa4973",
@@ -1680,9 +1758,57 @@
       "country": "CO",
       "category": "Disaster",
       "categoryJa": "災害",
-      "importanceScore": 75,
-      "titleJa": "ペレイラでの「日払い」生活：コロンビア地震の忘れられた生存者たち",
-      "summary": "コロンビアのペレイラで、地震の生存者たちが日払い部屋で生活しており、ホームレス、過密シェルター、病気に直面し、存在を認識されるために闘っている状況を描く。"
+      "importanceScore": 80,
+      "titleJa": "コロンビアの地震で忘れ去られた生存者たち：ペレイラでの「日払い」生活",
+      "summary": "コロンビアのペレイラで、地震の生存者たちが日払い部屋での生活からホームレス状態、過密な避難所、病気に直面し、存在を認識されるために苦闘している現状を詳述。"
+    },
+    {
+      "id": "1af077532299fe84b0cd4e04b7b8b9ba",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T22:13:08.000Z",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "MM",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "若者たちは路上で捕らえられミャンマー軍に売られることを恐れて暮らしている",
+      "summary": "ミャンマーでは、軍事政権が民族民兵や市民抵抗勢力との消耗戦に陥っており、若者たちが誘拐され軍に徴兵される恐怖に直面している。"
+    },
+    {
+      "id": "6ad1eafe719ba0687be267e56b732c7d",
+      "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+      "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T14:13:13.000Z",
+      "description": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "デリーで数百人の「ゴキブリ」抗議者が拘束された理由",
+      "summary": "インドのデリーでは、選挙改革を求めるジェネレーションZ主導の「ゴキブリ・ジャンタ党」の抗議活動に先立ち、数百人が拘束された。"
+    },
+    {
+      "id": "ad29909e8999bf16fa7877a92c4f7f6f",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T23:31:35.000Z",
+      "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 60,
+      "titleJa": "部屋の中で：BLACKPINKのリサと人種差別スキャンダルが勃発した時の様子",
+      "summary": "映画監督のスー・キムが、K-POPアイドルであるBLACKPINKのリサに前例のない密着取材を行い、人種差別スキャンダル勃発時の彼女の素顔を語る。"
     },
     {
       "id": "60d5737f875ac94c66fe9ea0a8e2ce91",
@@ -1696,25 +1822,9 @@
       "country": "ID",
       "category": "Environment",
       "categoryJa": "環境",
-      "importanceScore": 60,
-      "titleJa": "インドネシアの火災が有毒な煙で地域を覆う中、なぜ消火がこれほど難しいのか？",
-      "summary": "インドネシアの泥炭地火災の消火が困難な理由と、それが大量のヘイズを発生させるメカニズムについて解説します。"
-    },
-    {
-      "id": "1ca280602d986bc1834a1c752d7e81e6",
-      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-      "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T07:19:24.000Z",
-      "description": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
-      "source": "BBC – Asia",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia",
-      "country": "IN",
-      "category": "Politics",
-      "categoryJa": "政治",
-      "importanceScore": 55,
-      "titleJa": "インドのモディ首相に立ち向かう、元気いっぱいのZ世代の抗議者を紹介",
-      "summary": "インドのZ世代が主導する最近の抗議活動で、ネハ・ボラが最も有名な顔の一人として浮上しています。"
+      "importanceScore": 80,
+      "titleJa": "インドネシアの火災が地域を有毒なスモッグで覆う中、なぜ消火がこれほど難しいのか？",
+      "summary": "インドネシアの泥炭地火災が、なぜ消火が困難で大量の煙霧を発生させ、地域を有毒なスモッグで覆い尽くしているのかを解説する。"
     },
     {
       "id": "a07beb78c55c1b9329d4b2e2063c0976",
@@ -1728,25 +1838,9 @@
       "country": "TH",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 40,
+      "importanceScore": 55,
       "titleJa": "タイ国王妃、戦闘機で初の単独飛行",
-      "summary": "タイ王室によると、タイのスティダー王妃が戦闘機で初の単独飛行を行いました。"
-    },
-    {
-      "id": "f5fcd795f1b7477a12ea25a0fd6efbb4",
-      "title": "Why Elon Musk is taking on India's richest man over Starlink",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-09T06:42:37.000Z",
-      "description": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
-      "source": "BBC – Asia",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia",
-      "country": "IN",
-      "category": "Economy",
-      "categoryJa": "経済",
-      "importanceScore": 65,
-      "titleJa": "イーロン・マスクがインド一の大富豪とスターリンクを巡って対立する理由",
-      "summary": "スターリンクのインドでの立ち上げが難航する中、マスク氏がリライアンスのムケシュ・アンバニ氏を批判しています。"
+      "summary": "タイ王室によると、タイのスティダー王妃が戦闘機で初の単独飛行を成功させた。"
     },
     {
       "id": "bf3a0440513c7968720fc9988ef9644b",
@@ -1760,9 +1854,9 @@
       "country": "AU",
       "category": "Economy",
       "categoryJa": "経済",
-      "importanceScore": 45,
-      "titleJa": "アディダス、オーストラリアのブランド「ホワイト・フォックス」を四本線のデザインで提訴",
-      "summary": "ドイツのスポーツウェアブランドが、シドニーを拠点とするレーベルに対し、該当商品の販売停止と損害賠償を求めています。"
+      "importanceScore": 50,
+      "titleJa": "アディダス、オーストラリアのブランドWhite Foxを「4本ストライプ」デザインで提訴",
+      "summary": "ドイツのスポーツウェアブランド、アディダスが、シドニーに拠点を置くWhite Foxに対し、4本ストライプのデザインを巡り、製品販売停止と損害賠償を求めて提訴した。"
     },
     {
       "id": "a598303c477d179be610ca3ea1843c60",
@@ -1776,9 +1870,9 @@
       "country": "AU",
       "category": "Economy",
       "categoryJa": "経済",
-      "importanceScore": 50,
+      "importanceScore": 55,
       "titleJa": "オーストラリアのAIデータセンター企業、大規模な株式市場上場を中止",
-      "summary": "Firmus社は、「最近の市場変動と一般的な市場状況」を理由に、上場中止の決定を下したと発表しました。"
+      "summary": "オーストラリアのAIデータセンター企業Firmusが、「最近の市場変動と市場状況」を理由に、大規模な株式市場上場計画の中止を決定した。"
     },
     {
       "id": "d38ae8d88bc1e8ce6c2fbd7600a400a9",
@@ -1792,9 +1886,9 @@
       "country": "ID",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 65,
-      "titleJa": "BBCの調査後、生徒に性的虐待を行った教師がインドネシアの刑務所へ逆戻り",
-      "summary": "モハマド・サブチ・アザル・ツサニは、判決の半分も務めずに2025年に秘密裏に仮釈放されていました。"
+      "importanceScore": 85,
+      "titleJa": "生徒を性的虐待した教師、BBCの調査後インドネシアの刑務所に戻る",
+      "summary": "生徒を性的虐待した教師が2025年に密かに仮釈放されていたが、BBCの調査の結果、再びインドネシアの刑務所に収監された。"
     },
     {
       "id": "b387888134e81651b040205210adc4cf",
@@ -1808,9 +1902,9 @@
       "country": "KR",
       "category": "Politics",
       "categoryJa": "政治",
-      "importanceScore": 70,
+      "importanceScore": 75,
       "titleJa": "韓国、捕虜問題でウクライナ大使を召還",
-      "summary": "キエフが北朝鮮の捕虜2名がソウルに移送されたと公表した後、外交上の対立が激化し、韓国はウクライナ大使を召還しました。"
+      "summary": "ウクライナが北朝鮮の捕虜2名がソウルに移送されたと公表した後、韓国はウクライナ大使を召還。これは外交上の論争における最新の出来事である。"
     },
     {
       "id": "441181959b1482a60578831f045973f4",
@@ -1818,22 +1912,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-07T22:10:20.000Z",
       "description": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
-      "source": "BBC – Asia",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "region": "Asia",
-      "country": "SG",
-      "category": "Environment",
-      "categoryJa": "環境",
-      "importanceScore": 60,
-      "titleJa": "有毒なヘイズがシンガポールのランドマークを消し去る様子",
-      "summary": "インドネシアで最悪の山火事シーズンが、東南アジア諸国にどのような影響を与えているかをBBC記者が解説します。"
-    },
-    {
-      "id": "9fd319f533b39a895f8a58b5712ebbf3",
-      "title": "Former Bachelor Australia star Sam Wood denied bail over domestic violence charges",
-      "url": "https://www.bbc.co.uk/news/articles/cmz65lpeddeno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-08T06:43:02.000Z",
-      "description": "The fitness coach is accused of strangling and assaulting a woman while on holiday in Queensland.",
       "source": "BBC – Asia",
       "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
       "region": "Asia"
@@ -1851,8 +1929,8 @@
       "category": "Economy",
       "categoryJa": "経済",
       "importanceScore": 85,
-      "titleJa": "AIブームと中東危機への貿易の回復力が経済見通しを押し上げるが、その恩恵は不均一",
-      "summary": "2026年上半期、AI投資とサプライチェーン適応により世界貿易は中東危機にも関わらず回復。しかし、恩恵は不均一。WTOは物品貿易予測を上方修正する一方、サービス貿易見通しは下方修正した。"
+      "titleJa": "AIブームと中東危機に対する貿易の回復力が展望を押し上げるも、恩恵は不均一",
+      "summary": "AIブームと中東危機への貿易の回復力により、世界の貿易見通しが上方修正されたが、恩恵は不均一。WTOは商品貿易予測を上げ、サービス貿易は下方修正した。"
     },
     {
       "id": "292d3c361b7219fd381c0985d0ffa13e",
@@ -1867,8 +1945,8 @@
       "category": "Economy",
       "categoryJa": "経済",
       "importanceScore": 70,
-      "titleJa": "一般理事会、WTO改革、閣僚会議のフォローアップ、進行中の交渉について議論",
-      "summary": "10月5～6日、WTO一般理事会でWTO改革、過去の閣僚会議フォローアップ、電子商取引や農業貿易問題を含む進行中の交渉について加盟国が議論した。"
+      "titleJa": "一般理事会、WTO改革、閣僚会議のフォローアップ、継続中の交渉について協議",
+      "summary": "WTO一般理事会で改革、閣僚会議のフォローアップ、電子商取引や農業交渉などが協議され、幅広い議題が議論された。"
     },
     {
       "id": "00a79d968f85ed40371141d65f33abde",
@@ -1880,11 +1958,11 @@
       "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
       "region": "International Organizations",
       "country": "XX",
-      "category": "Economy",
-      "categoryJa": "経済",
+      "category": "Environment",
+      "categoryJa": "環境",
       "importanceScore": 65,
-      "titleJa": "持続可能性イニシアチブの共同提案者がMC15に向けた作業計画を推進",
-      "summary": "10月2日の会合で、貿易と環境の持続可能性に関する議論の共同提案者らは、第15回WTO閣僚会議(MC15)に向けた2026-27年の作業計画を議論し、柔軟で成果志向の作業への移行を支持した。"
+      "titleJa": "持続可能性イニシアティブの共同提案国、第15回閣僚会議に向けた作業計画を進展",
+      "summary": "貿易と環境の持続可能性に関する議論の共同提案国が、第15回WTO閣僚会議に向けた2026-27年の作業計画を協議し、優先事項を特定した。"
     },
     {
       "id": "299e9fa4a3fb9904732d5db98045f770",
@@ -1899,8 +1977,8 @@
       "category": "Economy",
       "categoryJa": "経済",
       "importanceScore": 60,
-      "titleJa": "WTO MSMEグループ、貿易におけるIPの役割を探求し、成功事例と最新情報を聴取",
-      "summary": "10月2日、WTO中小零細企業グループは、中小企業のイノベーションと国際市場進出を支援する知的財産(IP)の役割に焦点を当てて会合を開き、IPツールの情報や成功事例などを聴取した。"
+      "titleJa": "WTO中小零細企業グループ、貿易における知的財産の役割を模索し、成功事例と最新情報を聴取",
+      "summary": "WTO中小零細企業グループが会合を開き、中小企業の国際市場進出を助ける知的財産の役割に焦点を当て、IPツールや取り組みについて議論した。"
     },
     {
       "id": "88324b2b03a7c538eb5797ef15808d1d",
@@ -1915,8 +1993,8 @@
       "category": "Economy",
       "categoryJa": "経済",
       "importanceScore": 75,
-      "titleJa": "ノルドクイスト事務次長補：貿易は活発に続き、回復力を示している",
-      "summary": "モントルーでのコーヒー貿易フォーラムで、ノルドクイストWTO事務次長補は、地政学と経済安全保障が貿易に大きく影響する中、WTOの役割が増していると述べ、貿易の回復力を強調した。"
+      "titleJa": "ノードキスト事務次長補：貿易は活発に継続し、回復力を示している",
+      "summary": "ノードキストWTO事務次長補は、地政学と経済安全保障が貿易に影響する中、世界の貿易が回復力を示し、WTOの機能が重要だと述べた。"
     },
     {
       "id": "423751029876e19daba4ff0e5d2d1379",
@@ -1938,11 +2016,11 @@
       "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
       "region": "International Organizations",
       "country": "XX",
-      "category": "Economy",
-      "categoryJa": "経済",
+      "category": "Environment",
+      "categoryJa": "環境",
       "importanceScore": 65,
-      "titleJa": "プラスチック対話の共同提案者、MC14後初の技術的議論を開催",
-      "summary": "2026年10月1日、WTO加盟国は「プラスチック汚染と環境的に持続可能なプラスチック貿易に関する対話(DPP)」で、プラスチック汚染の循環解決策や貿易関連措置など4分野で初の技術的議論を行った。"
+      "titleJa": "プラスチック対話の共同提案国、第14回閣僚会議後初の技術討議を開催",
+      "summary": "プラスチック汚染と環境持続可能なプラスチック貿易に関する対話の共同提案国が、第14回閣僚会議後、循環型ソリューションなど4分野で初の技術討議を行った。"
     },
     {
       "id": "876a14ff09fcb8db73c93198dadd1b2c",
@@ -1954,11 +2032,11 @@
       "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
       "region": "International Organizations",
       "country": "XX",
-      "category": "Economy",
-      "categoryJa": "経済",
+      "category": "Politics",
+      "categoryJa": "政治",
       "importanceScore": 70,
       "titleJa": "加盟国、WTO改革に関する最新の議論を評価",
-      "summary": "9月30日の透明性セッションで、WTO改革議論の促進者は、改革の4分野における会合について報告。高い関与と勢いを認める一方、多くの作業が残っていることを強調した。"
+      "summary": "WTO改革に関する透明性セッションで、4つの改革トラックの議論現状が報告された。機運は高まっているが、まだ多くの作業が残る。"
     },
     {
       "id": "5e32d033c6fd5a25a57d1fef241bc5c2",
@@ -1972,9 +2050,9 @@
       "country": "XX",
       "category": "Society",
       "categoryJa": "社会",
-      "importanceScore": 35,
-      "titleJa": "ジョン・H・ジャクソン模擬裁判大会がウェビナー支援と共に開始",
-      "summary": "第25回ジョン・H・ジャクソンWTO法模擬裁判大会が2026年9月16日に開始。参加希望者向けに、大会への効果的な参加を支援するウェビナーが提供される。"
+      "importanceScore": 30,
+      "titleJa": "ジョン・H・ジャクソン・模擬法廷大会、ウェビナーサポート付きで開幕",
+      "summary": "第25回ジョン・H・ジャクソンWTO法模擬法廷大会が開幕。参加者向けに効果的な参加を支援するウェビナーが提供される。"
     },
     {
       "id": "0391d709cd95f20795a7d846b9523aec",
@@ -1986,11 +2064,11 @@
       "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
       "region": "International Organizations",
       "country": "XX",
-      "category": "Economy",
-      "categoryJa": "経済",
+      "category": "Environment",
+      "categoryJa": "環境",
       "importanceScore": 65,
-      "titleJa": "WTO加盟国、貿易と気候変動対策に関する議論を深化、最新情報を共有",
-      "summary": "9月28～29日、貿易と環境委員会(CTE)は貿易と環境の関連性、特に貿易関連の気候変動対策の相互運用性について議論を深化。透明性向上のための情報共有を進めた。"
+      "titleJa": "WTO加盟国、貿易と気候変動対策に関する議論を深化させ、最新情報を共有",
+      "summary": "貿易と環境委員会で、貿易と環境の連携、気候変動対策の相互運用性や開発側面について議論が深められ、透明性向上のための情報共有も行われた。"
     }
   ]
 }
