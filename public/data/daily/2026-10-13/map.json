@@ -1,0 +1,962 @@
+{
+  "UA": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "13505d38c2d9a5b28d14c2878c79ff48",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T16:31:29.000Z",
+      "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシアのバス攻撃で少なくとも30人死亡、ウクライナへの攻撃激化",
+      "summary": "ロシアのバス攻撃で少なくとも30人死亡。ウクライナは、ロシアが前線都市クラマトルスクで民間人を可能な限り殺害しようと狙ったと非難。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d000c7b51a312f75152adf64d4a08900",
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-12T05:00:52.000Z",
+      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "アブラモビッチ氏の財産、脱税目的で書類偽造 BBCが発見",
+      "summary": "BBCの調査により、ロシアのオリガルヒ、アブラモビッチ氏が脱税のために書類を偽造し、ヨットや邸宅が会計から消えていたことが判明した。"
+    }
+  },
+  "ZA": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "73ebd04bc0ef10790affece9a16e5812",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "published_at": "2026-10-09T16:30:09.000Z",
+      "description": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza\n\nThe Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza.\nThe Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ICJ判事ナビ・ピレイ氏、国際法推進でノーベル平和賞を受賞",
+      "summary": "南アフリカ出身のナビ・ピレイ国際司法裁判所判事が、国際法推進への貢献によりノーベル平和賞を受賞した。ガザでのジェノサイドに関する国連委員会の議長を務めた。"
+    }
+  },
+  "US": {
+    "count": 8,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d379f4a893c448cb659c8f361283cffe",
+      "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+      "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+      "published_at": "2026-10-11T13:45:27.000Z",
+      "description": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians\nAs what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power.\nHeavy rainfall associated with the storm could bring isolated flash flooding and strong wind gusts and remain a threat across the south-eastern US, especially near the southern Appalachians, according to the National Weather Service (NWS). That could bring scattered power outages and downed trees and power lines. Life-threatening surf and rip current conditions were expected to continue along the Gulf and south-eastern Atlantic coasts.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 78,
+      "titleJa": "イサイアスの北上によりフロリダとアラバマで数千人が停電",
+      "summary": "熱帯低気圧イサイアスの影響で、フロリダとアラバマで約39万6千戸が停電。鉄砲水や暴風雨の警告が中部アパラチア地域にも拡大している。"
+    }
+  },
+  "FR": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9fa638092123805b87064cb25cb03cd0",
+      "title": "Hundreds of French supermarkets hit by a cyberattack that  defrosted refrigeration systems",
+      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-12T18:15:00.000Z",
+      "description": "Hundreds of French supermarkets saw their refrigeration systems defrosted, spoiling tons of frozen food. The unprecedented attack has raised serious questions about food security across Europe.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "フランスの数百のスーパーマーケットがサイバー攻撃を受け、冷蔵システムが解凍される",
+      "summary": "フランスの数百のスーパーがサイバー攻撃により冷蔵システムを停止させられ、大量の冷凍食品が廃棄された。欧州の食料安全保障に深刻な懸念が生じている。"
+    }
+  },
+  "VE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0bcc2ae993241b341914dcf071d35f0b",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T17:38:59.000Z",
+      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ベネズエラのニコラス・マドゥロ元大統領が拷問共謀罪で起訴",
+      "summary": "ベネズエラのマドゥロ元大統領が、在任中に拘束された米国市民に対する拷問共謀罪で新たに起訴された。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "793f7149d486161deb677c29fbb7b6f9",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-12T15:19:17.000Z",
+      "description": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "選挙管理委員長の辞任を求め、数千人がインド最高裁へ行進",
+      "summary": "デリーでの混乱した週末に数千人の抗議者が警察に拘束された後、選挙管理委員長の辞任を求め、数千人がインド最高裁判所へ行進した。"
+    }
+  },
+  "GB": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "45688d27f188c3423235923dd6cd9459",
+      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+      "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-12T19:02:00.000Z",
+      "description": "Prime Minister Andy Burnham told parliament there were \"strong indications\" of Iranian involvement. The government summoned Iran's ambassador. The scare at RAF Fairford led to the withdrawal of USAF B-1 heavy bombers.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "英国：「RAFフェアフォード基地事件の背後にイランがいる可能性が極めて高い」",
+      "summary": "英国はRAFフェアフォード基地での事件にイランが関与した可能性が高いと発表し、イラン大使を召喚。これにより米空軍B-1爆撃機が撤退した。"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "824253c706c5c1fa590325222fe12c17",
+      "title": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+      "url": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-12T18:05:00.000Z",
+      "description": "Polish authorities have reported the arrests of two Turkish citizens in Germany in connection with alleged sabotage of a Starlink station last month. Prime Minister Donald Tusk called the fire an act of \"hybrid warfare.\"",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PL",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ポーランド、先月のスターリンク基地局火災に関連し、ドイツでトルコ国民2名が逮捕されたと報告",
+      "summary": "ポーランド当局は、先月のスターリンク基地局火災における妨害行為容疑で、ドイツでトルコ国民2名を逮捕と報告。首相は「ハイブリッド戦争」と呼んだ。"
+    }
+  },
+  "SA": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aed35251efafb7ff0d011bbb3ec55bb2",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T08:41:30.000Z",
+      "description": "Saturday's attack was the deadliest in Saudi Arabia since May 2015. US and Saudi officials are blaming Yemen's Houthis, who have yet to comment on the strike.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 92,
+      "titleJa": "サウジアラビアの首都リヤドの空港への攻撃で12名死亡、300名負傷",
+      "summary": "サウジアラビアの首都リヤドの空港への攻撃により、12名が死亡し300名が負傷。これは2015年5月以来最悪の攻撃。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e9dc74add9dea34154290e1dbc8b1f2d",
+      "title": "Germany news: Merz says Trump's Russia diesel deal 'out of question' for Europe",
+      "url": "https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-12T16:01:00.000Z",
+      "description": "Chancellor Friedrich Merz has said that Donald Trump's diesel deal with Russia would be \"out of the question\" for Germany and the EU. Meanwhile, the ruling coalition has been rocked by a major resignation. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ドイツニュース：メルツ首相、トランプ氏のロシアとのディーゼル取引は「欧州にとって論外」",
+      "summary": "ドイツのメルツ首相は、トランプ氏のロシアとのディーゼル取引はドイツとEUにとって「論外」だと述べた。連立政権の主要閣僚辞任も報じられている。"
+    }
+  },
+  "KR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ca5590633ed0a64db14017a203e5191c",
+      "title": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
+      "url": "https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-12T13:10:00.000Z",
+      "description": "Seoul and Kyiv are trading accusations after the transfer of two North Korean POWs to South Korea. The South insists the move was to be kept secret as it seeks to avoid antagonizing Pyongyang.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "韓国とウクライナは北朝鮮捕虜を巡る外交摩擦を解決できるか？",
+      "summary": "北朝鮮捕虜2名の韓国への移送を巡り、ソウルとキーウが非難の応酬。韓国は平壌を刺激しないため、秘密裡に行う必要があったと主張。"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "36cb83bb2bf7cc7948a91cbcffa525ef",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "published_at": "2026-10-09T21:36:18.000Z",
+      "description": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers\nA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week.\nIt is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GW",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "物議を醸すワクチン試験、RFKジュニアが推進、ギニアビサウで承認",
+      "summary": "ギニアビサウで、新生児へのB型肝炎ワクチン接種を一部見送る論争の的となる研究試験が承認された。これはRFKジュニアが支持するもので、倫理的議論を呼んでいる。"
+    }
+  },
+  "EG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "97abb268b58228f6fe347c780ecb2eff",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "published_at": "2026-10-09T04:00:38.000Z",
+      "description": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood\nEgyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention.\nLast week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed Muslim Brotherhood.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "エジプトのジャーナリスト、同僚6人の拘束に抗議し週末にデモ計画",
+      "summary": "エジプトのジャーナリストらが、テロ容疑で拘束された同僚6人の釈放を求め、カイロで抗議デモを計画。拷問や強制自白の疑いも浮上している。"
+    }
+  },
+  "SC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "030f5a8b37ebd48d9a8e376dd6a57f46",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "published_at": "2026-10-08T20:20:31.000Z",
+      "description": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme\nA survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving.\nA population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SC",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 60,
+      "titleJa": "セーシェル諸島の島で18万頭のゾウガメを発見",
+      "summary": "セーシェル諸島のある島で、絶滅危惧種だったアルダブラゾウガメが18万頭生息していることが判明。数十年にわたる回復プログラムが成功した。"
+    }
+  },
+  "GR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c9059642dbfeb3a557cdfb7d4f9c9147",
+      "title": "Balkan temperatures swing as heavy rain heads for Greece",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+      "published_at": "2026-10-12T10:48:26.000Z",
+      "description": "Clear skies bring warm days and cold nights to Montenegro, while a low-pressure system moves towards Aegean Sea\n\nEurope live – latest updates\n\nTemperatures fluctuated dramatically in the Balkans last week, with unusually large differences between daytime highs and overnight lows – known as the diurnal range.\nAn area of high pressure over the region brought prolonged sunshine during the day, while clear skies at night allowed temperatures to drop rapidly as heat escaped into the atmosphere without cloud cover to slow the cooling.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GR",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 55,
+      "titleJa": "バルカン諸国で気温が乱高下、ギリシャには大雨が接近",
+      "summary": "バルカン諸国で日中の高温と夜間の低温が顕著な気象変動を記録。一方、ギリシャ方面には低気圧が接近し、大雨が予測されている。"
+    }
+  },
+  "PE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "05086192bee42777bca238c48cdc42cf",
+      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+      "published_at": "2026-10-11T07:45:31.000Z",
+      "description": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’\n\nFollow our Australia politics live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAn Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said.\nJordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s Huayhuash mountain range, 400km north-east of Lima.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "PE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "行方不明のオーストラリア人ハイカー、ペルーの山中で遺体で発見",
+      "summary": "ペルーの山岳地帯で行方不明になっていたオーストラリア人ハイカー、ジョーダン・ヤップ氏の遺体が発見された。家族が訃報を伝えた。"
+    }
+  },
+  "PA": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "18bee781465320ad1e9f22614bc94ad8",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T21:26:30.000Z",
+      "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "PA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "パナマをマグニチュード7.7の強力な地震が襲い、建物に被害",
+      "summary": "パナマでマグニチュード7.7の地震が発生し、建物に被害が出た。周辺国には津波警報が発令され、被害映像が拡散している。"
+    }
+  },
+  "ES": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fe9598b405a80365c3af1b95c5b68518",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T19:10:06.000Z",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "抗議者たちがスペインの住宅危機を「ハゲタカファンド」のせいだと非難",
+      "summary": "マドリード中心部で数百人がテントを張り、スペインの住宅危機を「ハゲタカファンド」のせいだと抗議。スペイン首相は解散総選挙を呼びかけた。"
+    }
+  },
+  "EU": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2b9245a5b6624ae1b541c8b3050fc07e",
+      "title": "Blindsided again by Trump, Europe puts on a brave face and rallies behind Ukraine",
+      "url": "https://www.euronews.com/2026/10/12/blindsided-again-by-trump-europe-puts-on-a-brave-face-and-rallies-behind-ukraine",
+      "published_at": "2026-10-12T16:49:55.000Z",
+      "description": "European leaders closed ranks and rallied behind Ukraine as news of the diesel deal between Donald Trump and Vladimir Putin continued to send shockwaves across the alliance.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "EU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏に再び不意を突かれた欧州、ウクライナを支持し勇敢に立ち向かう",
+      "summary": "ドナルド・トランプ氏とウラジーミル・プーチン氏によるディーゼル取引のニュースが同盟全体に衝撃を与える中、欧州首脳は結束し、ウクライナを支持する姿勢を示した。"
+    }
+  },
+  "LB": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4396f6274457ea416014fef11755846b",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T05:00:44.000Z",
+      "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "LB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "米国とレバノンがシリアの指名手配将軍を保護しているとBBCが報じる",
+      "summary": "BBCは、米国とレバノンがシリアの指名手配将軍を、誘拐された米国人記者に関する情報と引き換えに保護していると報じた。"
+    }
+  },
+  "CU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3ba9ff86d16c51ac40b508ab2355b238",
+      "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
+      "url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
+      "published_at": "2026-10-12T18:52:40.000Z",
+      "description": "Cuban energy minister denies link to fuel shipments intercepted by US, says oil imports by private firms insufficient.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "キューバ、米国の石油封鎖の中で再生可能エネルギー計画を推進",
+      "summary": "米国の石油封鎖に直面するキューバは再生可能エネルギー計画を進め、エネルギー相は燃料密輸との関連を否定し、民間企業の輸入では不十分と述べた。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "86da031dcf5ddb2b41286f4e8078042c",
+      "title": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
+      "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss",
+      "published_at": "2026-10-12T18:01:41.000Z",
+      "description": "Ethiopian Airlines resumed flights to Tigray's capital, Mekelle, on Sunday.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ET",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "エチオピア軍、戦略的要衝ティグレ州アドワに突入と目撃者",
+      "summary": "目撃者によると、エチオピア軍が戦略的要衝であるティグレ州アドワに入った。エチオピア航空はティグレ州都メケレへのフライトを再開している。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6ad16d9a4c249eb35694e9ed374f0324",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T04:34:55.000Z",
+      "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "AE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "フライ・ドバイ攻撃者、オーストラリアで「過激主義とテロリズムへの傾倒」開始とUAEが発表",
+      "summary": "UAEの司法長官は、フライ・ドバイの共同操縦士がオーストラリアで過激化し、テルアビブ空港に飛行機を墜落させようとしたと主張。"
+    }
+  },
+  "IL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f3f250921d77f1c1134c651a9d39202f",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T15:21:46.000Z",
+      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "英国外交官の大部分が東エルサレム領事館を離れるとイスラエルが発表、ミリバンドは「重要なサービス」は維持と表明",
+      "summary": "英国が西岸地区の入植地への制裁を課したことに対し、イスラエルは対抗措置として東エルサレム領事館から英国外交官の大部分が退去すると発表した。"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "657e4fb52e745ce5d8be94a6b3a3fc0e",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T12:11:31.000Z",
+      "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "QA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "カタール沖の湾岸でタンカーが複数発の飛翔体により被弾、海事機関が発表",
+      "summary": "カタール沖の湾岸で、石油化学タンカー「エイサーズ」が複数発の飛翔体により被弾し、死傷者が出たと海事機関が報告した。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a598303c477d179be610ca3ea1843c60",
+      "title": "Australian AI data centre firm scraps mega stock market listing",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T07:14:30.000Z",
+      "description": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "オーストラリアのAIデータセンター企業、大規模な株式市場上場を中止",
+      "summary": "オーストラリアのAIデータセンター企業Firmusは、「最近の市場変動と市場状況」を理由に、大規模な株式市場上場の中止を決定したと発表した。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "057ac05629be3a1920146beba47a0eb3",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T14:49:32.000Z",
+      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダン準軍事組織によるドローン攻撃で、エチオピア国境付近で41人が死亡と人権団体が発表",
+      "summary": "スーダン準軍事組織によるドローン攻撃が避難民の集まる場所を襲撃し、エチオピア国境付近で子ども8人を含む41人が死亡したと人権団体が報告した。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d466c8be95915647632e051f669d6151",
+      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show ",
+      "url": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T23:01:04.000Z",
+      "description": "The Nigerian star will become the first African artist to headline the show at an international NFL game.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 70,
+      "titleJa": "アフロビーツ歌手アイラ・スター、NFLハーフタイムショーでの歴史的快挙について語る",
+      "summary": "ナイジェリア出身のアフロビーツ歌手アイラ・スターが、国際NFL試合のハーフタイムショーで初のメインアクトを務めるアフリカ人アーティストとして歴史を作ることに言及した。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5f1390a1610387f9bd7765ded1155924",
+      "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T23:29:15.000Z",
+      "description": "Wicknell Chivayo divided opinion in life and continues to do so in death.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ジンバブエの大富豪「サー・ウィックネル」がアフリカで愛され憎まれた理由",
+      "summary": "ジンバブエの大富豪ウィックネル・チヴァヨは生前から意見を二分し、その死後もアフリカ社会で賛否両論を巻き起こし続けている。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "352d8b89312adcd18e33e096a465de57",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-03T23:37:46.000Z",
+      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ガーナのバスで牧師の説教がまもなく聞かれなくなるかもしれない理由",
+      "summary": "キリスト教徒が多数を占めるガーナで広く行われている公共交通機関での牧師による説教が、規制により今後聞かれなくなる可能性があり、その背景が語られている。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b3d116c3224e83159e5c035706978d0",
+      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-01T23:46:12.000Z",
+      "description": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "政治を「楽しく、トレンディに、セクシーに」：Z世代がケニアの次期選挙をいかに形成するか",
+      "summary": "ケニアで若い世代を対象とした有権者動員キャンペーンが成功を収めているが、彼らがどの候補者を支持するかは不明で、Z世代が次期選挙に与える影響が注目される。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2624805ae45642125da1f9459c344d66",
+      "title": "The journalist crowned king in Uganda after bitter succession dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-29T20:09:27.000Z",
+      "description": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "激しい後継者争いの末、ウガンダでジャーナリストが王に即位",
+      "summary": "ウガンダで、王族が認めない若い後継者を巡る激しい争いの末、ジャーナリストのキジャナンゴマ氏が新たな王として即位した。"
+    }
+  },
+  "MZ": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b9b66772489fee93a18c5a8b54b3851",
+      "title": "When free speech has a price: Youth voices in Mozambique",
+      "url": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique",
+      "published_at": "2026-10-11T18:00:47.000Z",
+      "description": "For Mozambican youth, freedom of expression exists in law, but speaking out can come with a cost. Music became a powerful space for criticism and resistance.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "表現の自由に代償が伴うとき：モザンビークの若者の声",
+      "summary": "モザンビークの若者にとって、法的には表現の自由があるものの、発言には代償が伴う。音楽は批判と抵抗の強力な場となっている。"
+    }
+  },
+  "TG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "35aff20d340a4e2621fd912f61b48800",
+      "title": "How Togolese people are reinventing political protest amid civil society crackdown",
+      "url": "https://globalvoices.org/2026/09/18/how-togolese-people-are-reinventing-political-protest-amid-civil-society-crackdown",
+      "published_at": "2026-09-18T20:34:50.000Z",
+      "description": "As in-person gatherings have become difficult to organize or too risky for citizens, online protest has become an increasingly common form of political dissent in Togo.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "TG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "市民社会弾圧の中でトーゴの人々はいかに政治的抗議を再発明しているか",
+      "summary": "トーゴでは、対面での集会が困難で危険なため、オンラインでの抗議活動が政治的反対意見を表明する一般的な方法になっている。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e424b701e147b083135ca1bd713b073d",
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T04:07:11.000Z",
+      "description": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "「国の恥だ」：トランプ氏、ノーベル平和賞を巡りノルウェーを批判",
+      "summary": "トランプ前米大統領がノーベル平和賞の受賞者を「聞いたことがない」と述べ、ノルウェーを批判した。"
+    }
+  },
+  "IT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a0363f0c0cda6c16398a7975178593ee",
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T09:09:03.000Z",
+      "description": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "IT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "イタリアでワイン3万本、500万ユーロ相当が盗難、と報道",
+      "summary": "イタリア・フィレンツェのワイナリーで、3万本のワイン（500万ユーロ相当）が盗まれる大規模な窃盗事件が発生。国内でも最大級の被害とみられる。"
+    }
+  },
+  "MC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8ab14e31e8ea57fb3d5da1409bb76c19",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T23:11:10.000Z",
+      "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "MC",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "モナコでの富豪爆弾攻撃関連容疑者がBBCに語る",
+      "summary": "ウクライナ生まれのビジネスマン、ヴァディム・イェルモラエフ氏への暗殺未遂事件に関与したとされる容疑者が、BBCに対し自身の証言を行った。"
+    }
+  },
+  "MX": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "404ef2fd3f40eb3e5af17f42c509611c",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T21:55:51.000Z",
+      "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "メキシコでオーストラリア人サーファー兄弟と米国人友人を殺害したとして3人の男が有罪に",
+      "summary": "メキシコで、サーフィン旅行中のオーストラリア人兄弟と米国人友人が殺害された事件で、3人の男が強盗失敗による殺人の罪で有罪判決を受けた。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c9ac4a650c13570f4d30041fb95a41d3",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T11:31:22.000Z",
+      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CL",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "チリ中部での洪水を受け、住民が空路で避難",
+      "summary": "チリ中部でマポチョ川が氾濫し、住民が救助された。異常な降雨量により川の堤防が決壊した。"
+    }
+  },
+  "BJ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e70b992c63fea64dc8a88fde54fbe0f",
+      "title": "The small African nation ready for Messi's big night",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T07:50:34.000Z",
+      "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BJ",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 65,
+      "titleJa": "メッシの最終戦を控える小さなアフリカの国",
+      "summary": "メッシのアルゼンチン代表最終戦を前に、ベナンが対戦相手として注目を集め、歴史的な瞬間を迎えようとしている。"
+    }
+  },
+  "BO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0259d3f30cf24ac6de105196bf876386",
+      "title": "New wild cat species discovered - with only one known living member",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-17T23:15:55.000Z",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BO",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "新種の野生ネコ科動物が発見される — 唯一の既知の生存個体のみ",
+      "summary": "ボリビアで、これまで近縁種と誤認されていた斑点のある野生ネコ科動物が、新種として特定された。"
+    }
+  },
+  "EC": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06765a4c8412971d54914dc44a7906de",
+      "title": "Ecuador detains former minister José Serrano after U.S. deportation",
+      "url": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation",
+      "published_at": "2026-09-18T02:00:10.000Z",
+      "description": "Deported from the United States, Ecuador’s former “superminister” now faces grave criminal investigations and political accusations in a justice system facing questions over due process.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "米国からの強制送還後、エクアドルが元閣僚ホセ・セラーノを拘束",
+      "summary": "米国から強制送還されたエクアドルの元「スーパー大臣」が、適正手続きに疑問が呈される司法制度のもとで、重大な刑事捜査と政治的告発に直面している状況。"
+    }
+  },
+  "BR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "37932c4fdcf6d0228c55c6cd68090e07",
+      "title": "The A’uwẽ-Xavante people's denunciation of megaprojects in Brazil",
+      "url": "https://globalvoices.org/2026/09/16/the-auwe-xavante-peoples-denunciation-of-megaprojects-in-brazil",
+      "published_at": "2026-09-16T18:03:47.000Z",
+      "description": "An Indigenous-led campaign denounces the impacts of a mega railway project and demands respect for territory, self-determination, and the right to live and dream.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ブラジルにおけるアウウェ＝シャバンテ民族によるメガプロジェクトの糾弾",
+      "summary": "ブラジルのアウウェ＝シャバンテ民族が、メガ鉄道プロジェクトの影響を糾弾し、領土、自己決定権、そして生きる権利と夢を持つ権利の尊重を求める運動を展開。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aacdd0f914a9ae53a681b8a423fa4973",
+      "title": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthquake",
+      "url": "https://globalvoices.org/2026/09/11/pay-by-the-day-living-in-pereira-the-forgotten-survivors-of-colombias-earthquake",
+      "published_at": "2026-09-11T03:00:02.000Z",
+      "description": "In Pereira, Colombia, earthquake survivors living in pay-by-the-day rooms now face homelessness, overcrowded shelters, illness, and a struggle to be counted.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "ペレイラでの「日払い」生活：コロンビア地震の忘れられた生存者たち",
+      "summary": "コロンビアのペレイラで、地震の生存者たちが日払い部屋での生活からホームレス状態、過密シェルター、病気、そして公式に認識されないという苦境に直面している。"
+    }
+  },
+  "NP": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "99c9e85fb59f199da809fb2a3ac51509",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-12T05:26:47.000Z",
+      "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NP",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "ネパールで再び洪水発生、家屋や橋が流される",
+      "summary": "ネパールで再び洪水が発生し、家屋や橋が流された。2ヶ月前の壊滅的な洪水から復旧中のところ、今回も数千人が死亡または行方不明となっている。"
+    }
+  },
+  "ID": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d38ae8d88bc1e8ce6c2fbd7600a400a9",
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-08T12:04:25.000Z",
+      "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "生徒を性的虐待した教師、BBCの調査後インドネシアの刑務所に逆戻り",
+      "summary": "生徒を性的虐待した教師が、BBCの調査の結果、2025年に秘密裏に仮釈放されていたことが発覚し、インドネシアの刑務所に戻された。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a07beb78c55c1b9329d4b2e2063c0976",
+      "title": "Thai Queen makes first solo flight in fighter jet",
+      "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-09T19:48:26.000Z",
+      "description": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "タイ国王妃、戦闘機で初の単独飛行に成功",
+      "summary": "タイのスティダー国王妃が、戦闘機での初の単独飛行に成功したと、タイ王室が発表した。"
+    }
+  }
+}
