@@ -1,0 +1,902 @@
+{
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "da89db048364e47a14023a4b730b0116",
+      "title": "Australian MP critically injured after being hit by car in apparent attack",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T14:09:54.000Z",
+      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "オーストラリアの議員が車にはねられ重傷、襲撃の疑い",
+      "summary": "オーストラリアの独立系議員が車にはねられ重傷を負った。首相は意図的な襲撃の可能性を示唆しており、議員は現在病院で治療中だ。"
+    }
+  },
+  "KE": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "53a2df1eb01a630a84e53c160fc26718",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T16:16:55.000Z",
+      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 95,
+      "titleJa": "ケニアのカルト指導者が、子供たちを餓死させるよう親に指示した191件の殺人罪で有罪",
+      "summary": "ケニアのカルト指導者ポール・マッケンジーが、子供たちを餓死させるよう信者に命じ、191件の殺人罪で有罪判決を受けた。犠牲者のほとんどが子供である。"
+    }
+  },
+  "SA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fa12b3b5040e522995470b5bb9e4ccfc",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T16:22:12.000Z",
+      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "SA",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "元OpenAI従業員、デバイス設置疑惑でサウジアラビアの支援があったと裁判所が文書で指摘",
+      "summary": "元OpenAI従業員がデバイス設置でサウジアラビア政府の支援を受けていたと裁判所文書が示唆。サウジ政府はコメント要請に即答していない。"
+    }
+  },
+  "CA": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8e4cb9861adfe0d8c5ad9bb3eccea51b",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T09:40:44.000Z",
+      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "カナダ軍基地での致命的な火災、1キロを「30～60秒」で進行",
+      "summary": "カナダの軍基地で発生した致命的な火災は、わずか30～60秒で1キロメートルも広がり、4人が死亡し、数十人が負傷した。"
+    }
+  },
+  "RW": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bf60807015f35b3cd8c6b491de3f9c55",
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T13:42:41.000Z",
+      "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "RW",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ルワンダ大統領の亡命中の批評家が斬首されて発見される",
+      "summary": "ルワンダ大統領の批判者で亡命中のユーチューバー兼歌手が斬首体で発見された。彼はウガンダに亡命を求めていた。"
+    }
+  },
+  "YE": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d4d74125e7dcde6bfc00507d86ebd27b",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T16:20:51.000Z",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イエメンのキャンプでフーシ派のミサイル攻撃により治安部隊新兵50人死亡と地元当局発表",
+      "summary": "イエメンの政府管理下にあるシャブワ州の訓練キャンプがフーシ派のミサイル攻撃を受け、治安部隊の新兵50人が死亡したと地元当局が発表した。"
+    }
+  },
+  "US": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "29ac2b04bca269b78e1947d7ff5997cc",
+      "title": "Musk pledges SpaceX shares to every US child in potential $10.7bn giveaway",
+      "url": "https://www.euronews.com/2026/10/19/musk-pledges-spacex-shares-to-every-us-child-in-potential-107bn-giveaway",
+      "published_at": "2026-10-19T14:35:58.000Z",
+      "description": "Elon Musk says he will give one SpaceX share to every child in America next year, a pledge worth about $10.7bn (€9.5bn) at Friday’s closing price. He has yet to explain who would qualify or how the shares would be distributed.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "US",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "マスク氏、全米の子供たちにスペースX株を約束、107億ドルの可能性ある寄付",
+      "summary": "イーロン・マスク氏が来年、アメリカのすべての子供にスペースX株を1株ずつ贈与すると発表。これは金曜日の終値で約107億ドル相当の約束だが、資格や配布方法はまだ説明されていない。"
+    }
+  },
+  "BR": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b2a1b6f1cd60e4fab438d9511b3c6eb",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T02:33:09.000Z",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "ブラジル、アマゾンの森林破壊が記録的な減少、重要な選挙が迫る",
+      "summary": "アマゾン熱帯雨林の森林破壊がブラジルで過去最低レベルに減少。気候変動対策に重要な役割を果たす。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "799a5ff1614075f31e9ce3fb18560a04",
+      "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
+      "url": "https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-19T15:02:00.000Z",
+      "description": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "ET",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ティグレに新政権樹立、外交はエチオピア・エリトリア戦争を防げるか？",
+      "summary": "エチオピアが紛争地のティグレに新政権を樹立。連邦軍がティグレの戦闘員を押し返したが、エリトリアとの緊張が続き、広範な地域戦争への懸念が高まっている。"
+    }
+  },
+  "DE": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c54191d67ceac278ebf7db3f551c1419",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-16T23:07:18.000Z",
+      "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "ドイツのステーキハウス女相続人、大規模なスパイ疑惑を巻き起こした裁判",
+      "summary": "ハンブルクの厳重な法廷で、子供の誘拐を命じたとして告発されたクリスティーナ・ブロックの裁判が15カ月にわたり審理されている。"
+    }
+  },
+  "IN": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c61c28c715da5fb974884ee629aa4ea2",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T19:19:16.000Z",
+      "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "インドのヒンドゥー教祭典で少なくとも17人が圧死",
+      "summary": "インドのコルカタ市で開催されたヒンドゥー教の祭典で、群衆雪崩が発生し、少なくとも17人が死亡、多数が負傷した。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f5190d927c1ee7533c4b682d8480d3cd",
+      "title": "Myanmar refugees find hope in Thailand's work program",
+      "url": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-19T12:31:00.000Z",
+      "description": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "TH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ミャンマー難民、タイの就労プログラムに希望を見出す",
+      "summary": "タイがミャンマーからの長期滞在難民に合法的な就労権を付与。難民や人権団体は歓迎するが、プログラムの初年度で重大な欠点が露呈したと指摘されている。"
+    }
+  },
+  "PS": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "df18ae3993c58b15b1d372e3d2f3a901",
+      "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+      "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-19T11:41:00.000Z",
+      "description": "Amid funding shortages, the World Food Program has said it is being forced to reduce necessary aid. Over two-thirds of Palestinians in Gaza are facing acute hunger, according to the agency.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "国連食糧計画、ガザのパレスチナ人50万人に援助削減",
+      "summary": "資金不足により、国連食糧計画がガザ地区のパレスチナ人50万人への援助を削減せざるを得なくなっている。ガザのパレスチナ人の3分の2以上が深刻な飢餓に直面している。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f8912e6df900cabbdc15e96a107d49f4",
+      "title": "From delivery driver to global fame: A Korean writer's journey",
+      "url": "https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-19T10:55:00.000Z",
+      "description": "You Yeong-Gwang's The Rainfall Market tells the story of a mysterious, hidden shop that only opens when it rains. For a debut novel by an unknown author, it was a massive success.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KR",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 40,
+      "titleJa": "配達ドライバーから世界的な名声へ：ある韓国人作家の軌跡",
+      "summary": "韓国人作家ユ・ヨングァンの小説「雨降りの市場」が、配達ドライバーから一躍世界的な成功を収めた。雨の日にだけ現れる不思議な店の物語。"
+    }
+  },
+  "GB": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "961affa9bc7990393c5ebff9d17c4f2d",
+      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "published_at": "2026-10-18T04:00:49.000Z",
+      "description": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next \nA dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly. Outside, it was a typically blowy early evening. It may nominally be spring in the south Atlantic, but Stanley harbour, with its dark grey water speckled with historical shipwrecks, was a cauldron of swells and churn.\nSix of the assembly’s eight members – five men, one woman – waited patiently at a row of desks and microphones. The heating had been turned up to just short of uncomfortable. Behind them, a portrait of King Charles. From the other walls, dusty photographs of governors peered down on the scene.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "「4,000人が自分たちの生活を営む」：40年後、フォークランド諸島は再び敵対的なアルゼンチンに直面",
+      "summary": "フォークランド諸島は40年経った今も、アルゼンチンからの敵対的な姿勢に直面している。アルゼンチン大統領は、島の石油産業への経済的攻撃を行い、漁業も標的になる可能性を示唆している。"
+    }
+  },
+  "SD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c1a4784f07de5cd9f5c977673f062e7f",
+      "title": "Drone attack near market kills 80 in Sudan",
+      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "published_at": "2026-10-19T14:45:53.000Z",
+      "description": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war\nA drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home.\nAhmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "スーダンで市場付近のドローン攻撃により80人死亡",
+      "summary": "スーダン南部アル＝ディバブの市場付近でドローン攻撃があり、主に帰宅途中の通勤客80人が死亡した。これは戦争において単一の攻撃としては最も致命的なものの一つとされている。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f1885cea38a99966ce31f547c765b30e",
+      "title": "What #EndSARS left behind in Nigeria: A generation caught between protest, politics, and departure",
+      "url": "https://globalvoices.org/2026/09/27/what-endsars-left-behind-in-nigeria-a-generation-caught-between-protest-politics-and-departure",
+      "published_at": "2026-09-27T08:20:29.000Z",
+      "description": "The protests strengthened the political consciousness of some young Nigerians and encouraged greater participation in elections, governance and activism. For others, the experience produced fear, distrust and disillusionment.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "#EndSARSがナイジェリアに残したもの：抗議、政治、そして離脱の狭間にいる世代",
+      "summary": "ナイジェリアの#EndSARS抗議活動は若者の政治意識を高め、参加を促したが、一部には恐怖や不信、幻滅も残した。"
+    }
+  },
+  "MX": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0ace5a3ea1e2ec74573053be3851aa99",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "published_at": "2026-10-19T10:07:09.000Z",
+      "description": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece\nIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday.\nRainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "MX",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "ハリケーントルーディがメキシコ太平洋岸を脅かし、ギリシャは致命的な洪水に見舞われる",
+      "summary": "ハリケーントルーディがメキシコ太平洋岸を脅かした後、熱帯性暴風雨に弱まった。一方、ギリシャでは致命的な洪水が発生し、一人死亡した。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6d371e5e8e63f6a44f26ee5a7d8c8485",
+      "title": "Dutch PM Rob Jetten and partner expecting child via surrogate mother: 'Someone very special is on the way'",
+      "url": "https://www.euronews.com/2026/10/19/dutch-pm-rob-jetten-and-partner-expecting-child-via-surrogate-mother-someone-very-special-",
+      "published_at": "2026-10-19T15:55:44.000Z",
+      "description": "\"Being a surrogate mother feels like a very special way to help make our dear friends’ dream come true,\" Lisa, the surrogate mother, was quoted as saying.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "NL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 30,
+      "titleJa": "オランダのロブ・イェッテン首相とパートナーが代理母を通じて子供を授かる：「とても特別な人がやってくる」",
+      "summary": "オランダのロブ・イェッテン首相とパートナーが代理母を通じて子供を授かることを発表。「代理母であることは、親愛なる友人の夢を叶えるための非常に特別な方法だと感じます」と代理母リサが語った。"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5b6f8edb28047df13f64d7cfb45934c4",
+      "title": "Qatar plans new defence partnership and warns of energy crisis 'peak'",
+      "url": "https://www.euronews.com/2026/10/19/qatar-plans-new-defence-partnership-and-warns-of-energy-crisis-peak",
+      "published_at": "2026-10-19T15:40:14.000Z",
+      "description": "Qatar is preparing a new regional defence partnership while keeping channels open with Tehran, arguing that dialogue and economic ties offer a route to lasting peace. Doha also warned of an energy disruption “peak” with more difficulties on the horizon “in the coming days and months”.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "QA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "カタール、新たな防衛パートナーシップを計画し、エネルギー危機の「ピーク」を警告",
+      "summary": "カタールは新たな地域防衛パートナーシップを準備中であり、テヘランとの対話と経済関係が永続的な平和への道を提供すると主張。また、エネルギー供給混乱の「ピーク」が今後数ヶ月で訪れると警告した。"
+    }
+  },
+  "FR": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "463581f5eca1975766ea903ea4c2589b",
+      "title": "Could France’s debt troubles tip Italy into recession?",
+      "url": "https://www.euronews.com/2026/10/19/could-frances-debt-troubles-tip-italy-into-recession",
+      "published_at": "2026-10-19T14:19:18.000Z",
+      "description": "Rising borrowing costs and political uncertainty are putting France’s finances under pressure. Oxford Economics warns that a severe bond-market shock could push both France and Italy into recession in 2027, although a debt crisis remains outside its central forecast.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 85,
+      "titleJa": "フランスの債務問題がイタリアを景気後退に陥れる可能性は？",
+      "summary": "借入コストの上昇と政治的不確実性がフランスの財政を圧迫。オックスフォード・エコノミクスは、深刻な債券市場のショックが2027年にフランスとイタリアの両方を景気後退に押し込む可能性があると警告している。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a927396ff7e75dd93511a18a4432a067",
+      "title": "Norway to extend proposed under-16 social media ban to online games and messaging apps ",
+      "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+      "published_at": "2026-10-19T14:27:23.000Z",
+      "description": "Online games and messaging services were initially expected to receive broad exemptions, but the government has now decided to assess platforms based on their potential risks to children.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "NO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ノルウェー、16歳未満のSNS禁止案をオンラインゲームやメッセージアプリにも拡大へ",
+      "summary": "ノルウェー政府が、16歳未満のソーシャルメディア禁止案をオンラインゲームやメッセージングアプリにも拡大すると発表。当初は広範な免除が予想されていたが、子供への潜在的リスクに基づいてプラットフォームを評価する方針。"
+    }
+  },
+  "IL": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "44707f0c5a3b4ff9522ccadbbf94edec",
+      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-15T05:00:23.000Z",
+      "description": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "IDFによる数百件の殺人捜査、いまだに公の結果なしとBBC Verifyが指摘",
+      "summary": "BBC Verifyの調査で、イスラエル国防軍（IDF）による数百件の殺人捜査が過去3年間、公の結果を出していないことが判明。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d3c722d0ced22b28b190dcdd8edf97be",
+      "title": "Decision on Senegal’s AFCON final appeal to be made by end of November",
+      "url": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss",
+      "published_at": "2026-10-19T15:15:27.000Z",
+      "description": "The Court of Arbitration for Sport will announce its verdict on the title, which was awarded to Morocco by CAF.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SN",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "セネガルのAFCON決勝上訴に関する決定は11月末までに下される",
+      "summary": "スポーツ仲裁裁判所は、CAFがモロッコに授与したAFCONタイトルに対するセネガルの上訴について、11月末までに判決を下す予定です。"
+    }
+  },
+  "IR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "92971933c63ce8a1e9a1aab5590e92a9",
+      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
+      "published_at": "2026-10-19T15:15:02.000Z",
+      "description": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ロシアのラブロフ外相、テヘラン訪問で米国との戦争と地域安全保障を協議",
+      "summary": "ロシアのラブロフ外相がテヘランを訪問。米国とイスラエルのイランに対する戦争勃発後初めて、地域安全保障について協議しました。"
+    }
+  },
+  "AL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fef00bd28322490eed66ae1a58b41e31",
+      "title": "Anti-government protesters battle with police in Albania",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T20:53:00.000Z",
+      "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "AL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "アルバニアで反政府デモ隊と警察が衝突",
+      "summary": "アルバニアの首都ティラナでは、土曜日を通してデモ隊と機動隊の間で激しい衝突が発生した。"
+    }
+  },
+  "SY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a98d93254b9d23f3892d8db4317745ca",
+      "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T23:20:57.000Z",
+      "description": "SOS Children's Villages International has acknowledged that more than 140 children were taken to its facilities by Syrian security services.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "国際慈善団体、シリアの「行方不明の子供たち」における自らの役割に関する報告書を保留",
+      "summary": "国際慈善団体SOS子供の村が、シリアの治安部隊によって140人以上の子供が施設に連れてこられたことを認め、関連報告書の公開を保留している。"
+    }
+  },
+  "BI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "02f24e2dbcd93d9fe17955ed1125f088",
+      "title": "Burundi striker Berahino retires at 33",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyzgre7neo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T12:51:44.000Z",
+      "description": "Saido Berahino, who cost Stoke City £12m when they signed him from West Bromwich Albion in January 2017, retires from football at 33.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "BI",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 50,
+      "titleJa": "ブルンジ人ストライカー、ベラヒーノが33歳で引退",
+      "summary": "ブルンジ人ストライカーのサイード・ベラヒーノが33歳でサッカー選手としてのキャリアを終えた。彼はかつてストーク・シティに1200万ポンドで移籍していた。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "43b7b8d3790f3dcc2142f8684ddd9ce1",
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-16T14:57:51.000Z",
+      "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "南アフリカで、鎖に繋がれた患者たちが違法リハビリ施設から救出される",
+      "summary": "南アフリカで、違法リハビリ施設の患者約200人が鎖に繋がれ、体にただれがある劣悪な環境から救出された。"
+    }
+  },
+  "ER": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "16ac9290f5210c9e64d0972f63fbc680",
+      "title": "UK threatens to ban Eritreans over migrant return policy",
+      "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-15T20:08:41.000Z",
+      "description": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ER",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "英国、移民送還政策を巡りエリトリア人の入国禁止を警告",
+      "summary": "英国の内務大臣が、移民の送還に協力しない国々に対し措置を講じることを示唆し、エリトリア人の入国禁止を警告した。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5f1390a1610387f9bd7765ded1155924",
+      "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T23:29:15.000Z",
+      "description": "Wicknell Chivayo divided opinion in life and continues to do so in death.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ジンバブエの大物「サー・ウィックネル」がアフリカで愛され、また憎まれた理由",
+      "summary": "ジンバブエの富豪ウィックネル・チバヨは生前から意見を二分させ、死後もその傾向が続いている。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "352d8b89312adcd18e33e096a465de57",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-03T23:37:46.000Z",
+      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "ガーナのバスで牧師の説教がまもなく見られなくなるかもしれない理由",
+      "summary": "ガーナでは公共交通機関での牧師による説教が広く行われているが、その慣習が変化する可能性について議論されている。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b9b66772489fee93a18c5a8b54b3851",
+      "title": "When free speech has a price: Youth voices in Mozambique",
+      "url": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique",
+      "published_at": "2026-10-11T18:00:47.000Z",
+      "description": "For Mozambican youth, freedom of expression exists in law, but speaking out can come with a cost. Music became a powerful space for criticism and resistance.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "言論の自由が代償を伴うとき：モザンビークの若者の声",
+      "summary": "モザンビークでは、若者の言論の自由が法律で保障されつつも、発言には代償が伴い、音楽が抵抗の場となっている。"
+    }
+  },
+  "TG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "35aff20d340a4e2621fd912f61b48800",
+      "title": "How Togolese people are reinventing political protest amid civil society crackdown",
+      "url": "https://globalvoices.org/2026/09/18/how-togolese-people-are-reinventing-political-protest-amid-civil-society-crackdown",
+      "published_at": "2026-09-18T20:34:50.000Z",
+      "description": "As in-person gatherings have become difficult to organize or too risky for citizens, online protest has become an increasingly common form of political dissent in Togo.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "TG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "市民社会弾圧の中、トーゴの人々が政治的抗議活動を再発明する方法",
+      "summary": "トーゴでは対面での集会が困難になる中、市民はオンラインでの抗議活動という新たな形で政治的異議を表明している。"
+    }
+  },
+  "UA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7998c1c7c09b6a52b8ccbf835606a586",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-16T23:54:35.000Z",
+      "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "UA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "イタリア大臣、BBCに「トランプ氏のウクライナ支援制限は全く間違っている」と語る",
+      "summary": "イタリア国防相はBBCに対し、米国がロシアの全面侵攻を終結させるのではなく、長引かせるリスクがあると述べた。"
+    }
+  },
+  "VA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "028b2f04d5a6640d18ed210dcb33ca2e",
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-18T11:09:32.000Z",
+      "description": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "VA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "教皇レオ14世、がん手術後初の行事で見舞いの人々に感謝",
+      "summary": "教皇は肺がんの診断と手術後初めての行事で、使徒宮殿のバルコニーから伝統的なアンジェラスの祈りを唱えた。"
+    }
+  },
+  "VE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9dcd8d04ddf5959a577d16fbbec6f255",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-15T16:52:44.000Z",
+      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "マドゥロ氏、ニューヨークで新たな拷問関連の容疑に対し無罪を主張",
+      "summary": "ベネズエラのマドゥロ大統領（当時）がニューヨークで新たな拷問関連の容疑に対し全面的に否認し、無罪を主張した。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e70b992c63fea64dc8a88fde54fbe0f",
+      "title": "The small African nation ready for Messi's big night",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T07:50:34.000Z",
+      "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "メッシのビッグナイトを控える小さなアフリカの国",
+      "summary": "ベナンが、リオネル・メッシの引退試合のためアルゼンチンを訪れ、注目を浴びる瞬間を迎えようとしている。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a8681b5382bf6b9e790735bca5d5309e",
+      "title": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Amazon wildfires",
+      "url": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires",
+      "published_at": "2026-10-15T18:30:01.000Z",
+      "description": "As El Niño worsens dry conditions, Peru’s indigenous people in Cutivireni and Oviri are taking action to protect their Amazon territory from wildfires.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "ペルーのクティビレニとオビリの先住民がアマゾンの山火事に最前線で立ち向かう",
+      "summary": "エルニーニョ現象による乾燥で山火事が深刻化する中、ペルーのアマゾン地域に住む先住民が、自らの領土を山火事から守るため最前線で活動している。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3bc52ad51f6c1c2a95d93b28fcfebc66",
+      "title": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
+      "url": "https://globalvoices.org/2026/10/10/how-ecuador-is-fighting-to-keep-industrial-trans-fats-off-the-food-shelf",
+      "published_at": "2026-10-10T04:00:43.000Z",
+      "description": "As health advocates push for tighter controls, Ecuador confronts the gap between regulating trans fats and enforcing those rules.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "エクアドルが工業用トランス脂肪酸を食品棚から排除するためにどう闘っているか",
+      "summary": "健康擁護者がより厳格な規制を求める中、エクアドルは工業用トランス脂肪酸の規制と実施の間のギャップに直面。国民の健康を守る取り組みが続いている。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a570a8c4ad2c533f67c2cb46a63a2208",
+      "title": "BBC visits wildfire front in haze-choked Indonesia",
+      "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T01:57:02.000Z",
+      "description": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 85,
+      "titleJa": "BBC、煙害に覆われたインドネシアの山火事最前線を訪問",
+      "summary": "BBCは中央カリマンタンを訪れ、山火事による有毒な煙害が数百万人の住民の健康を脅かしている現状を報告。環境災害の深刻さが浮き彫りとなっている。"
+    }
+  },
+  "KP": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6f9e3a657de63ca8d4f78a14af2c2195",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T22:09:50.000Z",
+      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KP",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "金正恩の夏の別荘近くに50mプールとウォータースライダー付きの豪華ヨットの写真",
+      "summary": "衛星画像が、金正恩総書記の夏の過ごし方を示す豪華ヨットを捉えた。50mプールやウォータースライダーを備え、北朝鮮国民には手の届かない贅沢な生活が窺える。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b1e8923735fb3a72e736f735082968a9",
+      "title": "'Onion cartel' in Philippines fined $28m for price shock",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyvwyp9dgro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-16T04:20:21.000Z",
+      "description": "Onions were worth more than the daily minimum wage at the height of the price surge in 2022.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 80,
+      "titleJa": "フィリピンで「タマネギカルテル」が価格高騰で2800万ドルの罰金",
+      "summary": "フィリピンでタマネギ価格を不当に吊り上げた「タマネギカルテル」に対し、2800万ドルの罰金が科せられた。2022年にはタマネギ価格が日給を上回る事態に。"
+    }
+  },
+  "PK": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "3b40ce8c09200e5faf68cbda425bae19",
+      "title": "At the scene of a school roof collapse in Pakistan",
+      "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-15T20:31:02.000Z",
+      "description": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PK",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "パキスタンの学校屋根崩壊現場にて",
+      "summary": "パキスタンで発生した学校の屋根崩壊事故現場の報告。病院関係者によると、生徒33人と教師1人が死亡、十数人以上が負傷した。"
+    }
+  },
+  "MG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "988d525ca5651fe21c0785b2383e259f",
+      "title": "Madagascar launches safeguard investigation on certain confectionary",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
+      "published_at": "2026-10-12T00:00:00.000Z",
+      "description": "On 12 October 2026, Madagascar notified the WTO’s Committee on Safeguards that it had initiated on 9 October 2026 a safeguard investigation on imports of sugar confectionary as well as chocolate and cocoa confectionary.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "MG",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "マダガスカル、特定の菓子類に対しセーフガード調査を開始",
+      "summary": "マダガスカルは2026年10月9日、砂糖菓子およびチョコレート・ココア菓子の輸入に対しセーフガード調査を開始したとWTOに通知した。"
+    }
+  }
+}
