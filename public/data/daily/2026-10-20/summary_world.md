@@ -1,59 +1,69 @@
-# 主要ニュース: 2026年10月20日 世界の主要ニュース
+# Title: 2026 - 10 - 20 World News / Global Overview
 
 ## Top Topics
 
-### 1. ケニアのカルト指導者、児童ら191人殺害で有罪判決
-** 概要:**
-ケニアの裁判所は、自らを牧師と称し、信者やその子どもたちに飢餓を命じたカルト指導者ポール・マッケンジーに対し、児童190人を含む191人の殺害で有罪判決を下しました。この事件は、近年で最悪の宗教関連災害の一つとされています。検察側は、マッケンジーとその教団が信者に自身と子どもたちを飢えさせるよう指示したと主張しています。
+### 1.フランスで暴動伴う抗議活動が広範に発生、治安悪化
+**概要:**
+フランスでは、生活費高騰と公共サービスへの不満を背景とした抗議活動が各地で暴動や略奪行為に発展し、治安が悪化しています。マルセイユでは「壊滅的な無秩序」が見られ、パリやニースなど複数の都市では部分的な夜間外出禁止令が導入されました。リムーザンでは歴史的な市庁舎が放火されるなど、事態は深刻化しており、政府は治安回復に向けて強硬な対応を表明し、さらなる夜間外出禁止令の導入も検討しています。
 
-** 各国の視点:**
-- **[BBC – World News]**: "[Kenya cult leader who told parents to starve children guilty of 191 murders](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)" - 独立系政治家が明白な襲撃で車に轢かれて重傷を負い入院していると報じ、首相は意図的な攻撃の可能性を示唆しています。
-- **[DW – Top Stories]**: "[Kenyan cult leader Paul Mackenzie found guilty over 191 starvation deaths](https://www.dw.com/en/kenyan-cult-leader-paul-mackenzie-found-guilty-over-191-starvation-deaths/a-79706279?maca=en-rss-en-top-1022-rdf)" - ポール・マッケンジーが「世界の終わりが差し迫っている」と主張するキリスト教の終末論カルト「グッドニュース・インターナショナル・チャーチ」を運営していた背景に触れています。
-- **[The Guardian – World]**: "[Kenyan starvation cult leader guilty of murder of 190 children and one adult](https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children)" - 2023年にマッケンジーが逮捕されて以来、南東ケニアのシャカホラの森で多数の遺体が発見された経緯を詳述しています。
-- **[Al Jazeera – All]**: "[Kenyan court convicts starvation cult leader for murder of 191 people](https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss)" - ドゥームズデイ・カルトの指導者ポール・マッケンジーが、犠牲者に「イエスに会うため」飢餓を命じたことを否定していた点に言及しています。
+**各国の視点:**
+- **BBC – World News**: "[Marseille braces for more unrest after protests give way to 'apocalyptic' disorder](https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss)" - フランス第2の都市マルセイユでの大規模な暴力と「壊滅的な」無秩序な状況を詳述し、さらなる混乱への懸念を報じています。
+- **BBC – World News**: "[Suspect arrested after historic town hall set alight - French media](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)" - リムーザン市庁舎の時計台が炎上し、その尖塔が崩壊した事件を伝え、容疑者が逮捕されたことを報じています。
+- **DW – Top Stories**: "[French authorities impose partial curfews in Paris, Nice](https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-top-1022-rdf)" - フランス当局が生活費高騰や反政府デモが暴動や略奪に発展したことを受け、パリとニースで部分的な夜間外出禁止令を課したことを報じています。
+- **Euronews – World**: "'[Everything is destroyed,' Paris pharmacy owner says after protests](https://www.euronews.com/video/2026/10/20/everything-is-destroyed-paris-pharmacy-owner-says-after-protests)" - パリの薬局オーナーがデモ後の甚大な被害状況について語る様子を伝え、政府が新たな夜間外出禁止令を導入する方針を示していることを強調しています。
+- **Al Jazeera – All**: "[France PM promises more curfews as authorities seek to regain control](https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss)" - フランスのルコルニュ首相が、治安回復のため、必要に応じてさらなる夜間外出禁止令を導入することを約束したと報じています。
 
-### 2. 中東地域の緊張と人道危機
-** 概要:**
-中東地域では複数の深刻な緊張と人道危機が同時に進行しています。イエメンではフーシ派による軍事キャンプへのミサイル攻撃で50人の新兵が死亡し、大統領府も標的となりました。ガザ地区では国連世界食糧計画が資金不足により50万人への食糧援助を削減せざるを得ない状況にあり、飢餓の懸念が高まっています。また、ヨルダン川西岸ではイスラエル人入植者によるパレスチナ人や欧州外交官への攻撃が激化し、ホルムズ海峡周辺では船舶攻撃の報告が過去最高の件数を記録しています。
+### 2.スーダン紛争激化、ドローン攻撃で多数の死傷者、人道危機深刻化
+**概要:**
+スーダンでは、軍事衝突が激化しており、ドローン攻撃による民間人の犠牲が深刻な人道危機を引き起こしています。先週末には葬儀に向かう人々を乗せたトラックや燃料市場が標的とされ、200人以上が死亡したと報じられました。さらに別のドローン攻撃では、市場近くで80人が死亡するなど、一般市民が戦闘の主要な犠牲者となっています。米国は、スーダンからの移民に対して一時的な強制送還猶予を付与するなど、人道支援の動きも見せています。
 
-** 各国の視点:**
-- **[BBC – World News]**: "[Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say](https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss)" - イエメン政府管理下のシャブワ州の訓練施設へのフーシ派ミサイル攻撃で、50人の新兵が死亡したことを報じています。
-- **[DW – Top Stories]**: "[UN food program cuts aid to 500,000 Palestinians in Gaza](https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-top-1022-rdf)" - 資金不足により、国連世界食糧計画がガザのパレスチナ人50万人への援助を削減せざるを得なくなっている現状を伝え、ガザ地区の3分の2以上が深刻な飢餓に直面していると指摘しています。
-- **[BBC – Middle East]**: "[European diplomats attacked by Israeli settlers in West Bank](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)" - ヨルダン川西岸でオリーブ収穫シーズン中にパレスチナ人と欧州外交官が入植者に襲撃された事件を報じ、イスラエル軍が暴力を非難した一方で、首相府が「中傷」キャンペーンの一部と見なした点に言及しています。
-- **[BBC – Middle East]**: "[Ship attack reports near Hormuz reach record high as oil exports slow](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)" - 英国海洋機関のデータ分析に基づき、一週間で12隻の船舶が攻撃されたとして、ホルムズ海峡周辺での船舶攻撃報告が過去最高に達したことを強調しています。
+**各国の視点:**
+- **BBC – World News**: "[Sudan army drones hit mourners and fuel market killing more than 200 people, sources say](https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss)" - スーダン軍のドローンが葬儀に向かう人々や燃料市場を攻撃し、200人以上が死亡したという衝撃的な報告を伝えています。
+- **The Guardian – World**: "[Drone attack near market kills 80 in Sudan](https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan)" - スーダン南部でのドローン攻撃により、市場近くで80人が死亡した事件を報じ、戦争における最も死者数の多い単一攻撃の一つとしています。
+- **The Guardian – World**: "[US grants deportation reprieve to migrants from Ukraine and Sudan](https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan)" - 米国が、一時保護資格の期限切れを控えていたスーダンおよびウクライナからの移民に対し、強制送還の一時猶予を与えたことを報じ、人道危機への国際的な対応の一側面を示しています。
 
-### 3. カナダ・アルバータ州の独立住民投票
-** 概要:**
-カナダの石油資源が豊富な西部アルバータ州で、連邦からの分離に関する住民投票を実施すべきかどうかの住民投票が行われています。世論調査ではカナダ残留支持が優勢と見られているものの、この議論自体が州内で深い分断を生んでいます。分離主義運動は、マーク・カーニー政権に対し影響力を獲得することを期待しています。
+### 3.中東情勢緊迫：イスラエル・パレスチナ間の緊張と周辺地域の軍事動向
+**概要:**
+中東地域では、イスラエルとパレスチナ間の緊張が依然として高く、ガザでのイスラエル軍の攻撃や、ヨルダン川西岸での入植者によるパレスチナ人や外交官への襲撃が続いています。国連世界食糧計画（WFP）は資金不足のため、ガザ地区への食糧援助を大幅に削減せざるを得ない状況にあります。また、イランを巡る情勢も緊迫しており、米国とイスラエルによるイランへの対応、イランの核開発への懸念、そしてホルムズ海峡付近での船舶攻撃の増加など、広範囲にわたる軍事・外交的動きが見られます。英国はサウジアラビアへのフーシ派攻撃からの防衛支援のためにジェット機を派遣すると発表し、地域全体の不安定さが増しています。
 
-** 各国の視点:**
-- **[BBC – World News]**: "[Alberta heads to polls to decide whether to hold vote on separation from Canada](https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss)" - ほとんどのアルバータ州民がカナダの一部として残ることを支持しているという世論調査結果に触れつつ、議論の分断を指摘しています。
-- **[DW – Top Stories]**: "[Canada: Alberta votes on holding independence referendum](https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-top-1022-rdf)" - 独立に向けた本格的な国民投票が可決される可能性は低いとしながらも、分離主義運動がマーク・カーニー政権に対して影響力を得ようとしていると分析しています。
-- **[The Guardian – World]**: "[‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists](https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada)" - 住民投票が州内に、特に分離主義運動内部で深い亀裂を露呈していることを強調し、「これはポーカーではない」という表現で議論の深刻さを伝えています。
+**各国の視点:**
+- **BBC – Middle East**: "[Funding shortages force World Food Programme to cut aid to Gaza](https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss)" - ガザ地区における世界食糧計画の支援が資金不足により約3分の1削減される事態を伝え、地域の人道状況の悪化を浮き彫りにしています。
+- **BBC – Middle East**: "[European diplomats attacked by Israeli settlers in West Bank](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)" - ヨルダン川西岸でオリーブ収穫中にイスラエル人入植者がパレスチナ人や欧州の外交官を襲撃した事件を報じ、入植者暴力の増加を指摘しています。
+- **Al Jazeera – All**: "[Israeli attacks kill at least four Palestinians in Gaza](https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss)" - ガザ地区でのイスラエル軍の空爆と銃撃により、少なくとも4人のパレスチナ人が死亡したことを伝え、紛争の犠牲者が続いている現状を報じています。
+- **BBC – Middle East**: "[UK to deploy jets to defend Saudi Arabia from Houthi attacks](https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss)" - 英国がフーシ派による攻撃がエスカレートするサウジアラビアへの防衛支援として、追加の軍事力を展開すると発表したことを伝え、地域紛争の拡大への懸念を示しています。
+- **Al Jazeera – All**: "[Iran denies collapse is close as US claims IRGC running out of money](https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money?traffic_source=rss)" - 米国がイラン革命防衛隊の資金枯渇を主張する中、イラン当局が体制崩壊を否定していることを報じ、イランを取り巻く経済的・政治的圧力に焦点を当てています。
 
-### 4. フランスの社会不安と暴動
-** 概要:**
-フランスでは、週末に物価高と公共サービスの問題に関する抗議デモが暴動へと発展し、広範囲で暴力と略奪が発生しました。暴動に対して店主や地元住民が自ら反撃する動画がSNSで拡散され、国民の大きな支持と連帯を呼び起こしています。フランス政府は週末の騒乱を受けて強い圧力を受けており、国内の政治的緊張が高まっています。
+### 4.ウクライナ情勢と米国の支援・外交政策への懸念
+**概要:**
+ウクライナを巡る国際情勢は、米国からの支援のあり方を巡って議論が活発化しています。ウクライナ側は、米国が情報共有を制限しているためにミサイル攻撃への警告が間に合わず、国民の命が失われていると非難していますが、米国務長官はこれを否定しています。一方、エストニアの首相は、米国がウクライナを「プーチン大統領の条件での降伏」に追い込もうとしていると強く批判しており、EUと米国の間の緊張が高まっています。このような状況下、米国はウクライナからの移民に対して一時的な強制送還猶予を与えるなど、人道面での対応も進めています。また、北朝鮮がロシアのドローン工場に労働者を送り込んでいるとの報告は、ウクライナ戦争におけるロシアの兵器供給源と、北朝鮮の技術獲得への懸念を示唆しています。
 
-** 各国の視点:**
-- **[Euronews – World]**: "[France galvanised by shopkeepers and locals who fought back against rioters and looters](https://www.euronews.com/2026/10/19/france-galvanised-by-shopkeepers-and-locals-who-fought-back-against-rioters-and-looters)" - 暴徒に対する店主や地元住民の反撃の動画が、一般市民の大きな支持と連帯を集めているという角度で報じています。
-- **[Euronews – World]**: "[Euronews press review: French newspapers dissect weekend of unrest and rioting](https://www.euronews.com/2026/10/19/euronews-press-review-french-newspapers-dissect-weekend-of-unrest-as-riots-hit-major-citie)" - フランスの各紙が週末の騒乱の原因を分析し、警察の対応や暴力、極左の役割について疑問を呈していることを伝えています。
-- **[BBC – Europe]**: "[Katya Adler: France's government under pressure after weekend of widespread violence](https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss)" - 物価高と公共サービスの苦境を巡る抗議デモが暴動となり、フランス政府が政治的圧力にさらされている状況を詳細に解説しています。
+**各国の視点:**
+- **BBC – World News**: "[Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss)" - ゼレンスキー大統領と米国特使がオスロで会談予定である一方、米国務長官がウクライナが情報提供の制限によって犠牲になっているという非難を否定したことを報じています。
+- **BBC – Europe**: "[Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)" - ウクライナの顧問が、米国が情報共有を制限しているためにミサイル攻撃の警告が間に合わず、ウクライナ人が死亡しているとBBCに語ったことを伝えています。
+- **Euronews – World**: "[Kaja Kallas accuses the US of pushing Ukraine to 'surrender on Putin's terms'](https://www.euronews.com/2026/10/20/kaja-kallas-accuses-the-us-of-pushing-ukraine-to-surrender-on-putins-terms)" - エストニアのカラス首相が、米国がウクライナを「プーチン大統領の条件での降伏」に追い込もうとしていると非難し、EUと米国間の緊張の高まりを示唆しています。
+- **The Guardian – World**: "[US grants deportation reprieve to migrants from Ukraine and Sudan](https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan)" - 米国が、ウクライナからの移民に対して一時的な強制送還猶予を与えたことを報じ、ウクライナ情勢が米国の人道政策にも影響を与えていることを示しています。
+- **DW – Top Stories**: "[North Korean workers treated as 'slaves' at Russian drone factory, says new report](https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-top-1022-rdf)" - ロシアのドローン工場で北朝鮮労働者が「奴隷」のように扱われているという報告を伝え、北朝鮮がロシアの先進兵器システムに関する知識を得る可能性に対する懸念を提起しています。
+
+### 5.アフリカ諸国の国内情勢：ケニアでのカルト事件、ナイジェリア・アルバニアでの抗議活動
+**概要:**
+アフリカ諸国では、国内情勢が不安定な状態が続いています。ケニアでは、飢餓を信奉するカルトの指導者ポール・マッケンジーが、190人の子供と1人の大人を殺害した罪で有罪判決を受け、その悲劇が改めて浮き彫りになりました。同国ではエボラウイルスの感染拡大も確認されており、米国の医療支援体制の不備も指摘されています。また、ナイジェリアとアルバニアでは、生活費高騰や反政府感情を背景とした大規模な抗議活動が発生し、特にアルバニアでは7日間にわたる衝突で数百人が負傷する事態となっています。これらの出来事は、アフリカ大陸が直面する多様な社会・政治的課題を示しています。
+
+**各国の視点:**
+- **BBC – World News**: "[Kenya cult leader's children still being starved weeks before trial, son says](https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss)" - ケニアのカルト指導者の子供たちが裁判数週間前になっても飢餓状態にあるという報道を伝え、事件の深刻な人道的側面を強調しています。
+- **The Guardian – World**: "[Kenyan starvation cult leader guilty of murder of 190 children and one adult](https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children)" - ケニアのカルト指導者ポール・マッケンジーが、190人の子供と1人の大人を餓死させた罪で有罪判決を受けたことを報じています。
+- **The Guardian – World**: "[Ebola cases in Kenya highlight US failures amid Trump cuts to key services](https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine)" - ケニアでのエボラウイルス感染事例が米国の支援縮小とWHOからの撤退によって悪化している現状を指摘し、国際的な公衆衛生協力の課題を浮き彫りにしています。
+- **BBC – World News**: "[Seventh day of violent clashes between Albanian protesters and police](https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss)" - アルバニアで反政府デモと警察との間で7日間にわたる激しい衝突が続き、数百人が負傷したことを伝えています。
+- **DW – Top Stories**: "‘[Tinubu Must Go’: Nigeria's northern protests test the limits of political dissent](https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-top-1022-rdf)" - ナイジェリア北部で「ティヌブは辞めろ」と叫ぶ反政府抗議活動が発生し、政治的異議申し立ての限界が試されている状況を報じています。
 
 ---
-** Global Headlines **
-- オーストラリアの議員が明白な襲撃で車に轢かれ重傷を負いました。
-- カナダの軍事基地で発生した急速に燃え広がった火災により4人が死亡しました。
-- 元OpenAIの従業員がデバイスを仕掛けたとされ、サウジアラビアの支援があったと裁判所に提出された書類で述べられています。
-- ルワンダ大統領の亡命中の批判者がウガンダで首を切られた状態で発見されました。
-- テキサス州の大学フットボール試合前に行われたアクロバティックな降下で、米空軍の兵士が死亡しました。
-- オバマ元大統領は、イハン・オマル下院議員に対する連邦捜査を「非常にひどい」と非難しました。
-- メキシコの裁判所は、2024年にサーフィン旅行中にオーストラリア人兄弟と米国人友人を殺害した3人の男にそれぞれ158年の刑を言い渡しました。
-- ケニアで新たなエボラ出血熱の症例が報告され、米国の援助削減の影響が浮き彫りになっています。
-- レオ14世教皇が肺がん手術後に退院し、見舞いに感謝の意を述べました。
-- スーダンの市場近くでのドローン攻撃により80人が死亡しました。
-- ノルウェーは、16歳未満のソーシャルメディア禁止案をオンラインゲームやメッセージングアプリにも拡大する予定です。
-- カタールは新たな地域防衛パートナーシップを計画しており、エネルギー危機の「ピーク」を警告しました。
-- フォークランド諸島がアルゼンチンによる新たな経済的圧力に直面しています。
-- ブラジルでは、決選投票を控える中、アマゾンの森林破壊が記録的な減少を見せています。
-- WTOはサプライチェーン金融イニシアチブやその他の貿易問題における進捗をレビューしました。
+**Global Headlines**
+- **日本**：日本の火星衛星探査機MMXが火星の月フォボスへ出発し、太陽系の形成に関する疑問解明を目指します。 **[DW – Top Stories]**: "[Japan probe sets course for Mars moon](https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-top-1022-rdf)"
+- **北朝鮮**：金正恩総書記の死亡説が流れる中、国営メディアは娘と共に写る写真を公開し、噂を否定しました。 **[BBC – World News]**: "[North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?](https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss)"
+- **カナダ**：アルバータ州の有権者は、州の独立を巡る住民投票で、カナダ残留を圧倒的多数で選択しました。同時に、アルバータ州の軍事基地での火災により4人が死亡し、首相は「平時における最悪の悲劇の一つ」と述べました。 **[The Guardian – World]**: "[Alberta voters reject plan for referendum to leave Canada](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)", **[The Guardian – World]**: "[Four people killed in ‘violent, fast-moving’ fire at Canadian military base](https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright)"
+- **米国**：ラスベガスのカジノでフラミンゴを盗んだ観光客が有罪となりました。飲酒後に「危害を加えるつもりはなかった」と証言しました。 **[BBC – World News]**: "[Tourist found guilty after stealing Las Vegas flamingo from enclosure](https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss)"
+- **ドイツ**：ヘッセン州の裁判所は、Googleが住宅の画像をMapsやEarthに掲載するには所有者の同意が必要であるとの判決を下しました。 **[DW – Top Stories]**: "[Germany: Google must have consent to publish property images](https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-top-1022-rdf)"
+- **ペルー**：アマゾンの先住民に日額2ポンドを支給するパイロットプロジェクトが、森林保護に貢献していることが研究で判明しました。 **[The Guardian – World]**: "[Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds](https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study)"
+- **英国**：Google Cloudサービスの電力障害により、ロンドンのデータセンターで深刻なネットワーク障害が発生し、英国の銀行にも影響が出ました。 **[Euronews – World]**: "[Power outage hits Google Cloud services disrupting UK banks](https://www.euronews.com/2026/10/20/power-outage-hits-google-cloud-services-disrupting-uk-banks)"
+- **インドネシア**：パーム油プランテーションのための土地開墾に伴う森林火災に対し、学生や活動家が抗議デモを行いました。 **[Al Jazeera – All]**: "[Indonesians protest over land-clearing fires](https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss)"
+- **メキシコ・ギリシャ**：ハリケーン・トルーディがメキシコ太平洋岸を襲いましたが、勢力は熱帯低気圧に弱まりました。一方でギリシャでは洪水により1人が死亡しました。 **[The Guardian – World]**: "[Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)"
+- **WTO**：2026年上半期の貿易は、中東紛争による混乱にもかかわらず予想以上に回復力を見せ、AIブームとサプライチェーンの適応が貢献しました。 **[WTO – Latest News]**: "[AI boom and trade resilience to Middle East crisis lift outlook, but gains to be uneven](https://www.wto.org/english/news_e/news26_e/stat_08oct26_510_e.htm)"
