@@ -1,0 +1,942 @@
+{
+  "FR": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "37d6ddf4d0306a92ec27c1075a34caef",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T14:15:23.000Z",
+      "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "FR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "パリ近郊での銃撃事件、「テロ犯罪」として捜査中と大臣が発言",
+      "summary": "パリ近郊で発生した銃撃事件により1人が死亡、5人が負傷した。当局は事件をテロ犯罪として捜査しており、容疑者は逮捕済みだ。"
+    }
+  },
+  "UA": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "51836a5baadbda57759baff153411f68",
+      "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
+      "url": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss",
+      "published_at": "2026-10-23T13:17:18.000Z",
+      "description": "Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシア、ウクライナにクラスター爆弾を投下、キーウは前線を強化",
+      "summary": "ロシアがウクライナにクラスター爆弾を投下する中、キーウは前線を強化している。今年のロシアの領土的進展は実質ゼロである。"
+    }
+  },
+  "JO": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "55003581efb7c86daaa220258e24ba4c",
+      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T14:29:00.000Z",
+      "description": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "JO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "ヨルダンの教会葬儀で武装集団が6人を射殺、当局が発表",
+      "summary": "ヨルダン南部のカラク県で、教会で行われた葬儀中に武装集団による発砲があり、6人が死亡し、28人が負傷した。現在、犯人の行方を追う大規模な捜索が行われている。"
+    }
+  },
+  "PS": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "cc02f34912d415672fea333f33d8f31e",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T12:48:52.000Z",
+      "description": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "西岸地区でパレスチナ武装集団とみられる襲撃によりイスラエル兵2名が死亡",
+      "summary": "イスラエル総選挙の4日前にヘブロン郊外で銃撃戦が発生し、パレスチナ武装集団とみられる襲撃者によってイスラエル兵2名が死亡した。襲撃者2名も射殺された。"
+    }
+  },
+  "CY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b37c3de60770f35fba531c47b8393e99",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T10:14:37.000Z",
+      "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CY",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "キプロス警察、ローマン・アブラモビッチ氏の金融取引に関する捜査を開始",
+      "summary": "キプロス警察は、ローマン・アブラモビッチ氏の金融取引および一部のプロフェッショナルアドバイザーの誠実性に関する疑念を受け、捜査を開始した。"
+    }
+  },
+  "DK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3da85c33ed15ec295352e7800c857a44",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T12:17:45.000Z",
+      "description": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "DK",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "デンマーク政府が方針転換しミンク飼育を禁止へ",
+      "summary": "かつて世界最大のミンク毛皮生産国であったデンマークが、政府の方針転換によりミンク飼育を禁止する。近年、同国の産業は衰退傾向にあった。"
+    }
+  },
+  "NG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1772e9b01eb956dc27fc5fabfd510b49",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "published_at": "2026-10-23T13:57:11.000Z",
+      "description": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda\nHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country.\nThe Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republic of ⁠Congo, where the outbreak was first detected in mid-May before spreading to Uganda, Kenya and now Nigeria. The woman was believed to have contracted Ebola while travelling with her husband in Uganda, the ministry added.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "NG",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "ナイジェリアでのエボラ感染源の謎がウイルスの拡散懸念を煽る",
+      "summary": "ナイジェリアでエボラ感染者が確認され、感染源の特定が急がれている。患者はウガンダで感染したとみられ、アフリカ4カ国にウイルスが拡大する懸念が高まっている。"
+    }
+  },
+  "TW": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d8392edbd5002bbbb03243c459673a03",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T08:45:58.000Z",
+      "description": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "TW",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "台風チャンピが台湾を襲い、数百便が欠航",
+      "summary": "台風チャンピが台湾を直撃し、数百便のフライトが欠航した。当局によると、台湾の離島では波に流された1人が死亡した。"
+    }
+  },
+  "CN": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "6b2bd0d91eae4b41bbbc02726fffbf59",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T05:16:37.000Z",
+      "description": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "CN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "チベットで強力な地震が発生し、16人が死亡と報道",
+      "summary": "中国がチベット自治区と呼ぶ山岳地帯で強力な地震が発生し、報道によると16人が死亡した。この地域は人口密度が低い。"
+    }
+  },
+  "RU": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "02a791d81489503f9d6d0086d40fbe32",
+      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+      "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-23T14:23:00.000Z",
+      "description": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russia's airpace.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "RU",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ウクライナ、ロシアへのドローン攻撃でモスクワの空港閉鎖を試みる",
+      "summary": "ウクライナによるドローン攻撃がモスクワの空港業務を繰り返し妨害。ウクライナはロシアの空域閉鎖を目指している。"
+    }
+  },
+  "KE": {
+    "count": 7,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "948397bb6601a22bbc4ca3f28a58db3b",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T09:55:15.000Z",
+      "description": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "ケニアでエボラ出血熱9例確認後、状況は抑制下にあるのか？",
+      "summary": "米国がケニアへの渡航再検討を勧告する中、ケニア政府は国民を安心させようと努めている。エボラ出血熱9例確認後の状況が焦点。"
+    }
+  },
+  "RS": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "cf40cd1089a6225ce17026941fa61e7c",
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-23T11:43:00.000Z",
+      "description": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic's lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "RS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "セルビア：新議会選に向け有権者は希望、緊張、不安を抱く",
+      "summary": "2年間の抗議を経て、セルビアは日曜日に重要な選挙を迎える。学生主導で現政権に挑戦し、選挙不正や選挙後の危機が懸念されている。"
+    }
+  },
+  "LK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1447d1743ba674bcc0a59d4678f84430",
+      "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+      "url": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-23T09:29:00.000Z",
+      "description": "The death of what was thought to be Sri Lanka’s largest elephant has drawn attention to human-elephant conflict in rural communities. The island country sees a high number of deadly encounters.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "LK",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 55,
+      "titleJa": "スリランカ：象徴的なゾウの死が生息地の懸念を高める",
+      "summary": "スリランカ最大のゾウとされた個体の死が、農村地域での人間とゾウの衝突問題に注目を集めている。同国では致命的な遭遇が多発している。"
+    }
+  },
+  "GR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2d7407aea98b2e970d1b62c085a115c0",
+      "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+      "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-10-23T09:04:00.000Z",
+      "description": "Greece has passed legislation banning social media access for children under 15. New rules will come into effect on January 1, 2027, and are designed to protect children's mental health.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "GR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ギリシャ、ソーシャルメディアの年齢制限を導入し、15歳未満の子供のアクセスを禁止",
+      "summary": "ギリシャが15歳未満の子供に対するソーシャルメディアアクセスを禁止する法案を可決。2027年1月1日施行で、子供の精神的健康保護が目的。"
+    }
+  },
+  "RW": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c1d85d652c0f1cbd21528e56f23fddab",
+      "title": "Approach African GP with humility, says Hamilton",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T22:47:30.000Z",
+      "description": "Lewis Hamilton addresses concerns on human rights grounds about holding an African Grand Prix in Rwanda by saying people should \"approach it with humility\".",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "RW",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "ハミルトン、アフリカGPには謙虚な姿勢で臨むべきと語る",
+      "summary": "ルイス・ハミルトンは、ルワンダで開催されるアフリカGPの人権問題への懸念に対し、「謙虚な姿勢で臨むべきだ」と述べた。"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b34b1baed4c26ae5a1fd10fcbd3aab11",
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "published_at": "2026-10-21T17:18:56.000Z",
+      "description": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’\nThe US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.\nIt was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not given the necessary governmental approval.”\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GW",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 75,
+      "titleJa": "物議を醸した米国主導のアフリカ新生児向けワクチン試験が中止に",
+      "summary": "ギニアビサウで新生児を対象に予定されていた米国支援の肝炎Bワクチン試験が、政府の承認が得られず中止された。この試験は倫理的な懸念から国際的な反発を招いていた。"
+    }
+  },
+  "US": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9dcd8d04ddf5959a577d16fbbec6f255",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-15T16:52:44.000Z",
+      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "マドゥロ氏、ニューヨークで新たに拷問関連の容疑に無罪を主張",
+      "summary": "マドゥロ大統領がニューヨークの法廷で、追加された拷問関連の容疑に対し「この文書を完全に拒否する」と述べ、無罪を主張した。"
+    }
+  },
+  "BR": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8b2a1b6f1cd60e4fab438d9511b3c6eb",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T02:33:09.000Z",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 90,
+      "titleJa": "ブラジル、主要選挙を控えアマゾン森林伐採が記録的な減少",
+      "summary": "ブラジルでアマゾン森林伐採が記録的に減少。アマゾンは気候変動の重要な緩衝材であり、前大統領下で拡大していた。"
+    }
+  },
+  "CA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "48316f58fd804755c6905ceed1655263",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "published_at": "2026-10-20T16:24:05.000Z",
+      "description": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity\nVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement.\nWith nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "アルバータ州の有権者、カナダからの離脱計画を住民投票で圧倒的に拒否",
+      "summary": "カナダのアルバータ州で実施された住民投票で、有権者は州のカナダ離脱計画を圧倒的多数で否決した。これはカナダ統一支持派にとって大きな勝利となり、分離主義運動内の亀裂を深めた。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9850366e8d52d4a78429ddc0494dc664",
+      "title": "Late invitations and spats leave Hungary’s 1956 commemoration with ‘modest’ guest list",
+      "url": "https://www.euronews.com/2026/10/23/late-invitations-and-spats-leave-hungarys-1956-commemoration-with-modest-guest-list",
+      "published_at": "2026-10-23T13:38:15.000Z",
+      "description": "Hungarian PM Péter Magyar had hoped to host top leaders in Budapest for the 70th anniversary of the 1956 revolution. But last-minute invitations and spats with Paris and Kyiv kept Macron, Tusk and Zelenskyy away, leaving only EU chiefs Ursula von der Leyen and António Costa attending.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "遅い招待と口論で、ハンガリーの1956年記念式典は「控えめな」ゲストリストに",
+      "summary": "ハンガリーの1956年革命70周年記念式典は、遅い招待とパリ・キーウとの口論により、主要リーダーの欠席が相次ぎ、ゲストリストが控えめになった。"
+    }
+  },
+  "FI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "621fe9945002ab9578f0b0f3ff53ea65",
+      "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
+      "url": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
+      "published_at": "2026-10-23T13:50:26.000Z",
+      "description": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "FI",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "フィンランド、世界初の恒久的な核廃棄物貯蔵施設の開設に近づく",
+      "summary": "フィンランドが、世界初の恒久的な地下核廃棄物貯蔵施設の認可を取得し、開設に近づいている。各国でも施設が建設中だが、フィンランドが先陣を切る。"
+    }
+  },
+  "GB": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "66ae7e4d201d7c01592de229497593fa",
+      "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+      "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
+      "published_at": "2026-10-23T13:25:58.000Z",
+      "description": "Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group's 'terrorist' proscription.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 55,
+      "titleJa": "パレスチナ・アクションの禁止に抗議、数百人がロンドンの米国大使館に集結予定",
+      "summary": "パレスチナ支援団体が、最高裁判所の聴聞会を前に、団体への『テロリスト』指定に異議を唱える大規模な抗議活動をロンドンの米国大使館で計画している。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bd90af41b56b48e7b62bbfeca64e5147",
+      "title": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss",
+      "published_at": "2026-10-23T13:12:36.000Z",
+      "description": "One of world football's biggest rivalries renews on Sunday when Barcelona host Real Madrid in La Liga's El Clasico.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 45,
+      "titleJa": "エル・クラシコ：バルセロナとレアル・マドリードのライバル関係について知るべき全て",
+      "summary": "世界最大のサッカーライバル戦の一つ、ラ・リーガのエル・クラシコで、バルセロナがレアル・マドリードをホームに迎える日曜日に再び激突する。"
+    }
+  },
+  "SA": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "076f78b25f7a3dbf702096aa3966af2a",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-20T13:54:35.000Z",
+      "description": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "英国、サウジアラビアを防衛するためフーシ派攻撃にジェット機配備へ",
+      "summary": "英国は、フーシ派による地域攻撃の激化を受け、サウジアラビアへの追加的な防衛軍事支援としてジェット機を配備すると発表した。"
+    }
+  },
+  "IL": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b32176665234ab43cdd8f5fea348ae90",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T05:30:22.000Z",
+      "description": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "イスラエル選挙でアラブ系政党がいかに決定的な均衡勢力となり得るか",
+      "summary": "イスラエル総選挙において、アラブ系政党が右翼連立政権打倒の鍵を握る可能性が指摘されている。アラブ系イスラエル人の投票率向上が焦点。"
+    }
+  },
+  "YE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d4d74125e7dcde6bfc00507d86ebd27b",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-20T14:09:42.000Z",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "フーシ派のミサイル攻撃によりイエメンのキャンプで治安部隊員73名が死亡と地元当局",
+      "summary": "イエメンの政府支配下にあるシャブワ州の訓練センターとされるキャンプで、フーシ派によるミサイル攻撃があり、治安部隊員73名が死亡した。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "41c7a78422fa1dc7ea2a7d03411fb14e",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya ",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T13:22:39.000Z",
+      "description": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "LY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "ニジェールで1年以上拘束されていた欧州女性2人がリビアで解放",
+      "summary": "ニジェールで1年以上監禁されていた欧州女性2人がリビアで解放された。スイス政府は、自国民が帰国中だとBBCに伝えた。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0cb848b91112bc695859358052f3dfde",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T23:30:03.000Z",
+      "description": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "モロッコ初の女性首相、国王、聖職者、フェミニストの間で板挟み",
+      "summary": "モロッコ初の女性首相ファティマ・エル・マンスーリが、国王、聖職者、フェミニストの間で板挟みとなり、女性の権利進展が注目される。"
+    }
+  },
+  "ZW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5f1390a1610387f9bd7765ded1155924",
+      "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T23:29:15.000Z",
+      "description": "Wicknell Chivayo divided opinion in life and continues to do so in death.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ZW",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ジンバブエの大富豪「サー・ウィックネル」がアフリカで愛憎された理由",
+      "summary": "ジンバブエの大富豪ウィックネル・チヴァヨは生前からアフリカで愛憎され、死後もその評価が分かれている。その生涯が改めて注目される。"
+    }
+  },
+  "GH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "352d8b89312adcd18e33e096a465de57",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-03T23:37:46.000Z",
+      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "ガーナのバスで牧師の説教がまもなく見られなくなるかもしれない理由",
+      "summary": "キリスト教徒が多いガーナで公共交通機関での説教が広まっているが、この慣行がまもなく規制される可能性があり、社会に変化が訪れる。"
+    }
+  },
+  "CD": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "75bf603af0242d032599fa350bb51870",
+      "title": "Anthropic exposes AI operation that DRC journalists never knew existed",
+      "url": "https://globalvoices.org/2026/10/19/anthropic-exposes-ai-operation-that-drc-journalists-never-knew-existed",
+      "published_at": "2026-10-19T20:11:30.000Z",
+      "description": "70 AI-powered fake news sites have generated 318 articles on the eastern DRC conflict, relations with Rwanda, and contested mineral resources.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "アントロピック、コンゴ民主共和国のジャーナリストが知らなかったAI作戦を暴露",
+      "summary": "アントロピック社がAIを利用した偽ニュースサイト70件を特定。これらのサイトはコンゴ民主共和国東部の紛争やルワンダとの関係、鉱物資源に関する318本の記事を生成し、世論操作を試みていた。"
+    }
+  },
+  "MZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b9b66772489fee93a18c5a8b54b3851",
+      "title": "When free speech has a price: Youth voices in Mozambique",
+      "url": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique",
+      "published_at": "2026-10-11T18:00:47.000Z",
+      "description": "For Mozambican youth, freedom of expression exists in law, but speaking out can come with a cost. Music became a powerful space for criticism and resistance.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "表現の自由には代償があるとき：モザンビークの若者の声",
+      "summary": "モザンビークでは、法律上表現の自由があるものの、若者が意見を表明すると代償を伴うことがある。音楽が批判と抵抗の強力な手段となり、社会問題に対する若者の声を示している。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "09835107d7e82401bb21124fd1ac7174",
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T17:07:03.000Z",
+      "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 78,
+      "titleJa": "「ドイツは『集中的な』スパイ活動の標的、ロシア人スパイ容疑者逮捕後にメルツ氏が発言」",
+      "summary": "ドイツでロシアのスパイ容疑でウクライナ人男性が逮捕され、メルツ氏はドイツが「集中的な」スパイ活動の標的になっていると述べました。"
+    }
+  },
+  "VA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "28eefb922e3f6e3b4fb97fedb0556443",
+      "title": "Pope does not need further treatment after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T20:09:10.000Z",
+      "description": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "VA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 85,
+      "titleJa": "「ローマ教皇、肺がん手術後に追加治療不要」",
+      "summary": "ローマ教皇の肺がん手術後、検査結果により局所性肺腺癌と診断され、追加治療は不要であることが確認されました。"
+    }
+  },
+  "SV": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f49f7be0b6786253b0db4fa34bb2af6f",
+      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T10:17:48.000Z",
+      "description": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "SV",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 78,
+      "titleJa": "エルサルバドル大統領、軍人質を巡りハイチのギャングを脅迫",
+      "summary": "エルサルバドル大統領は、4人の軍隊「ギャング鎮圧部隊」隊員が行方不明であるとして、ハイチのギャングに対し脅迫を行った。"
+    }
+  },
+  "MX": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "58d2130f2a7edebbd6cb51d7ec4113d8",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T03:11:10.000Z",
+      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "MX",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "メキシコでオーストラリアと米国のサーファー殺害で3人に各158年の禁錮刑",
+      "summary": "メキシコでオーストラリア人と米国人のサーファー3人が殺害され、強盗失敗とされる事件で、犯人3人にそれぞれ158年の禁錮刑が言い渡された。"
+    }
+  },
+  "VE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3376d3ce8f7bd979a4d6a92588be7e09",
+      "title": "Venezuela faces a deepening energy crisis as protests grow",
+      "url": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow",
+      "published_at": "2026-10-22T20:06:56.000Z",
+      "description": "Venezuela’s worsening electricity crisis is disrupting daily life, pushing frustrated residents into the streets as prolonged blackouts expose the fragility of the country’s power grid.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "ベネズエラ、エネルギー危機深刻化と抗議活動拡大に直面",
+      "summary": "ベネズエラでは電力危機が深刻化し、長時間の停電が市民生活を混乱させ、不満を募らせた住民が街頭で抗議活動を拡大させている。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a8681b5382bf6b9e790735bca5d5309e",
+      "title": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Amazon wildfires",
+      "url": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires",
+      "published_at": "2026-10-15T18:30:01.000Z",
+      "description": "As El Niño worsens dry conditions, Peru’s indigenous people in Cutivireni and Oviri are taking action to protect their Amazon territory from wildfires.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ペルーの先住民がアマゾンの森林火災から自らの領土を守るため最前線に立つ",
+      "summary": "エルニーニョ現象による乾燥で森林火災が深刻化する中、ペルーのクティヴィレニとオヴィリの先住民がアマゾン領土を火災から守るため行動している。"
+    }
+  },
+  "EC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3bc52ad51f6c1c2a95d93b28fcfebc66",
+      "title": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
+      "url": "https://globalvoices.org/2026/10/10/how-ecuador-is-fighting-to-keep-industrial-trans-fats-off-the-food-shelf",
+      "published_at": "2026-10-10T04:00:43.000Z",
+      "description": "As health advocates push for tighter controls, Ecuador confronts the gap between regulating trans fats and enforcing those rules.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "EC",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "エクアドルが工業用トランス脂肪酸を食品棚から排除するために闘う方法",
+      "summary": "エクアドルでは健康擁護団体がトランス脂肪酸の規制強化を求め、政府は規制と施行の間のギャップに取り組んでいる。"
+    }
+  },
+  "IN": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ef036c81f9d8fb1f2e132e69af5fbefd",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T23:06:37.000Z",
+      "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "トランプ氏のグリーンカード制限がインド人テックワーカーのアメリカンドリームを試す",
+      "summary": "トランプ氏の移民制限とテクノロジー企業の外国人雇用削減により、多くのインド人にとって米国での永住権取得が遠い夢となっています。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "881dc394064962421667c7432e123265",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-22T10:16:35.000Z",
+      "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 40,
+      "titleJa": "韓国の運河から誘導された有名サメ、海に戻るのを拒否",
+      "summary": "韓国・釜山の運河で発見され、一躍有名になったサメのブカンギが、海に戻るのを拒否し続けています。その行動が注目を集めています。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "06ed9dfa11e16f57385dc8596bed6173",
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T22:02:18.000Z",
+      "description": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "泥炭火災はなぜそれほど悪いのか？BBCがインドネシアで調査",
+      "summary": "BBCはインドネシアの中央カリマンタンで、泥炭火災の深刻さと、同国が過去10年で最悪の森林火災シーズンに直面している理由を調査しています。"
+    }
+  },
+  "AU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b5ddf29d36999642352ad51f5a8e5d6d",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-21T07:56:30.000Z",
+      "description": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "オーストラリア議員が車による襲撃で両足を失うと夫が語る",
+      "summary": "オーストラリアの女性議員が車による襲撃を受け両足を失ったと夫が証言。容疑者は複数の罪状で出廷しました。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d860be0f8aff57da22faab937e9b4db7",
+      "title": "The Philippines launches safeguard investigation on pork",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_phl_21oct26_520_e.htm",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "description": "On 21 October 2026, the Philippines notified the WTO’s Committee on Safeguards that it had initiated on 9 October 2026 a safeguard investigation on imports of pork.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "PH",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "フィリピン、豚肉のセーフガード調査を開始",
+      "summary": "フィリピンは2026年10月9日、豚肉輸入に対するセーフガード調査を開始したことをWTOに通報した。"
+    }
+  },
+  "TL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5dcecda4740d6caacfb102ada5e5e1af",
+      "title": "Talks kick off for Timor-Leste's accession to government procurement pact",
+      "url": "https://www.wto.org/english/news_e/news26_e/gpro_14oct26_515_e.htm",
+      "published_at": "2026-10-14T00:00:00.000Z",
+      "description": "At a meeting of the Committee on Government Procurement on 14 October, parties to the Government Procurement Agreement (GPA) 2012 welcomed Timor-Leste's submission of key documents required to kick off its negotiations on acceding to the Agreement. The Committee also reviewed regulatory developments, heard updates on the accession process of other members, and for the first time conducted a dialogue with the private sector on the significance of the Agreement in a changing trade environment.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "TL",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 68,
+      "titleJa": "東ティモールの政府調達協定加盟交渉が開始",
+      "summary": "10月14日の政府調達委員会で、東ティモールが協定加盟交渉開始に必要な書類を提出。委員会は規制動向をレビューし、民間部門との対話も行った。"
+    }
+  },
+  "MG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "988d525ca5651fe21c0785b2383e259f",
+      "title": "Madagascar launches safeguard investigation on certain confectionary",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
+      "published_at": "2026-10-12T00:00:00.000Z",
+      "description": "On 12 October 2026, Madagascar notified the WTO’s Committee on Safeguards that it had initiated on 9 October 2026 a safeguard investigation on imports of sugar confectionary as well as chocolate and cocoa confectionary.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "MG",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "マダガスカル、特定の菓子類に対するセーフガード調査を開始",
+      "summary": "マダガスカルは2026年10月9日、砂糖菓子およびチョコレート・ココア菓子類の輸入に対するセーフガード調査を開始したことをWTOに通報した。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "117d707080ebfb9827bd47f9af0afb36",
+      "title": "WTO-ITC visit to Mogadishu supports Somalia's preparations for next phase of WTO accession",
+      "url": "https://www.wto.org/english/news_e/news26_e/acc_10oct26_519_e.htm",
+      "published_at": "2026-10-10T00:00:00.000Z",
+      "description": "The WTO and the International Trade Centre (ITC) conducted their first joint technical assistance activity in Mogadishu, Somalia, from 10 to 15 October to support the government's preparations for the second meeting of the Working Party on the accession of Somalia. Supported by the United Kingdom, the technical assistance event also included discussions on regional integration and the forthcoming Trade for Peace Somalia Initiative.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "SO",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "WTO-ITC、ソマリアのWTO加盟準備を支援するためモガディシュを訪問",
+      "summary": "WTOとITCは10月10-15日、ソマリアのモガディシュを訪問し、ソマリア政府のWTO加盟に向けた技術支援を行った。"
+    }
+  }
+}
