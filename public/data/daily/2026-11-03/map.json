@@ -1,0 +1,842 @@
+{
+  "UA": {
+    "count": 11,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "60a93e1accf8e28e80e44319ba25d70e",
+      "title": "Hopes of 'progress toward peace' knocked by deadly Russian attack on Zaporizhzhia, Zelenskyy says",
+      "url": "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-",
+      "published_at": "2026-11-02T18:34:47.000Z",
+      "description": "Zelenskyy said the Zaporizhzhia attack showed Russia was \"sending an entirely opposite signal\" and that it was \"counting on more killings.\"",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ゼレンスキー大統領、ザポリージャへのロシアの攻撃で「和平への進展」の希望が打ち砕かれたと語る",
+      "summary": "ロシアのザポリージャ攻撃により、和平への希望が打ち砕かれたとゼレンスキー大統領が発言。ロシアがさらなる殺害を狙っていると非難しました。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "88036ebaaf48065a2692c88ad605339d",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T17:29:49.000Z",
+      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "オランダ警察、麻薬王捜索に過去最高の200万ユーロの報奨金を提供",
+      "summary": "オランダ警察は、コカイン密輸で有罪判決を受けシエラレオネに潜伏中とされる麻薬王ヨス・レイデッカーズの捜索に、過去最高の200万ユーロの報奨金を設定した。"
+    }
+  },
+  "ZA": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "df5311ee38305b139765b22138e7b421",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T10:48:47.000Z",
+      "description": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "南アフリカで農家が銃撃・拷問された事件で5人逮捕",
+      "summary": "南アフリカで農家のドノバン・マルクス氏（50歳）が銃撃され拷問を受けた事件で5人が逮捕された。右翼団体が主張する「白人虐殺」の文脈で報じられているが、この主張は広く否定されている。"
+    }
+  },
+  "HU": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "b5bfbdac78b4be26095d5d517860c3fa",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T14:35:38.000Z",
+      "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "HU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 75,
+      "titleJa": "爆破予告を受け、ルートン発のウィズエア便が緊急着陸",
+      "summary": "爆破予告を受けたルートン発のウィズエア便が、ハンガリーの戦闘機の護衛のもとブダペストに緊急着陸した。乗客の安全は確保された。"
+    }
+  },
+  "SO": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ece78709c62a4a312d836133c981f99e",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T12:05:34.000Z",
+      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "SO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 70,
+      "titleJa": "ウガンダ、20年ぶりにソマリアからの軍撤退を開始",
+      "summary": "ウガンダは2007年以来、ソマリアでアル・シャバブとの反乱鎮圧を支援してきたが、20年の任務を終え、部隊の撤退を開始した。地域の安定に影響を与える可能性もある。"
+    }
+  },
+  "US": {
+    "count": 11,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5ac6411a21970e0a2bfb1c531843d02e",
+      "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+      "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
+      "published_at": "2026-11-02T19:06:52.000Z",
+      "description": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible voters.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "トランプ氏、中間選挙前にカリフォルニア州の2万票を差し止めるよう最高裁に要請",
+      "summary": "トランプ前大統領が中間選挙を前に、カリフォルニア州の2万票の差し止めを最高裁に求めた。カリフォルニア州は、非市民容疑者からの票阻止は有権者の権利剥奪につながると反論している。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "965fea8203e4e98857a453140aa77aa2",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T21:29:01.000Z",
+      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "パリで数千人がデモ、抗議活動がヨーロッパ全土に拡大",
+      "summary": "パリで数千人が生活費高騰と公共サービス改善を求めデモを実施。フランス全土で32万人以上が参加し、一部で警察と衝突した。"
+    }
+  },
+  "RU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "94448e1d14944c185f51745152b4ccd2",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T20:41:51.000Z",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "ロシア当局からの圧力で閉鎖された新聞の創設者が「我々は締め付けられた」と語る",
+      "summary": "ロシアで30年間、著名な独立系報道機関であった「ノーヴァヤ・ガゼータ」が当局からの圧力で閉鎖。創設者は「締め付けられた」と述べた。"
+    }
+  },
+  "KR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "fb95ee24f5e09288ea38e7c8c8a2793a",
+      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
+      "url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-02T12:51:00.000Z",
+      "description": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "KR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ドイツ首相が朝鮮半島の統一を呼びかけ。ソウルはその実現を望むか？",
+      "summary": "ドイツの首相が訪問中に朝鮮半島の統一を呼びかけた。かつて分断されたドイツと同様に、韓国も統一問題に直面するが、その見通しは依然として不透明だ。"
+    }
+  },
+  "GB": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9a3776dd428f25f08342369056c1dacb",
+      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+      "published_at": "2026-11-01T22:26:11.000Z",
+      "description": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda \nBritish officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.\nRalph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "英国、コモンウェルス首脳会議での奴隷制賠償議論に「猛反対」したと報道",
+      "summary": "英国がコモンウェルス首脳会議で奴隷制賠償の議題化に強く反対していたと報じられた。最終的に構造化された対話には合意したが、正式な議題からは外れた。"
+    }
+  },
+  "BG": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "04ddd6e53ccce8b597356258d5ac85e4",
+      "title": "Watch: Unseen images of drone sinking Greek tanker off Bulgarian coast",
+      "url": "https://www.euronews.com/2026/11/02/watch-unseen-images-of-drone-sinking-greek-tanker-off-bulgarian-coast",
+      "published_at": "2026-11-02T16:54:51.000Z",
+      "description": "Russia is suspected of being behind a recent wave of attacks targeting commercial vessels in the Black Sea.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "BG",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "映像：ブルガリア沖でギリシャのタンカーを撃沈したドローンの未公開画像",
+      "summary": "ブルガリア沖でギリシャのタンカーがドローンにより沈没。黒海での商船攻撃にロシアが関与している疑いが持たれています。"
+    }
+  },
+  "EG": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "58b244d095eba62f817b805fc20e1dec",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "published_at": "2026-10-28T14:16:24.000Z",
+      "description": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website\nLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.\nAttalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エジプト、著名な編集者リナ・アタラ氏に罰金を科し、独立系ニュースサイトMada Masrを閉鎖",
+      "summary": "エジプト当局は著名なジャーナリスト、リナ・アタラ氏を拘束し、裁判所は彼女のサイト閉鎖を命じた。同国の報道の自由に対する抑圧強化に国際的な懸念が高まっている。"
+    }
+  },
+  "SD": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "60f374dc646a4d6e27c24f81451c7c5f",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T10:23:07.000Z",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダンのRSF戦闘員が病院を意図的に標的に、BBCが発見",
+      "summary": "スーダンで迅速支援部隊（RSF）の戦闘員が意図的に病院を攻撃していることがBBCの調査で判明。国連人権高等弁務官は戦争犯罪に当たると指摘しました。"
+    }
+  },
+  "BR": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9a6ae371596e3909ac0264789d451e65",
+      "title": "How the streets and a social media army led Lula to a historic win in Brazil",
+      "url": "https://globalvoices.org/2026/10/30/how-the-streets-and-a-social-media-army-led-lula-to-a-historic-win-in-brazil",
+      "published_at": "2026-10-30T16:37:15.000Z",
+      "description": "After ending the first round 2.2 million votes behind his opponent, Flávio Bolsonaro, Lula won the election with a difference of 4 million votes, and will serve a fourth term as president",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "街頭とソーシャルメディア軍がルーラをブラジルの歴史的勝利に導いた方法",
+      "summary": "初回投票で相手に220万票差をつけられていたルーラが、街頭運動とソーシャルメディア戦略により、400万票差でブラジル大統領選に勝利し、4期目を務めることになった経緯を詳述。"
+    }
+  },
+  "CA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9935a3d5704965321ee92feb7101ceaa",
+      "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+      "published_at": "2026-10-29T17:49:47.000Z",
+      "description": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president\nLake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams, is Lake America.\nIn his new song Lake Ontario, Adams takes aim at the US president, Donald Trump, accusing him of “breaking the peace” between the people who live on the lake’s shores.\nThe ‘lake of shining waters’ is what the Iroquois called her\nIt’s a First Nations name – not an executive order.\nBut things weren’t going his way in Iran\nSo like a baby tossing the toys from the pram\nYou can push us to the brink\nBut where the open road divides\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CA",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 55,
+      "titleJa": "「ナイフのように切れる」：カナダのロッカー、ブライアン・アダムスが新曲でトランプをからかう",
+      "summary": "カナダのロックスター、ブライアン・アダムスが新曲「オンタリオ湖」でドナルド・トランプ米大統領を風刺し、話題となっている。彼はカナダへの「ラブレター」となるアルバムで政治的批判を展開した。"
+    }
+  },
+  "AT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c5897e888106083b91d6b50d5630e4a1",
+      "title": "Climber rescued after being abandoned at 2,600 metres in Austrian Alps",
+      "url": "https://www.euronews.com/2026/11/02/german-climber-stranded-at-2600-metres-in-austrian-alps-rescued-after-14-hour-operation",
+      "published_at": "2026-11-02T17:12:23.000Z",
+      "description": "Gerhard Kremser, the district manager of the Pongau Mountain Rescue Service, said the man likely would not have survived another night on the mountain due to the conditions.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AT",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 50,
+      "titleJa": "オーストリアアルプスで2,600m地点に置き去りにされた登山家が救助される",
+      "summary": "オーストリアアルプスで2,600m地点に置き去りにされた登山家が救助されました。山岳救助隊は、男性がその夜を乗り越えられなかっただろうと語りました。"
+    }
+  },
+  "QA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "910a9e0cc6269f367c0333e6b9932038",
+      "title": "Inside Milipol Qatar, where drones and robots take on security and emergency response roles",
+      "url": "https://www.euronews.com/2026/11/02/inside-milipol-qatar-where-drones-and-robots-take-on-security-and-emergency-response-roles",
+      "published_at": "2026-11-02T17:00:44.000Z",
+      "description": "From a drone carrying traffic lights to a remotely operated robot, exhibitors at Milipol Qatar demonstrate equipment designed for emergency response, surveillance and work in dangerous places.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "QA",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 60,
+      "titleJa": "ミリポール・カタール内部：ドローンとロボットが警備と緊急対応の役割を担う",
+      "summary": "ミリポール・カタールで、ドローンやロボットが警備や緊急対応、危険作業に活用される様子が展示されました。"
+    }
+  },
+  "SN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9322cda8fbe4443283b2174f11acd4f8",
+      "title": "Senegal hosts Africa’s first Olympics",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
+      "published_at": "2026-11-02T18:56:17.000Z",
+      "description": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SN",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "セネガル、アフリカ初のオリンピックを主催",
+      "summary": "セネガルがアフリカ大陸で初めてオリンピック（ユースオリンピック）を主催する。国際オリンピック委員会委員長は、このイベントのアフリカにとっての意義について語った。"
+    }
+  },
+  "IR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "fbce8655cb7abe2df9ed1517a200c1d2",
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T06:00:54.000Z",
+      "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イランは彼女の十代の娘を殺害した――今、彼女は政権に立ち向かっている",
+      "summary": "1月の抗議デモで16歳の娘が射殺された母親が、イラン政権に対し立ち向かう様子を描く。人権侵害と抑圧が続く現状を示す。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e740854f0054a2394a8a8348629a43a2",
+      "title": "German unions launch wave of strikes over cost-of-living pressures",
+      "url": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
+      "published_at": "2026-11-02T18:47:24.000Z",
+      "description": "The expanded industrial action comes amid a wave of strikes and protests that have sparked unrest across Europe.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "DE",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ドイツの労働組合、生活費高騰をめぐりストライキを開始",
+      "summary": "ドイツの労働組合が生活費高騰に対する抗議として大規模なストライキを開始。この産業行動は、ヨーロッパ全体で不穏な動きを引き起こしているストライキの波の中で拡大している。"
+    }
+  },
+  "IL": {
+    "count": 6,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3f24b3a9822faef3844ce7c62121129b",
+      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+      "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-28T10:35:13.000Z",
+      "description": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 83,
+      "titleJa": "ネタニヤフとアイゼンコット、どちらも過半数獲得せず権力への困難な道に直面",
+      "summary": "ネタニヤフとアイゼンコット両氏が率いる主要勢力は、アラブ系政党の協力なしには次期政権を樹立するのに必要な議席が不足している。"
+    }
+  },
+  "SY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "76ea1a91b35d22d87ec4af69ad0ae572",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T06:02:23.000Z",
+      "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "危機がアサド後の復興を困難にする中、シリア国民は物価高騰に苦しむ",
+      "summary": "シリアでは補助金廃止と物価高騰により国民の不満が高まり、アハメド・アル・シャアラー政権の支持が試されている。経済危機が深刻化。"
+    }
+  },
+  "CD": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "cd0cd3f8734cf869c55ef5b9b61b69c8",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T15:16:20.000Z",
+      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "コンゴ民主共和国でエボラ出血熱により5,000人以上が死亡、過去最悪の流行",
+      "summary": "コンゴ民主共和国でエボラ出血熱が過去最悪の流行となり、政府データによると5,000人以上が死亡し、10,000人以上が感染しました。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0c1ad1d73bcbfa2beb6fd719c7d474a2",
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T14:28:15.000Z",
+      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "エチオピア首相、閣僚に軍事訓練を課す",
+      "summary": "エチオピアの首相が閣僚たちに軍事訓練を受けさせており、これは政府の野心において軍事準備を重視していることを示しています。"
+    }
+  },
+  "TZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5ad66ac95cc1c7b36b64f3ae2a97c537",
+      "title": "Demands for post-poll justice as Tanzania accused of weaponising counterterrorism laws",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8mgl5756o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T00:25:48.000Z",
+      "description": "Families affected tell the BBC they want answers and financial help as Amnesty says a crackdown continues.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "TZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "タンザニア、テロ対策法を武器化と非難される中、選挙後の正義を求める声",
+      "summary": "タンザニアでテロ対策法が悪用されているとの非難が高まり、影響を受けた家族がBBCに対し、説明と経済的支援を求めています。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "948397bb6601a22bbc4ca3f28a58db3b",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-27T19:19:10.000Z",
+      "description": "Kenya has already released the first group of 20 people who came into contact with its first Ebola patient.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "ケニアで9例確認後、エボラ出血熱は制御されているか？",
+      "summary": "ケニアで9例のエボラ出血熱が確認された後、最初の患者と接触した20人が解放されました。国内でエボラが制御されているか注目されます。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c5b954e69dcc9125e8887aad0373c24b",
+      "title": "Fish scarcity, tar balls, and stranded dolphins: The hidden costs of offshore platforms in Cameroon waters",
+      "url": "https://globalvoices.org/2026/10/27/fish-scarcity-tar-balls-and-displaced-dolphins-the-hidden-costs-of-offshore-platforms-in-cameroon-waters",
+      "published_at": "2026-10-27T08:59:12.000Z",
+      "description": "...oil and gas contributed FCFA 774.51 billion (USD 1.3 million) to the budget. However, these oil rigs threaten biodiversity and compromise the well-being of coastal and Indigenous communities.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 65,
+      "titleJa": "カメルーン沖合プラットフォームの隠れた代償：魚の不足、タールボール、打ち上げられたイルカ",
+      "summary": "カメルーン沖の石油・ガスプラットフォームは、魚不足、タールボール、イルカの座礁を引き起こし、生物多様性と地域社会の生活を脅かしている。経済的利益の裏で環境への深刻な影響が浮上している。"
+    }
+  },
+  "MZ": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b9b66772489fee93a18c5a8b54b3851",
+      "title": "When free speech has a price: Youth voices in Mozambique",
+      "url": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique",
+      "published_at": "2026-10-11T18:00:47.000Z",
+      "description": "For Mozambican youth, freedom of expression exists in law, but speaking out can come with a cost. Music became a powerful space for criticism and resistance.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "表現の自由が代償を伴うとき：モザンビークの若者の声",
+      "summary": "モザンビークでは表現の自由が法律で保障されているものの、若者たちが声を上げることにはリスクが伴う。音楽は批判と抵抗の強力な手段となっている。"
+    }
+  },
+  "PL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f012ae2cb3f43239981e2259dea82f49",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T01:11:43.000Z",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ポーランド最高裁判所の支配を巡る対立で警察が配備",
+      "summary": "ポーランド政府が最高裁判所の高官2人を停職させ刑事告発に動いた後、支配を巡る対立が激化し、警察が配備された。"
+    }
+  },
+  "ES": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "58876a32b620aad2948dc78139623a9f",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T05:44:21.000Z",
+      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "スペインの列車事故がサンチェス首相の再選の可能性を曇らせる",
+      "summary": "スペインで発生した列車事故が、総選挙を数週間後に控えたサンチェス首相に打撃を与え、再選の可能性に暗い影を落としている。"
+    }
+  },
+  "RS": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "d2aacc9a4ba263954b327e731d705ff7",
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T00:17:28.000Z",
+      "description": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RS",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "学生が支援した選挙の勝者がセルビアで広範な辞任を要求",
+      "summary": "アレクサンダル・ヴチッチ党を政権から追放した後、学生リストの議員たちがセルビアで主要人物の広範な辞任を要求している。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "251ecd3f666275af6b31dbf0412a9163",
+      "title": "Baby among four killed in bomb attack in western Colombia, official says",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T15:08:56.000Z",
+      "description": "It is not yet clear who was behind the attack, which appears to have targeted a military base.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "西コロンビアでの爆弾攻撃で乳児含む4人が死亡、当局者が発表",
+      "summary": "西コロンビアで軍事基地を標的としたとみられる爆弾攻撃が発生し、乳児を含む4人が死亡した。犯行グループはまだ不明である。"
+    }
+  },
+  "AG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "52e537e58c8d3cf5498044ae01ae4035",
+      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T02:46:55.000Z",
+      "description": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "AG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "アンティグアで国王が奴隷制度に言及、首相は英国からの謝罪の可能性に前向き",
+      "summary": "チャールズ3世がカリブ海ツアーの締めくくりとして、アンティグアで開催される英連邦首脳会議で奴隷制度について演説する。首相は英国からの謝罪に前向きな姿勢を示している。"
+    }
+  },
+  "GY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "910f02eb25e443ac964e7e6f11ef9581",
+      "title": "King visits Guyanese slave rebellion site on Caribbean tour",
+      "url": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T22:24:03.000Z",
+      "description": "Hundreds of slaves were killed by colonial leaders in the Demerara rebellion of 1823, with many survivors executed.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "GY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 68,
+      "titleJa": "国王がカリブ海ツアーでガイアナの奴隷反乱現場を訪問",
+      "summary": "チャールズ国王がカリブ海ツアーの一環として、1823年に多くの奴隷が植民地指導者によって殺害・処刑されたデメララ反乱の現場をガイアナで訪問した。"
+    }
+  },
+  "VE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1dac9b260e45d3538987e1491f02239a",
+      "title": "Venezuela opposition leader María Machado calls for elections upon return",
+      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T21:05:03.000Z",
+      "description": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be  \"irreversible, organised, pacific\".",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ベネズエラの野党指導者マリア・マチャド、帰国後選挙を要求",
+      "summary": "約1年間亡命していたベネズエラの野党指導者マリア・マチャドが帰国し、政府の「不可逆的で組織的、平和的な」移行のため選挙を求めた。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a8681b5382bf6b9e790735bca5d5309e",
+      "title": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Amazon wildfires",
+      "url": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires",
+      "published_at": "2026-10-15T18:30:01.000Z",
+      "description": "As El Niño worsens dry conditions, Peru’s indigenous people in Cutivireni and Oviri are taking action to protect their Amazon territory from wildfires.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "ペルーの先住民がアマゾンの森林火災に対し最前線で立ち向かう",
+      "summary": "エルニーニョ現象による乾燥状態悪化を受け、ペルーのクティビレニとオビリの先住民が、自らのアマゾン領土を森林火災から守るため最前線で活動している。"
+    }
+  },
+  "IN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5373513e4474a2994342ab212dc5692c",
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T09:17:05.000Z",
+      "description": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "IN",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "大胆なインドの脱獄事件、17人の囚人が再逮捕され終結",
+      "summary": "インドで偽装逮捕をきっかけに始まった大胆な脱獄事件は、36時間後に全17人の囚人が再逮捕され幕を閉じた。"
+    }
+  },
+  "CK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e748fdb79dc283fbfe94b5f47d802cb",
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T23:06:13.000Z",
+      "description": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CK",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "小さな太平洋の島に何年も閉じ込められ、帰国便の乗り継ぎビザが取得できない",
+      "summary": "50歳の男性が2023年からクック諸島に足止めされ、帰国のための乗り継ぎビザが取得できずに困窮している。"
+    }
+  },
+  "CN": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6ba1d5798c63e519ba9d4bbf87323427",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T03:24:12.000Z",
+      "description": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "中国の政治集会で習近平が「党規律」を強調する中、過去最多の粛清を記録",
+      "summary": "中国の政治集会で習近平国家主席が党規律を強調し、過去最多の粛清が行われた。これは権力集中を目的としたものとみられる。"
+    }
+  },
+  "PH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a9e2d114b23c8979497411d20e941ed5",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T13:25:07.000Z",
+      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "PH",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "フィリピン警察、トーマス・マークルのデバイス捜索令状を取得",
+      "summary": "メーガン妃の父トーマス・マークルの旧宅から児童性的虐待の画像が見つかった疑いで、フィリピン警察がデバイス捜索令状を取得した。"
+    }
+  },
+  "TH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "346ecf7ae26271238840bc822d4fa16d",
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T23:26:16.000Z",
+      "description": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "TH",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ハリー・ポッター姿でタイの王室を疑問視、34年の禁固刑に",
+      "summary": "ハリー・ポッター姿でタイ王室を批判した男性が不敬罪で34年の禁固刑に。2020年以降、同法で多数が訴追されている。"
+    }
+  },
+  "XC": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "135310c3ef0648f0914b6dc21e57c79a",
+      "title": "EU launches safeguard investigation on certain new hybrid vehicles",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_eec_02nov26_536_e.htm",
+      "published_at": "2026-11-02T00:00:00.000Z",
+      "description": "On 30 October 2026, the European Union notified the WTO’s Committee on Safeguards that it had initiated, on the same day (30 October 2026), a safeguard investigation on imports of certain new hybrid vehicles.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "XC",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "EU、特定の新型ハイブリッド車に対するセーフガード調査を開始",
+      "summary": "EUは2026年10月30日、特定の新型ハイブリッド車の輸入に対してセーフガード調査を開始したことをWTOに通知した。"
+    }
+  }
+}
