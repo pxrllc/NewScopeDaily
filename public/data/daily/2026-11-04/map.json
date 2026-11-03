@@ -1,0 +1,962 @@
+{
+  "IR": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "47321ac3a7ae2ca51915b97af404bc4e",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T11:33:33.000Z",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 75,
+      "titleJa": "米国、中間選挙前にイランの島を攻撃",
+      "summary": "米国が中間選挙を控え、イランのQeshm島を攻撃。米当局は攻撃を限定的かつ防衛的と説明した。"
+    }
+  },
+  "ES": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "64fa42530986781757ec98477e5a48b4",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T17:05:18.000Z",
+      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "ES",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "スペインの列車事故でケンブリッジ大学の科学者が死亡",
+      "summary": "スペインで発生した列車事故により、ケンブリッジ大学の科学者マルタ・シャバジ氏が命を落とした。彼女は「感動的で才能ある情熱的な科学者」だったと所属研究室がコメントしている。"
+    }
+  },
+  "LY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f93331dab163db70834359ab0199a3cb",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T14:56:46.000Z",
+      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "LY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 50,
+      "titleJa": "リビアの最高宗教当局がナイキ製品の着用に反対する裁定",
+      "summary": "リビアの最高宗教当局は、ナイキがギリシャの勝利の女神にちなんで名付けられたため、そのロゴを表示することはイスラム的ではないと裁定した。"
+    }
+  },
+  "NP": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "aef4c11713c07eff3f2ab61f430c30c1",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T11:51:08.000Z",
+      "description": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "NP",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 70,
+      "titleJa": "エベレスト基地キャンプ付近でヘリコプター2機が衝突、インド人観光客が死亡",
+      "summary": "エベレスト基地キャンプ近くでヘリコプター2機が同じ場所に着陸しようとして衝突。インド人観光客1人が死亡した。"
+    }
+  },
+  "IE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6b49d74e37d609a2c8d85ee64a03581b",
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T17:07:28.000Z",
+      "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 55,
+      "titleJa": "アイルランドのオリンピック選手キアラ・マギーアンは「才能豊かで感動的な人物」だった",
+      "summary": "元欧州チャンピオンで2度のオリンピック出場経験を持つアイルランド人ランナー、キアラ・マギーアンがステージ4の大腸がんと診断された。"
+    }
+  },
+  "VE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6e2f255faf812dae2538efa9afc931d0",
+      "title": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritarianism",
+      "url": "https://globalvoices.org/2026/10/27/warning-signals-venezuela-and-the-risk-of-ai-powered-chinese-digital-authoritarianism",
+      "published_at": "2026-10-27T21:10:54.000Z",
+      "description": "A report by the Australian think tank ASPI warns that Venezuela could integrate Chinese artificial intelligence into its surveillance system and expand its digital control capabilities.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "警告信号：ベネズエラとAIを活用した中国のデジタル権威主義のリスク",
+      "summary": "オーストラリアのシンクタンクが、ベネズエラが中国のAIを監視システムに統合し、デジタル管理能力を拡大するリスクを警告。"
+    }
+  },
+  "SA": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "305ca55d1ad6a9b367f1fe99d28eb35e",
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T07:15:17.000Z",
+      "description": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "SA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 65,
+      "titleJa": "サウジアラビアへの攻撃を受け、アジアカップが延期に",
+      "summary": "サウジアラビアでの開催が予定されていた2027年アジアカップが、同国への一連の致命的な攻撃を受けて延期された。"
+    }
+  },
+  "UA": {
+    "count": 6,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "0bad18efba9b41d5cebd18455e7086ae",
+      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T13:26:19.000Z",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "ロシアの爆撃でウクライナの援助センターで31人が死亡、キーウ発表",
+      "summary": "ウクライナ南部のある村がロシアによる「全く恐ろしい」攻撃を受け、援助センターで31人が死亡。9発の大型爆弾が着弾したとキーウは発表。"
+    }
+  },
+  "ZA": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4ba519aded10f90d4604659df24ec761",
+      "title": "Opposition party organiser killed before South Africa elections",
+      "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
+      "published_at": "2026-11-03T16:39:00.000Z",
+      "description": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "南アフリカ選挙前に野党組織者が殺害される",
+      "summary": "南アフリカの地方選挙を前に、MKPの組織者が殺害され、政治的殺害が増加傾向にあり警察が捜査中。"
+    }
+  },
+  "IN": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2f2541fee7eff189c1e3bc4dee6bb3e1",
+      "title": "What's behind new India-China border tensions?",
+      "url": "https://www.dw.com/en/what-s-behind-new-india-china-border-tensions/a-79843273?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-03T14:48:00.000Z",
+      "description": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "インド・中国国境の新たな緊張の背景は？",
+      "summary": "アルナーチャル・プラデーシュ州で印中両軍の新たな衝突が確認され、デリーと北京間の脆弱な関係改善に疑問を投げかけている。"
+    }
+  },
+  "DE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "225f4b5f4c7c922f9d5965aa8ba23e09",
+      "title": "How Berlin's Arab queers are building their community",
+      "url": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-03T14:37:00.000Z",
+      "description": "As the co-founder of the ADIRA Drag Festival, Lebanese performance artist, drag performer, DJ and cultural organizer Hassandra has become an essential part of Berlin's queer artistic landscape.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ベルリンのアラブ系クィアコミュニティはいかに構築されているか",
+      "summary": "ADIRAドラッグフェスティバルの共同創設者であるハサンドラは、ベルリンのクィア芸術シーンに不可欠な存在となり、コミュニティ形成に貢献している。"
+    }
+  },
+  "CY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "ccf76c4901f990bd6c90816b2c2eb408",
+      "title": "Cyprus: From ties with Russia to a strategic alignment with the US",
+      "url": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-03T14:28:00.000Z",
+      "description": "The Republic of Cyprus long balanced ties between Russia and the West. Now, it is phasing out Russian weapons, expanding defense cooperation with the United States and redefining its place in the Eastern Mediterranean.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "CY",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "キプロス：ロシアとの関係から米国との戦略的提携へ",
+      "summary": "長年ロシアと西側諸国間の関係を均衡させてきたキプロス共和国は、ロシア製兵器を段階的に廃止し、米国との防衛協力を拡大している。"
+    }
+  },
+  "US": {
+    "count": 10,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "31d13972ca847d5b5ece543f606ec985",
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-03T14:26:00.000Z",
+      "description": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "米国中間選挙がウクライナ、イラン、その他の地域に与える影響",
+      "summary": "共和党が米国議会を支配しているが、中間選挙後には状況が変わる可能性があり、国内政策だけでなく国際紛争にも影響を与えるだろう。"
+    }
+  },
+  "YE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "245d508363933f7274a33a3bdfe7b4ab",
+      "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
+      "url": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-03T14:18:00.000Z",
+      "description": "Fighting between Iran-backed Houthi rebels and Yemeni government forces has intensified around the city of Taiz. Residents face growing shortages of food, water and medical supplies as thousands flee their homes.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イエメン：タイズ近郊でのフーシ派衝突が住民を「パニック状態」に",
+      "summary": "タイズ市周辺でイラン系フーシ派反乱軍とイエメン政府軍の戦闘が激化。住民は食料、水、医療品の不足に直面し、数千人が避難している。"
+    }
+  },
+  "SD": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "60f374dc646a4d6e27c24f81451c7c5f",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-23T10:23:07.000Z",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "スーダンのRSF戦闘員が病院を意図的に標的にしたとBBCが発見",
+      "summary": "BBCの調査により、スーダンのRSF戦闘員が病院を意図的に攻撃していることが判明した。国連人権高等弁務官は、これらの攻撃が戦争犯罪に相当する可能性があると指摘している。"
+    }
+  },
+  "EG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "58b244d095eba62f817b805fc20e1dec",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "published_at": "2026-10-28T14:16:24.000Z",
+      "description": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website\nLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.\nAttalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "エジプト、著名編集者に罰金を科し独立系ニュースサイトを閉鎖",
+      "summary": "エジプト当局が独立系ニュースサイトMada Masrの編集長リナ・アタラ氏に罰金を科し、サイト閉鎖を命じた。報道の自由への弾圧が国際的に懸念されている。"
+    }
+  },
+  "BR": {
+    "count": 12,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "9a6ae371596e3909ac0264789d451e65",
+      "title": "How the streets and a social media army led Lula to a historic win in Brazil",
+      "url": "https://globalvoices.org/2026/10/30/how-the-streets-and-a-social-media-army-led-lula-to-a-historic-win-in-brazil",
+      "published_at": "2026-10-30T16:37:15.000Z",
+      "description": "After ending the first round 2.2 million votes behind his opponent, Flávio Bolsonaro, Lula won the election with a difference of 4 million votes, and will serve a fourth term as president",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "街頭とソーシャルメディア軍がどのようにしてルラをブラジルでの歴史的勝利に導いたか",
+      "summary": "ルラがブラジル大統領選挙で対立候補に400万票差をつけ勝利。通算4期目の大統領就任へ。街頭活動とSNSが貢献。"
+    }
+  },
+  "GB": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "25637153fdbd4ae5d2cecfdd33645142",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T12:07:59.000Z",
+      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "英国とEU、食品輸出に関するブレグジットの煩雑な手続きを撤廃する草案に合意",
+      "summary": "英国とEUが、食品輸出を巡るブレグジットの煩雑な手続きを簡素化する草案に合意した。これは、ブレグジットの見直しにおける重要な一歩とされており、今後の首脳会議に向けて進展する。"
+    }
+  },
+  "GE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "221a0a871801a30e70bad82fc8f095e7",
+      "title": "Georgia PM offers no way out of EU accession deadlock in Euronews interview",
+      "url": "https://www.euronews.com/2026/11/03/georgia-pm-offers-no-way-out-of-eu-accession-deadlock-in-euronews-interview",
+      "published_at": "2026-11-03T17:14:06.000Z",
+      "description": "Kobakhidze said he remains “very committed” to EU accession but offered no plan to restart negotiations, accusing the European Commission of “blackmail” and refusing to repeal two laws among the main sticking points in the dispute with Brussels.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "GE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "ジョージア首相、EuronewsのインタビューでEU加盟行き詰まりからの脱却策を提示せず",
+      "summary": "ジョージア首相はEU加盟に意欲を示すも交渉再開計画は提示せず。欧州委を「脅迫」と非難し、EUとの係争点である2法撤回を拒否した。"
+    }
+  },
+  "ME": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a35deee53311c03d8050f620c5c9d5ae",
+      "title": "Montenegro rejects ‘second-class’ EU membership as it eyes 2028 accession ",
+      "url": "https://www.euronews.com/2026/11/03/montenegro-rejects-second-class-eu-membership-as-it-eyes-2028-accession",
+      "published_at": "2026-11-03T16:57:19.000Z",
+      "description": "Montenegro’s EU Minister Maida Gorčević told the Euronews Enlargement Summit in Brussels that its negotiating chapters could close this year, with accession following in 2028. She rejected second-class membership and pledged to resolve disputes with Croatia.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "ME",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "モンテネグロ、2028年のEU加盟を目指し「二級」加盟を拒否",
+      "summary": "モンテネグロのEU担当相は、2028年のEU加盟を視野に入れ、交渉終結の可能性を示唆。二級加盟を拒否し、クロアチアとの紛争解決を誓った。"
+    }
+  },
+  "PT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "bba985da41e38107cfb764a561d7f180",
+      "title": "Tents return to Lisbon square after Portugal protest victory",
+      "url": "https://www.euronews.com/video/2026/11/03/tents-return-to-lisbon-square-after-portugal-protest-victory",
+      "published_at": "2026-11-03T16:47:45.000Z",
+      "description": "Portugal's housing protesters celebrate a court victory in Lisbon, allowing activist Renata Cambra to set up a tent in Rossio Square.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "PT",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ポルトガルでの抗議活動勝利後、リスボンの広場にテントが戻る",
+      "summary": "ポルトガルの住宅抗議活動家がリスボンで法廷闘争に勝利。これにより活動家のレナータ・カンブラ氏はロシオ広場にテントを設置することが許可された。"
+    }
+  },
+  "AL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "578e79522a0cbd2f8a2165638800c8c2",
+      "title": "Italy-Albania migration deal could be extended beyond 2029, Rama says",
+      "url": "https://www.euronews.com/2026/11/03/italy-albania-migration-deal-could-be-extended-beyond-2028-rama-says",
+      "published_at": "2026-11-03T15:42:09.000Z",
+      "description": "The Albanian prime minister said the migration deal with Italy could be extended at Rome’s request, dispelling doubts about the closure of the centres when the current partnership expires.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "イタリア・アルバニア間の移民協定、2029年以降も延長の可能性とラマ首相が発言",
+      "summary": "アルバニア首相は、イタリアとの移民協定が2029年以降もローマの要請で延長されうると発言。現在の提携終了時のセンター閉鎖の疑念を払拭した。"
+    }
+  },
+  "AZ": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "deb4705e419401846792b03245e358ea",
+      "title": "The Zangezur Corridor: Regional peace and global connectivity",
+      "url": "https://www.euronews.com/2026/11/03/the-zangezur-corridor-regional-peace-and-global-connectivity",
+      "published_at": "2026-11-03T15:24:58.000Z",
+      "description": "The Zangezur Corridor is a test case for the region, writes Dr Matin Mammadli of the Centre for the Analysis of International Relations in Baku in an article for Euronews. It could link Azerbaijan with Nakhchivan, strengthen trade between Europe and Asia, and lay an economic foundation for peace.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AZ",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "ザンゲズル回廊：地域の平和とグローバルな接続性",
+      "summary": "ザンゲズル回廊は、アゼルバイジャンとナヒチェバンを結び、欧州・アジア間の貿易を強化。地域の平和と経済基盤構築に貢献する試金石となる。"
+    }
+  },
+  "IL": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "4c40bbb41fafdfb02d4a897f80b043dc",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T09:06:48.000Z",
+      "description": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "イスラエルは選挙の膠着状態をどう打破できるか？4つのシナリオ",
+      "summary": "90%以上の開票で、すべての兆候は膠着状態を示しており、最も可能性の高い結果は再選挙かもしれない。"
+    }
+  },
+  "SY": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "2ccc45804da50fceb62bfa3681a94da2",
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+      "published_at": "2026-11-03T15:47:34.000Z",
+      "description": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "シリア、ヒズボラのホムス石油精製所を標的とする計画を阻止と発表",
+      "summary": "シリアがヒズボラによるホムス石油精製所への攻撃計画を阻止したと発表したが、ヒズボラはシリア領内での存在を否定し疑惑を否定。"
+    }
+  },
+  "PS": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "bded956aea97e18891e7245cf165abbd",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T17:06:32.000Z",
+      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "PS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "イスラエル軍によるガザ攻撃、子ども含む8人死亡と病院発表",
+      "summary": "ハマス警察官5人がハンユニスで、子どもを含む3人がガザ市で死亡したと当局が発表。"
+    }
+  },
+  "RS": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "f60ff430c1b33f976261391e35810ae6",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-28T10:17:54.000Z",
+      "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "RS",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 60,
+      "titleJa": "イスラエル大使館外で警官を襲撃したセルビア人が射殺されたと大臣が発表",
+      "summary": "当局によると、ベオグラードでの襲撃者は治安当局が監視していた未成年の男性だった。"
+    }
+  },
+  "UG": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "012c5678418ab79ce112e6db0e30c9cc",
+      "title": "Uganda arrests former army deputy chief stripped of military rank",
+      "url": "https://www.bbc.co.uk/news/articles/cq398ep2lzd0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T08:08:07.000Z",
+      "description": "Military spokesman says security forces recently recovered 15 guns in Elwelu's possession.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "UG",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ウガンダ、元陸軍副司令官を逮捕、軍籍剥奪",
+      "summary": "ウガンダで元陸軍副司令官が逮捕された。軍報道官によると、安全保障部隊が彼が所持していた銃15丁を押収したという。国内の重要な政治・軍事関連の動き。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "560c2e00e2dc8c548ead17bc100c69a1",
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T07:29:46.000Z",
+      "description": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "米ロの対立がモロッコの歓喜に繋がった理由",
+      "summary": "米国とロシアの国連での膠着状態により、西サハラのPKOミッションが35年ぶりに終了。これによりモロッコが歓迎の意を示している。国際政治と地域紛争に影響。"
+    }
+  },
+  "SO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "ece78709c62a4a312d836133c981f99e",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T12:05:34.000Z",
+      "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 80,
+      "titleJa": "ウガンダ、ソマリアからの20年間の駐留部隊撤退を開始",
+      "summary": "ウガンダが、2007年以来アル・シャバブの反乱と戦うソマリアを支援してきた部隊の撤退を開始。これは地域の安全保障に大きな影響を与える動きである。"
+    }
+  },
+  "CD": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "75bf603af0242d032599fa350bb51870",
+      "title": "Anthropic exposes AI operation that DRC journalists never knew existed",
+      "url": "https://globalvoices.org/2026/10/19/anthropic-exposes-ai-operation-that-drc-journalists-never-knew-existed",
+      "published_at": "2026-10-19T20:11:30.000Z",
+      "description": "70 AI-powered fake news sites have generated 318 articles on the eastern DRC conflict, relations with Rwanda, and contested mineral resources.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "アンソロピック社がDRCのジャーナリストも知らなかったAI操作を暴露",
+      "summary": "アンソロピック社が、DRC東部の紛争やルワンダとの関係について、AIによる偽ニュースサイト70件が318本の記事を生成していたことを明らかにした。"
+    }
+  },
+  "TZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5ad66ac95cc1c7b36b64f3ae2a97c537",
+      "title": "Demands for post-poll justice as Tanzania accused of weaponising counterterrorism laws",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8mgl5756o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T00:25:48.000Z",
+      "description": "Families affected tell the BBC they want answers and financial help as Amnesty says a crackdown continues.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "TZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "タンザニア、テロ対策法を武器化と非難され、選挙後の司法を求める声",
+      "summary": "タンザニアで、テロ対策法が政府によって武器化されているとの非難が高まり、選挙後の司法を求める声が上がっている。アムネスティは弾圧が続いていると指摘。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c5b954e69dcc9125e8887aad0373c24b",
+      "title": "Fish scarcity, tar balls, and stranded dolphins: The hidden costs of offshore platforms in Cameroon waters",
+      "url": "https://globalvoices.org/2026/10/27/fish-scarcity-tar-balls-and-displaced-dolphins-the-hidden-costs-of-offshore-platforms-in-cameroon-waters",
+      "published_at": "2026-10-27T08:59:12.000Z",
+      "description": "...oil and gas contributed FCFA 774.51 billion (USD 1.3 million) to the budget. However, these oil rigs threaten biodiversity and compromise the well-being of coastal and Indigenous communities.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "カメルーン沖合プラットフォームの隠れたコスト：魚の不足、タールボール、打ち上げられたイルカ",
+      "summary": "カメルーン沖の石油・ガス採掘プラットフォームが生物多様性を脅かし、魚の不足やタールボール、イルカの打ち上げなど沿岸コミュニティに悪影響を与えている。"
+    }
+  },
+  "MZ": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b9b66772489fee93a18c5a8b54b3851",
+      "title": "When free speech has a price: Youth voices in Mozambique",
+      "url": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique",
+      "published_at": "2026-10-11T18:00:47.000Z",
+      "description": "For Mozambican youth, freedom of expression exists in law, but speaking out can come with a cost. Music became a powerful space for criticism and resistance.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 70,
+      "titleJa": "表現の自由が代償を伴うとき：モザンビークの若者の声",
+      "summary": "モザンビークの若者にとって表現の自由は法的に存在しても、声を上げることには代償が伴う。音楽は批判と抵抗の強力な手段となっている。"
+    }
+  },
+  "KE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2548356c7163224cec89166fc8f90689",
+      "title": "When Big Tech becomes a tool of state control in Kenya",
+      "url": "https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya",
+      "published_at": "2026-10-21T15:31:05.000Z",
+      "description": "Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "KE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ビッグテックがケニアで国家統制の道具と化すとき",
+      "summary": "ケニアでは大手IT企業が国家統制の手段として利用され、抗議活動や選挙時にインターネット遮断が行われるなど、アフリカでは遮断事例が多いことが報告されている。"
+    }
+  },
+  "NL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "88036ebaaf48065a2692c88ad605339d",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T17:29:49.000Z",
+      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "NL",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "オランダ警察、麻薬王の捜索に過去最高の200万ユーロの報奨金を提供",
+      "summary": "オランダ警察は、コカイン密輸で有罪判決を受けた麻薬王ジョス・レイデッカーの捜索に、過去最高の200万ユーロの報奨金を設定した。彼はシエラレオネに潜伏しているとみられる。"
+    }
+  },
+  "FR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c633a56e847e8238d7127fc570767f88",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T00:15:30.000Z",
+      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "FR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 80,
+      "titleJa": "フランス、警察に火炎瓶が投げつけられた事件で殺人未遂の捜査を開始",
+      "summary": "フランス各地で3週末連続の抗議デモが続き、数百人が逮捕された。デモ中に警察官に火炎瓶が投げつけられた事件を受け、フランス当局は殺人未遂の捜査を開始した。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "251ecd3f666275af6b31dbf0412a9163",
+      "title": "Baby among four killed in bomb attack in western Colombia, official says",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T15:08:56.000Z",
+      "description": "It is not yet clear who was behind the attack, which appears to have targeted a military base.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "西コロンビアで爆弾攻撃、乳児含む4人死亡と当局者",
+      "summary": "西コロンビアで発生した爆弾攻撃により、乳児を含む4人が死亡した。攻撃は軍事基地を標的としたものとみられるが、犯行グループは不明。"
+    }
+  },
+  "GY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "910f02eb25e443ac964e7e6f11ef9581",
+      "title": "King visits Guyanese slave rebellion site on Caribbean tour",
+      "url": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T22:24:03.000Z",
+      "description": "Hundreds of slaves were killed by colonial leaders in the Demerara rebellion of 1823, with many survivors executed.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "GY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "国王、カリブ海ツアー中にガイアナの奴隷反乱現場を訪問",
+      "summary": "国王がカリブ海ツアーの一環としてガイアナを訪問し、1823年のデメララ反乱で数百人の奴隷が殺害された現場を訪れた。"
+    }
+  },
+  "HT": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "4393e8f54934746d71ac67cee586b40a",
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers ",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T06:24:56.000Z",
+      "description": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "HT",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "エルサルバドル、行方不明の兵士4人救出のためハイチに2,000人の部隊を派遣",
+      "summary": "エルサルバドルが、ハイチの首都ポルトープランス郊外での待ち伏せ攻撃で行方不明となった兵士4人の救出のため、2,000人の部隊を派遣した。"
+    }
+  },
+  "PE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a8681b5382bf6b9e790735bca5d5309e",
+      "title": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Amazon wildfires",
+      "url": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires",
+      "published_at": "2026-10-15T18:30:01.000Z",
+      "description": "As El Niño worsens dry conditions, Peru’s indigenous people in Cutivireni and Oviri are taking action to protect their Amazon territory from wildfires.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "PE",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 70,
+      "titleJa": "ペルーの先住民がアマゾン森林火災に対し最前線で活動",
+      "summary": "エルニーニョ現象による乾燥悪化で、ペルーのクティビレニとオビリの先住民が、アマゾンの領土を森林火災から守るため行動。"
+    }
+  },
+  "ID": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "153e379a9ea4962fbdf80b110f0d1154",
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T23:02:01.000Z",
+      "description": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "ID",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "インドネシアの有毒な煙霧が近隣諸国に政治的頭痛の種をもたらしている",
+      "summary": "インドネシア発の有毒な煙霧がシンガポールとマレーシアを覆い、両国政府は市民の不安と隣国との外交問題に直面している。これは環境問題が政治的緊張を引き起こす事例だ。"
+    }
+  },
+  "BD": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5af1a83f02a51f0776b3076af7d0bbd9",
+      "title": "Wage protests force hundreds of Bangladesh garment factories to close",
+      "url": "https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T03:59:02.000Z",
+      "description": "These factories, which manufacture for brands like H&M and Uniqlo, rely on millions of lowly paid workers.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "BD",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "賃金抗議によりバングラデシュの衣料品工場数百社が閉鎖に追い込まれる",
+      "summary": "バングラデシュで賃上げを求める大規模な抗議活動が続き、H&Mやユニクロに供給する衣料品工場数百社が閉鎖。数百万人の低賃金労働者が影響を受けている。"
+    }
+  },
+  "AU": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "aa9578f0ff633d0afba3505404553c44",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T17:56:47.000Z",
+      "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 75,
+      "titleJa": "シドニーのボンダイビーチ襲撃事件を受け武装警察がパトロールを開始",
+      "summary": "シドニーのボンダイビーチで発生した襲撃事件を受け、武装した警察官がパトロールを開始した。これは昨年の致命的な銃撃事件への対応策の一環である。"
+    }
+  },
+  "CN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "66766630105f1310fb38760332c6ab8d",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T03:58:38.000Z",
+      "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CN",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 55,
+      "titleJa": "中国国営放送、エムバペのジョークを受けラ・リーガの試合放送を中止",
+      "summary": "中国の国営放送が、サッカー選手エムバペに関するジョークを理由に、スペインのプロサッカーリーグ「ラ・リーガ」の試合放送を停止した。放送停止期間は不明。"
+    }
+  },
+  "KR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "837c0162c36c0b722e39565dae60bb93",
+      "title": "Why did this Korean content creator throw a divorce ceremony?",
+      "url": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T22:01:39.000Z",
+      "description": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "KR",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 40,
+      "titleJa": "韓国人コンテンツクリエイターが離婚式を挙げた理由とは？",
+      "summary": "韓国のコンテンツクリエイター、チョ・スンヨンさんが、結婚の終わりを祝う「離婚式」を執り行った。オンライン上ではこの行為に対し賛否両論が巻き起こっている。"
+    }
+  },
+  "CK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "2e748fdb79dc283fbfe94b5f47d802cb",
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T23:06:13.000Z",
+      "description": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "CK",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 45,
+      "titleJa": "私は何年も太平洋の小さな島に閉じ込められ、帰国するための乗り継ぎビザが取得できない",
+      "summary": "スリランカ人女性が2023年からクック諸島に足止めされ、故郷への乗り継ぎビザが取得できずにいる。何年も小さな太平洋の島で立ち往生する彼女の窮状が報じられた。"
+    }
+  },
+  "CI": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b7860966e1a4ba50352a87e93b381c2f",
+      "title": "Côte d'Ivoire President: Re-globalization an opportunity to move beyond traditional trade",
+      "url": "https://www.wto.org/english/news_e/news26_e/pls_29oct26_530_e.htm",
+      "published_at": "2026-10-29T00:00:00.000Z",
+      "description": "\"Re-globalization presents an opportunity for developing countries to move beyond their traditional areas of specialization in exporting primary products, and to occupy a more prominent place in the spheres of innovation, transformation, industrial production and marketing.\" That was the key message on 29 October of H.E. Alassane Ouattara, President of Côte d'Ivoire, who delivered the latest edition of the Presidential Lecture under the WTO’s Presidential Lecture Series.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "CI",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "コートジボワール大統領：「再グローバル化」は伝統的貿易を超える機会",
+      "summary": "コートジボワール大統領は、再グローバル化が開発途上国にとって一次産品輸出から脱却し、イノベーション、変革、産業生産、マーケティングでより重要な役割を担う機会だと述べた。"
+    }
+  }
+}
