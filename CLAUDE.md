@@ -5,7 +5,7 @@
 **NewsScope Daily** は、世界中のRSSフィードから記事を収集し、Google Gemini APIで日本語に翻訳・要約して GitHub Pages に配信する自動ニュースアグリゲーター。
 
 - Live: https://pxrllc.github.io/NewScopeDaily/
-- 毎日 JST 4:00 (UTC 19:00) に GitHub Actions で自動実行
+- 毎日 JST 0:00 (UTC 15:00) に GitHub Actions で自動実行（実際の開始は3〜9時間遅れることが多い）
 
 ## 技術スタック
 
@@ -75,6 +75,13 @@ GitHub Actions では `secrets.GEMINI_API_KEY` を使用。
 5. **Generate**: `public/data/daily/YYYY-MM-DD/` に JSON + Markdown を出力
 6. **Manifest**: `available-dates.json` を更新（フロントエンドの日付ナビ用）
 
+## Gemini の thinking 設定（コスト方針）
+
+- 記事処理（`enrichBatch`）と疎通確認は **thinking OFF**（`thinkingBudget: 0`）。2026-11 の A/B 検証で、ON にしても精度が上がらず費用が約 3.5 倍になることを確認
+- 世界／地域サマリーは **thinking ON**（API デフォルト）。ON のほうが品質が明確に高い（地名の取り違えなどが減る）
+- 月額の目安は約 $3。検証ツール: `npm run thinking-ab`（thinking ON/OFF の比較）、`npm run compare`（OpenRouter の他モデルとの比較）。結果は `compare-results/`（gitignore 済み）に出力
+- サマリー内のリンクは Gemini の出力が不安定なため、`summary-links.ts` で記事タイトルと照合し、Markdown リンクに後から変換している
+
 ## データ品質方針
 
 - Gemini処理済みの記事のみ最終データに含める（生データは含めない）
@@ -82,7 +89,7 @@ GitHub Actions では `secrets.GEMINI_API_KEY` を使用。
 
 ## GitHub Actions ワークフロー
 
-- スケジュール: `0 19 * * *` (UTC) = JST 朝4時
+- スケジュール: `0 15 * * *` (UTC) = JST 0時。GitHub の遅延で開始が JST 0時をまたぐと日付が欠ける／重複するため、この時刻にしている
 - `npm run batch` 実行後、`peaceiris/actions-gh-pages@v3` でデプロイ
 - ログと生成データを `main` ブランチにコミット（`[skip ci]` 付き）
 - `permissions: contents: write` が必要

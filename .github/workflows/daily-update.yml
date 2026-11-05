@@ -2,8 +2,11 @@ name: Daily News Update
 
 on:
   schedule:
-    # Run at 10:00 UTC (19:00 JST) every day — avoids US peak hours
-    - cron: '0 10 * * *'
+    # 15:00 UTC = 00:00 JST. GitHub often delays scheduled runs by 3-9h; the
+    # batch uses the JST date at start time, so starting at JST midnight keeps
+    # every delayed start (~03:00-09:00 JST) on the same JST date and avoids
+    # skipped/duplicated days (seen 2026-10 with the old 10:00 UTC cron).
+    - cron: '0 15 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:

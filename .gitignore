@@ -20,3 +20,6 @@ dist/
 .antigravitycli/
 .claude/
 
+
+# Model comparison output
+compare-results/

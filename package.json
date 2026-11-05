@@ -9,7 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "batch": "ts-node src/backend/batch-runner.ts",
-    "dev": "npx http-server public -p 8080"
+    "dev": "npx http-server public -p 8080",
+    "compare": "ts-node src/tools/compare-models.ts",
+    "thinking-ab": "ts-node src/tools/thinking-ab.ts"
   },
   "keywords": [],
   "author": "",
