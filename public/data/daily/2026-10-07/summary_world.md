@@ -7,48 +7,48 @@
 ドイツは、元対外情報機関（BND）長官アウグスト・ハニング氏が外国勢力のためにスパイ活動を行った疑いで逮捕されるという、前例のない国家を揺るがすスキャンダルに直面しています。これと同時に、極右政党「ドイツのための選択肢（AfD）」の候補者が、戦後初めて地方議会の議長に選出され、ドイツ政治における新たな転換点を示しています。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Former German spy chief arrested for espionage and treason (DE)": 「元ドイツスパイ機関トップ、スパイ活動と反逆罪で逮捕」- アウグスト・ハニング氏が外国勢力のために機密情報を入手した疑いで逮捕されたことを速報し、その詳細を伝える。
-- **[DW – Top Stories]**: "Germany is shaken by an espionage and treason scandal (DE)": 「ドイツ、スパイ活動と反逆罪スキャンダルに揺れる」- ハニング氏の逮捕がドイツ当局者としては異例の地位の人物による反逆罪容疑であり、国内に広がる衝撃を強調している。
-- **[BBC – World News]**: "AfD candidate elected speaker of German regional parliament for first time (DE)": 「AfD候補、ドイツ地方議会議長に史上初選出」- 極右政党AfDのトビアス・ラウシュ氏がドイツの地方議会で初めて議長に選出されたという、象徴的だが画期的な出来事を報じる。
-- **[DW – Top Stories]**: "Germany's far-right AfD makes history again in Saxony-Anhalt (DE)": 「ドイツの極右AfD、ザクセン＝アンハルト州で再び歴史を作る」- ザクセン＝アンハルト州議会でAfDのラウシュ氏が議長に選出されたことを「戦後初」として歴史的意義を強調し、極右政党の台頭を報じる。
+- **[BBC – World News]**: "[Former German spy chief arrested for espionage and treason](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)": 「元ドイツスパイ機関トップ、スパイ活動と反逆罪で逮捕」- アウグスト・ハニング氏が外国勢力のために機密情報を入手した疑いで逮捕されたことを速報し、その詳細を伝える。
+- **[DW – Top Stories]**: "[Germany is shaken by an espionage and treason scandal](https://www.dw.com/en/germany-is-shaken-by-an-espionage-and-treason-scandal/a-79566578?maca=en-rss-en-top-1022-rdf)": 「ドイツ、スパイ活動と反逆罪スキャンダルに揺れる」- ハニング氏の逮捕がドイツ当局者としては異例の地位の人物による反逆罪容疑であり、国内に広がる衝撃を強調している。
+- **[BBC – World News]**: "[AfD candidate elected speaker of German regional parliament for first time](https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss)": 「AfD候補、ドイツ地方議会議長に史上初選出」- 極右政党AfDのトビアス・ラウシュ氏がドイツの地方議会で初めて議長に選出されたという、象徴的だが画期的な出来事を報じる。
+- **[DW – Top Stories]**: "[Germany's far-right AfD makes history again in Saxony-Anhalt](https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-top-1022-rdf)": 「ドイツの極右AfD、ザクセン＝アンハルト州で再び歴史を作る」- ザクセン＝アンハルト州議会でAfDのラウシュ氏が議長に選出されたことを「戦後初」として歴史的意義を強調し、極右政党の台頭を報じる。
 
 ### 2. ティグレ紛争の再燃と地域への波及懸念
 ** 概要:**
 エチオピアのティグレ州で、連邦政府とティグレ人民解放戦線（TPLF）の間で戦闘が再燃し、2022年の和平合意が崩壊しました。新たに結成された武装勢力同盟が15歳という若い少年を強制的に徴募しているとの報告があり、紛争が隣国エリトリアへ波及する可能性も高まっています。人道危機への懸念が深まる中、地域の安定が脅かされています。
 
 ** 各国の視点:**
-- **[DW – Top Stories]**: "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric (ET)": 「ティグレ戦争、アビー・アハメド首相のレトリックによりエリトリアに波及の恐れ」- アビー・アハメド首相のレトリックが紛争をエリトリアに波及させる可能性があり、地域の同盟が彼に反抗していると指摘。
-- **[The Guardian – World]**: "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads (ET)": 「ティグレ反乱軍、戦闘拡大で15歳以下の少年を『強制徴募』か」- ティグレの反乱グループが15歳以下の少年を強制徴募しているとの報告に焦点を当て、新たな人道危機への懸念を伝える。
-- **[BBC – Africa]**: "Ethiopian rebel forces withdraw from Tigray regional capital (ET)": 「エチオピア反乱軍、ティグレ州都から撤退」- ティグレ州都メケレから反政府勢力が撤退し、親政府軍が都市を掌握したと報じる。
-- **[BBC – Africa]**: "Why are Ethiopia's rebels joining forces? (ET)": 「なぜエチオピアの反乱軍は連携するのか？」- エチオピア全土の7つの反政府勢力がアビー・アハメド政権に対抗する新たな同盟を発表した理由と背景を探る。
+- **[DW – Top Stories]**: "[Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric](https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-top-1022-rdf)": 「ティグレ戦争、アビー・アハメド首相のレトリックによりエリトリアに波及の恐れ」- アビー・アハメド首相のレトリックが紛争をエリトリアに波及させる可能性があり、地域の同盟が彼に反抗していると指摘。
+- **[The Guardian – World]**: "[Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads](https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes)": 「ティグレ反乱軍、戦闘拡大で15歳以下の少年を『強制徴募』か」- ティグレの反乱グループが15歳以下の少年を強制徴募しているとの報告に焦点を当て、新たな人道危機への懸念を伝える。
+- **[BBC – Africa]**: "[Ethiopian rebel forces withdraw from Tigray regional capital](https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss)": 「エチオピア反乱軍、ティグレ州都から撤退」- ティグレ州都メケレから反政府勢力が撤退し、親政府軍が都市を掌握したと報じる。
+- **[BBC – Africa]**: "[Why are Ethiopia's rebels joining forces?](https://www.bbc.co.uk/news/videos/c6n45epzdgk8o?at_medium=RSS&at_campaign=rss)": 「なぜエチオピアの反乱軍は連携するのか？」- エチオピア全土の7つの反政府勢力がアビー・アハメド政権に対抗する新たな同盟を発表した理由と背景を探る。
 
 ### 3. ブラジル大統領選で極右勢力が躍進
 ** 概要:**
 ブラジルの大統領選挙第一回投票で、ジャイール・ボルソナロ元大統領の長男フラビオ・ボルソナロ氏が予想外の首位に立ち、極右勢力が強力な波を巻き起こしました。左派現職のルイス・イナシオ・ルーラ・ダ・シルバ大統領との決選投票に進むこととなり、ボルソナロ家がブラジル政治に新たな政治王朝を築きつつあることを示しています。
 
 ** 各国の視点:**
-- **[The Guardian – World]**: "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory (BR)": 「フラビオ・ボルソナロ氏、衝撃の第一回投票勝利後、ブラジル大統領就任へ態勢整う」- フラビオ・ボルソナロ氏が驚きの第一回投票勝利を収め、大統領職を勝ち取る態勢にあることを報じ、進歩派有権者を動揺させていると伝える。
-- **[The Guardian – World]**: "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro (BR)": 「フラビオ氏の予想外の第一回投票勝利が、ブラジルのボルソナロ家の急速な台頭を浮き彫りにする」- フラビオ氏の勝利がボルソナロ元大統領の政治王朝構築を強調し、彼の妻や他の息子たちも議会選挙で議席を獲得したことを指摘。
-- **[BBC – Latin America & Caribbean]**: "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election (BR)": 「フラビオ・ボルソナロ氏、右翼の波に乗りブラジル大統領選第一回投票を制す」- フラビオ・ボルソナロ氏の成功がラテンアメリカにおける右翼支持の復活の最新例である可能性に焦点を当てて報じる。
+- **[The Guardian – World]**: "[Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory](https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory)": 「フラビオ・ボルソナロ氏、衝撃の第一回投票勝利後、ブラジル大統領就任へ態勢整う」- フラビオ・ボルソナロ氏が驚きの第一回投票勝利を収め、大統領職を勝ち取る態勢にあることを報じ、進歩派有権者を動揺させていると伝える。
+- **[The Guardian – World]**: "[Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro](https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty)": 「フラビオ氏の予想外の第一回投票勝利が、ブラジルのボルソナロ家の急速な台頭を浮き彫りにする」- フラビオ氏の勝利がボルソナロ元大統領の政治王朝構築を強調し、彼の妻や他の息子たちも議会選挙で議席を獲得したことを指摘。
+- **[BBC – Latin America & Caribbean]**: "[Flávio Bolsonaro rides right-wing wave to win first round of Brazil election](https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss)": 「フラビオ・ボルソナロ氏、右翼の波に乗りブラジル大統領選第一回投票を制す」- フラビオ・ボルソナロ氏の成功がラテンアメリカにおける右翼支持の復活の最新例である可能性に焦点を当てて報じる。
 
 ### 4. 黒海でのドローン攻撃とウクライナ戦争の波及
 ** 概要:**
 黒海でドローン攻撃により船が沈没し、乗組員が行方不明となる事件が発生しました。犯行主体は不明ですが、ロシアがウクライナ侵攻の一環として黒海での攻撃を強化している最中の出来事です。ブルガリアも自国水域で2隻の商船がドローン攻撃を受けたと報告しており、紛争の地理的範囲が拡大し、国際的な航行安全への懸念が高まっています。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Ship sinks and crew missing after Black Sea drone attack (UA)": 「黒海でのドローン攻撃後、船が沈没し乗組員が行方不明に」- 黒海でのドローン攻撃により船が沈没し、乗組員が行方不明になっていることを報じ、ロシアがウクライナ戦争の一環として攻撃を強化している背景を伝える。
-- **[Al Jazeera – All]**: "Bulgaria searches for missing crew after drones hit two ships in Black Sea (BG)": 「ブルガリア、黒海でドローンに2隻の船が攻撃された後、行方不明の乗組員を捜索」- ブルガリアが自国水域で2隻の商業船舶がドローン攻撃を受けたと発表し、行方不明の乗組員の捜索を開始したことを伝える。
+- **[BBC – World News]**: "[Ship sinks and crew missing after Black Sea drone attack](https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss)": 「黒海でのドローン攻撃後、船が沈没し乗組員が行方不明に」- 黒海でのドローン攻撃により船が沈没し、乗組員が行方不明になっていることを報じ、ロシアがウクライナ戦争の一環として攻撃を強化している背景を伝える。
+- **[Al Jazeera – All]**: "[Bulgaria searches for missing crew after drones hit two ships in Black Sea](https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss)": 「ブルガリア、黒海でドローンに2隻の船が攻撃された後、行方不明の乗組員を捜索」- ブルガリアが自国水域で2隻の商業船舶がドローン攻撃を受けたと発表し、行方不明の乗組員の捜索を開始したことを伝える。
 
 ### 5. フライデューバイ機襲撃事件：副操縦士による墜落未遂
 ** 概要:**
 イスラエルに向かっていたフライデューバイ機内で、副操縦士が斧で機長を襲撃し、飛行機をテルアビブ空港または建物に墜落させようとする衝撃的な事件が発生しました。機長がコックピットのドアを開けて乗員を呼び込んだことで事態は収束し、多数の命が救われました。しかし、副操縦士の背景を巡っては「イスラム過激派の教化」との見方も出ており、オーストラリア当局も彼の国内での関連性を調査するなど、国際的な安全保障上の懸念が広がっています。
 
 ** 各国の視点:**
-- **[BBC – Middle East]**: "Flydubai co-pilot attacked captain with axe, UAE official says (AE)": 「フライデューバイ副操縦士が機長を斧で襲撃、UAE当局者発表」- アラブ首長国連邦当局者の話として、イスラエル行きジェット機を乗っ取ろうとした男が斧で機長を攻撃したと報じる。
-- **[BBC – Middle East]**: "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot (IN)": 「『他の人々を死なせるわけにはいかなかった』－フライデューバイ機長、副操縦士によるコックピット襲撃を語る」- 機長がインドのモディ首相に、攻撃中にコックピットのドアを開けて他者を中に入れた経緯を語ったことを伝える。
-- **[BBC – Middle East]**: "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination' (IL)": 「ネタニヤフ首相、フライデューバイ襲撃犯は『イスラム過激派の教化』を受けていたと発言」- イスラエルのネタニヤフ首相が、フライデューバイ機を乗っ取ろうとした副操縦士は「イスラム過激派の教化」を受けており、明らかに「飛行機を墜落させる」意図があったと述べたことを報じる。
-- **[BBC – Middle East]**: "Australia investigating Flydubai co-pilot's links to country (AU)": 「オーストラリア、フライデューバイ副操縦士の国内との関連を調査」- オーストラリアの州警察と治安機関が、イスラエル行きフライデューバイ機を乗っ取ろうとした副操縦士の同国との関連性を調査していることを伝える。
-- **[BBC – Middle East]**: "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say (IL)": 「フライデューバイ副操縦士、テルアビブ空港または建物への墜落を計画か」- 副操縦士がテルアビブ空港か建物に墜落させる計画だったという報道に触れる。
+- **[BBC – Middle East]**: "[Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)": 「フライデューバイ副操縦士が機長を斧で襲撃、UAE当局者発表」- アラブ首長国連邦当局者の話として、イスラエル行きジェット機を乗っ取ろうとした男が斧で機長を攻撃したと報じる。
+- **[BBC – Middle East]**: "['I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)": 「『他の人々を死なせるわけにはいかなかった』－フライデューバイ機長、副操縦士によるコックピット襲撃を語る」- 機長がインドのモディ首相に、攻撃中にコックピットのドアを開けて他者を中に入れた経緯を語ったことを伝える。
+- **[BBC – Middle East]**: "[Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss)": 「ネタニヤフ首相、フライデューバイ襲撃犯は『イスラム過激派の教化』を受けていたと発言」- イスラエルのネタニヤフ首相が、フライデューバイ機を乗っ取ろうとした副操縦士は「イスラム過激派の教化」を受けており、明らかに「飛行機を墜落させる」意図があったと述べたことを報じる。
+- **[BBC – Middle East]**: "[Australia investigating Flydubai co-pilot's links to country](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)": 「オーストラリア、フライデューバイ副操縦士の国内との関連を調査」- オーストラリアの州警察と治安機関が、イスラエル行きフライデューバイ機を乗っ取ろうとした副操縦士の同国との関連性を調査していることを伝える。
+- **[BBC – Middle East]**: "[Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say](https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss)": 「フライデューバイ副操縦士、テルアビブ空港または建物への墜落を計画か」- 副操縦士がテルアビブ空港か建物に墜落させる計画だったという報道に触れる。
 
 ---
 ** Global Headlines **

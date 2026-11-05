@@ -7,48 +7,48 @@
 ベネズエラを襲った双子の地震とその後の強い余震により、死者1,700人以上、数万人が行方不明となる壊滅的な被害が発生しています。被災地では、政府の支援不足に対する住民の怒りが高まっており、自力での救助活動が続く中、米国から強制送還されたばかりのベネズエラ人100人以上が、地震発生時に収容されていたホテルの倒壊により行方不明となる悲劇も起きています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Angry Venezuelans accuse government of negligence over earthquake response (VE)": 人々は政府の支援不足を非難し、生存者救出に自力で取り組む状況を報じています。
-- **The Guardian – World**: "Strong aftershock terrifies Venezuelans days after devastating twin quakes (VE)": 死者1,719人、数万人が行方不明という被害規模と、政府対応への不満、さらに余震が住民を恐怖に陥れている現状を伝えています。
-- **The Guardian – World**: "Venezuelans newly deported from US missing after hotel collapse (VE)": 地震発生時にラ・グアイラのホテルに収容されていた米国からの強制送還者が100人以上行方不明になっていると報じています。
+- **BBC – World News**: "[Angry Venezuelans accuse government of negligence over earthquake response](https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss)": 人々は政府の支援不足を非難し、生存者救出に自力で取り組む状況を報じています。
+- **The Guardian – World**: "[Strong aftershock terrifies Venezuelans days after devastating twin quakes](https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes)": 死者1,719人、数万人が行方不明という被害規模と、政府対応への不満、さらに余震が住民を恐怖に陥れている現状を伝えています。
+- **The Guardian – World**: "[Venezuelans newly deported from US missing after hotel collapse](https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake)": 地震発生時にラ・グアイラのホテルに収容されていた米国からの強制送還者が100人以上行方不明になっていると報じています。
 
 ### 2. 米イラン間の緊張と中東情勢
 ** 概要:**
 米国とイランの間で週末に複数回の攻撃が交換され、双方が停戦協定違反を主張し、中東情勢が再び緊迫しています。米国は新たなDoha協議の開催を発表しましたが、イラン側は凍結資金に関する代表団派遣のみを言及しており、協議の進展は不透明です。一方、イスラエルとレバノンは米国仲介で枠組み合意に署名しましたが、ヒズボラはこの合意に参加していません。
 
 ** 各国の視点:**
-- **BBC – World News**: "US says it has agreed to 'stand down' after exchange of strikes with Iran (XX)": 週末の攻撃応酬後、米国が停戦合意違反を互いに非難しつつ「中断」に合意したと発表したことを伝えています。
-- **DW – Top Stories**: "Middle East: Trump announces new Doha talks, Iran demurs (XX)": トランプ大統領がドーハでの新協議を発表するも、イランは凍結資金が議題の場合のみ参加を示唆し、協議の不行き届きを強調しています。
-- **Al Jazeera – All**: "Are US and Iranian negotiators meeting in Doha? What we know about talks (IR)": トランプ大統領は会談を望むと語るが、イランは凍結資金に関する代表団派遣に限定していると報じています。
-- **BBC – Middle East**: "Israel and Lebanon sign framework agreement after US-brokered talks (LB)": 米国仲介によるイスラエルとレバノンの枠組み合意署名を報じつつ、ヒズボラが不参加であることに言及しています。
+- **BBC – World News**: "[US says it has agreed to 'stand down' after exchange of strikes with Iran](https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss)": 週末の攻撃応酬後、米国が停戦合意違反を互いに非難しつつ「中断」に合意したと発表したことを伝えています。
+- **DW – Top Stories**: "[Middle East: Trump announces new Doha talks, Iran demurs](https://www.dw.com/en/middle-east-trump-announces-new-doha-talks-iran-demurs/live-77763482?maca=en-rss-en-top-1022-rdf)": トランプ大統領がドーハでの新協議を発表するも、イランは凍結資金が議題の場合のみ参加を示唆し、協議の不行き届きを強調しています。
+- **Al Jazeera – All**: "[Are US and Iranian negotiators meeting in Doha? What we know about talks](https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss)": トランプ大統領は会談を望むと語るが、イランは凍結資金に関する代表団派遣に限定していると報じています。
+- **BBC – Middle East**: "[Israel and Lebanon sign framework agreement after US-brokered talks](https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss)": 米国仲介によるイスラエルとレバノンの枠組み合意署名を報じつつ、ヒズボラが不参加であることに言及しています。
 
 ### 3. 南アフリカの反移民デモと治安部隊配備
 ** 概要:**
 南アフリカでは、反移民団体が不法滞在の移民に6月30日を非公式な出国期限として設定したことで、各地でデモが行われ、緊張が高まっています。2008年の反移民暴動の再発を懸念し、政府は全国の都市に警察部隊を配備し、ヨハネスブルグなどでは厳戒態勢が敷かれています。数千人が既に国外へ脱出したと報じられています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Heavy security in South Africa as anti-migrant protesters take to the streets (ZA)": 反移民団体が設定した期限を前に、数千人が国外へ脱出し、厳戒態勢の中でデモが行われていることを報じています。
-- **DW – Top Stories**: "South Africa on edge with anti-migrant protests underway (ZA)": 不法滞在移民の出国期限を巡り国内でデモが展開される中、当局は現時点での暴力発生は少ないと報告しています。
-- **The Guardian – World**: "Police units deployed across South Africa before anti-immigration marches (ZA)": 2008年の暴動再発への懸念から、政府が警察部隊を全国に配備し、ヨハネスブルグ中心部では厳戒態勢が敷かれている状況を詳報しています。
+- **BBC – World News**: "[Heavy security in South Africa as anti-migrant protesters take to the streets](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss)": 反移民団体が設定した期限を前に、数千人が国外へ脱出し、厳戒態勢の中でデモが行われていることを報じています。
+- **DW – Top Stories**: "[South Africa on edge with anti-migrant protests underway](https://www.dw.com/en/south-africa-on-edge-with-anti-migrant-protests-underway/live-77735079?maca=en-rss-en-top-1022-rdf)": 不法滞在移民の出国期限を巡り国内でデモが展開される中、当局は現時点での暴力発生は少ないと報告しています。
+- **The Guardian – World**: "[Police units deployed across South Africa before anti-immigration marches](https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests)": 2008年の暴動再発への懸念から、政府が警察部隊を全国に配備し、ヨハネスブルグ中心部では厳戒態勢が敷かれている状況を詳報しています。
 
 ### 4. 高官・富豪を巡る汚職・詐欺事件と司法判断
 ** 概要:**
 世界各地で高官や富豪による汚職や詐欺事件が相次ぎ、司法の裁きが下されています。インドネシアでは、配車アプリGojekの創業者で元教育大臣のナディエム・マカリム氏が汚職で有罪となり実刑判決を受けました。米国では、中国批判派を自称し詐欺スキームで支持者を集めた中国人実業家、郭文貴氏に30年の懲役刑が言い渡されました。また、モナコではウクライナのオリガルヒが爆弾テロで負傷する事件が発生しています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Founder of Asian super-app Gojek sentenced to years in jail for corruption (ID)": Gojek創業者兼元教育大臣のナディエム・マカリム氏が、ラップトップ取引に関する汚職で実刑判決を受けたことを報じています。
-- **BBC – World News**: "Chinese tycoon sentenced to 30 years in US jail (US)": 中国の批判者として詐欺行為を働いた中国人実業家、郭文貴氏が米国で30年の懲役刑を宣告されたと伝えています。
-- **Al Jazeera – All**: "Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption (ID)": インドネシアの裁判所がGojek共同創業者兼元教育大臣を権力乱用と国家損失の罪で10年の実刑判決を下したことを詳報しています。
-- **DW – Top Stories**: "Ukrainian oligarch reportedly injured in Monaco blast (MC)": ウクライナのオリガルヒ、ヴァディム・エルモラエフ氏がモナコでの爆発事件で負傷したと報じています。
+- **BBC – World News**: "[Founder of Asian super-app Gojek sentenced to years in jail for corruption](https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss)": Gojek創業者兼元教育大臣のナディエム・マカリム氏が、ラップトップ取引に関する汚職で実刑判決を受けたことを報じています。
+- **BBC – World News**: "[Chinese tycoon sentenced to 30 years in US jail](https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss)": 中国の批判者として詐欺行為を働いた中国人実業家、郭文貴氏が米国で30年の懲役刑を宣告されたと伝えています。
+- **Al Jazeera – All**: "[Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption](https://www.aljazeera.com/economy/2026/6/30/gojek-co-founder-nadiem-makarim-sentenced-to-10-years-for-corruption?traffic_source=rss)": インドネシアの裁判所がGojek共同創業者兼元教育大臣を権力乱用と国家損失の罪で10年の実刑判決を下したことを詳報しています。
+- **DW – Top Stories**: "[Ukrainian oligarch reportedly injured in Monaco blast](https://www.dw.com/en/ukrainian-oligarch-reportedly-injured-in-monaco-blast/a-77763150?maca=en-rss-en-top-1022-rdf)": ウクライナのオリガルヒ、ヴァディム・エルモラエフ氏がモナコでの爆発事件で負傷したと報じています。
 
 ### 5. 米最高裁の重要判決とドイツのW杯早期敗退
 ** 概要:**
 米国最高裁は、大統領の規制当局者の罷免・交代権限を拡大する判決でトランプ氏に一つ大きな勝利をもたらしましたが、他の3つの判決は郵便投票やE.ジーン・キャロル氏の訴訟、リサ・クック氏の解雇に関するもので、トランプ氏にとって大きな後退となりました。一方、サッカーの2026年FIFAワールドカップでは、優勝候補の一角と目されていたドイツがパラグアイとの試合でPK戦の末に敗れ、3大会連続で早期敗退という衝撃的な結果となりました。
 
 ** 各国の視点:**
-- **BBC – World News**: "One big win and three defeats for Trump in dramatic day at Supreme Court (US)": トランプ氏が最高裁で大統領権限拡大に関する勝利を得たものの、他の判決で大きな打撃を受けたことを報じています。
-- **Al Jazeera – All**: "US Supreme Court hands Trump 3-1 defeat in key rulings: What we know (US)": 最高裁が郵便投票、E.ジーン・キャロル氏の訴訟、リサ・クック氏の解雇に関する重要な判決で、トランプ氏に3対1の敗北を与えたと伝えています。
-- **DW – Top Stories**: "Germany out of 2026 World Cup: What went wrong? (DE)": ドイツが3大会連続でワールドカップから早期敗退した原因について分析しています。
-- **BBC – Europe**: "The end for Nagelsmann? Germany suffer their 'next football nightmare' (DE)": ドイツがパラグアイ戦でのPK戦敗退により、W杯ベスト32で敗退した衝撃を報じ、監督への重圧に言及しています。
+- **BBC – World News**: "[One big win and three defeats for Trump in dramatic day at Supreme Court](https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss)": トランプ氏が最高裁で大統領権限拡大に関する勝利を得たものの、他の判決で大きな打撃を受けたことを報じています。
+- **Al Jazeera – All**: "[US Supreme Court hands Trump 3-1 defeat in key rulings: What we know](https://www.aljazeera.com/news/2026/6/30/us-supreme-court-hands-trump-3-1-defeat-in-key-rulings-what-we-know?traffic_source=rss)": 最高裁が郵便投票、E.ジーン・キャロル氏の訴訟、リサ・クック氏の解雇に関する重要な判決で、トランプ氏に3対1の敗北を与えたと伝えています。
+- **DW – Top Stories**: "[Germany out of 2026 World Cup: What went wrong?](https://www.dw.com/en/germany-out-of-2026-world-cup-what-went-wrong/a-77764683?maca=en-rss-en-top-1022-rdf)": ドイツが3大会連続でワールドカップから早期敗退した原因について分析しています。
+- **BBC – Europe**: "[The end for Nagelsmann? Germany suffer their 'next football nightmare'](https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss)": ドイツがパラグアイ戦でのPK戦敗退により、W杯ベスト32で敗退した衝撃を報じ、監督への重圧に言及しています。
 
 ---
 ** Global Headlines **

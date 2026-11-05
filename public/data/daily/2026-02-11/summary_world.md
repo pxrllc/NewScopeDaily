@@ -7,51 +7,51 @@
 米国の性犯罪者ジェフリー・エプスタインに関連する文書の公開が、米国、ドイツ、ノルウェー、フランス、インドなど世界各地で広範な影響を及ぼしています。政府高官、著名人、エンターテインメント業界関係者らの関与が疑われ、辞任要求、捜査の開始、公の場での謝罪、さらには抗議活動に発展するなど、その波紋は国際的な政治・社会問題にまで及んでいます。
 
 ** 各国の視点:**
-- **BBC – World News**: "US lawmakers accuse justice department of 'inappropriately' redacting Epstein files (US)" - 米国の共和党と民主党の議員が司法省に対し、エプスタイン関連ファイルの「不適切な編集」が透明性法に違反すると非難しています。
-- **BBC – World News**: "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout (US)" - エプスタイン文書でギレーヌ・マックスウェルとのメールが明らかになったケイシー・ワッサーマン率いるタレントエージェンシーを、人気アーティストのチャペル・ローンが脱退しました。
-- **DW – Top Stories**: "Epstein files: Germany on high alert (DE)" - ドイツではジャーナリストたちがエプスタイン文書を精査しており、政治家たちは関係者の調査を求めています。
-- **BBC – Europe**: "Norway police investigate diplomat over Epstein links (NO)" - ノルウェー警察は、オスロ合意で重要な役割を果たした外交官モナ・ユールとその夫を、エプスタインとの関連性から「悪質な汚職」の疑いで捜査しています。
-- **BBC – Europe**: "France investigates ex-minister Jack Lang over Epstein links (FR)" - フランスの元文化大臣ジャック・ラングがエプスタインとの関連で「脱税収益のマネーロンダリング」の疑いで捜査され、公職を辞任しました。
-- **Al Jazeera – All**: "US Commerce Secretary Lutnick downplays Epstein ties amid resignation calls (US)" - 米商務長官であるルートニック氏が、エプスタインとの2012年の面会について辞任要求がある中でその関係性を軽視する発言をしました。
-- **Al Jazeera – All**: "Protests erupt in New Delhi over Indian PM’s name in Epstein files (IN)" - エプスタイン関連文書にインド首相の名前が挙げられたことを受け、ニューデリーで抗議デモが発生しました。
+- **BBC – World News**: "[US lawmakers accuse justice department of 'inappropriately' redacting Epstein files](https://www.bbc.com/news/articles/cn5gzepnw4lo?at_medium=RSS&at_campaign=rss)" - 米国の共和党と民主党の議員が司法省に対し、エプスタイン関連ファイルの「不適切な編集」が透明性法に違反すると非難しています。
+- **BBC – World News**: "[Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout](https://www.bbc.com/news/articles/cewz1keql5no?at_medium=RSS&at_campaign=rss)" - エプスタイン文書でギレーヌ・マックスウェルとのメールが明らかになったケイシー・ワッサーマン率いるタレントエージェンシーを、人気アーティストのチャペル・ローンが脱退しました。
+- **DW – Top Stories**: "[Epstein files: Germany on high alert](https://www.dw.com/en/epstein-files-germany-on-high-alert/a-75898626?maca=en-rss-en-top-1022-rdf)" - ドイツではジャーナリストたちがエプスタイン文書を精査しており、政治家たちは関係者の調査を求めています。
+- **BBC – Europe**: "[Norway police investigate diplomat over Epstein links](https://www.bbc.com/news/articles/c5yg8yrypejo?at_medium=RSS&at_campaign=rss)" - ノルウェー警察は、オスロ合意で重要な役割を果たした外交官モナ・ユールとその夫を、エプスタインとの関連性から「悪質な汚職」の疑いで捜査しています。
+- **BBC – Europe**: "[France investigates ex-minister Jack Lang over Epstein links](https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss)" - フランスの元文化大臣ジャック・ラングがエプスタインとの関連で「脱税収益のマネーロンダリング」の疑いで捜査され、公職を辞任しました。
+- **Al Jazeera – All**: "[US Commerce Secretary Lutnick downplays Epstein ties amid resignation calls](https://www.aljazeera.com/news/2026/2/10/us-commerce-secretary-lutnick-downplays-epstein-ties-amid-resignation-calls?traffic_source=rss)" - 米商務長官であるルートニック氏が、エプスタインとの2012年の面会について辞任要求がある中でその関係性を軽視する発言をしました。
+- **Al Jazeera – All**: "[Protests erupt in New Delhi over Indian PM’s name in Epstein files](https://www.aljazeera.com/video/newsfeed/2026/2/10/protests-erupt-in-new-delhi-over-indian-pms-name-in-epstein-files?traffic_source=rss)" - エプスタイン関連文書にインド首相の名前が挙げられたことを受け、ニューデリーで抗議デモが発生しました。
 
 ### 2. 米国の政策と国際関係への影響
 ** 概要:**
 ドナルド・トランプ前大統領の動向が、米国と国際社会の関係に再び大きな影響を及ぼしています。カナダとの国境橋開通への脅威や、イランと貿易する国々への関税示唆など、その政策は予測不能な要素をはらみ、各国は対米依存度を減らすための新たな同盟形成を模索しています。国内では移民政策の強化が引き続き焦点となっています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Trump threatens to block opening of US-Canada bridge (US)" - トランプ前大統領が、米国とカナダを結ぶゴルディー・ハウ国際橋の開通を阻止すると脅迫し、カナダ首相と会談しました。
-- **The Guardian – World**: "Mark Carney reminds Trump that Canada paid for key border bridge US president says he won’t open (CA)" - カナダのマーク・カーニー首相は、トランプ大統領に対し、国境橋はカナダが費用を負担し、米国も所有権を共有していることを強調しました。
-- **Al Jazeera – All**: "Facing a mercurial Trump, countries scramble to forge new alliances (XX)" - 各国がトランプ氏の予測不能な政策に直面し、対米依存度を減らすために旧来の確執を脇に置いて新たな同盟関係を模索しています。
-- **BBC – Middle East**: "Trump threatens tariffs for countries trading with Iran (US)" - トランプ氏が、イランと貿易する国々に対し、関税を課す可能性を示唆する大統領令を発表しました。
-- **DW – Top Stories**: "ICE chief tells US House agency is 'just getting started' (US)" - 米国の移民・関税執行局（ICE）長官は、下院委員会でトランプ政権の大規模な強制送還計画を擁護し、活動を強化すると述べました。
-- **The Guardian – World**: "US says two people killed in military strike on boat in Pacific (US)" - 米軍の南方軍が、東太平洋で麻薬密輸容疑者とされる2人を殺害する軍事作戦を実施したと発表しました。
-- **The Guardian – World**: "Air Canada cancels all flights to Cuba as US oil blockade cuts off fuel access (CU)" - 米国によるキューバへの石油禁輸措置により燃料不足に陥ったことを受け、エア・カナダがキューバへの全便を欠航しました。
+- **BBC – World News**: "[Trump threatens to block opening of US-Canada bridge](https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss)" - トランプ前大統領が、米国とカナダを結ぶゴルディー・ハウ国際橋の開通を阻止すると脅迫し、カナダ首相と会談しました。
+- **The Guardian – World**: "[Mark Carney reminds Trump that Canada paid for key border bridge US president says he won’t open](https://www.theguardian.com/us-news/2026/feb/10/trump-canada-windsor-detroit-bridge)" - カナダのマーク・カーニー首相は、トランプ大統領に対し、国境橋はカナダが費用を負担し、米国も所有権を共有していることを強調しました。
+- **Al Jazeera – All**: "[Facing a mercurial Trump, countries scramble to forge new alliances](https://www.aljazeera.com/economy/2026/2/10/facing-a-mercurial-trump-countries-scramble-to-forge-new-alliances?traffic_source=rss)" - 各国がトランプ氏の予測不能な政策に直面し、対米依存度を減らすために旧来の確執を脇に置いて新たな同盟関係を模索しています。
+- **BBC – Middle East**: "[Trump threatens tariffs for countries trading with Iran](https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss)" - トランプ氏が、イランと貿易する国々に対し、関税を課す可能性を示唆する大統領令を発表しました。
+- **DW – Top Stories**: "[ICE chief tells US House agency is 'just getting started'](https://www.dw.com/en/ice-chief-tells-us-house-agency-is-just-getting-started/a-75901381?maca=en-rss-en-top-1022-rdf)" - 米国の移民・関税執行局（ICE）長官は、下院委員会でトランプ政権の大規模な強制送還計画を擁護し、活動を強化すると述べました。
+- **The Guardian – World**: "[US says two people killed in military strike on boat in Pacific](https://www.theguardian.com/us-news/2026/feb/09/us-military-strike-pacific)" - 米軍の南方軍が、東太平洋で麻薬密輸容疑者とされる2人を殺害する軍事作戦を実施したと発表しました。
+- **The Guardian – World**: "[Air Canada cancels all flights to Cuba as US oil blockade cuts off fuel access](https://www.theguardian.com/world/2026/feb/09/air-canada-cancels-cuba-flights-fuel)" - 米国によるキューバへの石油禁輸措置により燃料不足に陥ったことを受け、エア・カナダがキューバへの全便を欠航しました。
 
 ### 3. 欧州の地政学的課題と内部情勢
 ** 概要:**
 欧州は、ウクライナ情勢、移民問題、域内経済の不安定性、そして世界における自らの役割という複数の課題に直面しています。マクロン仏大統領は、欧州が「世界の強国」として行動する必要性を訴え、EUは移民の第三国移送を承認する新たな規則を採択しました。また、ルフトハンザ航空のストライキやイタリアでの鉄道インフラへの破壊行為など、内部的な問題も発生しています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Macron urges Europe to start acting like world power (XX)" - フランスのマクロン大統領は、中国、ロシア、そして米国からの脅威が増大する中、欧州が「目を覚まし」、世界の強国として行動するよう促しました。
-- **DW – Top Stories**: "Ukraine updates: Europe to set its demands for Russia in peace talks (XX)" - EUのカイア・カラス氏が、ロシアとの和平交渉においてより強硬なEUの要求事項を設定する方針を示しました。
-- **Euronews – World**: "European Parliament clears way for transferring asylum seekers to unrelated countries (EU)" - 欧州議会が、EU加盟国が庇護申請者を、関連のない第三国へ移送できるようにする法改正を承認しました。
-- **Al Jazeera – All**: "EU votes to allow deportation of migrants to ‘safe’ third countries (XX)" - EUが、移民を「安全だと見なされる」第三国に送還することを許可する新規則を可決しました。
-- **DW – Top Stories**: "Lufthansa pilots, crew to strike on Thursday (DE)" - ルフトハンザ航空のパイロットと客室乗務員が年金問題で24時間ストライキを予定しており、大規模な運航混乱が予想されています。
-- **BBC – Europe**: "Italy says railways hit by 'serious sabotage' as Winter Olympics begin (IT)" - 冬季オリンピックが始まったイタリアで、鉄道インフラに対する「深刻な破壊行為」が発生し、警察が捜査を行っています。
+- **BBC – World News**: "[Macron urges Europe to start acting like world power](https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss)" - フランスのマクロン大統領は、中国、ロシア、そして米国からの脅威が増大する中、欧州が「目を覚まし」、世界の強国として行動するよう促しました。
+- **DW – Top Stories**: "[Ukraine updates: Europe to set its demands for Russia in peace talks](https://www.dw.com/en/ukraine-updates-europe-to-set-its-demands-for-russia-in-peace-talks/live-75896628?maca=en-rss-en-top-1022-rdf)" - EUのカイア・カラス氏が、ロシアとの和平交渉においてより強硬なEUの要求事項を設定する方針を示しました。
+- **Euronews – World**: "[European Parliament clears way for transferring asylum seekers to unrelated countries](http://www.euronews.com/my-europe/2026/02/10/european-parliament-clears-way-for-transferring-asylum-seekers-to-unrelated-countries)" - 欧州議会が、EU加盟国が庇護申請者を、関連のない第三国へ移送できるようにする法改正を承認しました。
+- **Al Jazeera – All**: "[EU votes to allow deportation of migrants to ‘safe’ third countries](https://www.aljazeera.com/news/2026/2/10/eu-votes-to-allow-deportation-of-migrants-to-safe-third-countries?traffic_source=rss)" - EUが、移民を「安全だと見なされる」第三国に送還することを許可する新規則を可決しました。
+- **DW – Top Stories**: "[Lufthansa pilots, crew to strike on Thursday](https://www.dw.com/en/lufthansa-pilots-crew-to-strike-on-thursday/a-75901363?maca=en-rss-en-top-1022-rdf)" - ルフトハンザ航空のパイロットと客室乗務員が年金問題で24時間ストライキを予定しており、大規模な運航混乱が予想されています。
+- **BBC – Europe**: "[Italy says railways hit by 'serious sabotage' as Winter Olympics begin](https://www.bbc.com/news/articles/czr4rx04xjpo?at_medium=RSS&at_campaign=rss)" - 冬季オリンピックが始まったイタリアで、鉄道インフラに対する「深刻な破壊行為」が発生し、警察が捜査を行っています。
 
 ### 4. 世界各地の紛争と人道危機
 ** 概要:**
 世界では複数の地域で紛争、移民危機、人権侵害が深刻化しています。地中海では難民船の転覆事故が相次ぎ、リビア沖で多数の死者・行方不明者が出ています。スーダンでは内戦が続く中、避難民へのドローン攻撃が発生。インドネシアはガザ地区への兵力派遣を準備しており、イランでは政府による抗議デモ弾圧が続いています。ケニアはロシアに対し、自国民の戦闘員利用について強く抗議しています。
 
 ** 各国の視点:**
-- **The Guardian – World**: "53 people dead or missing after migrant boat capsizes in Mediterranean (LY)" - 国連移民機関によると、地中海リビア沖で移民船が転覆し、53人が死亡または行方不明となり、生存者はわずか2人でした。
-- **BBC – Africa**: "Migrant boat capsizes off Libya leaving 53 dead (LY)" - 国際移住機関（IOM）は、今年に入ってリビア沖で約500人が死亡または行方不明になっていると報告し、移民の危険な渡航の現実を浮き彫りにしています。
-- **The Guardian – World**: "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group (SD)" - スーダン中央部で準軍事組織「即応支援部隊（RSF）」によるドローン攻撃があり、戦闘から避難中の家族を乗せた車両が被害を受け、子ども8人を含む24人が死亡しました。
-- **BBC – Middle East**: "Indonesia preparing to deploy up to 8,000 soldiers to Gaza (PS)" - インドネシアが、昨年の米国が仲介した停戦合意の第2段階として、ガザ地区に最大8,000人の兵士を派遣する準備を進めています。
-- **BBC – Middle East**: "Iran arrests reformists as crackdown on dissent widens, reports say (IR)" - イランでは、昨年の全国的な抗議デモ鎮圧後、主要な改革派連合の指導者らが逮捕されるなど、反体制派への弾圧が拡大しています。
-- **BBC – Middle East**: "Palestinians say new Israeli measures in West Bank amount to de facto annexation (PS)" - パレスチナ側は、イスラエルがヨルダン川西岸で導入した新たな措置が、土地法、計画、許認可、執行の面でイスラエルの支配を強化するものであり、事実上の併合にあたると主張しています。
-- **BBC – World News**: "Kenya to confront Russia over 'unacceptable' use of its nationals in combat (KE)" - ケニア政府は、自国民が紛争で戦闘員として「容認できない」使われ方をしているとしてロシア政府と対峙し、徴兵を禁止する協定の締結を求めると発表しました。
+- **The Guardian – World**: "[53 people dead or missing after migrant boat capsizes in Mediterranean](https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya)" - 国連移民機関によると、地中海リビア沖で移民船が転覆し、53人が死亡または行方不明となり、生存者はわずか2人でした。
+- **BBC – Africa**: "[Migrant boat capsizes off Libya leaving 53 dead](https://www.bbc.com/news/articles/cy9ge3844q0o?at_medium=RSS&at_campaign=rss)" - 国際移住機関（IOM）は、今年に入ってリビア沖で約500人が死亡または行方不明になっていると報告し、移民の危険な渡航の現実を浮き彫りにしています。
+- **The Guardian – World**: "[RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group](https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people)" - スーダン中央部で準軍事組織「即応支援部隊（RSF）」によるドローン攻撃があり、戦闘から避難中の家族を乗せた車両が被害を受け、子ども8人を含む24人が死亡しました。
+- **BBC – Middle East**: "[Indonesia preparing to deploy up to 8,000 soldiers to Gaza](https://www.bbc.com/news/articles/cvgjwpx9j2do?at_medium=RSS&at_campaign=rss)" - インドネシアが、昨年の米国が仲介した停戦合意の第2段階として、ガザ地区に最大8,000人の兵士を派遣する準備を進めています。
+- **BBC – Middle East**: "[Iran arrests reformists as crackdown on dissent widens, reports say](https://www.bbc.com/news/articles/cy03gnd74n5o?at_medium=RSS&at_campaign=rss)" - イランでは、昨年の全国的な抗議デモ鎮圧後、主要な改革派連合の指導者らが逮捕されるなど、反体制派への弾圧が拡大しています。
+- **BBC – Middle East**: "[Palestinians say new Israeli measures in West Bank amount to de facto annexation](https://www.bbc.com/news/articles/cvg5x2l3v0qo?at_medium=RSS&at_campaign=rss)" - パレスチナ側は、イスラエルがヨルダン川西岸で導入した新たな措置が、土地法、計画、許認可、執行の面でイスラエルの支配を強化するものであり、事実上の併合にあたると主張しています。
+- **BBC – World News**: "[Kenya to confront Russia over 'unacceptable' use of its nationals in combat](https://www.bbc.com/news/articles/c0k1jzvrykro?at_medium=RSS&at_campaign=rss)" - ケニア政府は、自国民が紛争で戦闘員として「容認できない」使われ方をしているとしてロシア政府と対峙し、徴兵を禁止する協定の締結を求めると発表しました。
 
 ---
 ** Global Headlines **

@@ -7,38 +7,38 @@
 米国はイランとその貿易パートナーに対する新たな「経済的D-Day」と称する広範な経済制裁を発表しました。これに対し、中国は米国の制裁を「違法」と非難し、イランは制裁に対抗する準備ができていると表明しています。この緊張が高まる中、トランプ大統領はイランが閉鎖していたホルムズ海峡から全ての機雷が撤去されたと発表し、世界の原油価格への影響が注目されています。
 
 **各国の視点:**
-- **[BBC – World News]**: "China hits out at 'illegal' new US sanctions on Iran and trading partners (CN)" - 米国がイランとその取引相手に新たな制裁を課し、イランの主要な石油輸出先である中国がこれを「違法」と強く批判しました。
-- **[BBC – Middle East]**: "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise (IR)" - トランプ大統領は制裁がイラン政権を打倒すると期待しているものの、イラン指導部はこれまでの制裁も乗り越えてきたと報じています。
-- **[BBC – Middle East]**: "Iran says it is 'fully prepared' to counter widened US economic sanctions (IR)" - イランは、米国が「経済的D-Day」と呼ぶ新たな広範な経済制裁に対し、「完全に準備ができている」と表明し、対応策を持つと強調しています。
+- **[BBC – World News]**: "[China hits out at 'illegal' new US sanctions on Iran and trading partners](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)" - 米国がイランとその取引相手に新たな制裁を課し、イランの主要な石油輸出先である中国がこれを「違法」と強く批判しました。
+- **[BBC – Middle East]**: "[Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise](https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss)" - トランプ大統領は制裁がイラン政権を打倒すると期待しているものの、イラン指導部はこれまでの制裁も乗り越えてきたと報じています。
+- **[BBC – Middle East]**: "[Iran says it is 'fully prepared' to counter widened US economic sanctions](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)" - イランは、米国が「経済的D-Day」と呼ぶ新たな広範な経済制裁に対し、「完全に準備ができている」と表明し、対応策を持つと強調しています。
 - **[BBC – Middle East]**: "Trump says all mines cleared from Strait of Hormuz (undefined)" - トランプ大統領が、紛争開始以来イランが閉鎖していたホルムズ海峡から全ての機雷が撤去されたと発表しました。
-- **[BBC – Middle East]**: "Who does Iran trade with and what could Trump's 'economic D-Day' mean? (IR)" - イランが長年にわたる米国の制裁下でどのような貿易関係を築いてきたか、そしてトランプ大統領の「経済的D-Day」が何を意味するのかを分析しています。
-- **[WTO – Latest News]**: "Global goods trade resilient in the first quarter of 2026 despite war in Middle East (XX)" - 中東での紛争が貿易データに与える影響について言及しており、特にホルムズ海峡での貿易混乱が次期四半期に本格的に現れると予測しています。
+- **[BBC – Middle East]**: "[Who does Iran trade with and what could Trump's 'economic D-Day' mean?](https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss)" - イランが長年にわたる米国の制裁下でどのような貿易関係を築いてきたか、そしてトランプ大統領の「経済的D-Day」が何を意味するのかを分析しています。
+- **[WTO – Latest News]**: "[Global goods trade resilient in the first quarter of 2026 despite war in Middle East](https://www.wto.org/english/news_e/news26_e/rese_31jul26_469_e.htm)" - 中東での紛争が貿易データに与える影響について言及しており、特にホルムズ海峡での貿易混乱が次期四半期に本格的に現れると予測しています。
 
 ### 2. イスラエル・パレスチナ情勢
 **概要:**
 イスラエルによるガザ地区への攻撃が続き、子供を含む5人が死亡したと報じられています。一方でヨルダン川西岸では、国際的な非難にもかかわらず、閉鎖されていた入植地が再建され、付近のパレスチナ住民に不安が広がっています。さらに、イスラエルの極右議員がパレスチナ人の追悼記念碑を破壊し、ネタニヤフ首相を含む広範な非難を浴びました。2024年のガザでの援助活動家殺害事件について、英国、カナダ、オーストラリアはイスラエルが刑事捜査を拒否したことを改めて非難しています。
 
 **各国の視点:**
-- **[BBC – Middle East]**: "Israeli attacks kill five in Gaza, including two children, medics say (PS)" - ガザ地区でイスラエル軍の攻撃により、月曜日に4歳の男児と10歳の女児を含む5人が死亡したと報じています。
-- **[BBC – Middle East]**: "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer (IL)" - イスラエルの極右議員ツヴィ・スコット氏がパレスチナ人の追悼記念碑を破壊し、ネタニヤフ首相からも非難されたことを報じています。
-- **[BBC – Middle East]**: "Israel re-establishes closed West Bank settlement, defying growing international protests (PS)" - イスラエルがヨルダン川西岸の閉鎖された入植地を再建し、これにより近くのパレスチナ住民に懸念が広がっていることを報じています。
-- **[BBC – Middle East]**: "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza (PS)" - 英国、カナダ、オーストラリアが、2024年のガザでのワールド・セントラル・キッチン（WCK）の援助活動家殺害事件に対する刑事捜査をイスラエルが拒否したことを非難しました。
+- **[BBC – Middle East]**: "[Israeli attacks kill five in Gaza, including two children, medics say](https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss)" - ガザ地区でイスラエル軍の攻撃により、月曜日に4歳の男児と10歳の女児を含む5人が死亡したと報じています。
+- **[BBC – Middle East]**: "[Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer](https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss)" - イスラエルの極右議員ツヴィ・スコット氏がパレスチナ人の追悼記念碑を破壊し、ネタニヤフ首相からも非難されたことを報じています。
+- **[BBC – Middle East]**: "[Israel re-establishes closed West Bank settlement, defying growing international protests](https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss)" - イスラエルがヨルダン川西岸の閉鎖された入植地を再建し、これにより近くのパレスチナ住民に懸念が広がっていることを報じています。
+- **[BBC – Middle East]**: "[UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza](https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss)" - 英国、カナダ、オーストラリアが、2024年のガザでのワールド・セントラル・キッチン（WCK）の援助活動家殺害事件に対する刑事捜査をイスラエルが拒否したことを非難しました。
 
 ### 3. シリア情勢の変動
 **概要:**
 シリアでは、米国と協力してISと戦ってきた主要なクルド人部隊であるシリア民主軍（SDF）が、ダマスカスの大統領宮殿でその解体を発表し、シリア軍との統合がなされました。この動きは、地域の権力バランスに大きな影響を与える可能性があります。また、アサド政権時代のグランドムフティが内戦扇動などの罪で終身刑を宣告され、国内の政治的な動きも活発化しています。さらに、イスラエルによるダマスカス近郊への攻撃が報告され、シリア政府はこれを国際法違反と非難しています。
 
 **各国の視点:**
-- **[Euronews – World]**: "Syria's main Kurdish force SDF ceases to exist after army merger (SY)" - シリア民主軍（SDF）がダマスカスの大統領宮殿で解散し、シリア軍と合併したことを報じており、IS対策における米国の主要パートナーであった部隊の終焉を伝えています。
-- **[BBC – Middle East]**: "Syria court sentences Assad-era grand mufti to life in prison (SY)" - シリアの裁判所が、アサド政権時代のグランドムフティであるアハメド・ハッスン氏に対し、内戦扇動などの罪で終身刑を宣告したことを報じています。
-- **[BBC – Middle East]**: "Syria says Israeli strike near Damascus violation of international law (SY)" - シリア政府が、ダマスカス近郊でのイスラエルによる攻撃を国際法違反であると非難していることを報じています。
+- **[Euronews – World]**: "[Syria's main Kurdish force SDF ceases to exist after army merger](http://www.euronews.com/2026/08/26/syrias-main-kurdish-force-sdf-ceases-to-exist-after-army-merger)" - シリア民主軍（SDF）がダマスカスの大統領宮殿で解散し、シリア軍と合併したことを報じており、IS対策における米国の主要パートナーであった部隊の終焉を伝えています。
+- **[BBC – Middle East]**: "[Syria court sentences Assad-era grand mufti to life in prison](https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss)" - シリアの裁判所が、アサド政権時代のグランドムフティであるアハメド・ハッスン氏に対し、内戦扇動などの罪で終身刑を宣告したことを報じています。
+- **[BBC – Middle East]**: "[Syria says Israeli strike near Damascus violation of international law](https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss)" - シリア政府が、ダマスカス近郊でのイスラエルによる攻撃を国際法違反であると非難していることを報じています。
 
 ### 4. リビア：ロッカービー爆破事件裁判の延期
 **概要:**
 1988年のロッカービー爆破事件に関与したとされるリビア人男性の裁判が、開始予定日の数日前に再び延期されました。37年前の事件に関する新たな証拠が3日前に判明したため、今回の延期で3度目となります。
 
 **各国の視点:**
-- **[BBC – World News]**: "Lockerbie bombing trial postponed days before it was due to start (LY)" - リビア人男性の裁判が、37年前の事件に関する新たな証拠の出現により、開始予定日の数日前に3度目の延期となったことを報じています。
+- **[BBC – World News]**: "[Lockerbie bombing trial postponed days before it was due to start](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)" - リビア人男性の裁判が、37年前の事件に関する新たな証拠の出現により、開始予定日の数日前に3度目の延期となったことを報じています。
 
 ---
 **Global Headlines**

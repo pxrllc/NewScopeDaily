@@ -7,47 +7,47 @@
 米国・イスラエルとイランの間で続く戦争が、世界的な地政学的緊張と経済的影響をもたらしています。アフリカ諸国では石油供給の混乱による電力制限や燃料希釈で対応を迫られ、米国はイランへの焦点を強めています。外交的な解決が模索される一方で、イラン側は米国との交渉を否定しており、パレスチナ自治区やレバノンでは紛争の拡大と人道危機が懸念されています。
 
 ** 各国の視点:**
-- **[Al Jazeera]**: "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands"(https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait) - トランプ大統領がイランが停戦交渉を「懇願している」と主張する一方、イランはホルムズ海峡の法的権利を主張し新たな要求を出していると報じています。
-- **[BBC – World News]**: "Rationing power and diluting petrol - how African countries are coping with effects of Iran war"(https://www.bbc.com/news/articles/cq8wkq1n6epo?at_medium=RSS&at_campaign=rss) - 石油供給の途絶により、アフリカ諸国が電力配給やガソリンの希釈でイラン戦争の影響に対応している現状を伝えています。
-- **[DW – Top Stories]**: "US war in Iran: China casts itself as savior of SE Asia"(https://www.dw.com/en/us-war-in-iran-china-casts-itself-as-savior-of-se-asia/a-76543061?maca=en-rss-en-top-1022-rdf) - 米国とイランの戦争が東南アジアで燃料価格高騰を引き起こす中、中国が地域の安定した信頼できるパートナーとして自らを位置づけていると分析しています。
-- **[Euronews – World]**: "Iran and Ukraine wars 'very much interlinked' by Russia, Kallas warns"(http://www.euronews.com/my-europe/2026/03/26/iran-and-ukraine-wars-very-much-interlinked-by-russia-kallas-warns) - カジャ・カラス高等代表が、中東での戦争がG7の地政学的な議題となる中、イランとウクライナの戦争はロシアによって「非常に強く関連している」と警告したことを報じています。
+- **[Al Jazeera]**: "[Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands](https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss)" - トランプ大統領がイランが停戦交渉を「懇願している」と主張する一方、イランはホルムズ海峡の法的権利を主張し新たな要求を出していると報じています。
+- **[BBC – World News]**: "[Rationing power and diluting petrol - how African countries are coping with effects of Iran war](https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss)" - 石油供給の途絶により、アフリカ諸国が電力配給やガソリンの希釈でイラン戦争の影響に対応している現状を伝えています。
+- **[DW – Top Stories]**: "[US war in Iran: China casts itself as savior of SE Asia](https://www.dw.com/en/us-war-in-iran-china-casts-itself-as-savior-of-se-asia/a-76543061?maca=en-rss-en-top-1022-rdf)" - 米国とイランの戦争が東南アジアで燃料価格高騰を引き起こす中、中国が地域の安定した信頼できるパートナーとして自らを位置づけていると分析しています。
+- **[Euronews – World]**: "[Iran and Ukraine wars 'very much interlinked' by Russia, Kallas warns](http://www.euronews.com/my-europe/2026/03/26/iran-and-ukraine-wars-very-much-interlinked-by-russia-kallas-warns)" - カジャ・カラス高等代表が、中東での戦争がG7の地政学的な議題となる中、イランとウクライナの戦争はロシアによって「非常に強く関連している」と警告したことを報じています。
 
 ### 2. ウクライナ戦争と米国の方針
 ** 概要:**
 ウクライナのゼレンスキー大統領が、米国が将来の安全保障の保証をドンバス地域からの撤退と結びつけていると発言しました。これは、米国がイランへの関心を強める中で、ウクライナがドローン技術の協力を模索し、サウジアラビアを訪問するなど、新たな外交努力を続ける中で明らかにされました。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise"(https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss) - 米国がイランに注力する中、ウクライナがドローン技術の専門知識を提供し、サウジアラビアを訪問する緊急性が高まっていると報じています。
-- **[DW – Top Stories]**: "Ukraine: US tied guarantees to Donbas withdrawal — Zelenskyy"(https://www.dw.com/en/ukraine-us-tied-guarantees-to-donbas-withdrawal-zelenskyy/a-76544649?maca=en-rss-en-top-1022-rdf) - ゼレンスキー大統領が、米国がウクライナへの将来の安全保障の保証をドンバス地域からの撤退と結びつけていると発言したことを伝えています。
-- **[The Guardian – World]**: "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas"(https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas) - ウクライナ大統領が、米国が提案した和平案にはロシアへの土地の引き渡しが含まれると述べたことを報じています。
+- **[BBC – World News]**: "[Zelensky visits Saudi Arabia after offering Ukraine's drone expertise](https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss)" - 米国がイランに注力する中、ウクライナがドローン技術の専門知識を提供し、サウジアラビアを訪問する緊急性が高まっていると報じています。
+- **[DW – Top Stories]**: "[Ukraine: US tied guarantees to Donbas withdrawal — Zelenskyy](https://www.dw.com/en/ukraine-us-tied-guarantees-to-donbas-withdrawal-zelenskyy/a-76544649?maca=en-rss-en-top-1022-rdf)" - ゼレンスキー大統領が、米国がウクライナへの将来の安全保障の保証をドンバス地域からの撤退と結びつけていると発言したことを伝えています。
+- **[The Guardian – World]**: "[Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas](https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas)" - ウクライナ大統領が、米国が提案した和平案にはロシアへの土地の引き渡しが含まれると述べたことを報じています。
 
 ### 3. 奴隷制度の償還に関する国際的議論
 ** 概要:**
 国連が歴史的な決議で大西洋奴隷貿易を「人道に対する最も重大な犯罪」と認定し、償還のための具体的な措置を求めました。アフリカ連合やカリブ共同体が支持するこの決議は、元植民地諸国に対し、謝罪と償還基金への貢献を求める国際的な議論を加速させています。
 
 ** 各国の視点:**
-- **[DW – Top Stories]**: "UN resolution fuels global slavery reparations debate"(https://www.dw.com/en/un-resolution-fuels-global-slavery-reparations-debate/a-76548380?maca=en-rss-en-top-1022-rdf) - 画期的な国連決議が、大西洋奴隷貿易に対する償還を求める議論を激化させていることを伝えています。
-- **[The Guardian – World]**: "UN votes to describe slave trade as ‘gravest crime against humanity’"(https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice) - 国連が、大西洋奴隷貿易を「人道に対する最も重大な犯罪」と表現する決議を採択し、歴史的な過ちを是正するための「具体的な一歩」として償還を求めたことを報じています。
-- **[BBC – Africa]**: "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'"(https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss) - 国連がアフリカ人奴隷化を「人道に対する最も重大な犯罪」と認識する決議を採択し、謝罪と償還基金への貢献を求めたことを伝えています。
+- **[DW – Top Stories]**: "[UN resolution fuels global slavery reparations debate](https://www.dw.com/en/un-resolution-fuels-global-slavery-reparations-debate/a-76548380?maca=en-rss-en-top-1022-rdf)" - 画期的な国連決議が、大西洋奴隷貿易に対する償還を求める議論を激化させていることを伝えています。
+- **[The Guardian – World]**: "[UN votes to describe slave trade as ‘gravest crime against humanity’](https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice)" - 国連が、大西洋奴隷貿易を「人道に対する最も重大な犯罪」と表現する決議を採択し、歴史的な過ちを是正するための「具体的な一歩」として償還を求めたことを報じています。
+- **[BBC – Africa]**: "[UN votes to recognise enslavement of Africans as 'gravest crime against humanity'](https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss)" - 国連がアフリカ人奴隷化を「人道に対する最も重大な犯罪」と認識する決議を採択し、謝罪と償還基金への貢献を求めたことを伝えています。
 
 ### 4. オリンピックにおけるトランスジェンダーアスリートの参加制限
 ** 概要:**
 国際オリンピック委員会（IOC）は、2028年のロサンゼルス大会以降、オリンピックの女子競技カテゴリーを「生物学的女性」に限定すると発表しました。公平性、安全性、そして競技の完全性を確保するため、遺伝子性別検査が再導入される方針です。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Olympic women's sport limited to biological females"(https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss) - 国際オリンピック委員会が、2028年以降のオリンピック女子スポーツカテゴリーを生物学的女性に限定すると発表したことを報じています。
-- **[DW – Top Stories]**: "Olympic Committee bans transgender women from female events"(https://www.dw.com/en/olympic-committee-bans-transgender-women-from-female-events/a-76546859?maca=en-rss-en-top-1022-rdf) - 国際オリンピック委員会が、2028年のロサンゼルス大会以降の女子イベントでトランスジェンダー女性の参加を禁止し、遺伝子性別検査を再導入すると述べたことを伝えています。
-- **[Al Jazeera – All]**: "Olympics align with Trump as transgender athletes banned from women’s games"(https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss) - 新しいIOC政策により、トランスジェンダーアスリートが女子オリンピックイベントから禁止され、「公平性、安全性、そして完全性」を目指していることを報じています。
+- **[BBC – World News]**: "[Olympic women's sport limited to biological females](https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss)" - 国際オリンピック委員会が、2028年以降のオリンピック女子スポーツカテゴリーを生物学的女性に限定すると発表したことを報じています。
+- **[DW – Top Stories]**: "[Olympic Committee bans transgender women from female events](https://www.dw.com/en/olympic-committee-bans-transgender-women-from-female-events/a-76546859?maca=en-rss-en-top-1022-rdf)" - 国際オリンピック委員会が、2028年のロサンゼルス大会以降の女子イベントでトランスジェンダー女性の参加を禁止し、遺伝子性別検査を再導入すると述べたことを伝えています。
+- **[Al Jazeera – All]**: "[Olympics align with Trump as transgender athletes banned from women’s games](https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss)" - 新しいIOC政策により、トランスジェンダーアスリートが女子オリンピックイベントから禁止され、「公平性、安全性、そして完全性」を目指していることを報じています。
 
 ### 5. WTO第14回閣僚会議（MC14）の開催
 ** 概要:**
 世界貿易機関（WTO）の第14回閣僚会議（MC14）がカメルーンのヤウンデで開幕しました。地政学的な課題が指摘される中、プラスチック汚染対策、開発のためのサービス貿易促進、女性と最貧国（LDC）の貿易参加支援など、多岐にわたる重要議題に取り組むことで、多国間貿易システムの活性化を目指しています。
 
 ** 各国の視点:**
-- **[WTO – Latest News]**: "MC14 opens in Yaoundé with call to reinvigorate WTO in time of crisis"(https://www.wto.org/english/news_e/news26_e/mc14_26mar26_344_e.htm) - カメルーンのヤウンデで開幕したWTO第14回閣僚会議が、地政学的な危機の中でWTOを再活性化するよう呼びかけていると報じています。
-- **[WTO – Latest News]**: "Plastics Dialogue coordinators issue MC14 ministerial statement, technical outcome package"(https://www.wto.org/english/news_e/news26_e/ppesp_26mar26_342_e.htm) - プラスチック汚染と環境的に持続可能なプラスチック貿易に関する対話の調整役が、プラスチック汚染に対処するための貿易関連協力のロードマップを提示する閣僚声明と技術文書パッケージを発表したことを伝えています。
-- **[WTO – Latest News]**: "Leaders underscore momentum in empowering women traders at MC14 high-level event"(https://www.wto.org/english/news_e/news26_e/women_25mar26_335_e.htm) - MC14に先立って開催された女性と貿易に関するハイレベルイベントで、女性起業家の国際市場アクセス向上における進展が強調されたことを報じています。
-- **[WTO – Latest News]**: "Members participating in IFD showcase progress, urge incorporation of Agreement into WTO"(https://www.wto.org/english/news_e/news26_e/infac_25mar26_338_e.htm) - MC14の前夜に開催されたハイレベルイベントで、投資促進開発協定に参加するWTO加盟国が協定の実施支援とWTO法制度への組み入れを求めたことを伝えています。
+- **[WTO – Latest News]**: "[MC14 opens in Yaoundé with call to reinvigorate WTO in time of crisis](https://www.wto.org/english/news_e/news26_e/mc14_26mar26_344_e.htm)" - カメルーンのヤウンデで開幕したWTO第14回閣僚会議が、地政学的な危機の中でWTOを再活性化するよう呼びかけていると報じています。
+- **[WTO – Latest News]**: "[Plastics Dialogue coordinators issue MC14 ministerial statement, technical outcome package](https://www.wto.org/english/news_e/news26_e/ppesp_26mar26_342_e.htm)" - プラスチック汚染と環境的に持続可能なプラスチック貿易に関する対話の調整役が、プラスチック汚染に対処するための貿易関連協力のロードマップを提示する閣僚声明と技術文書パッケージを発表したことを伝えています。
+- **[WTO – Latest News]**: "[Leaders underscore momentum in empowering women traders at MC14 high-level event](https://www.wto.org/english/news_e/news26_e/women_25mar26_335_e.htm)" - MC14に先立って開催された女性と貿易に関するハイレベルイベントで、女性起業家の国際市場アクセス向上における進展が強調されたことを報じています。
+- **[WTO – Latest News]**: "[Members participating in IFD showcase progress, urge incorporation of Agreement into WTO](https://www.wto.org/english/news_e/news26_e/infac_25mar26_338_e.htm)" - MC14の前夜に開催されたハイレベルイベントで、投資促進開発協定に参加するWTO加盟国が協定の実施支援とWTO法制度への組み入れを求めたことを伝えています。
 
 ---
 ** Global Headlines **

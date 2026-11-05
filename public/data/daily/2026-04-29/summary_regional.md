@@ -7,12 +7,12 @@
 イラン戦争による中東情勢の緊迫化が、人道支援物資の輸送を深刻に妨げている。特にホルムズ海峡の封鎖は、食料、燃料、医薬品を必要とする数百万人の人々に届けることを困難にしている。NGOは、ホルムズ海峡を通る人道回廊の設置を求めている。
 
 ** 各国の視点:**
-- **The Guardian**: "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid" - [人道支援団体が、イラン戦争によるホルムズ海峡の封鎖が人道支援を直撃していることから、人道回廊の設置を求めていると報じる。]
-- **Euronews**: "Trump warns Iran to ‘better get smart soon’ as US plans long port blockade" - [トランプ大統領がイランに対し、米国の長期的な港湾封鎖計画を前に「賢くなるべきだ」と警告したと報じる。]
-- **Al Jazeera**: "European Commission president calls for diplomacy to end Iran war" - [欧州委員長がイラン戦争終結に向けた外交努力を呼びかけたことを報じる。]
-- **BBC**: "Russian superyacht sails through Strait of Hormuz despite blockade" - [ロシアのスーパーヨットが、封鎖にもかかわらずホルムズ海峡を通過したと報じる。]
-- **Al Jazeera**: "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU" - [ウクライナがロシアの石油供給とEUへの影響力を断ち切るため、ドルジュバパイプラインを標的としていると報じる。]
-- **BBC**: "A faraway conflict threatens livelihoods in India's glass hub" - [中東での紛争が、インドのガラス産業のサプライチェーンを混乱させ、コストを上昇させ、労働者を危険にさらしていると報じる。]
+- **The Guardian**: "[Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid](https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid)" - [人道支援団体が、イラン戦争によるホルムズ海峡の封鎖が人道支援を直撃していることから、人道回廊の設置を求めていると報じる。]
+- **Euronews**: "[Trump warns Iran to ‘better get smart soon’ as US plans long port blockade](http://www.euronews.com/2026/04/29/trump-warns-iran-to-better-get-smart-soon-as-us-plans-long-port-blockade)" - [トランプ大統領がイランに対し、米国の長期的な港湾封鎖計画を前に「賢くなるべきだ」と警告したと報じる。]
+- **Al Jazeera**: "[European Commission president calls for diplomacy to end Iran war](https://www.aljazeera.com/video/newsfeed/2026/4/29/european-commission-president-calls-for-diplomacy-to-end-iran-war?traffic_source=rss)" - [欧州委員長がイラン戦争終結に向けた外交努力を呼びかけたことを報じる。]
+- **BBC**: "[Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)" - [ロシアのスーパーヨットが、封鎖にもかかわらずホルムズ海峡を通過したと報じる。]
+- **Al Jazeera**: "[Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU](https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss)" - [ウクライナがロシアの石油供給とEUへの影響力を断ち切るため、ドルジュバパイプラインを標的としていると報じる。]
+- **BBC**: "[A faraway conflict threatens livelihoods in India's glass hub](https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss)" - [中東での紛争が、インドのガラス産業のサプライチェーンを混乱させ、コストを上昇させ、労働者を危険にさらしていると報じる。]
 
 ---
 
@@ -21,9 +21,9 @@
 アラブ首長国連邦（UAE）が石油輸出国機構（OPEC）を脱退する決定を下した。この動きは、OPECの将来に対する不確実性を増大させ、特にサウジアラビアとの関係に影響を与える可能性がある。ただし、現在の石油封鎖への直接的な影響は限定的と見られている。
 
 ** 各国の視点:**
-- **BBC**: "United Arab Emirates to quit oil cartel Opec" - [UAEがOPECを脱退したと報じ、これが石油カルテルの終焉の可能性を示唆していると分析する。]
-- **BBC**: "Faisal Islam: Why the UAE's exit from Opec is a big deal" - [UAEのOPEC脱退が、将来の石油市場に大きな変化をもたらす可能性があると解説する。]
-- **DW**: "Why UAE's OPEC exit is a blow to Saudi Arabia" - [UAEのOPEC脱退は、サウジアラビアにとって打撃であり、カルテルの将来に不確実性をもたらすと分析する。]
+- **BBC**: "[United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)" - [UAEがOPECを脱退したと報じ、これが石油カルテルの終焉の可能性を示唆していると分析する。]
+- **BBC**: "[Faisal Islam: Why the UAE's exit from Opec is a big deal](https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss)" - [UAEのOPEC脱退が、将来の石油市場に大きな変化をもたらす可能性があると解説する。]
+- **DW**: "[Why UAE's OPEC exit is a blow to Saudi Arabia](https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-top-1022-rdf)" - [UAEのOPEC脱退は、サウジアラビアにとって打撃であり、カルテルの将来に不確実性をもたらすと分析する。]
 
 ---
 
@@ -32,11 +32,11 @@
 マリで反政府勢力の攻撃が激化し、フランスは国民に国外退避を勧告している。ロシアの民間軍事会社「アフリカ軍団」は、クーデターを防いだと主張しているが、実態は不明瞭な点も多い。反政府勢力は、政府軍とロシアの補助部隊に大きな損害を与えたとされている。
 
 ** 各国の視点:**
-- **The Guardian**: "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns" - [ロシア国防省が、アフリカ軍団がマリでクーデターを防いだと主張し、反政府勢力に甚大な被害を与えたと発表したと報じる。]
-- **The Guardian**: "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime" - [反政府勢力がマリの政権を打倒する可能性は低いものの、弱体化した政権に譲歩を迫ることは可能だと分析する。]
-- **BBC**: "What next for Mali's military leaders after shock of rebel offensive?" - [反政府勢力の攻撃を受け、マリの軍事指導者たちが直面する課題と今後の展望について報じる。]
-- **BBC**: "Russian fighters confirm withdrawal from northern Mali city after separatist attacks" - [ロシアの戦闘員が、分離主義者の攻撃を受けてマリ北部の都市から撤退したことを確認したと報じる。]
-- **BBC**: "France urges citizens to leave Mali after rebel attacks" - [フランスが、マリでの反政府勢力による攻撃を受けて、国民に国外退避を勧告したと報じる。]
+- **The Guardian**: "[Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns](https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns)" - [ロシア国防省が、アフリカ軍団がマリでクーデターを防いだと主張し、反政府勢力に甚大な被害を与えたと発表したと報じる。]
+- **The Guardian**: "[Taking power in Mali might be a stretch but insurgents can force hand of weakened regime](https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime)" - [反政府勢力がマリの政権を打倒する可能性は低いものの、弱体化した政権に譲歩を迫ることは可能だと分析する。]
+- **BBC**: "[What next for Mali's military leaders after shock of rebel offensive?](https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss)" - [反政府勢力の攻撃を受け、マリの軍事指導者たちが直面する課題と今後の展望について報じる。]
+- **BBC**: "[Russian fighters confirm withdrawal from northern Mali city after separatist attacks](https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss)" - [ロシアの戦闘員が、分離主義者の攻撃を受けてマリ北部の都市から撤退したことを確認したと報じる。]
+- **BBC**: "[France urges citizens to leave Mali after rebel attacks](https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss)" - [フランスが、マリでの反政府勢力による攻撃を受けて、国民に国外退避を勧告したと報じる。]
 
 ---
 
@@ -45,11 +45,11 @@
 イスラエル軍によるレバノンへの空爆で多数の死傷者が出ており、停戦合意が延長されたにもかかわらず緊張が続いている。イスラエル首相はヘズボラへの「激しい攻撃」を命じた。一方、パレスチナではヨルダン川西岸地区とガザの一部で地方選挙が行われたが、ハマスなどは参加していない。
 
 ** 各国の視点:**
-- **BBC**: "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon" - [ネタニヤフ首相が、レバノンでのヘズボラに対する「激しい攻撃」を陸軍に命じたと報じる。]
-- **BBC**: "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire" - [停戦合意が延長されたにもかかわらず、イスラエル軍の攻撃によりレバノンで14人が死亡したと報じる。]
-- **BBC**: "Palestinians in West Bank and some in Gaza vote in local elections" - [ヨルダン川西岸地区とガザの一部で地方選挙が実施されたが、ハマスなどの主要勢力は参加していないと報じる。]
-- **DW**: "Israel in Lebanon: Is the 'security buffer zone' legal?" - [イスラエルがレバノンに設定している「安全緩衝地帯」の国際法上の合法性について議論する。]
-- **Al Jazeera**: "Palestinian football body appeals FIFA ruling on Israel at top sports court" - [パレスチナサッカー連盟が、イスラエルに関するFIFAの決定をスポーツ仲裁裁判所に提訴したと報じる。]
+- **BBC**: "[Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon](https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss)" - [ネタニヤフ首相が、レバノンでのヘズボラに対する「激しい攻撃」を陸軍に命じたと報じる。]
+- **BBC**: "[Israeli strikes kill 14 in Lebanon amid ongoing ceasefire](https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss)" - [停戦合意が延長されたにもかかわらず、イスラエル軍の攻撃によりレバノンで14人が死亡したと報じる。]
+- **BBC**: "[Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)" - [ヨルダン川西岸地区とガザの一部で地方選挙が実施されたが、ハマスなどの主要勢力は参加していないと報じる。]
+- **DW**: "[Israel in Lebanon: Is the 'security buffer zone' legal?](https://www.dw.com/en/israel-in-lebanon-is-the-security-buffer-zone-legal/a-76971183?maca=en-rss-en-top-1022-rdf)" - [イスラエルがレバノンに設定している「安全緩衝地帯」の国際法上の合法性について議論する。]
+- **Al Jazeera**: "[Palestinian football body appeals FIFA ruling on Israel at top sports court](https://www.aljazeera.com/sports/2026/4/29/palestinian-football-body-appeals-fifa-ruling-on-israel-at-top-sports-court?traffic_source=rss)" - [パレスチナサッカー連盟が、イスラエルに関するFIFAの決定をスポーツ仲裁裁判所に提訴したと報じる。]
 
 ---
 
@@ -58,8 +58,8 @@
 FIFAの規則変更により、アフガニスタンの女子サッカーチームが国際大会に復帰できるようになった。これは、困難な状況下で粘り強さの象徴となると期待されている。
 
 ** 各国の視点:**
-- **BBC**: "Afghanistan women footballers can return to competition after FIFA rule changes" - [FIFAの規則変更により、アフガニスタンの女子サッカー選手が国際大会に復帰できるようになったと報じる。]
-- **Al Jazeera**: "Afghan women’s refugee team allowed to play in FIFA tournaments" - [アフガニスタン女子難民チームがFIFAトーナメントでプレーすることを許可されたと報じる。LAオリンピックでの代表も可能になる。]
+- **BBC**: "[Afghanistan women footballers can return to competition after FIFA rule changes](https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss)" - [FIFAの規則変更により、アフガニスタンの女子サッカー選手が国際大会に復帰できるようになったと報じる。]
+- **Al Jazeera**: "[Afghan women’s refugee team allowed to play in FIFA tournaments](https://www.aljazeera.com/sports/2026/4/29/afghan-womens-refugee-team-allowed-to-play-in-fifa-tournaments?traffic_source=rss)" - [アフガニスタン女子難民チームがFIFAトーナメントでプレーすることを許可されたと報じる。LAオリンピックでの代表も可能になる。]
 
 ---
 

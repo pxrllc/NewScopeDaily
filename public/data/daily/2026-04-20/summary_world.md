@@ -7,12 +7,12 @@
 アメリカによるイラン船舶拿捕の報を受け、原油価格が乱高下しています。イランはホルムズ海峡の通行権を譲らない姿勢を改めて表明しており、地域情勢の緊迫化が懸念されています。米国とイスラエルによるイランへの攻撃（2月28日）以降、エネルギー市場は不安定な動きを見せています。
 
 **各国の視点:**
-- **BBC – World News**: "Oil prices rise after Trump says Iranian ship seized" - [アメリカがイランの船舶を拿捕したとのトランプ大統領の発言を受け、原油価格が上昇したと報道。]
-- **BBC – World News**: "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC" - [イランの政治家が、ホルムズ海峡の通行権について、イランが権利を放棄することはないと表明したと伝えている。]
-- **BBC – Middle East**: "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks" - [二つの停戦が米・イラン交渉にどのように影響を与えるか、リスクと機会という観点から分析している。]
-- **BBC – Middle East**: "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done" - [BBCの国際特派員がイランから、米国との交渉が和平につながるかどうかの人々の思いを伝えている。]
-- **Al Jazeera – All**: "US captures Iranian ship Touska amid mediation efforts: All we know" - [米国がイランの船舶を拿捕した件について、米国側の主張とイラン側の「海賊行為」との非難を報じている。]
-- **Al Jazeera – All**: "Second round in Islamabad: Who are the main US-Iran negotiators?" - [米・イラン間の交渉を主導してきた主要人物に焦点を当てている。]
+- **BBC – World News**: "[Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)" - [アメリカがイランの船舶を拿捕したとのトランプ大統領の発言を受け、原油価格が上昇したと報道。]
+- **BBC – World News**: "[Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC](https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss)" - [イランの政治家が、ホルムズ海峡の通行権について、イランが権利を放棄することはないと表明したと伝えている。]
+- **BBC – Middle East**: "[A moment of risk and opportunity: How two ceasefires could boost US-Iran talks](https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss)" - [二つの停戦が米・イラン交渉にどのように影響を与えるか、リスクと機会という観点から分析している。]
+- **BBC – Middle East**: "[Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done](https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss)" - [BBCの国際特派員がイランから、米国との交渉が和平につながるかどうかの人々の思いを伝えている。]
+- **Al Jazeera – All**: "[US captures Iranian ship Touska amid mediation efforts: All we know](https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss)" - [米国がイランの船舶を拿捕した件について、米国側の主張とイラン側の「海賊行為」との非難を報じている。]
+- **Al Jazeera – All**: "[Second round in Islamabad: Who are the main US-Iran negotiators?](https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss)" - [米・イラン間の交渉を主導してきた主要人物に焦点を当てている。]
 
 ---
 
@@ -21,9 +21,9 @@
 ウクライナでは、警察署長が職務を放棄したとされる警察官の事件を受け辞任しました。一方、ウクライナによるロシア黒海港湾都市への攻撃も報じられています。地政学的な緊張は高まっており、国際社会は引き続き注視しています。
 
 **各国の視点:**
-- **BBC – World News**: "Ukraine police chief resigns after officers allegedly fled deadly shooting" - [ウクライナの警察署長が、致命的な銃撃事件から警察官が逃走したとされる疑惑を受けて辞任したと伝えている。]
-- **DW – Top Stories**: "Ukraine hits Russian Black Sea port city, 1 dead" - [ウクライナがロシアの黒海沿岸の港湾都市を攻撃し、死者が出たと報じている。]
-- **Al Jazeera – All**: "Ukraine claims attack on Russian warships in occupied Crimea" - [ウクライナ軍諜報部が、ロシア占領下のクリミアでロシアの揚陸艦2隻を攻撃したと主張していると報じている。]
+- **BBC – World News**: "[Ukraine police chief resigns after officers allegedly fled deadly shooting](https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss)" - [ウクライナの警察署長が、致命的な銃撃事件から警察官が逃走したとされる疑惑を受けて辞任したと伝えている。]
+- **DW – Top Stories**: "[Ukraine hits Russian Black Sea port city, 1 dead](https://www.dw.com/en/ukraine-hits-russian-black-sea-port-city-1-dead/live-76854298?maca=en-rss-en-top-1022-rdf)" - [ウクライナがロシアの黒海沿岸の港湾都市を攻撃し、死者が出たと報じている。]
+- **Al Jazeera – All**: "[Ukraine claims attack on Russian warships in occupied Crimea](https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss)" - [ウクライナ軍諜報部が、ロシア占領下のクリミアでロシアの揚陸艦2隻を攻撃したと主張していると報じている。]
 
 ---
 
@@ -32,10 +32,10 @@
 ニュージーランドのウェリントンでは、洪水と地滑りにより非常事態が宣言されました。また、日本で発生した強い地震により、津波警報が発令されています。一部地域では、記録的な猛暑により、異常気象を示す新しい名称が導入されています。
 
 **各国の視点:**
-- **BBC – World News**: "New Zealand declares state of emergency in Wellington as floods hit" - [ニュージーランドのウェリントンで洪水が発生し、非常事態が宣言されたと報じている。]
-- **DW – Top Stories**: "Japan issues tsunami alert after strong earthquake" - [日本で強い地震が発生し、津波警報が発令されたと伝えている。]
-- **Euronews – World**: "Japan announces new name for days over 40C after hottest summer ever" - [日本で史上最も暑い夏の後、40℃を超える日を指す新しい名称が発表されたと報じている。]
-- **The Guardian – World**: "Weather tracker: hail covers parts of Tunisia and Algeria like snow" - [チュニジアとアルジェリアの一部で、雪のように大量の雹が降った異常気象について伝えている。]
+- **BBC – World News**: "[New Zealand declares state of emergency in Wellington as floods hit](https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss)" - [ニュージーランドのウェリントンで洪水が発生し、非常事態が宣言されたと報じている。]
+- **DW – Top Stories**: "[Japan issues tsunami alert after strong earthquake](https://www.dw.com/en/japan-issues-tsunami-alert-after-strong-earthquake/a-76854726?maca=en-rss-en-top-1022-rdf)" - [日本で強い地震が発生し、津波警報が発令されたと伝えている。]
+- **Euronews – World**: "[Japan announces new name for days over 40C after hottest summer ever](http://www.euronews.com/2026/04/20/japan-announces-new-name-for-days-over-40c-after-hottest-summer-ever)" - [日本で史上最も暑い夏の後、40℃を超える日を指す新しい名称が発表されたと報じている。]
+- **The Guardian – World**: "[Weather tracker: hail covers parts of Tunisia and Algeria like snow](https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow)" - [チュニジアとアルジェリアの一部で、雪のように大量の雹が降った異常気象について伝えている。]
 
 ---
 
@@ -44,9 +44,9 @@
 ブルガリアでは、プレシデント・ルーメン・ラデフ氏率いる政党が選挙で圧勝し、議会で過半数を獲得しました。これにより、安定した政権運営が期待されていますが、ラデフ氏の親ロシア的な姿勢が欧州連合（EU）に圧力をかける可能性も指摘されています。
 
 **各国の視点:**
-- **BBC – World News**: "Rumen Radev's party wins Bulgarian election" - [ブルガリアのルーメン・ラデフ氏の党が選挙で勝利し、議会で過半数を獲得したと報道。]
-- **DW – Top Stories**: "Bulgaria enters uncharted territory as Radev wins big" - [ラデフ氏の圧勝により、ブルガリアが未知の領域に踏み入ったと分析している。]
-- **DW – Top Stories**: "Bulgaria: Pro-Russia Rumen Radev on course to win election" - [ラデフ氏の親ロシア的な傾向が、ブリュッセル（EU）に圧力をかける可能性について言及している。]
+- **BBC – World News**: "[Rumen Radev's party wins Bulgarian election](https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss)" - [ブルガリアのルーメン・ラデフ氏の党が選挙で勝利し、議会で過半数を獲得したと報道。]
+- **DW – Top Stories**: "[Bulgaria enters uncharted territory as Radev wins big](https://www.dw.com/en/bulgaria-enters-uncharted-territory-as-radev-wins-big/a-76856059?maca=en-rss-en-top-1022-rdf)" - [ラデフ氏の圧勝により、ブルガリアが未知の領域に踏み入ったと分析している。]
+- **DW – Top Stories**: "[Bulgaria: Pro-Russia Rumen Radev on course to win election](https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-top-1022-rdf)" - [ラデフ氏の親ロシア的な傾向が、ブリュッセル（EU）に圧力をかける可能性について言及している。]
 
 ---
 
@@ -55,9 +55,9 @@
 中国では、ヒューマノイドロボットが北京でのハーフマラソンで人間の世界記録を破り、AI技術の進歩を示しています。一方、AIがグローバルな選挙にどのように影響を与えるかについての懸念も高まっています。
 
 **各国の視点:**
-- **Euronews – World**: "Humanoid robot smashes human half-marathon world record in Beijing race" - [中国・北京で行われたハーフマラソンで、ヒューマノイドロボットが人間の世界記録を大幅に上回ったと伝えている。]
-- **Global Voices – Africa (Sub-Saharan)**: "How AI is used to influence global elections" - [AIがグローバルな選挙にどのように利用されているか、その影響について考察している。]
-- **DW – Top Stories**: "How China is reshaping the global chip industry" - [米国の半導体関連規制が中国の自国半導体産業の育成を促し、世界のチップ産業に変化をもたらしていると分析している。]
+- **Euronews – World**: "[Humanoid robot smashes human half-marathon world record in Beijing race](http://www.euronews.com/next/2026/04/20/humanoid-robot-smashes-human-half-marathon-world-record-in-beijing-race)" - [中国・北京で行われたハーフマラソンで、ヒューマノイドロボットが人間の世界記録を大幅に上回ったと伝えている。]
+- **Global Voices – Africa (Sub-Saharan)**: "[How AI is used to influence global elections](https://globalvoices.org/2026/04/03/how-ai-is-used-to-influence-global-elections)" - [AIがグローバルな選挙にどのように利用されているか、その影響について考察している。]
+- **DW – Top Stories**: "[How China is reshaping the global chip industry](https://www.dw.com/en/how-china-is-reshaping-the-global-chip-industry/a-76056790?maca=en-rss-en-top-1022-rdf)" - [米国の半導体関連規制が中国の自国半導体産業の育成を促し、世界のチップ産業に変化をもたらしていると分析している。]
 
 ---
 
