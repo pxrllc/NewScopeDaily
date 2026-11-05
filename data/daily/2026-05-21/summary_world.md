@@ -7,38 +7,38 @@
 米国は1996年の航空機撃墜事件に関与したとして、キューバのラウル・カストロ前国家評議会議長を殺人罪などで起訴しました。これに対し、キューバの現大統領は「政治的策略」と非難し、中国も米国に対しキューバへの「脅威」を停止するよう要求しています。今回の起訴は、トランプ米政権がキューバの共産主義政権転覆を図る動きの一環と見られています。
 
 ** 各国の視点:**
-- **BBC – World News**: "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes (CU)" - 米国がラウル・カストロ前議長を1996年の航空機撃墜事件に関連して殺人罪などで起訴したことを報じ、キューバ現政権はこれを「政治的策略」と反発している点を強調しています。
-- **The Guardian – World**: "US indicts former Cuban president Raúl Castro as it seeks to oust regime (US)" - 米国がラウル・カストロ氏を起訴した背景には、トランプ政権がキューバの共産主義政権を転覆させようとする意図があることを示唆しています。
-- **BBC – World News**: "China says US should stop 'threats' against Cuba after ex-leader charged (XX)" - 中国が米国のラウル・カストロ氏起訴を「政権への圧力」とみなし、米国に対しキューバへの「脅威」を止めるよう求めたことを伝えています。
-- **Al Jazeera – All**: "‘Homeland or death’: How Cuba would defend itself against a US attack (CU)" - 米国によるキューバへの軍事作戦の可能性が取り沙汰される中、キューバがどのように自国を守るかを分析しています。
+- **BBC – World News**: "[US charges Cuba's Raúl Castro with murder over 1996 downing of two planes](https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss)" - 米国がラウル・カストロ前議長を1996年の航空機撃墜事件に関連して殺人罪などで起訴したことを報じ、キューバ現政権はこれを「政治的策略」と反発している点を強調しています。
+- **The Guardian – World**: "[US indicts former Cuban president Raúl Castro as it seeks to oust regime](https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment)" - 米国がラウル・カストロ氏を起訴した背景には、トランプ政権がキューバの共産主義政権を転覆させようとする意図があることを示唆しています。
+- **BBC – World News**: "[China says US should stop 'threats' against Cuba after ex-leader charged](https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss)" - 中国が米国のラウル・カストロ氏起訴を「政権への圧力」とみなし、米国に対しキューバへの「脅威」を止めるよう求めたことを伝えています。
+- **Al Jazeera – All**: "[‘Homeland or death’: How Cuba would defend itself against a US attack](https://www.aljazeera.com/features/2026/5/21/homeland-or-death-how-cuba-would-defend-itself-against-a-us-attack?traffic_source=rss)" - 米国によるキューバへの軍事作戦の可能性が取り沙汰される中、キューバがどのように自国を守るかを分析しています。
 
 ### 2. コンゴ民主共和国でのエボラ出血熱大規模流行
 ** 概要:**
 コンゴ民主共和国で希少なブンディブギョ型エボラ出血熱が大規模に流行し、これまでに139人以上の死者と500人以上の感染が報告されています。米国が公衆衛生予算を大幅に削減したため、国際的な対応が不十分であるとの批判も出ています。世界保健機関（WHO）はこの事態を公衆衛生上の緊急事態と宣言し、実験段階にあるワクチンや治療薬の使用を検討しています。
 
 ** 各国の視点:**
-- **The Guardian – World**: "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say (CD)" - 米国が公衆衛生予算を大幅に削減したため、コンゴ民主共和国でのエボラ出血熱流行への対応が不十分であると専門家が指摘している点を強調しています。
-- **BBC – World News**: "DR Congo cancels World Cup training camp over Ebola outbreak (CD)" - エボラ出血熱の流行を受けて、コンゴ民主共和国がワールドカップのトレーニングキャンプを中止したことを報じ、その深刻さを伝えています。
-- **The Guardian – World**: "US doctor who contracted Ebola in DRC flown to Germany for treatment (CD)" - コンゴ民主共和国でエボラに感染した米国人医師が治療のためドイツに移送された事例を挙げ、WHOがアウトブレイクの「規模と速度」に懸念を示していることを報じています。
-- **The Guardian – World**: "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC (CD)" - WHOがエボラ出血熱の感染拡大に対し、開発中のワクチンや治療薬の使用を検討している状況を詳細に伝えています。
+- **The Guardian – World**: "[US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say](https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health)" - 米国が公衆衛生予算を大幅に削減したため、コンゴ民主共和国でのエボラ出血熱流行への対応が不十分であると専門家が指摘している点を強調しています。
+- **BBC – World News**: "[DR Congo cancels World Cup training camp over Ebola outbreak](https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss)" - エボラ出血熱の流行を受けて、コンゴ民主共和国がワールドカップのトレーニングキャンプを中止したことを報じ、その深刻さを伝えています。
+- **The Guardian – World**: "[US doctor who contracted Ebola in DRC flown to Germany for treatment](https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany)" - コンゴ民主共和国でエボラに感染した米国人医師が治療のためドイツに移送された事例を挙げ、WHOがアウトブレイクの「規模と速度」に懸念を示していることを報じています。
+- **The Guardian – World**: "[WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)" - WHOがエボラ出血熱の感染拡大に対し、開発中のワクチンや治療薬の使用を検討している状況を詳細に伝えています。
 
 ### 3. エールフランスとエアバス、2009年墜落事故で有罪判決
 ** 概要:**
 2009年に大西洋上で発生し、228人の乗客乗員が全員死亡したエールフランス447便墜落事故を巡り、フランスの裁判所がエールフランスと航空機メーカーのエアバスに対し、企業過失致死の罪で有罪判決を下しました。
 
 ** 各国の視点:**
-- **BBC – World News**: "Air France and Airbus found guilty of manslaughter over 2009 plane crash (FR)" - フランスの裁判所が、2009年に228人が死亡した航空機事故でエールフランスとエアバスに企業過失致死の有罪判決を下したことを簡潔に報じています。
-- **DW – Top Stories**: "French court finds Airbus, Air France guilty in 2009 crash (FR)" - パリの控訴裁判所がエールフランスとエアバスに対し、2009年の墜落事故における企業過失致死の罪で有罪判決を下したことを伝えています。
+- **BBC – World News**: "[Air France and Airbus found guilty of manslaughter over 2009 plane crash](https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss)" - フランスの裁判所が、2009年に228人が死亡した航空機事故でエールフランスとエアバスに企業過失致死の有罪判決を下したことを簡潔に報じています。
+- **DW – Top Stories**: "[French court finds Airbus, Air France guilty in 2009 crash](https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-top-1022-rdf)" - パリの控訴裁判所がエールフランスとエアバスに対し、2009年の墜落事故における企業過失致死の罪で有罪判決を下したことを伝えています。
 
 ### 4. イスラエルとパレスチナ間の緊張と国際的な非難
 ** 概要:**
 イスラエルの極右大臣イタマール・ベン・グヴィルが、ガザへ向かうフロティラ（船団）の活動家を嘲笑する動画を公開し、フランスやイタリアを含む国際社会から強い非難を浴びています。また、国際刑事裁判所（ICC）がイスラエル閣僚の逮捕状を請求しているとの報道があり、イスラエルとレバノン間の衝突によるレバノン側の死者数も3,000人を超えるなど、地域の緊張が高まっています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists (IL)" - イスラエルの極右大臣イタマール・ベン・グヴィルが、拘束されたガザ支援船団の活動家を嘲笑する動画を公開し、フランスやイタリアなどから非難されていることを報じています。
-- **Al Jazeera – All**: "Outrage over Israel’s Ben-Gvir flotilla abuse video: What we know (IL)" - イスラエルの国家安全保障大臣ベン・グヴィルによるフロティラ活動家嘲笑動画に対する国際的な怒りの詳細を伝えています。
-- **BBC – Middle East**: "Israeli minister Smotrich says ICC prosecutor seeking warrant for his arrest (IL)" - イスラエル閣僚スモトリッチ氏が、国際刑事裁判所（ICC）検察官が自身の逮捕状を請求していると発言したことを報じ、ICCはコメントを控えていることを付記しています。
-- **BBC – Middle East**: "Death toll from Israeli strikes on Lebanon passes 3,000, officials say (LB)" - イスラエルとレバノンの武装組織ヒズボラ間の紛争におけるイスラエル軍の空爆によるレバノン側の死者数が3,000人を超えたという節目を報じています。
+- **BBC – World News**: "[Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists](https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss)" - イスラエルの極右大臣イタマール・ベン・グヴィルが、拘束されたガザ支援船団の活動家を嘲笑する動画を公開し、フランスやイタリアなどから非難されていることを報じています。
+- **Al Jazeera – All**: "[Outrage over Israel’s Ben-Gvir flotilla abuse video: What we know](https://www.aljazeera.com/news/2026/5/21/outrage-over-israels-ben-gvir-flotilla-abuse-video-what-we-know?traffic_source=rss)" - イスラエルの国家安全保障大臣ベン・グヴィルによるフロティラ活動家嘲笑動画に対する国際的な怒りの詳細を伝えています。
+- **BBC – Middle East**: "[Israeli minister Smotrich says ICC prosecutor seeking warrant for his arrest](https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&at_campaign=rss)" - イスラエル閣僚スモトリッチ氏が、国際刑事裁判所（ICC）検察官が自身の逮捕状を請求していると発言したことを報じ、ICCはコメントを控えていることを付記しています。
+- **BBC – Middle East**: "[Death toll from Israeli strikes on Lebanon passes 3,000, officials say](https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss)" - イスラエルとレバノンの武装組織ヒズボラ間の紛争におけるイスラエル軍の空爆によるレバノン側の死者数が3,000人を超えたという節目を報じています。
 
 ### 5. ロシアと中国の関係深化とその限界
 ** 概要:**
@@ -46,8 +46,8 @@
 
 ** 各国の視点:**
 - **BBC – World News**: "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal (undefined)" - プーチン大統領が中国の歓迎を受けたものの、主要なパイプライン取引なしで帰国したことから、ロシアと中国の関係には限界があることが示唆されたと報じています。
-- **BBC – Europe**: "Xi basks in spotlight as he hosts Putin days after Trump (CN)" - 習近平国家主席が、トランプ前大統領の訪問から数日後にプーチン大統領を迎え、世界に自身を「誰とも話し、誰にも縛られない」存在として見せようとしている点を強調しています。
-- **BBC – Asia**: "Watch: Did Trump and Putin get the same treatment in China? (CN)" - 習近平国家主席が、トランプ氏とプーチン氏にほぼ同じ歓迎式典を行ったことを動画で比較し、中国の外交姿勢を示唆しています。
+- **BBC – Europe**: "[Xi basks in spotlight as he hosts Putin days after Trump](https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss)" - 習近平国家主席が、トランプ前大統領の訪問から数日後にプーチン大統領を迎え、世界に自身を「誰とも話し、誰にも縛られない」存在として見せようとしている点を強調しています。
+- **BBC – Asia**: "[Watch: Did Trump and Putin get the same treatment in China?](https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss)" - 習近平国家主席が、トランプ氏とプーチン氏にほぼ同じ歓迎式典を行ったことを動画で比較し、中国の外交姿勢を示唆しています。
 
 ---
 ** Global Headlines **

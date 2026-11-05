@@ -7,55 +7,55 @@
 米国財務長官は、イランからの脅威を排除するためには短期的な経済的「痛み」が長期的な安全保障に見合うと述べました。これは、米国の魚雷攻撃でイラン海軍兵士104名が死亡した後、200名以上の生存者が帰国したことを受けての発言です。紛争終結に向けた交渉再開の兆しがあるものの、米国の港湾封鎖は続き、中国は紛争における役割拡大を示唆しています。一方、イスラエルとレバノンは1993年以来初めて直接会談を行う予定ですが、イスラエルはレバノンへの攻撃を強化しており、イタリアはイスラエルとの防衛協定を停止し、トランプ大統領はイタリアの首相を批判しました。
 
 ** 各国の視点:**
-- **BBC – World News**: " 'Bit of pain' worth long-term security from Iran, Bessent tells BBC (IR)" - 米国財務長官が、イランによる西側諸国への攻撃の脅威を排除するためには、経済的な「小さな痛み」は長期的な安全保障に値すると発言したことを報じています。
-- **BBC – World News**: "More than 200 Iranian sailors stranded after US torpedo attack return home (IR)" - 米国の攻撃によりイランの船舶「アイリス・デナ」が沈没し、104人が死亡した事件の生存者200人以上が帰国したことを伝えています。
-- **DW – Top Stories**: "Xi hails China-Russia ties, signals bigger role in Iran war (CN)" - 習近平国家主席がロシアとのパートナーシップを「貴重」と称賛し、中東危機の最中、中国がイラン紛争においてより大きな役割を果たす意向を示したことを報じています。
-- **Al Jazeera – All**: "Iran war: What is happening on day 47 of the US-Iran conflict? (XX)" - ドナルド・トランプ米大統領が、数日中にイランとの第2回交渉を行う可能性を示唆したことを伝えています。
-- **Al Jazeera – All**: "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran (US)" - トランプ米大統領が、イランに対する米イスラエル戦争に関してイタリアのメローニ首相が「勇気がない」と批判し、最も近い欧州同盟国の一人への厳しい非難を報じています。
-- **BBC – Middle East**: "Starmer says UK will not join Trump's blockade of Iran's ports (GB)" - 英国のスターマー労働党党首が、トランプ大統領によるイラン港湾の封鎖には参加しないと述べ、地域での英国の軍事プレゼンスは維持されることを報じています。
-- **BBC – Middle East**: "Italy suspends defence agreement with Israel (IT)" - イタリアの首相が、「現在の状況を鑑み」、5年ごとに更新されるイスラエルとの防衛協定を停止すると発表したことを伝えています。
-- **BBC – World News**: "Israel and Lebanon hold first direct talks since 1993 (IL)" - 米国の声明によると、イスラエルとレバノンが場所と日時を今後決定する直接交渉を開始することに合意したことを報じています。
-- **BBC – Middle East**: "Israelis war-weary but most oppose Iran ceasefire, poll suggests (IL)" - イスラエル人が戦争に疲弊しているものの、世論調査では大半がイランとの停戦に反対していることを示唆し、ヒズボラやイランがイスラエルと米国の攻撃によって弱体化したとは考えていないことを報じています。
+- **BBC – World News**: "['Bit of pain' worth long-term security from Iran, Bessent tells BBC](https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss)" - 米国財務長官が、イランによる西側諸国への攻撃の脅威を排除するためには、経済的な「小さな痛み」は長期的な安全保障に値すると発言したことを報じています。
+- **BBC – World News**: "[More than 200 Iranian sailors stranded after US torpedo attack return home](https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss)" - 米国の攻撃によりイランの船舶「アイリス・デナ」が沈没し、104人が死亡した事件の生存者200人以上が帰国したことを伝えています。
+- **DW – Top Stories**: "[Xi hails China-Russia ties, signals bigger role in Iran war](https://www.dw.com/en/xi-hails-china-russia-ties-signals-bigger-role-in-iran-war/a-76787130?maca=en-rss-en-top-1022-rdf)" - 習近平国家主席がロシアとのパートナーシップを「貴重」と称賛し、中東危機の最中、中国がイラン紛争においてより大きな役割を果たす意向を示したことを報じています。
+- **Al Jazeera – All**: "[Iran war: What is happening on day 47 of the US-Iran conflict?](https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss)" - ドナルド・トランプ米大統領が、数日中にイランとの第2回交渉を行う可能性を示唆したことを伝えています。
+- **Al Jazeera – All**: "[Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran](https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss)" - トランプ米大統領が、イランに対する米イスラエル戦争に関してイタリアのメローニ首相が「勇気がない」と批判し、最も近い欧州同盟国の一人への厳しい非難を報じています。
+- **BBC – Middle East**: "[Starmer says UK will not join Trump's blockade of Iran's ports](https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss)" - 英国のスターマー労働党党首が、トランプ大統領によるイラン港湾の封鎖には参加しないと述べ、地域での英国の軍事プレゼンスは維持されることを報じています。
+- **BBC – Middle East**: "[Italy suspends defence agreement with Israel](https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss)" - イタリアの首相が、「現在の状況を鑑み」、5年ごとに更新されるイスラエルとの防衛協定を停止すると発表したことを伝えています。
+- **BBC – World News**: "[Israel and Lebanon hold first direct talks since 1993](https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss)" - 米国の声明によると、イスラエルとレバノンが場所と日時を今後決定する直接交渉を開始することに合意したことを報じています。
+- **BBC – Middle East**: "[Israelis war-weary but most oppose Iran ceasefire, poll suggests](https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss)" - イスラエル人が戦争に疲弊しているものの、世論調査では大半がイランとの停戦に反対していることを示唆し、ヒズボラやイランがイスラエルと米国の攻撃によって弱体化したとは考えていないことを報じています。
 
 ### 2. スーダン内戦と深刻化する人道危機
 ** 概要:**
 スーダンの内戦が4年目に突入し、ジャーナリストはこれまでの犠牲に心を痛めています。数百万人が避難し、飢餓に直面する世界最悪の人道危機に陥っており、国際社会の関心が他紛争に集中する中、ドイツのベルリンでスーダン支援会議が開催され、10億ドル以上の資金調達を目指しています。しかし、国連高官は、紛争を終わらせるための世界的な緊急性の欠如を「受け入れがたい」と厳しく批判しています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on (SD)" - 紛争が4年目に入る中、捕らわれた記者が携帯電話の電源を入れると、3年分のメッセージが一度に届き、失われたものの大きさに身震いしたという体験を伝えています。
-- **DW – Top Stories**: "Germany: Berlin conference for Sudan aims to raise over $1B (DE)" - スーダン内戦が4年目に突入し、国際社会の関心が他紛争に集中する中、ベルリンでの会議が緊急プロジェクトの資金として10億ドル以上の調達を目指していることを報じています。
-- **The Guardian – World**: "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war (SD)" - 英国の外務大臣が、内戦3周年を迎えるベルリンでの主要会議でスーダンの紛争当事者に「流血を止める」よう促し、英国の援助を倍増させることを報じています。
-- **The Guardian – World**: "Anger at ‘bloody unacceptable’ efforts to end Sudan’s war as conflict enters fourth year (SD)" - 国連高官が、紛争が4年目に入るスーダンでの人道危機を終結させるための努力が「受け入れがたい」と批判し、世界最大の人道危機が悪化していることを確認する新たな報告書が発表されたことを伝えています。
-- **Al Jazeera – All**: "Families across Sudan endure years of displacement, hunger, loss (SD)" - スーダン全土で家族が長年にわたる避難、飢餓、喪失に耐えている状況を報じ、900万人以上が避難し、約2900万人が急性飢餓に直面していることを伝えています。
+- **BBC – World News**: "[Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on](https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss)" - 紛争が4年目に入る中、捕らわれた記者が携帯電話の電源を入れると、3年分のメッセージが一度に届き、失われたものの大きさに身震いしたという体験を伝えています。
+- **DW – Top Stories**: "[Germany: Berlin conference for Sudan aims to raise over $1B](https://www.dw.com/en/germany-berlin-conference-for-sudan-aims-to-raise-over-1b/a-76786563?maca=en-rss-en-top-1022-rdf)" - スーダン内戦が4年目に突入し、国際社会の関心が他紛争に集中する中、ベルリンでの会議が緊急プロジェクトの資金として10億ドル以上の調達を目指していることを報じています。
+- **The Guardian – World**: "[UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war](https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae)" - 英国の外務大臣が、内戦3周年を迎えるベルリンでの主要会議でスーダンの紛争当事者に「流血を止める」よう促し、英国の援助を倍増させることを報じています。
+- **The Guardian – World**: "[Anger at ‘bloody unacceptable’ efforts to end Sudan’s war as conflict enters fourth year](https://www.theguardian.com/global-development/2026/apr/14/no-end-sudan-war-conflict-third-anniversary)" - 国連高官が、紛争が4年目に入るスーダンでの人道危機を終結させるための努力が「受け入れがたい」と批判し、世界最大の人道危機が悪化していることを確認する新たな報告書が発表されたことを伝えています。
+- **Al Jazeera – All**: "[Families across Sudan endure years of displacement, hunger, loss](https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss)" - スーダン全土で家族が長年にわたる避難、飢餓、喪失に耐えている状況を報じ、900万人以上が避難し、約2900万人が急性飢餓に直面していることを伝えています。
 
 ### 3. ハンガリーの劇的な政権交代
 ** 概要:**
 ペーテル・マジャル氏が、ヴィクトル・オルバーン氏の16年間の長期政権を終わらせる選挙で圧勝し、ハンガリーの政治情勢は劇的に変化しました。マジャル氏は新議会の5月初旬の開催と迅速な政権移譲を要求しており、この動きはハンガリー国内だけでなく、欧州連合（EU）との関係にも大きな影響を与えるものと見られています。
 
 ** 各国の視点:**
-- **BBC – World News**: "Magyar calls for fast handover of power in talks with Hungary's president (HU)" - ヴィクトル・オルバーン氏の16年間の連続政権を終わらせたペーテル・マジャル氏が、新議会の5月初旬の招集を求めて、大統領との会談で迅速な政権移譲を要求していることを報じています。
-- **DW – Top Stories**: "Hungary: What's next for Peter Magyar after election win? (HU)" - ペーテル・マジャル氏がハンガリーにおける「システム変更」を約束し、国内外で大きな期待が高まっている中で、マジャル氏がハンガリーが直面する最も差し迫った問題にどう対処するかを探っています。
-- **BBC – Europe**: "Orbán era swept away by Péter Magyar's Hungary election landslide (HU)" - 45歳の元党内部関係者であるペーテル・マジャル氏によって、ヴィクトル・オルバーン氏の16年間の支配が終わったことを報じています。
-- **BBC – Europe**: "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold (HU)" - BBCの欧州担当編集者が、オルバーン氏の失脚に対するブダペストの歓喜がヨーロッパ中に響き渡る一方で、モスクワは冷淡な反応を示すだろうと分析しています。
+- **BBC – World News**: "[Magyar calls for fast handover of power in talks with Hungary's president](https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss)" - ヴィクトル・オルバーン氏の16年間の連続政権を終わらせたペーテル・マジャル氏が、新議会の5月初旬の招集を求めて、大統領との会談で迅速な政権移譲を要求していることを報じています。
+- **DW – Top Stories**: "[Hungary: What's next for Peter Magyar after election win?](https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-top-1022-rdf)" - ペーテル・マジャル氏がハンガリーにおける「システム変更」を約束し、国内外で大きな期待が高まっている中で、マジャル氏がハンガリーが直面する最も差し迫った問題にどう対処するかを探っています。
+- **BBC – Europe**: "[Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)" - 45歳の元党内部関係者であるペーテル・マジャル氏によって、ヴィクトル・オルバーン氏の16年間の支配が終わったことを報じています。
+- **BBC – Europe**: "[Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold](https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss)" - BBCの欧州担当編集者が、オルバーン氏の失脚に対するブダペストの歓喜がヨーロッパ中に響き渡る一方で、モスクワは冷淡な反応を示すだろうと分析しています。
 
 ### 4. 世界的な移民危機と海の悲劇
 ** 概要:**
 インド洋で移民を乗せた漁船が過積載と荒天により沈没し、250人が行方不明となる悲劇が発生しました。一方で、スペインは、国内の約50万人の不法移民に法的地位を与える計画を承認し、社会への貢献を認める動きを見せています。また、メキシコ大統領は、米国で発生した移民の死亡事件を巡りトランプ政権への怒りを表明し、移民の保護を誓っています。これらのニュースは、世界各地で続く移民問題の複雑さとその深刻な影響を浮き彫りにしています。
 
 ** 各国の視点:**
-- **BBC – World News**: "250 missing after migrant boat sinks in Indian Ocean (XX)" - 国連が発表したところによると、漁船が「強風、荒海、過積載」のため沈没したと報じ、250人が行方不明になっていることを伝えています。
-- **BBC – Europe**: "Spain approves plan to give around 500,000 undocumented migrants legal status (ES)" - ペドロ・サンチェス首相が、不法移民が「豊かで開かれた多様なスペインを築き、私たちが目指すスペインの一員である」と述べ、約50万人の不法移民に法的地位を与える計画を承認したことを報じています。
-- **The Guardian – World**: "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths (MX)" - メキシコ政府が米国の拘留施設での自国民の死亡に懸念を表明し、クラウディア・シェインバウム大統領がキューバへのエネルギー封鎖を課すトランプ政権の決定に反対していることを報じています。
+- **BBC – World News**: "[250 missing after migrant boat sinks in Indian Ocean](https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss)" - 国連が発表したところによると、漁船が「強風、荒海、過積載」のため沈没したと報じ、250人が行方不明になっていることを伝えています。
+- **BBC – Europe**: "[Spain approves plan to give around 500,000 undocumented migrants legal status](https://www.bbc.com/news/articles/cy511nln2xvo?at_medium=RSS&at_campaign=rss)" - ペドロ・サンチェス首相が、不法移民が「豊かで開かれた多様なスペインを築き、私たちが目指すスペインの一員である」と述べ、約50万人の不法移民に法的地位を与える計画を承認したことを報じています。
+- **The Guardian – World**: "[Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths](https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths)" - メキシコ政府が米国の拘留施設での自国民の死亡に懸念を表明し、クラウディア・シェインバウム大統領がキューバへのエネルギー封鎖を課すトランプ政権の決定に反対していることを報じています。
 
 ### 5. 文化とデジタルの倫理を巡る議論
 ** 概要:**
 著名人やデジタル技術が関わる複数の論争が注目を集めています。カニエ・ウェスト氏は、反ユダヤ主義的な発言を理由に英国への入国を拒否され、フランスでの公演を延期しました。韓国では、アメリカ人YouTuberが第二次世界大戦中の「慰安婦」像にキスをする不適切な行為により、公衆妨害罪で有罪判決を受けました。さらに、オーストラリアでは、新しい国内法の下でディープフェイクポルノを作成した19歳の男が有罪を認め、デジタル犯罪における画期的な判決となりました。
 
 ** 各国の視点:**
-- **BBC – World News**: "Kanye West postpones France gig following UK ban (GB)" - 英国政府がラッパーのカニエ・ウェスト氏の入国を拒否すると発表した1週間後に、彼がフランス公演を延期したことを報じています。
-- **DW – Top Stories**: "Kanye West postpones France concert after UK visa denial (FR)" - カニエ・ウェスト氏が以前の反ユダヤ主義的な発言を理由に英国ビザを拒否され、ワイヤレス・フェスティバルでのヘッドライン出演が中止されたことを受けて、フランスでのコンサートを延期したことを報じています。
-- **BBC – World News**: "South Korea jails American YouTuber for public nuisance (KR)" - アメリカ人YouTuberのジョニー・ソマリ氏が、第二次世界大戦中の「慰安婦」像にキスをして物議を醸し、公衆妨害罪で実刑判決を受けたことを伝えています。
-- **BBC – World News**: "Australian pleads guilty to creating deepfake porn in landmark case (AU)" - 19歳のオーストラリア人が新しい国内法の下で初めて起訴され、ディープフェイクポルノの作成に関して有罪を認めたことを報じています。
+- **BBC – World News**: "[Kanye West postpones France gig following UK ban](https://www.bbc.com/news/articles/c36rrrp5wnlo?at_medium=RSS&at_campaign=rss)" - 英国政府がラッパーのカニエ・ウェスト氏の入国を拒否すると発表した1週間後に、彼がフランス公演を延期したことを報じています。
+- **DW – Top Stories**: "[Kanye West postpones France concert after UK visa denial](https://www.dw.com/en/kanye-west-postpones-france-concert-after-uk-visa-denial/a-76785732?maca=en-rss-en-top-1022-rdf)" - カニエ・ウェスト氏が以前の反ユダヤ主義的な発言を理由に英国ビザを拒否され、ワイヤレス・フェスティバルでのヘッドライン出演が中止されたことを受けて、フランスでのコンサートを延期したことを報じています。
+- **BBC – World News**: "[South Korea jails American YouTuber for public nuisance](https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss)" - アメリカ人YouTuberのジョニー・ソマリ氏が、第二次世界大戦中の「慰安婦」像にキスをして物議を醸し、公衆妨害罪で実刑判決を受けたことを伝えています。
+- **BBC – World News**: "[Australian pleads guilty to creating deepfake porn in landmark case](https://www.bbc.com/news/articles/c39333x0xeno?at_medium=RSS&at_campaign=rss)" - 19歳のオーストラリア人が新しい国内法の下で初めて起訴され、ディープフェイクポルノの作成に関して有罪を認めたことを報じています。
 
 ---
 ** Global Headlines **

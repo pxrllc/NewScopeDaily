@@ -7,51 +7,51 @@
 イランとアメリカの間で、緊張緩和に向けた交渉が進展する兆しが見え、合意への期待が高まっています。特に、ホルムズ海峡の再開を含む合意が示唆されており、これが原油価格の動向にも影響を与えています。しかし、イラン側からは合意はまだ遠いとの見方も出ており、状況は流動的です。
 
 ** 各国の視点:**
-- ** BBC News (IR) **: "Deal with US not imminent, Iran says" - アメリカ国務長官は月曜日の合意の可能性を示唆しましたが、イラン側はまだ時間が必要だと述べています。
-- ** BBC News (XX) **: "Oil prices slide on hopes of US-Iran peace deal" - トランプ大統領は、ホルムズ海峡再開を含む合意に言及し、原油価格は期待感から下落しています。
-- ** DW News (IR) **: "Iran war: No deal close despite some progress — Tehran" - 米国とイランは交渉の進展について異なる評価をしており、原油価格は不確実性にもかかわらず下落しています。
-- ** Al Jazeera (XX) **: "The world urgently needs a US-Iran deal now" - ホルムズ海峡閉鎖の影響が世界的な危機を深める中、米国とイランの合意が喫緊の課題であると論じています。
-- ** BBC News (IR) **: "Trump tells US negotiators 'not to rush' into deal with Iran" - 交渉中の合意にはホルムズ海峡再開を含む60日間の停戦延長が含まれると報じられていますが、米国側は性急にならないよう指示しています。
-- ** BBC News (IR) **: "Iran steps up claim to control Strait of Hormuz" - イランがホルムズ海峡の広範囲にわたる「軍事監視」を主張する地図を発表し、同海峡への支配権を強める姿勢を示しています。
+- ** BBC News (IR) **: "[Deal with US not imminent, Iran says](https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss)" - アメリカ国務長官は月曜日の合意の可能性を示唆しましたが、イラン側はまだ時間が必要だと述べています。
+- ** BBC News (XX) **: "[Oil prices slide on hopes of US-Iran peace deal](https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss)" - トランプ大統領は、ホルムズ海峡再開を含む合意に言及し、原油価格は期待感から下落しています。
+- ** DW News (IR) **: "[Iran war: No deal close despite some progress — Tehran](https://www.dw.com/en/iran-war-no-deal-close-despite-some-progress-tehran/live-77284965?maca=en-rss-en-top-1022-rdf)" - 米国とイランは交渉の進展について異なる評価をしており、原油価格は不確実性にもかかわらず下落しています。
+- ** Al Jazeera (XX) **: "[The world urgently needs a US-Iran deal now](https://www.aljazeera.com/opinions/2026/5/25/the-world-urgently-needs-a-us-iran-deal-now?traffic_source=rss)" - ホルムズ海峡閉鎖の影響が世界的な危機を深める中、米国とイランの合意が喫緊の課題であると論じています。
+- ** BBC News (IR) **: "[Trump tells US negotiators 'not to rush' into deal with Iran](https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss)" - 交渉中の合意にはホルムズ海峡再開を含む60日間の停戦延長が含まれると報じられていますが、米国側は性急にならないよう指示しています。
+- ** BBC News (IR) **: "[Iran steps up claim to control Strait of Hormuz](https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss)" - イランがホルムズ海峡の広範囲にわたる「軍事監視」を主張する地図を発表し、同海峡への支配権を強める姿勢を示しています。
 
 ### 2. アフガニスタンにおける女性と少女の権利の危機
 ** 概要:**
 アフガニスタンでは、タリバンによる女子教育の禁止が続き、多くの若い女性が夢を断たれています。貧困の深化と女性の権利の制限が進む中、国内での家庭内暴力のリスクも高まり、より危険で目立たなく、逃れるのが困難になっている状況が報告されています。
 
 ** 各国の視点:**
-- ** BBC News (AF) **: "She was told to marry in a country which bans girls' education. So she got in a taxi and fled" - 女子教育が禁止されている国での結婚を強いられた少女が、タクシーに乗って逃亡した実体験を伝えています。
-- ** DW News (AF) **: "Hidden femicide risk grows in Afghanistan" - 貧困の拡大とタリバンによる女性の権利制限により、アフガニスタンでの家庭内暴力がより危険で、目立たなく、逃れにくくなっていると指摘しています。
+- ** BBC News (AF) **: "[She was told to marry in a country which bans girls' education. So she got in a taxi and fled](https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss)" - 女子教育が禁止されている国での結婚を強いられた少女が、タクシーに乗って逃亡した実体験を伝えています。
+- ** DW News (AF) **: "[Hidden femicide risk grows in Afghanistan](https://www.dw.com/en/hidden-femicide-risk-grows-in-afghanistan/a-77285438?maca=en-rss-en-top-1022-rdf)" - 貧困の拡大とタリバンによる女性の権利制限により、アフガニスタンでの家庭内暴力がより危険で、目立たなく、逃れにくくなっていると指摘しています。
 
 ### 3. ドラム・コンゴにおけるエボラ出血熱の拡大と対応の課題
 ** 概要:**
 コンゴ民主共和国（DRC）ではエボラ出血熱のアウトブレイクが900例を超え、保健当局は公衆衛生上の緊急事態を宣言しています。しかし、医療従事者への攻撃や医療物資の不足、そして埋葬の慣習などが、アウトブレイクの封じ込めに困難をもたらしています。ウガンダでも新たに2例の感染が確認されています。
 
 ** 各国の視点:**
-- ** DW News (UG) **: "Uganda confirms 2 new Ebola cases, DRC infections hit 900" - ウガンダの首都カンパラで医療従事者2名が新たに感染し、隣国コンゴ民主共和国での感染者数は900人に達しました。
-- ** The Guardian (CD) **: "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages" - コンゴ当局によると、感染疑い例は900を超え、医療従事者は攻撃と不足に直面しています。
-- ** The Guardian (CD) **: "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC" - コンゴの脆弱な医療システムが、確認されている症例数をはるかに超えるアウトブレイクに対処できるか懸念されています。
-- ** BBC News (CD) **: "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre" - エボラ出血熱の疑いがある遺体を引き取ろうとする群衆と当局との間で混乱が続き、警察が空に向けて発砲しました。
-- ** BBC News (CD) **: "Red Cross volunteers die from suspected Ebola in DR Congo" - 赤十字のボランティアが、アウトブレイクが特定される前にウイルスに感染した可能性が高いと報告されています。
-- ** BBC News (CD) **: "‘Ebola has tortured us’: Fear grips eastern DR Congo as deadly virus spreads" - 感染が広がるコンゴ東部では、エボラ出血熱に対する恐怖が広まっており、医療従事者はアウトブレイクの検出が遅れたと認めています。
+- ** DW News (UG) **: "[Uganda confirms 2 new Ebola cases, DRC infections hit 900](https://www.dw.com/en/uganda-confirms-2-new-ebola-cases-drc-infections-hit-900/a-77285492?maca=en-rss-en-top-1022-rdf)" - ウガンダの首都カンパラで医療従事者2名が新たに感染し、隣国コンゴ民主共和国での感染者数は900人に達しました。
+- ** The Guardian (CD) **: "[Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages](https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks)" - コンゴ当局によると、感染疑い例は900を超え、医療従事者は攻撃と不足に直面しています。
+- ** The Guardian (CD) **: "[‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC](https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo)" - コンゴの脆弱な医療システムが、確認されている症例数をはるかに超えるアウトブレイクに対処できるか懸念されています。
+- ** BBC News (CD) **: "[Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre](https://www.bbc.com/news/articles/c0l22pz6nw6o?at_medium=RSS&at_campaign=rss)" - エボラ出血熱の疑いがある遺体を引き取ろうとする群衆と当局との間で混乱が続き、警察が空に向けて発砲しました。
+- ** BBC News (CD) **: "[Red Cross volunteers die from suspected Ebola in DR Congo](https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss)" - 赤十字のボランティアが、アウトブレイクが特定される前にウイルスに感染した可能性が高いと報告されています。
+- ** BBC News (CD) **: "[‘Ebola has tortured us’: Fear grips eastern DR Congo as deadly virus spreads](https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss)" - 感染が広がるコンゴ東部では、エボラ出血熱に対する恐怖が広まっており、医療従事者はアウトブレイクの検出が遅れたと認めています。
 
 ### 4. ウクライナへの大規模攻撃とロシアによる新型兵器の使用
 ** 概要:**
 ロシアによるウクライナへの大規模な攻撃が発生し、多数の死傷者が出ています。ロシアは、音速の10倍以上で移動するとされる極超音速ミサイルを使用したことを確認しており、ウクライナ側はこれが占領下のルハーンシクへの攻撃で、多数の死傷者を出したと報告しています。
 
 ** 各国の視点:**
-- ** BBC News (UA) **: "Large-scale Russian attack on Ukraine leaves four dead and dozens injured" - ロシアは、音速の10倍以上で移動するとされる極超音速ミサイルを使用したことを確認しました。
-- ** BBC News (UA) **: "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate" - ウクライナ東部占領下のルハーンシクへの攻撃で18人が死亡、42人が負傷したと報じられており、ロシアは報復を誓っています。
+- ** BBC News (UA) **: "[Large-scale Russian attack on Ukraine leaves four dead and dozens injured](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)" - ロシアは、音速の10倍以上で移動するとされる極超音速ミサイルを使用したことを確認しました。
+- ** BBC News (UA) **: "[Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate](https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss)" - ウクライナ東部占領下のルハーンシクへの攻撃で18人が死亡、42人が負傷したと報じられており、ロシアは報復を誓っています。
 
 ### 5. 中国の鉱山事故と宇宙開発の進展
 ** 概要:**
 中国では、近年で最悪となる炭鉱事故が発生し、多数の犠牲者が出ています。国内では、事故原因の究明と正義を求める声が高まっています。一方で、中国は宇宙開発でも進展を見せており、香港出身の初の宇宙飛行士が中国のミッションで宇宙に打ち上げられました。また、1年間の宇宙実験を行う「神舟23号」ミッションも進行中です。
 
 ** 各国の視点:**
-- ** BBC News (CN) **: "Anger grows after China's deadliest coal mining disaster in years" - 中国の厳しく管理されたインターネット上で、人々は正義を求め、事故の発生原因について疑問を呈しています。
+- ** BBC News (CN) **: "[Anger grows after China's deadliest coal mining disaster in years](https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss)" - 中国の厳しく管理されたインターネット上で、人々は正義を求め、事故の発生原因について疑問を呈しています。
 - ** BBC News (CN) **: "The first Hong Kong astronaut launches into space onboard Chinese mission" - 43歳の警察官で3児の母である女性が、チームのペイロード科学者として宇宙ミッションに参加しました。
-- ** Euronews (CN) **: "What is China’s Shenzhou-23 mission? Inside the year-long space experiment" - 宇宙飛行士たちは、1年間の宇宙滞在が身体に与える影響をテストし、胚や米の栽培など100以上の実験を行う予定です。
-- ** Al Jazeera (CN) **: "Surveillance video shows moment of China coal mine blast" - 中国北部の炭鉱で発生した強力な爆発の瞬間が監視ビデオに捉えられました。
-- ** BBC News (CN) **: "At least 82 killed in Chinese coal mine explosion" - 山西省での爆発事故は、中国で16年ぶりの最悪の鉱山災害となりました。
+- ** Euronews (CN) **: "[What is China’s Shenzhou-23 mission? Inside the year-long space experiment](http://www.euronews.com/next/2026/05/25/what-is-chinas-shenzhou-23-mission-inside-the-year-long-space-experiment)" - 宇宙飛行士たちは、1年間の宇宙滞在が身体に与える影響をテストし、胚や米の栽培など100以上の実験を行う予定です。
+- ** Al Jazeera (CN) **: "[Surveillance video shows moment of China coal mine blast](https://www.aljazeera.com/video/newsfeed/2026/5/25/surveillance-video-shows-moment-of-china-coal-mine-blast?traffic_source=rss)" - 中国北部の炭鉱で発生した強力な爆発の瞬間が監視ビデオに捉えられました。
+- ** BBC News (CN) **: "[At least 82 killed in Chinese coal mine explosion](https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss)" - 山西省での爆発事故は、中国で16年ぶりの最悪の鉱山災害となりました。
 
 ---
 ** グローバルヘッドライン **

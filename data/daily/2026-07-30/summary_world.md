@@ -7,53 +7,53 @@
 米国がイランへの「重い」攻撃を再開し、一時休戦していた両国間のミサイル攻撃が再燃しました。これにより中東全体の緊張が高まり、サウジアラビアは米国とイランの紛争から距離を置こうとしながらも、紅海の安全保障のための連合結成を模索しています。ガザ地区ではイスラエルの攻撃が続き、多くの死者が出ており、イスラエルは新たな境界線の構築を進めていると報じられています。
 
 **各国の視点:**
-- **BBC – World News**: "US launches 'heavy' strikes on Iran after attempted attack on American troops (IR)" - 米国がイランへの大規模な攻撃を再開し、中断していた敵対行為が再燃したと報じています。
-- **BBC – World News**: "Saudi Arabia's dilemma as it tries to stay out of US-Iran war (SA)" - サウジアラビアが米国とイランの紛争から距離を置こうとする中で、報復を続けるか事態を鎮静化させるかの選択に迫られていると伝えています。
-- **Al Jazeera – All**: "Israeli strikes kill at least four, including children, across Gaza Strip (PS)" - ガザ地区全域でイスラエル軍の攻撃により少なくとも4人（子供を含む）が死亡したと報じ、停戦交渉が進む中での攻撃を伝えています。
-- **BBC – Middle East**: "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq (IQ)" - サウジアラビアがイラクのイラン系民兵組織に対する米国の攻撃に参加したと報じ、代理勢力が米軍基地やサウジアラビアのエネルギー施設を攻撃したと説明しています。
-- **BBC – Middle East**: "Israel building new land barriers in Gaza and displacing families (IL)" - イスラエルがガザに新たな陸上障壁を建設し、家族を避難させていると報じ、専門家はイスラエルが長期的な内部国境を計画している可能性を示唆していると伝えています。
+- **BBC – World News**: "[US launches 'heavy' strikes on Iran after attempted attack on American troops](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)" - 米国がイランへの大規模な攻撃を再開し、中断していた敵対行為が再燃したと報じています。
+- **BBC – World News**: "[Saudi Arabia's dilemma as it tries to stay out of US-Iran war](https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss)" - サウジアラビアが米国とイランの紛争から距離を置こうとする中で、報復を続けるか事態を鎮静化させるかの選択に迫られていると伝えています。
+- **Al Jazeera – All**: "[Israeli strikes kill at least four, including children, across Gaza Strip](https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss)" - ガザ地区全域でイスラエル軍の攻撃により少なくとも4人（子供を含む）が死亡したと報じ、停戦交渉が進む中での攻撃を伝えています。
+- **BBC – Middle East**: "[Saudi Arabia joins US in strikes on Iran-backed militias in Iraq](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)" - サウジアラビアがイラクのイラン系民兵組織に対する米国の攻撃に参加したと報じ、代理勢力が米軍基地やサウジアラビアのエネルギー施設を攻撃したと説明しています。
+- **BBC – Middle East**: "[Israel building new land barriers in Gaza and displacing families](https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss)" - イスラエルがガザに新たな陸上障壁を建設し、家族を避難させていると報じ、専門家はイスラエルが長期的な内部国境を計画している可能性を示唆していると伝えています。
 
 ### 2. 欧州の気候危機：山火事と熱波
 **概要:**
 ヨーロッパでは猛烈な熱波が続き、山火事と異常気象が各地で深刻な影響を及ぼしています。ギリシャのクレタ島では数千人が避難し、消火活動中に複数の消防士が死亡しました。ドイツでは熱波による死者数が約1万人に迫り、ドナウ川の水位低下がハンガリーとルーマニアの原子力発電所の出力削減に繋がるなど、生活と経済に広範囲な影響が出ています。
 
 **各国の視点:**
-- **BBC – World News**: "Thousands evacuated in Crete but Spanish PM ends wildfire emergency (GR)" - 強い風がギリシャのクレタ島レティムノ地域で炎を煽り、数千人が避難したが、スペイン首相は山火事の緊急事態を解除したと報じています。
-- **DW – Top Stories**: "Germany's heat death toll nears 10,000 (DE)" - ドイツで2026年の熱波関連の死者数がすでに過去10年間の年間総数を超え、1万人に迫っていると伝えています。
-- **DW – Top Stories**: "Danube water levels: Hungary, Romania cut nuclear output (HU)" - ドナウ川の歴史的な低水位により、ハンガリーとルーマニアが主要な原子力発電所の出力を削減しており、観光業や貨物輸送にも影響が出ていると報じています。
-- **Euronews – World**: "Crete wildfire kills two firefighters as fierce flames spread in Greece (GR)" - ギリシャのクレタ島で山火事が続き、強風が火勢を強める中、2人の消防士が死亡したと報じています。
-- **The Guardian – World**: "Past fires suggest effects of Europe and North America wildfires may linger for years (XX)" - ヨーロッパと北米で発生している猛烈な山火事の影響が、過去の事例から数年間続く可能性があると警告しています。
+- **BBC – World News**: "[Thousands evacuated in Crete but Spanish PM ends wildfire emergency](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)" - 強い風がギリシャのクレタ島レティムノ地域で炎を煽り、数千人が避難したが、スペイン首相は山火事の緊急事態を解除したと報じています。
+- **DW – Top Stories**: "[Germany's heat death toll nears 10,000](https://www.dw.com/en/germany-s-heat-death-toll-nears-10-000/a-78175743?maca=en-rss-en-top-1022-rdf)" - ドイツで2026年の熱波関連の死者数がすでに過去10年間の年間総数を超え、1万人に迫っていると伝えています。
+- **DW – Top Stories**: "[Danube water levels: Hungary, Romania cut nuclear output](https://www.dw.com/en/danube-water-levels-hungary-romania-cut-nuclear-output/a-78171891?maca=en-rss-en-top-1022-rdf)" - ドナウ川の歴史的な低水位により、ハンガリーとルーマニアが主要な原子力発電所の出力を削減しており、観光業や貨物輸送にも影響が出ていると報じています。
+- **Euronews – World**: "[Crete wildfire kills two firefighters as fierce flames spread in Greece](http://www.euronews.com/video/2026/07/30/crete-wildfire-kills-two-firefighters-as-fierce-flames-spread-in-greece)" - ギリシャのクレタ島で山火事が続き、強風が火勢を強める中、2人の消防士が死亡したと報じています。
+- **The Guardian – World**: "[Past fires suggest effects of Europe and North America wildfires may linger for years](https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects)" - ヨーロッパと北米で発生している猛烈な山火事の影響が、過去の事例から数年間続く可能性があると警告しています。
 
 ### 3. ロシア・ウクライナ戦争とNATOへの影響
 **概要:**
 ロシアによるウクライナへの攻撃が続く中、ポーランド首相は、国内に深く着弾したミサイルがロシア製である可能性が高いと発表しました。このミサイルはウクライナ国境から約100km離れたポーランド領内に10mのクレーターを残し、NATO領空侵犯と見られています。ウクライナではロシアの空爆により8人が死亡しており、地域全体の安全保障への懸念が高まっています。
 
 **各国の視点:**
-- **BBC – World News**: "Missile that left crater deep inside Poland was probably Russian - Polish PM (PL)" - ポーランド首相が、同国領内に10mのクレーターを残したミサイルがロシア製である可能性が高いと発表したと報じています。
-- **DW – Top Stories**: "Poland says Russian ballistic missile violated airspace (PL)" - ポーランド当局が、ロシアの弾道ミサイルがウクライナへの攻撃中にポーランド領内に墜落し、NATO領空を侵犯したと発表したと伝えています。
-- **Al Jazeera – All**: "Poland says Russian missile breaches NATO airspace (PL)" - ポーランドが、ロシアのミサイルがポーランド領内に着弾し、NATO領空を侵害したと報じています。
-- **BBC – Europe**: "Three children among eight dead in Russian strikes on Ukraine, officials say (UA)" - ウクライナへのロシアの攻撃により8人が死亡し、そのうち3人が子供であったと報じています。
+- **BBC – World News**: "[Missile that left crater deep inside Poland was probably Russian - Polish PM](https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss)" - ポーランド首相が、同国領内に10mのクレーターを残したミサイルがロシア製である可能性が高いと発表したと報じています。
+- **DW – Top Stories**: "[Poland says Russian ballistic missile violated airspace](https://www.dw.com/en/poland-says-russian-ballistic-missile-violated-airspace/a-78172288?maca=en-rss-en-top-1022-rdf)" - ポーランド当局が、ロシアの弾道ミサイルがウクライナへの攻撃中にポーランド領内に墜落し、NATO領空を侵犯したと発表したと伝えています。
+- **Al Jazeera – All**: "[Poland says Russian missile breaches NATO airspace](https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss)" - ポーランドが、ロシアのミサイルがポーランド領内に着弾し、NATO領空を侵害したと報じています。
+- **BBC – Europe**: "[Three children among eight dead in Russian strikes on Ukraine, officials say](https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss)" - ウクライナへのロシアの攻撃により8人が死亡し、そのうち3人が子供であったと報じています。
 
 ### 4. 熊本地震と日本の復興努力
 **概要:**
 日本でマグニチュード7.1の地震が発生し、特に熊本地域に甚大な被害をもたらしました。ショッピングモールでは爆発が起こり、多くの建物や道路が損傷し、鉄道網が寸断されました。この地震による死者数は34人に上り、数千人が避難所で猛暑と戦いながら生活しています。生存者たちは地震の衝撃と恐怖を語っており、救助活動が継続されています。
 
 **各国の視点:**
-- **Euronews – World**: "Japan shopping mall explosion after 7.1 quake captured on dashcam footage (JP)" - 熊本を襲ったマグニチュード7.1の地震の後、ショッピングモールの爆発がダッシュカム映像に捉えられ、救助隊が生存者を捜索していると報じています。
-- **BBC – Asia**: "Japan earthquake death toll rises to 34 as evacuees battle sweltering heat (JP)" - 地震による死者数が34人に増加し、数千人の避難者が猛暑の中で避難生活を送っていると伝えています。
-- **BBC – Asia**: "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake (JP)" - マグニチュード6.8の地震後、生存者たちが地震の衝撃と恐怖を語っており、救助活動が続いていると報じています。
-- **BBC – Asia**: "Japan earthquake kills at least 13 as rescuers race to find survivors (JP)" - 地震により少なくとも13人が死亡し、道路や建物に被害が出て鉄道網が寸断され、数千人が避難所に避難したと報じています。
+- **Euronews – World**: "[Japan shopping mall explosion after 7.1 quake captured on dashcam footage](http://www.euronews.com/video/2026/07/30/japan-shopping-mall-explosion-after-71-quake-captured-on-dashcam-footage)" - 熊本を襲ったマグニチュード7.1の地震の後、ショッピングモールの爆発がダッシュカム映像に捉えられ、救助隊が生存者を捜索していると報じています。
+- **BBC – Asia**: "[Japan earthquake death toll rises to 34 as evacuees battle sweltering heat](https://www.bbc.co.uk/news/articles/cdrv36kv7pzo?at_medium=RSS&at_campaign=rss)" - 地震による死者数が34人に増加し、数千人の避難者が猛暑の中で避難生活を送っていると伝えています。
+- **BBC – Asia**: "['I thought I would die': Survivors describe shock and horror of powerful Japan earthquake](https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss)" - マグニチュード6.8の地震後、生存者たちが地震の衝撃と恐怖を語っており、救助活動が続いていると報じています。
+- **BBC – Asia**: "[Japan earthquake kills at least 13 as rescuers race to find survivors](https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss)" - 地震により少なくとも13人が死亡し、道路や建物に被害が出て鉄道網が寸断され、数千人が避難所に避難したと報じています。
 
 ### 5. FIFAワールドカップのガバナンスと論争
 **概要:**
 FIFAがワールドカップの株式売却計画を進めていることに対し、ドイツをはじめとする欧州サッカー連盟（UEFA）やアジアサッカー連盟（AFC）から強い反発が起こっています。UEFAは緊急会合を予定しており、FIFAの提案を「受け入れがたい」と非難しています。一方で、アルゼンチンはワールドカップ決勝後の振る舞いや大会中の行為についてFIFAから懲戒手続きを受けており、大会に関連するガバナンスと倫理問題が浮上しています。
 
 **各国の視点:**
-- **DW – Top Stories**: "Germany widens deportations to Afghanistan (DE)" - ドイツのサッカー界の重鎮たちが、ジャンニ・インファンティーノFIFA会長のワールドカップの株式売却計画を批判していると報じています。
-- **DW – Top Stories**: "UEFA set for emergency meeting on FIFA World Cup proposal (XX)" - UEFAがFIFAのワールドカップ株式売却計画について緊急会合を開き、強く反対の姿勢を示していると伝えています。
-- **Al Jazeera – All**: "AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’ (XX)" - アジアサッカー連盟の会長がFIFAのワールドカップ株式売却計画を「受け入れがたい」と呼び、スポーツの大陸構造を損なうものだと批判していると報じています。
-- **BBC – Latin America & Caribbean**: "Fifa opens disciplinary proceedings against Argentina (AR)" - FIFAがワールドカップ決勝でスペインに敗れた後の振る舞いや大会全体での行動に対し、アルゼンチンに懲戒手続きを開始したと報じています。
-- **The Guardian – World**: "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup (AR)" - アルゼンチンのミレイ大統領が、ワールドカップでのチームへの批判や人種差別疑惑、FIFAがメッシ側に有利であったという陰謀論の背後に「反アルゼンチンキャンペーン」があったと主張し、米国民主党が資金提供していると非難したと伝えています。
+- **DW – Top Stories**: "[Germany widens deportations to Afghanistan](https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-top-1022-rdf)" - ドイツのサッカー界の重鎮たちが、ジャンニ・インファンティーノFIFA会長のワールドカップの株式売却計画を批判していると報じています。
+- **DW – Top Stories**: "[UEFA set for emergency meeting on FIFA World Cup proposal](https://www.dw.com/en/uefa-set-for-emergency-meeting-on-fifa-world-cup-proposal/a-78171084?maca=en-rss-en-top-1022-rdf)" - UEFAがFIFAのワールドカップ株式売却計画について緊急会合を開き、強く反対の姿勢を示していると伝えています。
+- **Al Jazeera – All**: "[AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’](https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss)" - アジアサッカー連盟の会長がFIFAのワールドカップ株式売却計画を「受け入れがたい」と呼び、スポーツの大陸構造を損なうものだと批判していると報じています。
+- **BBC – Latin America & Caribbean**: "[Fifa opens disciplinary proceedings against Argentina](https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss)" - FIFAがワールドカップ決勝でスペインに敗れた後の振る舞いや大会全体での行動に対し、アルゼンチンに懲戒手続きを開始したと報じています。
+- **The Guardian – World**: "[Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup](https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup)" - アルゼンチンのミレイ大統領が、ワールドカップでのチームへの批判や人種差別疑惑、FIFAがメッシ側に有利であったという陰謀論の背後に「反アルゼンチンキャンペーン」があったと主張し、米国民主党が資金提供していると非難したと伝えています。
 
 ---
 ** Global Headlines **

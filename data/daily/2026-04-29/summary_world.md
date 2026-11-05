@@ -7,12 +7,12 @@
 中東でのイラン戦争が激化し、国際的な緊張が高まっています。特に、ホルムズ海峡を巡る封鎖や、それに伴う人道支援の滞り、そして世界的な原油価格の高騰が深刻な問題となっています。米国はイランに対する港湾封鎖を計画し、外交努力も行われていますが、状況は依然として緊迫しています。
 
 **各国の視点:**
-- **The Guardian**: "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid" - [人道支援団体がホルムズ海峡での人道回廊設置を呼びかけ。イラン戦争による食料、燃料、医薬品の供給不足が深刻化。]
-- **Euronews**: "Trump warns Iran to ‘better get smart soon’ as US plans long port blockade" - [トランプ大統領はイランに対し、長期的な港湾封鎖を警告。イスラマバードでの平和交渉は中止。]
-- **Al Jazeera**: "European Commission president calls for diplomacy to end Iran war" - [欧州委員長がイラン戦争終結に向けた外交努力を呼びかけ。]
-- **BBC – Middle East**: "Russian superyacht sails through Strait of Hormuz despite blockade" - [ロシアのスーパーヨットが封鎖にもかかわらずホルムズ海峡を通過。]
-- **BBC – Middle East**: "Trump cancels US envoys' trip to Pakistan for talks on Iran war" - [トランプ大統領がイラン戦争に関するパキスタンでの会談のため、米国使節団の派遣を中止。]
-- **Al Jazeera**: "‘Particularly badly exposed’: How the Iran war is hitting the UK" - [イラン戦争が英国に与える経済的影響と社会不安の増大について報道。]
+- **The Guardian**: "[Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid](https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid)" - [人道支援団体がホルムズ海峡での人道回廊設置を呼びかけ。イラン戦争による食料、燃料、医薬品の供給不足が深刻化。]
+- **Euronews**: "[Trump warns Iran to ‘better get smart soon’ as US plans long port blockade](http://www.euronews.com/2026/04/29/trump-warns-iran-to-better-get-smart-soon-as-us-plans-long-port-blockade)" - [トランプ大統領はイランに対し、長期的な港湾封鎖を警告。イスラマバードでの平和交渉は中止。]
+- **Al Jazeera**: "[European Commission president calls for diplomacy to end Iran war](https://www.aljazeera.com/video/newsfeed/2026/4/29/european-commission-president-calls-for-diplomacy-to-end-iran-war?traffic_source=rss)" - [欧州委員長がイラン戦争終結に向けた外交努力を呼びかけ。]
+- **BBC – Middle East**: "[Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)" - [ロシアのスーパーヨットが封鎖にもかかわらずホルムズ海峡を通過。]
+- **BBC – Middle East**: "[Trump cancels US envoys' trip to Pakistan for talks on Iran war](https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss)" - [トランプ大統領がイラン戦争に関するパキスタンでの会談のため、米国使節団の派遣を中止。]
+- **Al Jazeera**: "[‘Particularly badly exposed’: How the Iran war is hitting the UK](https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss)" - [イラン戦争が英国に与える経済的影響と社会不安の増大について報道。]
 
 ---
 
@@ -21,11 +21,11 @@
 マリでは反政府勢力の攻撃が激化し、治安情勢が悪化しています。ロシアの民間軍事会社「アフリカ軍団」は、クーデター阻止と反政府勢力への打撃を主張していますが、現地の状況は混迷を極めています。フランスをはじめとする各国は、自国民にマリからの退避を勧告しています。
 
 **各国の視点:**
-- **The Guardian**: "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns" - [ロシア国防省が、マリでのクーデター阻止と反政府勢力への打撃を主張。]
-- **The Guardian**: "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime" - [反政府勢力がマリの弱体化した政権に圧力をかけている状況を分析。]
-- **BBC – Africa**: "What next for Mali's military leaders after shock of rebel offensive?" - [反政府勢力の攻撃を受けたマリ軍事政権の今後の展望を分析。]
-- **BBC – Europe**: "Russian fighters confirm withdrawal from northern Mali city after separatist attacks" - [ロシア戦闘員がマリ北部の都市からの撤退を確認。週末の攻撃後、エトニック・トゥアレグ戦闘員が都市を支配。]
-- **BBC – World News**: "France urges citizens to leave Mali after rebel attacks" - [フランスが反政府勢力の攻撃を受け、マリ国民に退避を勧告。]
+- **The Guardian**: "[Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns](https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns)" - [ロシア国防省が、マリでのクーデター阻止と反政府勢力への打撃を主張。]
+- **The Guardian**: "[Taking power in Mali might be a stretch but insurgents can force hand of weakened regime](https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime)" - [反政府勢力がマリの弱体化した政権に圧力をかけている状況を分析。]
+- **BBC – Africa**: "[What next for Mali's military leaders after shock of rebel offensive?](https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss)" - [反政府勢力の攻撃を受けたマリ軍事政権の今後の展望を分析。]
+- **BBC – Europe**: "[Russian fighters confirm withdrawal from northern Mali city after separatist attacks](https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss)" - [ロシア戦闘員がマリ北部の都市からの撤退を確認。週末の攻撃後、エトニック・トゥアレグ戦闘員が都市を支配。]
+- **BBC – World News**: "[France urges citizens to leave Mali after rebel attacks](https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss)" - [フランスが反政府勢力の攻撃を受け、マリ国民に退避を勧告。]
 
 ---
 
@@ -34,9 +34,9 @@
 アラブ首長国連邦（UAE）が石油輸出国機構（OPEC）からの脱退を発表し、国際的なエネルギー市場に波紋を広げています。これはサウジアラビアにとって重要なパートナーの喪失となり、OPECの将来に対する不確実性を高めています。
 
 **各国の視点:**
-- **BBC – World News**: "Faisal Islam: Why the UAE's exit from Opec is a big deal" - [UAEのOPEC脱退は、現在の石油封鎖には影響は少ないものの、その後の市場に変化をもたらす可能性について分析。]
-- **BBC – Middle East**: "United Arab Emirates to quit oil cartel Opec" - [UAEがOPECを脱退。約60年間の加盟を経ての決定は、石油カルテルの将来に影響を与える可能性。]
-- **DW – Top Stories**: "Why UAE's OPEC exit is a blow to Saudi Arabia" - [UAEがOPECを脱退し、自国のペースで原油生産を増やす意向。サウジアラビアにとって重要なパートナーを失い、カルテルの将来に不確実性が増す。]
+- **BBC – World News**: "[Faisal Islam: Why the UAE's exit from Opec is a big deal](https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss)" - [UAEのOPEC脱退は、現在の石油封鎖には影響は少ないものの、その後の市場に変化をもたらす可能性について分析。]
+- **BBC – Middle East**: "[United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)" - [UAEがOPECを脱退。約60年間の加盟を経ての決定は、石油カルテルの将来に影響を与える可能性。]
+- **DW – Top Stories**: "[Why UAE's OPEC exit is a blow to Saudi Arabia](https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-top-1022-rdf)" - [UAEがOPECを脱退し、自国のペースで原油生産を増やす意向。サウジアラビアにとって重要なパートナーを失い、カルテルの将来に不確実性が増す。]
 
 ---
 
@@ -45,12 +45,12 @@
 人工知能（AI）技術は急速に進展しており、音楽業界から医療、さらには選挙への影響まで、多岐にわたる分野でその活用とリスクが議論されています。特に、アフリカのような地域では、インフラの不足や言語の壁がAIの普及を妨げる要因となっています。
 
 **各国の視点:**
-- **The Guardian**: "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards" - [ケープタウンでのイベントで、アフリカの音楽業界がAIの機会とリスクについて議論。AIは才能の代わりにはならないと強調。]
-- **Global Voices – Africa (Sub-Saharan)**: "New tech, new rules: Narrative and civil society in the age of AI and algorithms" - [AIとアルゴリズムの時代におけるAIの監視、乱用、権力の不均衡が懸念される一方、ケーススタディから前向きな要素も見られる。]
-- **Global Voices – Africa (Sub-Saharan)**: "A lack of electricity and internet access hinders AI adoption in Sub-Saharan Africa" - [サブサハラ・アフリカでは、電力不足と高価なインターネットアクセスがAIの普及を妨げている。]
-- **Global Voices – Americas**: "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to women and girls" - [ブラジルで、AIとディープフェイクが女性と少女にとって「過度のリスク」となる可能性について警告。]
-- **Global Voices – Americas**: "AI hype narrative reaches the public healthcare system in El Salvador" - [エルサルバドルで、AIによる公衆衛生システムの変革が政府によって主張されている。]
-- **Euronews – World**: "‘Not OK to steal a charity’: Elon Musk testifies in legal battle with Sam Altman over OpenAI" - [イーロン・マスク氏がOpenAIを巡るサム・アルトマン氏との訴訟で証言。AI開発を「慈善活動」と表現し、アルトマン氏らが慈善活動を「盗んだ」と主張。]
+- **The Guardian**: "[‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards](https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence)" - [ケープタウンでのイベントで、アフリカの音楽業界がAIの機会とリスクについて議論。AIは才能の代わりにはならないと強調。]
+- **Global Voices – Africa (Sub-Saharan)**: "[New tech, new rules: Narrative and civil society in the age of AI and algorithms](https://globalvoices.org/2026/04/29/new-tech-new-rules-narrative-and-civil-society-in-the-age-of-ai-and-algorithms)" - [AIとアルゴリズムの時代におけるAIの監視、乱用、権力の不均衡が懸念される一方、ケーススタディから前向きな要素も見られる。]
+- **Global Voices – Africa (Sub-Saharan)**: "[A lack of electricity and internet access hinders AI adoption in Sub-Saharan Africa](https://globalvoices.org/2026/04/28/a-lack-of-electricity-and-internet-access-hinders-ai-adoption-in-sub-saharan-africa)" - [サブサハラ・アフリカでは、電力不足と高価なインターネットアクセスがAIの普及を妨げている。]
+- **Global Voices – Americas**: "[Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to women and girls](https://globalvoices.org/2026/04/28/brazil-a-warning-on-how-ai-and-deepfakes-can-become-an-excessive-risk-to-women-and-girls)" - [ブラジルで、AIとディープフェイクが女性と少女にとって「過度のリスク」となる可能性について警告。]
+- **Global Voices – Americas**: "[AI hype narrative reaches the public healthcare system in El Salvador](https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador)" - [エルサルバドルで、AIによる公衆衛生システムの変革が政府によって主張されている。]
+- **Euronews – World**: "[‘Not OK to steal a charity’: Elon Musk testifies in legal battle with Sam Altman over OpenAI](http://www.euronews.com/next/2026/04/29/not-ok-to-steal-a-charity-elon-musk-testifies-in-legal-battle-with-sam-altman-over-openai)" - [イーロン・マスク氏がOpenAIを巡るサム・アルトマン氏との訴訟で証言。AI開発を「慈善活動」と表現し、アルトマン氏らが慈善活動を「盗んだ」と主張。]
 
 ---
 
@@ -59,10 +59,10 @@
 FIFAはワールドカップにおけるイエローカードの扱いを変更し、サスペンションを軽減する方針を発表しました。また、選手が口を覆う行為に対してレッドカードが提示される新ルールも導入されるなど、スポーツ界では新たな規則が導入されています。
 
 **各国の視点:**
-- **Al Jazeera**: "FIFA confirms new World Cup rule on yellow cards to reduce suspensions" - [FIFAが、グループステージおよび準々決勝後にイエローカードをリセットする新ルールを確認。]
-- **Al Jazeera**: "Red card for players covering their mouths in World Cup matches" - [抗議のために口を覆ったり、ピッチを去ったりする選手に対し、レッドカードが提示される新ルールを導入。]
-- **Al Jazeera**: "Palestinian football body appeals FIFA ruling on Israel at top sports court" - [パレスチナサッカー連盟が、イスラエルに関するFIFAの決定をスポーツ仲裁裁判所に訴える。]
-- **BBC – Asia**: "Afghanistan women footballers can return to competition after FIFA rule changes" - [FIFAの規則変更により、アフガニスタンの女子サッカー選手が国際大会に復帰可能に。]
+- **Al Jazeera**: "[FIFA confirms new World Cup rule on yellow cards to reduce suspensions](https://www.aljazeera.com/sports/2026/4/29/fifa-confirms-new-world-cup-rule-on-yellow-cards-to-reduce-suspensions?traffic_source=rss)" - [FIFAが、グループステージおよび準々決勝後にイエローカードをリセットする新ルールを確認。]
+- **Al Jazeera**: "[Red card for players covering their mouths in World Cup matches](https://www.aljazeera.com/sports/2026/4/29/red-card-for-players-covering-their-mouths-in-world-cup-matches?traffic_source=rss)" - [抗議のために口を覆ったり、ピッチを去ったりする選手に対し、レッドカードが提示される新ルールを導入。]
+- **Al Jazeera**: "[Palestinian football body appeals FIFA ruling on Israel at top sports court](https://www.aljazeera.com/sports/2026/4/29/palestinian-football-body-appeals-fifa-ruling-on-israel-at-top-sports-court?traffic_source=rss)" - [パレスチナサッカー連盟が、イスラエルに関するFIFAの決定をスポーツ仲裁裁判所に訴える。]
+- **BBC – Asia**: "[Afghanistan women footballers can return to competition after FIFA rule changes](https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss)" - [FIFAの規則変更により、アフガニスタンの女子サッカー選手が国際大会に復帰可能に。]
 
 ---
 

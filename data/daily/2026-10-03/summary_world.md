@@ -7,50 +7,50 @@
 ブラジルでは今週末、大統領選挙が迫っており、現職の左派ルラ・ダ・シルバ大統領と、元極右大統領ジャイール・ボルソナーロの息子フラビオ・ボルソナーロ候補が激しい接戦を繰り広げています。この選挙は、ラテンアメリカにおける親トランプの極右勢力の台頭を試すものとして国際的に注目されており、米国からの選挙干渉疑惑や、カトリックの守護聖人を巡る論争も報じられています。トランプ政権は、ブラジルとの関係や海外への右派アジェンダ推進など、引き続き国際政治に大きな影響を与えています。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Why has Brazil accused the US of election interference? (BR)" - ブラジルが米国による選挙干渉を非難している背景を、候補者間の主要な争点である主権、安全保障、ワシントンとの関係を交えつつ解説しています。
-- **[The Guardian – World]**: "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc (BR)" - 今週末の選挙が、ラテンアメリカで拡大する親トランプの右派ブロックにとって試金石となるという視点を提供し、ルラとボルソナーロ氏の息子が対立する構図を強調しています。
-- **[The Guardian – World]**: "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son (BR)" - ルラ大統領がリオデジャネイロでの大規模集会で、ボルソナーロの息子による「ファシスト」勢力の復活を阻止できるのは自分だけだと主張したことを報じています。
-- **[The Guardian – World]**: "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election (BR)" - 選挙戦が膠着する中で、国の守護聖人「アパレシーダの聖母」を巡る論争が意外な決定要因になっているというユニークな視点を提供しています。
-- **[The Guardian – World]**: "Trump administration diverts human rights funds to push far-right agenda abroad (US)" - トランプ政権が国務省の人権資金1億7500万ドル以上を、反共産主義基金、白人アフリカーナーの権利擁護、ブラジルの最高裁に対するキャンペーンなど、海外の極右アジェンダ推進に転用しようとしていると報じています。
+- **[BBC – World News]**: "[Why has Brazil accused the US of election interference?](https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss)" - ブラジルが米国による選挙干渉を非難している背景を、候補者間の主要な争点である主権、安全保障、ワシントンとの関係を交えつつ解説しています。
+- **[The Guardian – World]**: "[Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc](https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump)" - 今週末の選挙が、ラテンアメリカで拡大する親トランプの右派ブロックにとって試金石となるという視点を提供し、ルラとボルソナーロ氏の息子が対立する構図を強調しています。
+- **[The Guardian – World]**: "[Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son](https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son)" - ルラ大統領がリオデジャネイロでの大規模集会で、ボルソナーロの息子による「ファシスト」勢力の復活を阻止できるのは自分だけだと主張したことを報じています。
+- **[The Guardian – World]**: "[‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election](https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row)" - 選挙戦が膠着する中で、国の守護聖人「アパレシーダの聖母」を巡る論争が意外な決定要因になっているというユニークな視点を提供しています。
+- **[The Guardian – World]**: "[Trump administration diverts human rights funds to push far-right agenda abroad](https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund)" - トランプ政権が国務省の人権資金1億7500万ドル以上を、反共産主義基金、白人アフリカーナーの権利擁護、ブラジルの最高裁に対するキャンペーンなど、海外の極右アジェンダ推進に転用しようとしていると報じています。
 
 ### 2. ウクライナ紛争：キーウの主要橋が再び攻撃の標的に
 ** 概要:**
 ロシア軍がウクライナの首都キーウにある主要な橋に対し、二度目の大規模な攻撃を行いました。これは前日に続き、ドニエプル川にかかる主要な交通インフラを標的としたもので、キーウ市民の生活に深刻な影響を与え、紛争の激化を示唆しています。この攻撃により、民間人にも犠牲者が出ています。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Russia hits second major bridge in Ukraine's capital Kyiv (UA)" - キーウの主要な橋、ピヴニチニー（北部）橋への攻撃を報じ、前日の別の主要橋への度重なる攻撃に続くものとして伝えています。
-- **[DW – Top Stories]**: "Russia strikes another major bridge in Kyiv, says mayor (UA)" - キーウ市長の発言を引用し、北部橋への攻撃が、これまでの南部橋への複数回の攻撃に続くものであることを強調しています。
-- **[Al Jazeera – All]**: "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge (UA)" - キーウとモスクワが互いに攻撃を応酬する中で5人が死亡したことを報じ、ロシアがキーウの第二の主要な橋を攻撃したことを伝えています。
+- **[BBC – World News]**: "[Russia hits second major bridge in Ukraine's capital Kyiv](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)" - キーウの主要な橋、ピヴニチニー（北部）橋への攻撃を報じ、前日の別の主要橋への度重なる攻撃に続くものとして伝えています。
+- **[DW – Top Stories]**: "[Russia strikes another major bridge in Kyiv, says mayor](https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-top-1022-rdf)" - キーウ市長の発言を引用し、北部橋への攻撃が、これまでの南部橋への複数回の攻撃に続くものであることを強調しています。
+- **[Al Jazeera – All]**: "[Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge](https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss)" - キーウとモスクワが互いに攻撃を応酬する中で5人が死亡したことを報じ、ロシアがキーウの第二の主要な橋を攻撃したことを伝えています。
 
 ### 3. 欧州各地で社会不安と大規模な抗議活動が広がる
 ** 概要:**
 欧州各地で政府に対する市民の不満が顕在化し、大規模な抗議活動が展開されています。スペインでは住宅危機を巡る緊急法案が否決されたことを受け、手頃な価格の住宅を求めるデモが全国規模で行われました。一方、フランスでは教育水準の低下や教師不足に抗議する学生運動が激化し、一部で暴動や学校の炎上も発生するなど、社会の不安定化が深刻化しています。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Protesters across Spain demand action over housing crisis (ES)" - 政府が緊急法案を議会通過できなかったことを受け、50か所以上で抗議活動が行われたと報じています。
-- **[DW – Top Stories]**: "Spain: Massive protests after housing bills voted down (ES)" - マドリードで50万人（主催者発表）が手頃な住宅を求めてデモに参加したと報じ、スペイン全土での抗議活動の規模を強調しています。
-- **[BBC – World News]**: "Riot police clash with students as education protests rage in France (FR)" - フランスで教育水準の低下と教師不足に対する暴力的な抗議活動が続き、735校が混乱に直面している状況を伝えています。
-- **[Al Jazeera – All]**: "French high school engulfed in flames as student protests continue (FR)" - フランスのメッツにある高校が炎上したことを報じ、学生抗議活動が全国に拡大している状況を示しています。
+- **[BBC – World News]**: "[Protesters across Spain demand action over housing crisis](https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss)" - 政府が緊急法案を議会通過できなかったことを受け、50か所以上で抗議活動が行われたと報じています。
+- **[DW – Top Stories]**: "[Spain: Massive protests after housing bills voted down](https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-top-1022-rdf)" - マドリードで50万人（主催者発表）が手頃な住宅を求めてデモに参加したと報じ、スペイン全土での抗議活動の規模を強調しています。
+- **[BBC – World News]**: "[Riot police clash with students as education protests rage in France](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss)" - フランスで教育水準の低下と教師不足に対する暴力的な抗議活動が続き、735校が混乱に直面している状況を伝えています。
+- **[Al Jazeera – All]**: "[French high school engulfed in flames as student protests continue](https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss)" - フランスのメッツにある高校が炎上したことを報じ、学生抗議活動が全国に拡大している状況を示しています。
 
 ### 4. ドバイ発イスラエル行き便で操縦士襲撃事件、テロ攻撃の疑い
 ** 概要:**
 ドバイ発イスラエル行きフライデューバイ便の機内で、副操縦士が機長を斧で襲撃するという衝撃的な事件が発生しました。アラブ首長国連邦当局はこれを「テロ攻撃」と見なしています。負傷した機長は英雄的な対応で機体を制御し、緊急着陸に成功しました。容疑者は過去に母国オマーンで安全保障上の懸念から飛行禁止措置を受けていたことが報じられており、イスラエル首相はイランの関与を断定するのは時期尚早であると述べています。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "Flydubai co-pilot attacked captain with axe, UAE official says (AE)" - UAE当局者がフライデューバイの副操縦士が機長を斧で襲撃したと発表し、イスラエル行きジェット機乗っ取り未遂の容疑者がハマム・アル＝ハンマミであると複数メディアが報じたことを伝えています。
-- **[DW – Top Stories]**: "Flydubai co-pilot attempted 'terrorist attack,' UAE says (AE)" - UAEがフライデューバイの副操縦士による事件を「テロ攻撃」と発表し、彼が母国オマーンで安全保障上の懸念から飛行禁止措置を受けていたと報じています。
-- **[BBC – Middle East]**: "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says (IL)" - イスラエルのネタニヤフ首相が、ドバイ・テルアビブ便での攻撃にイランが関与していると断定するのは時期尚早だと述べたことを伝えています。
-- **[BBC – Middle East]**: "Flydubai passenger describes hugging his children as plane nosedived during attack (IL)" - 乗客が、飛行機が5,200m以上急降下する中で子供たちを抱きしめた経験を語り、「大丈夫だよ」と伝えたという生々しい証言を報じています。
+- **[BBC – World News]**: "[Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)" - UAE当局者がフライデューバイの副操縦士が機長を斧で襲撃したと発表し、イスラエル行きジェット機乗っ取り未遂の容疑者がハマム・アル＝ハンマミであると複数メディアが報じたことを伝えています。
+- **[DW – Top Stories]**: "[Flydubai co-pilot attempted 'terrorist attack,' UAE says](https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-top-1022-rdf)" - UAEがフライデューバイの副操縦士による事件を「テロ攻撃」と発表し、彼が母国オマーンで安全保障上の懸念から飛行禁止措置を受けていたと報じています。
+- **[BBC – Middle East]**: "[Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says](https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss)" - イスラエルのネタニヤフ首相が、ドバイ・テルアビブ便での攻撃にイランが関与していると断定するのは時期尚早だと述べたことを伝えています。
+- **[BBC – Middle East]**: "[Flydubai passenger describes hugging his children as plane nosedived during attack](https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss)" - 乗客が、飛行機が5,200m以上急降下する中で子供たちを抱きしめた経験を語り、「大丈夫だよ」と伝えたという生々しい証言を報じています。
 
 ### 5. トランプ政権の強硬な外交政策が国際社会に波紋
 ** 概要:**
 トランプ政権の外交政策が国際関係に引き続き大きな影響を与えています。G7諸国はトランプ大統領によるディーゼル輸出禁止の脅威を受け、原油価格の急騰を防ぐため、数百万バレルの石油とディーゼルを協調して放出することを決定しました。米国はまた、人権資金を海外の極右アジェンダ推進に転用しようとしていると報じられ、ブルンジが米国からの「第三国」移民受け入れに合意するなど、強硬な移民政策を推進しています。さらに、キューバへ燃料を運ぶ船舶を阻止するなど、特定の国に対する制裁措置も継続しており、その影響が国際的に懸念されています。
 
 ** 各国の視点:**
-- **[BBC – World News]**: "G7 to release millions of barrels of oil and diesel after Trump threat (XX)" - G7がトランプ大統領の脅威を受けて、原油価格の高騰を回避するために数百万バレルの石油とディーゼルを協調して放出することを決定したと報じています。
-- **[The Guardian – World]**: "Trump administration diverts human rights funds to push far-right agenda abroad (US)" - トランプ政権が国務省の人権資金1億7500万ドル以上を、反共産主義基金、白人アフリカーナーの権利擁護、ブラジルの最高裁に対するキャンペーンなど、海外の極右アジェンダ推進に転用しようとしていると報じています。
-- **[The Guardian – World]**: "Burundi agrees to receive ‘third-country’ migrant deportees from US (BI)" - ブルンジが、トランプ政権の強硬な移民政策の下で米国から追放される「第三国」からの移民を受け入れることに合意したことを伝えています。
-- **[The Guardian – World]**: "US Coast Guard says it intercepted ship carrying fuel to Cuba (US)" - 米国沿岸警備隊がキューバに向かう燃料を積んだ大型貨物船を阻止したことを発表し、トランプ政権によるキューバに対する壊滅的な石油禁輸措置が続いていることを示しています。
+- **[BBC – World News]**: "[G7 to release millions of barrels of oil and diesel after Trump threat](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)" - G7がトランプ大統領の脅威を受けて、原油価格の高騰を回避するために数百万バレルの石油とディーゼルを協調して放出することを決定したと報じています。
+- **[The Guardian – World]**: "[Trump administration diverts human rights funds to push far-right agenda abroad](https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund)" - トランプ政権が国務省の人権資金1億7500万ドル以上を、反共産主義基金、白人アフリカーナーの権利擁護、ブラジルの最高裁に対するキャンペーンなど、海外の極右アジェンダ推進に転用しようとしていると報じています。
+- **[The Guardian – World]**: "[Burundi agrees to receive ‘third-country’ migrant deportees from US](https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration)" - ブルンジが、トランプ政権の強硬な移民政策の下で米国から追放される「第三国」からの移民を受け入れることに合意したことを伝えています。
+- **[The Guardian – World]**: "[US Coast Guard says it intercepted ship carrying fuel to Cuba](https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba)" - 米国沿岸警備隊がキューバに向かう燃料を積んだ大型貨物船を阻止したことを発表し、トランプ政権によるキューバに対する壊滅的な石油禁輸措置が続いていることを示しています。
 
 ---
 ** Global Headlines **
