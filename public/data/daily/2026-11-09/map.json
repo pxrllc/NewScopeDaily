@@ -1,0 +1,982 @@
+{
+  "PL": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "010bedcd6b803cb36791acb646762efa",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T14:32:52.000Z",
+      "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "PL",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "クラクフ銃撃事件、これまでに分かっていること",
+      "summary": "クラクフで銃撃事件が発生し6人が死亡、犯人の自宅からさらに3体の遺体が発見された。"
+    }
+  },
+  "EG": {
+    "count": 5,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "29eda8a45866805b56f90c7d2aee832e",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T17:35:13.000Z",
+      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "EG",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "エジプトで列車衝突、7人死亡100人以上負傷",
+      "summary": "エジプトのギザ市郊外で列車が衝突し、7人が死亡、100人以上が負傷しました。"
+    }
+  },
+  "IN": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f147719aa7d5c7fe5673edb6b44ca8e5",
+      "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
+      "url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-08T07:53:00.000Z",
+      "description": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IN",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "インド：デリー、過去10年で最も汚染されたディワリ前夜に窒息",
+      "summary": "ディワリ前夜、デリーは世界で最も汚染された主要都市にランク付けされた。デリーの大気汚染は今後数日間でさらに悪化すると予想される。"
+    }
+  },
+  "IR": {
+    "count": 3,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "cb1734634474fb663f5306c9ee7416dc",
+      "title": "Iran: US strikes ship after Hormuz blockade breach",
+      "url": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-08T13:00:00.000Z",
+      "description": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non compliant\" oil tankers caught fire in the Strait of Hormuz.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IR",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 90,
+      "titleJa": "イラン：ホルムズ海峡封鎖違反後、米国が船舶を攻撃",
+      "summary": "米軍は、イランの港を出ようとした船舶が海軍封鎖のため攻撃されたと発表。イランは、ホルムズ海峡で「規則違反」の石油タンカー3隻が炎上したと述べた。"
+    }
+  },
+  "YE": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "d281ebb099839f1d9d64d4769fa31940",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T04:03:12.000Z",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "YE",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "フーシ派、サウジアラビア空爆で少なくとも33人死亡と発表",
+      "summary": "フーシ派は、サウジアラビアの空爆により少なくとも33人が死亡したと発表しました。"
+    }
+  },
+  "NZ": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6fa0216ceca8125359e7262d83976cfc",
+      "title": "New Zealand election 'too close to call' - so who will be next PM?",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-07T12:40:38.000Z",
+      "description": "With the New Zealand election too tight to call, the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive night.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "NZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 88,
+      "titleJa": "ニュージーランド総選挙は「接戦で予断を許さない」—次期首相は誰に？",
+      "summary": "BBCのティファニー・ターンブルが労働党の集会から報告。総選挙は接戦で結果は不確定。"
+    }
+  },
+  "PY": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6490ca05b7651896868422e611e68e7d",
+      "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+      "published_at": "2026-11-07T01:55:11.000Z",
+      "description": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank\nParaguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access their bank accounts.\nSantiago Peña is being investigated about allegations he used his political influence to favour a bank that expanded exponentially under his government and was suspended this week after irregularities.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "PY",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "銀行危機で国民の60%が口座にアクセス不能、パラグアイ大統領が弾劾され自宅軟禁",
+      "summary": "パラグアイ大統領が弾劾され自宅軟禁に。銀行危機により国民の半数以上が口座にアクセスできなくなり、抗議デモが勃発。"
+    }
+  },
+  "UY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a218bea10d7a95ba8febe9d159970a32",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-07T06:59:48.000Z",
+      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UY",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 60,
+      "titleJa": "ローマ法王、ラテンアメリカ歴訪開始で「かなり健康」",
+      "summary": "ローマ法王レオは、肺がん手術からわずか3週間後にウルグアイへの歴訪を開始します。"
+    }
+  },
+  "IT": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "afc983e342585bf3a8fd5c3a72487cb8",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-07T16:50:06.000Z",
+      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "IT",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 68,
+      "titleJa": "イタリア外相、ハッカーが個人情報を漏洩したと発表",
+      "summary": "イタリア外相は、親ロシア派ハッカーが自身の個人情報をオンラインで公開したと発表しました。"
+    }
+  },
+  "UA": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "8036bb2cbf585b73c00e040cdab8f7a7",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-07T12:49:36.000Z",
+      "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "source": "BBC – World News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "International & World",
+      "country": "UA",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 95,
+      "titleJa": "ロシアの攻撃で9人負傷、協議前にウクライナの電力網に損害",
+      "summary": "協議を控える中、ロシアの攻撃によりウクライナの電力網が損害を受け、9人が負傷しました。"
+    }
+  },
+  "ZA": {
+    "count": 3,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c1b8322fef938c7cf34750bf9a5199d2",
+      "title": "South Africa elections: ANC marks its worst-ever performance",
+      "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-08T17:35:00.000Z",
+      "description": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "ZA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 85,
+      "titleJa": "南アフリカ総選挙：ANCが過去最悪の成績を記録",
+      "summary": "南アフリカの地方選挙で、ネルソン・マンデラ氏の政党ANCが過去最悪の成績を記録。有権者は水と電気の不足についてANCを非難している。"
+    }
+  },
+  "IL": {
+    "count": 7,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "a16c877afdc949d8393e5f2a73da1dde",
+      "title": "Israel: Eisenkot officially tasked with forming a government",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-08T15:18:00.000Z",
+      "description": "Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader's way to replacing Benjamin Netanyahu as prime minister is full of political challenges.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "IL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "イスラエル：アイゼンコット氏が正式に組閣を命じられる",
+      "summary": "イスラエルのヘルツォーク大統領がガディ・アイゼンコット氏に組閣を指示。ネタニヤフ首相に代わる道は政治的課題に満ちている。"
+    }
+  },
+  "SN": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "c2f1bcf4496581e84c4ed318d250f08a",
+      "title": "At least 21 killed after migrant boat sinks off Senegal",
+      "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-08T13:48:00.000Z",
+      "description": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat arrivals.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "SN",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 85,
+      "titleJa": "セネガル沖で移民船沈没、少なくとも21人死亡",
+      "summary": "セネガル北西部ケベメール沖で移民船が沈没し、少なくとも21人が死亡。カナリア諸島エル・イエロ島は移民船の到着増加で緊急事態を宣言。"
+    }
+  },
+  "PS": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "1cf94bd52fd501246bbdbc167e976b05",
+      "title": "Gaza: Rains add misery to humanitarian catastrophe",
+      "url": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-08T10:58:00.000Z",
+      "description": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "PS",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 95,
+      "titleJa": "ガザ：雨が人道上の惨状に拍車をかける",
+      "summary": "戦争でほとんどの家が損壊または破壊されたガザでは、大雨により人道状況が悪化している。"
+    }
+  },
+  "DE": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0c1aaab4a641ea518b331523f8d29db7",
+      "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
+      "url": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-top-1022-rdf",
+      "published_at": "2026-11-08T09:02:00.000Z",
+      "description": "The executive committee of the German chancellor's CDU party is expected to finalize its nomination for the country's president. DW has more.",
+      "source": "DW – Top Stories",
+      "sourceUrl": "https://rss.dw.com/rdf/rss-en-top",
+      "region": "International & World",
+      "country": "DE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 65,
+      "titleJa": "ドイツニュース：フリードリヒ・メルツ氏が大統領候補を確定へ",
+      "summary": "ドイツ首相のCDU党執行委員会は、国の大統領候補の指名を最終決定する見込みだ。"
+    }
+  },
+  "GB": {
+    "count": 4,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "70de1e8bfaa2bfe3d2391107ef0ca1b1",
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T20:38:38.000Z",
+      "description": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "GB",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "国王、英連邦演説で奴隷貿易を「恥ずべき章」と呼ぶ",
+      "summary": "英国王は英連邦演説で奴隷貿易を「恥ずべき章」と表現。英国政府への正式な謝罪要求が高まる中で行われた。"
+    }
+  },
+  "KE": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "81bceea344593b672ba5339c067d010c",
+      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+      "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+      "published_at": "2026-11-06T15:08:43.000Z",
+      "description": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families\nThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.\nThe sentence, comprising 100 years for murder by starvation and 100 years by direct homicide, came two weeks after the court in Kenya’s coastal city of Mombasa found the cult leader guilty of the crimes.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "KE",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 90,
+      "titleJa": "ケニアの終末論カルト指導者、190人の子供の殺害で200年の懲役刑",
+      "summary": "ケニアの終末論カルト指導者が、信者に餓死を命じた結果、190人の子供と1人の大人の殺害で200年の懲役刑を言い渡された。"
+    }
+  },
+  "AR": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "45dddde26eec3ae2c0e0e4ac73a6f8d7",
+      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+      "published_at": "2026-11-08T09:00:35.000Z",
+      "description": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’\nTrees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other residents, several of them using wheelchairs, practise their positions outside the sanctuary. Excitement is in the air, because on Monday 9 November, the Cottolengo Don Orione – a Catholic-run home for disabled people – will be the first stop on Pope Leo XIV’s first full day of his trip to Argentina.\nBut the pope’s visit to Claypole, about 26km from Buenos Aires, does not come at an especially happy time for the home, which counts about 400 residents with disabilities. Argentina’s president, Javier Milei, has made wide-ranging cuts to disability funding.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "AR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "教皇のアルゼンチン訪問が「超資本主義者」ミレイとの対立を生む",
+      "summary": "教皇レオ14世のアルゼンチン訪問が、多くの問題で対立するミレイ大統領との緊張関係を生み出している。"
+    }
+  },
+  "CL": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f60e18b952047c8153e801b9ba1cb653",
+      "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+      "published_at": "2026-11-06T19:23:24.000Z",
+      "description": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago\nChilean film-maker Sebastián Lelio has died at the age of 52.\nHe was best known for the Oscar-winning trans drama A Fantastic Woman and his English-language films included Gloria Bell and The Wonder.\n Continue reading...",
+      "source": "The Guardian – World",
+      "sourceUrl": "https://www.theguardian.com/world/rss",
+      "region": "International & World",
+      "country": "CL",
+      "category": "Entertainment",
+      "categoryJa": "エンタメ",
+      "importanceScore": 65,
+      "titleJa": "「ファンタスティック・ウーマン」や「グロリア」の監督、セバスティアン・レリオ氏が52歳で死去",
+      "summary": "チリの映画監督セバスティアン・レリオ氏が52歳でサンティアゴの自宅で死去。「ファンタスティック・ウーマン」などで知られる。"
+    }
+  },
+  "BR": {
+    "count": 11,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9a6ae371596e3909ac0264789d451e65",
+      "title": "How the streets and a social media army led Lula to a historic win in Brazil",
+      "url": "https://globalvoices.org/2026/10/30/how-the-streets-and-a-social-media-army-led-lula-to-a-historic-win-in-brazil",
+      "published_at": "2026-10-30T16:37:15.000Z",
+      "description": "After ending the first round 2.2 million votes behind his opponent, Flávio Bolsonaro, Lula won the election with a difference of 4 million votes, and will serve a fourth term as president",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "BR",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "街頭とソーシャルメディア軍がルーラをブラジルの歴史的勝利に導いた経緯",
+      "summary": "ルーラは、当初の劣勢を覆し、400万票差で選挙に勝利し、4期目の大統領に就任する。"
+    }
+  },
+  "AZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "de7862328bacdbf345d53f0083494fcf",
+      "title": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
+      "url": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
+      "published_at": "2026-11-08T17:11:05.000Z",
+      "description": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war. Turkey's Erdoğan joined the commemorations to underscore the strength of bilateral ties despite recent differences, with Aliyev declaring that \"this unity will last forever\".",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "エルドアン大統領、アリエフ大統領とナゴルノ・カラバフの戦勝記念日に参加",
+      "summary": "アゼルバイジャンが戦勝記念日を祝い、トルコのエルドアン大統領が参加。両国関係の強固な絆を強調した。"
+    }
+  },
+  "AT": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "3737eb9b83f9fad0c923cdaa75bc128f",
+      "title": "More than 200 tarantula sightings in Austria in two months",
+      "url": "https://www.euronews.com/2026/11/08/more-than-200-tarantula-sightings-in-austria-in-two-months",
+      "published_at": "2026-11-08T15:15:01.000Z",
+      "description": "Tarantulas are particularly active in the autumn, when they search for sheltered spots to spend the winter.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AT",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 55,
+      "titleJa": "オーストリアで2カ月間に200匹以上のタランチュラが目撃される",
+      "summary": "オーストリアで2カ月間に200匹以上のタランチュラが目撃された。秋に越冬場所を探すため活発になる。"
+    }
+  },
+  "AE": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "045700a23556de1517bf6905649abb20",
+      "title": "Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot",
+      "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot",
+      "published_at": "2026-11-08T14:22:45.000Z",
+      "description": "\"No one will speak in our name\", French Foreign Minister Jean-Noël Barrot says, adding that Europeans will join next week's Russia-Ukraine talks. He also accused hard left presidential candidate Jean-Luc Mélenchon of echoing Kremlin propaganda.",
+      "source": "Euronews – World",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "region": "International & World",
+      "country": "AE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "フランス外相、アブダビでのロシア・ウクライナ協議に欧州が参加すると発表",
+      "summary": "フランス外相は、アブダビで開催されるロシア・ウクライナ協議に欧州諸国が参加すると表明した。"
+    }
+  },
+  "FR": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1d908334ec7ce825f018f03bf90f678a",
+      "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+      "published_at": "2026-11-08T18:22:58.000Z",
+      "description": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "FR",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 85,
+      "titleJa": "カルロス・アルカラスがベン・シェルトンを破りパリ・マスターズのテニスタイトルを獲得",
+      "summary": "アルカラスはATPファイナルズを前に、パリ・マスターズ決勝でベン・シェルトンにストレート勝ちを収めた。"
+    }
+  },
+  "CH": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "8c30abb171d2b883dbfd956eaed35365",
+      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+      "published_at": "2026-11-08T18:01:05.000Z",
+      "description": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "CH",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 60,
+      "titleJa": "インファンティーノ氏に挑む日本人挑戦者、FIFA会長を失脚させると主張",
+      "summary": "田嶋幸三氏がFIFA会長選でインファンティーノ氏に勝利する可能性が「20〜30%」あると主張している。"
+    }
+  },
+  "NL": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "174707c2301ba22a5161adbd08df3449",
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "published_at": "2026-11-08T17:44:51.000Z",
+      "description": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "NL",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "数十万人がアムステルダムの「レッドライン」デモに参加、イスラエルに抗議",
+      "summary": "数십万人がアムステルダムでイスラエルへの抗議デモに参加し、貿易制限と武器販売停止を要求している。"
+    }
+  },
+  "ES": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "9e5c5bd642f5a11738d39a81de4e27ae",
+      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
+      "published_at": "2026-11-08T17:00:00.000Z",
+      "description": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "ES",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 88,
+      "titleJa": "速報：アトレティコ・マドリード対バルセロナ – ラ・リーガ",
+      "summary": "ラ・リーガのアトレティコ・マドリード対バルセロナ戦のプレビュー、チームニュース、ライブ速報が提供されている。"
+    }
+  },
+  "NO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "7071d90618d801acd1c0c41f358735ed",
+      "title": "Fan hospitalised after falling through stand at Norwegian football match",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
+      "published_at": "2026-11-08T16:53:03.000Z",
+      "description": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
+      "source": "Al Jazeera – All",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "country": "NO",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "ノルウェーサッカーの試合でスタンドが崩落、ファンが病院に搬送",
+      "summary": "ノルウェーのサッカー試合でスタンドが崩壊し、ファンが負傷して病院に搬送された事故が報告された。"
+    }
+  },
+  "US": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "5fca4363dc74d47518916c2cf8ba67d8",
+      "title": "Trump says US 'won't be paying Israel' by end of year",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T15:09:51.000Z",
+      "description": "The president accuses Democrats of weaponising US aid to Israel as a \"talking point\" with which to attack Republicans.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "US",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "トランプ氏、年末までに米国は「イスラエルに支払わない」と発言",
+      "summary": "トランプ大統領は、民主党が米国のイスラエルへの援助を共和党攻撃の「論点」として利用していると非難しました。"
+    }
+  },
+  "SY": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "76ea1a91b35d22d87ec4af69ad0ae572",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-30T06:02:23.000Z",
+      "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+      "source": "BBC – Middle East",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "region": "Middle East",
+      "country": "SY",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "シリア、危機がアサド後の回復を困難にする中、物価高騰に苦しむ",
+      "summary": "補助金廃止と物価上昇が不満を煽り、アフメド・アル・シャラア政権への支持が試されています。"
+    }
+  },
+  "SO": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e3bed5684cbd552209721fbf73d2f5c0",
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T08:18:10.000Z",
+      "description": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "SO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 80,
+      "titleJa": "ソマリア最高裁、大統領の任期延長を却下 政情危機続く",
+      "summary": "ソマリア最高裁は、大統領の任期延長を却下し、国の政治危機と初の全国選挙の時期に疑問を投げかけました。"
+    }
+  },
+  "TZ": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "5b7e23b22bb86fd1f2afaa8b1b299554",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T14:57:08.000Z",
+      "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "TZ",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 75,
+      "titleJa": "タンザニアの野党指導者、騒乱扇動で有罪判決も反逆罪は無罪",
+      "summary": "昨年4月から拘留されている58歳の野党指導者が、騒乱扇動で有罪判決を受けましたが、反逆罪では無罪となりました。"
+    }
+  },
+  "NG": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c73244db05418159191d6c7eaa4ce165",
+      "title": "She lost her sight - now she is fighting to make history for Africa",
+      "url": "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T11:04:00.000Z",
+      "description": "After losing her sight in 2009, Nigeria’s Rukayat Suleimon has overcome isolation and limited support to make history as the first blind woman to win gold at the World Sambo Cup.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "NG",
+      "category": "Sports",
+      "categoryJa": "スポーツ",
+      "importanceScore": 70,
+      "titleJa": "視力を失った彼女がアフリカの歴史を刻むために戦う",
+      "summary": "2009年に視力を失ったナイジェリアのルカヤット・スレイモンは、ワールドサンボカップで初の盲目の女性として金メダルを獲得しました。"
+    }
+  },
+  "GW": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "433edf233e45772f351cd4760fe007f8",
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T00:30:37.000Z",
+      "description": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "GW",
+      "category": "Science",
+      "categoryJa": "科学",
+      "importanceScore": 70,
+      "titleJa": "ギニアビサウで米国資金の乳児向けワクチン試験が中止された理由",
+      "summary": "米国資金による乳児向けワクチン試験が、非倫理的で新植民地主義的であるとの批判を受け、ギニアビサウで中止されました。"
+    }
+  },
+  "MA": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "560c2e00e2dc8c548ead17bc100c69a1",
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T07:29:46.000Z",
+      "description": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+      "source": "BBC – Africa",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "region": "Africa",
+      "country": "MA",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "なぜ米ロ対決がモロッコを喜ばせたのか",
+      "summary": "国連における米ロの対立により、西サハラでの平和維持ミッションが35年ぶりに終了し、モロッコが喜んでいます。"
+    }
+  },
+  "CD": {
+    "count": 2,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "75bf603af0242d032599fa350bb51870",
+      "title": "Anthropic exposes AI operation that DRC journalists never knew existed",
+      "url": "https://globalvoices.org/2026/10/19/anthropic-exposes-ai-operation-that-drc-journalists-never-knew-existed",
+      "published_at": "2026-10-19T20:11:30.000Z",
+      "description": "70 AI-powered fake news sites have generated 318 articles on the eastern DRC conflict, relations with Rwanda, and contested mineral resources.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CD",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "アントロピックがDRCのジャーナリストが知らなかったAI操作を暴露",
+      "summary": "コンゴ民主共和国東部紛争に関して、AI生成の偽ニュースサイト70件が318記事を拡散していたことが判明。"
+    }
+  },
+  "CM": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c5b954e69dcc9125e8887aad0373c24b",
+      "title": "Fish scarcity, tar balls, and stranded dolphins: The hidden costs of offshore platforms in Cameroon waters",
+      "url": "https://globalvoices.org/2026/10/27/fish-scarcity-tar-balls-and-displaced-dolphins-the-hidden-costs-of-offshore-platforms-in-cameroon-waters",
+      "published_at": "2026-10-27T08:59:12.000Z",
+      "description": "...oil and gas contributed FCFA 774.51 billion (USD 1.3 million) to the budget. However, these oil rigs threaten biodiversity and compromise the well-being of coastal and Indigenous communities.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "CM",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 80,
+      "titleJa": "魚の不足、タールボール、打ち上げられたイルカ：カメルーン沖合プラットフォームの隠れた代償",
+      "summary": "カメルーン沖合の石油プラットフォームが漁業資源を枯渇させ、海洋生物を危険にさらし、沿岸住民の生活を脅かしている。"
+    }
+  },
+  "MZ": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "1b9b66772489fee93a18c5a8b54b3851",
+      "title": "When free speech has a price: Youth voices in Mozambique",
+      "url": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique",
+      "published_at": "2026-10-11T18:00:47.000Z",
+      "description": "For Mozambican youth, freedom of expression exists in law, but speaking out can come with a cost. Music became a powerful space for criticism and resistance.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "MZ",
+      "category": "Society",
+      "categoryJa": "社会",
+      "importanceScore": 65,
+      "titleJa": "言論の自由に代償がある時：モザンビークの若者の声",
+      "summary": "モザンビークでは言論の自由は法律で保証されているが、若者が発言すると代償を伴うことがあり、音楽が重要な表現手段となっている。"
+    }
+  },
+  "ET": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "6ea158fe4a0c5b201d06394bba727311",
+      "title": "What African elections can learn from the Borana Gadaa system",
+      "url": "https://globalvoices.org/2026/10/12/what-african-elections-can-learn-from-the-borana-gadaa-system",
+      "published_at": "2026-10-12T20:34:34.000Z",
+      "description": "Discover how the Borana Gadaa system can inspire African elections through peaceful power transitions, accountable leadership, inclusive governance, and traditional democratic practices that strengthen public trust and participation.",
+      "source": "Global Voices – Africa (Sub-Saharan)",
+      "sourceUrl": "https://globalvoices.org/-/world/sub-saharan-africa/feed/",
+      "region": "Africa",
+      "country": "ET",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 70,
+      "titleJa": "ボラナ・ガダア制度からアフリカの選挙が学べること",
+      "summary": "アフリカの選挙は、ボラナ・ガダア制度から平和的な権力移行、説明責任、包摂的な統治を学ぶことができる。"
+    }
+  },
+  "RU": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "371239d0c2069f7edff5886a7b52bc98",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T12:51:38.000Z",
+      "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "source": "BBC – Europe",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "region": "Europe",
+      "country": "RU",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 60,
+      "titleJa": "ロシアの過激派グループ、爆弾脅迫のデマを否定",
+      "summary": "ヨーロッパ全土で爆弾脅迫が多発する中、ロシアの過激派グループが関与を否定した。"
+    }
+  },
+  "VE": {
+    "count": 5,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "e201a56f56005a2b422e27a8d2c57ea7",
+      "title": "Venezuela welcomes opposition leader María Corina Machado home",
+      "url": "https://globalvoices.org/2026/11/06/venezuela-welcomes-opposition-leader-maria-corina-machado-home",
+      "published_at": "2026-11-06T06:00:36.000Z",
+      "description": "Venezuela’s Nobel laureate María Corina Machado returned to Caracas in a massive celebration after months in hiding and exile, sparking deep hope and sharp questions about the country’s political future.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "VE",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 90,
+      "titleJa": "ベネズエラ、野党指導者マリア・コリーナ・マチャドの帰国を歓迎",
+      "summary": "亡命中の野党指導者マチャドがベネズエラに帰国し、大規模な歓迎を受け、国の政治の未来に希望と疑問を投げかけた。"
+    }
+  },
+  "CO": {
+    "count": 1,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "251ecd3f666275af6b31dbf0412a9163",
+      "title": "Baby among four killed in bomb attack in western Colombia, official says",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-02T15:08:56.000Z",
+      "description": "It is not yet clear who was behind the attack, which appears to have targeted a military base.",
+      "source": "BBC – Latin America & Caribbean",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "region": "Latin America",
+      "country": "CO",
+      "category": "Conflict",
+      "categoryJa": "紛争",
+      "importanceScore": 85,
+      "titleJa": "コロンビア西部での爆弾攻撃で乳児含む4人死亡、当局発表",
+      "summary": "コロンビア西部で軍事基地を標的としたとみられる爆弾攻撃が発生し、乳児を含む4人が死亡。犯行主体は不明。"
+    }
+  },
+  "DO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "86097465028ae4632b2bc315a0f3d3c9",
+      "title": "Beyond the beaches: The Dominican Republic and the global debate over deep-sea mining",
+      "url": "https://globalvoices.org/2026/11/08/beyond-the-beaches-the-dominican-republic-and-the-global-debate-over-deep-sea-mining",
+      "published_at": "2026-11-08T14:12:02.000Z",
+      "description": "The DR wanted science to keep advancing and the International Seabed Authority to finish building the regulatory framework that the UN Convention had mandated it to develop.",
+      "source": "Global Voices – Americas",
+      "sourceUrl": "https://globalvoices.org/-/world/americas/feed/",
+      "region": "Latin America",
+      "country": "DO",
+      "category": "Environment",
+      "categoryJa": "環境",
+      "importanceScore": 75,
+      "titleJa": "ビーチを越えて：ドミニカ共和国と深海採掘に関する世界的議論",
+      "summary": "ドミニカ共和国は科学の進歩と深海採掘の規制枠組みの完成を望んでおり、国際社会と議論している。"
+    }
+  },
+  "AU": {
+    "count": 4,
+    "hasCritical": true,
+    "topArticle": {
+      "id": "383dd72e7bfca83e50f8990279341acc",
+      "title": "Australian woman shot during Bondi Beach attack dies almost a year later",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynn9x50d0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T05:32:58.000Z",
+      "description": "The 90-year-old was among those seriously injured after gunmen opened fire at a Jewish event last year.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "AU",
+      "category": "Disaster",
+      "categoryJa": "災害",
+      "importanceScore": 90,
+      "titleJa": "ボンダイビーチ襲撃事件で負傷したオーストラリア人女性が約1年後に死亡",
+      "summary": "昨年ユダヤ系イベントで銃撃された際、重傷を負った90歳の女性が亡くなった。"
+    }
+  },
+  "MO": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "f3bb0ae40f1cba10d6e50b0d892eb610",
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T06:46:21.000Z",
+      "description": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "MO",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 92,
+      "titleJa": "マカオで初の国家安全保障事件、民主活動家を投獄",
+      "summary": "アウ・カムサンが「国家政権転覆」の罪で12年6ヶ月の懲役刑を言い渡された。"
+    }
+  },
+  "HK": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "0f4646baeba500d2921c889eedcbcc46",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T13:51:03.000Z",
+      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "source": "BBC – Asia",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "region": "Asia",
+      "country": "HK",
+      "category": "Politics",
+      "categoryJa": "政治",
+      "importanceScore": 95,
+      "titleJa": "香港民主化デモの顔、ジョシュア・ウォンが10年の禁固刑に",
+      "summary": "30歳のウォンは、物議を醸す国家安全維持法の下で拘束された数百人の香港人の一人。"
+    }
+  },
+  "EU": {
+    "count": 2,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "b40a244ecdb418e9b98cfb24abc5bc2e",
+      "title": "EU launches safeguard investigation on certain PET resin chemicals",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_eec_06nov26_542_e.htm",
+      "published_at": "2026-11-06T00:00:00.000Z",
+      "description": "On 6 November 2026, the European Union notified the WTO’s Committee on Safeguards that it had initiated, on the same day (6 November 2026), a safeguard investigation on imports of certain polyethylene terephthalate resin chemicals.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "EU",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 70,
+      "titleJa": "EU、特定のPET樹脂化学品に対するセーフガード調査を開始",
+      "summary": "EUは2026年11月6日、特定のポリエチレンテレフタレート樹脂化学品の輸入に対するセーフガード調査を開始したとWTOに通報した。"
+    }
+  },
+  "VN": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "659fc2ffb693176890ceb0b818c1e522",
+      "title": "Trade Policy Review: Viet Nam",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_vnm_04nov26_e.htm",
+      "published_at": "2026-11-04T00:00:00.000Z",
+      "description": "The third review of the trade policies and practices of Viet Nam takes place on 4 and 6 November 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Viet Nam.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "VN",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 65,
+      "titleJa": "貿易政策レビュー：ベトナム",
+      "summary": "ベトナムの貿易政策と慣行に関する第3回レビューが2026年11月4日と6日に開催される。WTO事務局とベトナム政府の報告書が基礎となる。"
+    }
+  },
+  "BF": {
+    "count": 1,
+    "hasCritical": false,
+    "topArticle": {
+      "id": "c46beb502e62f19ae68fd2a19a71349e",
+      "title": "Cotton partners launch drive to bring textile/garment investment to West, Central Africa",
+      "url": "https://www.wto.org/english/news_e/news26_e/cotpt_29oct26_540_e.htm",
+      "published_at": "2026-10-29T00:00:00.000Z",
+      "description": "On the margins of the Global Aid for Trade Review, the Partenariat pour le Coton (PPC – the Cotton Partnership) launched an Investment Promotion Drive on 29 October to help Africa’s farmers move from exporting cotton as raw fibre to increasing participation in higher-value activities, such as garment manufacturing. The aim of the drive is to connect investment with on-the-ground projects that will generate jobs and economic growth.",
+      "source": "WTO – Latest News",
+      "sourceUrl": "http://www.wto.org/library/rss/latest_news_e.xml",
+      "region": "International Organizations",
+      "country": "BF",
+      "category": "Economy",
+      "categoryJa": "経済",
+      "importanceScore": 75,
+      "titleJa": "綿花パートナー、西アフリカ・中央アフリカへの繊維・衣料品投資促進活動を開始",
+      "summary": "綿花パートナーシップは、西アフリカ・中央アフリカにおける綿花産業の高付加価値化と雇用創出を目的とした投資促進活動を開始した。"
+    }
+  }
+}
